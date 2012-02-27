@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: body-include-2.html\n"
-"POT-Creation-Date: 2011-12-07 15:00-0500\n"
-"PO-Revision-Date: 2012-02-26 18:32-0300\n"
+"POT-Creation-Date: 2012-02-21 17:00-0500\n"
+"PO-Revision-Date: 2012-02-27 15:37-0300\n"
 "Last-Translator: Rafael Beraldo <rberaldo@cabaladada.org>\n"
 "Language-Team: Brazilian Portuguese\n"
 "Language: \n"
@@ -22,41 +22,45 @@ msgstr ""
 msgid "<a href=\"/\">The GNU Operating System</a>"
 msgstr "<a href=\"/\">O Sistema Operacional GNU</a>"
 
-# type: Content of: <body><div><div><div><ul><li>
-#. <h4>
-#. Sign up for the <a href="http://www.fsf.org/fss">Free Software Supporter</a></h4>
-#. <p>
-#. A monthly email newsletter about GNU and Free Software</p>
-#. <form action="https://crm.fsf.org/civicrm/profile/create&amp;reset=1&amp;gid=31" method="post">
-#.
-#. <div>
-#. <input name="postURL" type="hidden" value="" />
-#. <input type="hidden" name="group[25]" value="1" />
-#.
-#. <input name="cancelURL" type="hidden" value="https://crm.fsf.org/civicrm/profile?reset=1&amp;gid=31" />
-#.
-#. <input name="_qf_default" type="hidden" value="Edit:cancel" />
-#.
-#. type: Content of: <div><div><div><a>
+#. type: Content of: <div><div><div><h4>
 msgid ""
-"<a href=\"https://my.fsf.org/associate/support_freedom?referrer=10189\">"
+"Sign up for the <a href=\"http://www.fsf.org/fss\">Free Software Supporter</"
+"a>"
 msgstr ""
-"<a href=\"https://my.fsf.org/associate/support_freedom?referrer=10189\">"
+"Inscreva-se no <a href=\"http://www.fsf.org/fss\">Free Software Supporter</a>"
 
-#. type: Attribute 'alt' of: <div><div><div><a><img>
-msgid "Help us raise $300,000 for free software by January 30th"
+# type: Content of: <body><div><div><div><div><p>
+#. type: Content of: <div><div><div><p>
+msgid "A monthly email newsletter about GNU and Free Software"
+msgstr "Um informativo mensal sobre o GNU e a FSF"
+
+#. type: Content of: <div><div><div><form><div>
+msgid ""
+"<input name=\"postURL\" type=\"hidden\" value=\"\" /> <input type=\"hidden\" "
+"name=\"group[25]\" value=\"1\" /> <input name=\"cancelURL\" type=\"hidden\" "
+"value=\"https://crm.fsf.org/civicrm/profile?reset=1&amp;gid=31\" /> <input "
+"name=\"_qf_default\" type=\"hidden\" value=\"Edit:cancel\" />"
 msgstr ""
-"Ajude-nos a levantar 300.000 dólares para o software livre até 30 de janeiro"
+"<input name=\"postURL\" type=\"hidden\" value=\"\" /> <input type=\"hidden\" "
+"name=\"group[25]\" value=\"1\" /> <input name=\"cancelURL\" type=\"hidden\" "
+"value=\"https://crm.fsf.org/civicrm/profile?reset=1&amp;gid=31\" /> <input "
+"name=\"_qf_default\" type=\"hidden\" value=\"Edit:cancel\" />"
 
-#. </div>
-#.
-#. <p>
-#. <label>Enter your email address (e.g. richard@example.com)</label></p><p><input type="text" id="frmEmail" name="email-Primary" size="15" maxlength="80" /> &nbsp; <input type="submit" name="_qf_Edit_next" value="Ok" /></p>
-#. </form>
-#.
-#. type: Content of: <div><div><div>
-msgid "</a>"
-msgstr "</a>"
+#. type: Content of: <div><div><div><form><p>
+msgid "<label>Enter your email address (e.g. richard@example.com)</label>"
+msgstr ""
+"<label>Digite seu endereço de e-mail (por exemplo richard@exemplo.com.br)</"
+"label>"
+
+#. type: Content of: <div><div><div><form><p>
+msgid ""
+"<input type=\"text\" id=\"frmEmail\" name=\"email-Primary\" size=\"15\" "
+"maxlength=\"80\" /> &nbsp; <input type=\"submit\" name=\"_qf_Edit_next\" "
+"value=\"Ok\" />"
+msgstr ""
+"<input type=\"text\" id=\"frmEmail\" name=\"email-Primary\" size=\"15\" "
+"maxlength=\"80\" /> &nbsp; <input type=\"submit\" name=\"_qf_Edit_next\" "
+"value=\"Ok\" />"
 
 # type: Content of: <body><div><div><form><div>
 #. type: Content of: <div><div><div><form><div>
@@ -110,15 +114,28 @@ msgstr ""
 "<a href=\"https://www.fsf.org/associate/support_freedom?"
 "referrer=4052\">Junte-se&nbsp;a&nbsp;FSF!</a>"
 
+#. type: Content of: <div><p><a>
+msgid "<a href=\"http://libreplanet.org/wiki/LibrePlanet2012\">"
+msgstr "<a href=\"http://libreplanet.org/wiki/LibrePlanet2012\">"
+
+#. type: Attribute 'alt' of: <div><p><a><img>
+msgid "LibrePlanet 2012 -- March 24/25th 2012"
+msgstr "LibrePlanet 2012 -- 24 e 25 de março de 2012"
+
+#. type: Content of: <div><p>
+msgid "</a>"
+msgstr "</a>"
+
 # type: Content of: <body><div><div><div><ul><li>
 #~ msgid ""
-#~ "Sign up for the <a href=\"http://www.fsf.org/fss\">Free Software "
-#~ "Supporter</a>"
-#~ msgstr "<a href=\"http://www.fsf.org/\">Free Software Foundation</a>"
+#~ "<a href=\"https://my.fsf.org/associate/support_freedom?referrer=10189\">"
+#~ msgstr ""
+#~ "<a href=\"https://my.fsf.org/associate/support_freedom?referrer=10189\">"
 
-# type: Content of: <body><div><div><div><div><p>
-#~ msgid "A monthly email newsletter about GNU and Free Software"
-#~ msgstr "Um informativo mensal sobre o GNU e a FSF"
+#~ msgid "Help us raise $300,000 for free software by January 30th"
+#~ msgstr ""
+#~ "Ajude-nos a levantar 300.000 dólares para o software livre até 30 de "
+#~ "janeiro"
 
 # type: Content of: <div><div><div><div><h1>
 #~ msgid "Sign up for the <em>Free Software Supporter</em>"
