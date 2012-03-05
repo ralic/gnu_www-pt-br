@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: why-gnu-linux.html\n"
 "POT-Creation-Date: 2012-02-05 12:25-0500\n"
-"PO-Revision-Date: 2012-03-05 13:00-0300\n"
+"PO-Revision-Date: 2012-03-05 15:58-0300\n"
 "Last-Translator: Rafael Beraldo <Rafael Beraldo@cabaladada.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -22,7 +22,9 @@ msgstr ""
 msgid "Why GNU/Linux? - GNU Project - Free Software Foundation (FSF)"
 msgstr "Por que GNU/Linux? - Projeto GNU - Free Software Foundation (FSF)"
 
-# ‘What's in a name’ é uma citação de Shakespare. Aparentemente, ‘que há num nome’ é tradução frequentemente usada em português.  (http://www.proz.com/kudoz/english_to_portuguese/advertising_public_relations/1785942-whats_in_a_name.html)
+# ‘What's in a name’ é uma citação de Shakespare. Aparentemente, ‘que há num
+# nome’ é tradução frequentemente usada em português.
+# (http://www.proz.com/kudoz/english_to_portuguese/advertising_public_relations/1785942-whats_in_a_name.html)
 #. type: Content of: <h2>
 msgid "What's in a Name?"
 msgstr "Que há num nome?"
@@ -107,7 +109,7 @@ msgstr ""
 "<em>É certo que o Projeto GNU merece crédito pelo seu trabalho, mas vale a "
 "pena fazer barulho quando as pessoas não lhe dão o crédito? O importante não "
 "é que o trabalho está feito, e não quem o fez? Vocês deveriam relaxar e se "
-"orgulhar do trabalho bem feito e não se preocupar com os créditos."
+"orgulhar do trabalho bem feito e não se preocupar com os créditos.</em>"
 
 #. type: Content of: <p>
 msgid ""
