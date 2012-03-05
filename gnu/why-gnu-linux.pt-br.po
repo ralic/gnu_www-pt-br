@@ -3,14 +3,15 @@
 # This file is distributed under the same license as the gnu.org article.
 # Fernando Lozano <fernando@lozano.eti.br>, 1998.
 # Rafael Beraldo <Rafael Beraldo@cabaladada.org>, 2012.
+# Rodrigo Macedo <rodrigomacedo@rmsolucoeseminformatica.com>, 2012.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: why-gnu-linux.html\n"
 "POT-Creation-Date: 2012-02-05 12:25-0500\n"
-"PO-Revision-Date: 2012-02-26 19:34-0300\n"
+"PO-Revision-Date: 2012-03-05 13:00-0300\n"
 "Last-Translator: Rafael Beraldo <Rafael Beraldo@cabaladada.org>\n"
-"Language-Team: Brazilian Portuguese\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -143,7 +144,6 @@ msgstr ""
 
 # Power: força? Poder? Licensed per seat?
 #. type: Content of: <p>
-#, fuzzy
 msgid ""
 "A great challenge to the future of free software comes from the tendency of "
 "the &ldquo;Linux&rdquo; distribution companies to add nonfree software to <a "
@@ -183,7 +183,7 @@ msgstr ""
 "As pessoas tentam justificar a adição de software não-livre em nome da "
 "“popularidade do Linux” — com efeito, valorizando popularidade sobre "
 "liberdade. Algumas vezes isso é admitido abertamente. Por exemplo, a Wired "
-"Magazine disse que Robert McMillan, editor da Linux Magazine, “sente que a o "
+"Magazine disse que Robert McMillan, editor da Linux Magazine, “sente que o "
 "movimento em direção do código aberto deve ser fomentado por decisões "
 "técnicas e não políticas”. E o <acronym title=\"Chief Executive Officer"
 "\">CEO</acronym> da Caldera abertamente pediu aos usuários para abandonar o "
@@ -226,7 +226,7 @@ msgstr ""
 "Quando o “add-on” não-livre é uma biblioteca ou ferramenta de "
 "desenvolvimento, ela pode se tornar uma armadilha para os desenvolvedores de "
 "software livre. Quando eles escrevem software livre que depende de um pacote "
-"não-live, o seu software não pode ser parte de um sistema completamente "
+"não-livre, o seu software não pode ser parte de um sistema completamente "
 "livre. O Motif e o Qt capturaram uma grande quantidade de software livre "
 "desta forma no passado, criando problemas cujas soluções demoraram anos para "
 "ficar prontas. O Motif continuou a ser um problema até ficar obsoleto e hoje "
