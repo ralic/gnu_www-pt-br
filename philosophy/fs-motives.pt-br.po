@@ -171,7 +171,7 @@ msgid ""
 "Human nature is complex, and it is quite common for a person to have "
 "multiple simultaneous motives for a single action."
 msgstr ""
-"A natureza humana é muito complexa e é muito comum que uma pessoa tenha "
+"A natureza humana é complexa e é comum que uma pessoa tenha "
 "múltiplos motivos simultâneos para uma mesma ação."
 
 #. type: Content of: <p>
@@ -183,7 +183,7 @@ msgid ""
 msgstr ""
 "Os projetos de software livre e as políticas que afetam o desenvolvimento de "
 "software (como as leis) não podem se limitar a ser motivadas pelas "
-"maximização doslucros. Quando encorajar o desenvolvimento de software é o "
+"maximização dos lucros. Quando encorajar o desenvolvimento de software é o "
 "objetivo, todas essas motivações devem ser consideradas, não apenas uma em "
 "particular."
 
