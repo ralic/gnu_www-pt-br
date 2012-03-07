@@ -4,13 +4,14 @@
 # Aracele Torres <araceletorres@gmail.com>, 2011.
 # Ineiev <ineiev@gnu.org>, 2011 (formal corrections).
 # Rafael Beraldo <rberaldo@cabaladada.org>, 2012.
+# Rodrigo Macedo <rodrigomacedo@rmsolucoeseminformatica.com>, 2012.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: edu-schools.pt-br.html\n"
 "POT-Creation-Date: 2011-10-02 20:25-0300\n"
-"PO-Revision-Date: 2012-02-23 14:26-0200\n"
-"Last-Translator: Rafael Beraldo <rberaldo@cabaladada.org>\n"
+"PO-Revision-Date: 2012-03-07 11:54-0300\n"
+"Last-Translator: Rodrigo Macedo <rodrigomacedo@rmsolucoeseminformatica.com>\n"
 "Language-Team: Brazilian Portuguese\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
@@ -299,11 +300,11 @@ msgstr ""
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"<b>Tradução</b>: Rafael Beraldo\n"
+" <strong>Tradução</strong>: Aracele Torres <a href=\"mailto:"
+"araceletorres@gmail.com\">&lt;araceletorres@gmail.com&gt;</a>, 2011;\n"
+"Rafael Beraldo\n"
 "<a href=\"mailto:rberaldo@cabaladada.org\">&lt;rberaldo@cabaladada.org&gt;</"
 "a>, 2012\n"
-" <strong>Tradução</strong>: Aracele Torres <a href=\"mailto:"
-"araceletorres@gmail.com\">&lt;araceletorres@gmail.com&gt;</a>, 2011"
 
 #.  timestamp start 
 #. type: Content of: <div><p>
