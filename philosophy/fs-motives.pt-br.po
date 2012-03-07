@@ -2,19 +2,22 @@
 # Copyright (C) 2012 Free Software Foundation, Inc.
 # This file is distributed under the same license as the gnu.org article.
 # Rafael Beraldo <rberaldo@cabaladada.org>, 2012.
+# André Jan Smit <ajansmit@gmail.com>, 2012.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: fs-motives.html\n"
 "POT-Creation-Date: 2012-01-12 12:25-0500\n"
-"PO-Revision-Date: 2012-02-23 14:53-0200\n"
-"Last-Translator: Rafael Beraldo <rberaldo@cabaladada.org>\n"
+"PO-Revision-Date: 2012-03-07 11:32-0300\n"
+"Last-Translator: André Jan Smit <ajansmit@gmail.com>\n"
 "Language-Team: Brazilian Portuguese\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-Language: Portuguese\n"
+"X-Poedit-Country: BRAZIL\n"
 
 #. type: Content of: <h2>
 msgid "Motives For Writing Free Software"
@@ -118,8 +121,8 @@ msgid ""
 "Nonetheless, it is a fact that many people utterly despise Microsoft, and "
 "some contribute to free software based on that feeling."
 msgstr ""
-"Não obstante, é fato que muitas pessoas desprezam completamente a Microsoft "
-"e alguns podem contribuir para o software livre baseados nesse sentimento."
+"Todavia, é fato que muitas pessoas desprezam completamente a Microsoft e "
+"alguns podem contribuir para o software livre baseados nesse sentimento."
 
 #. type: Content of: <dl><dt>
 msgid "Money."
@@ -171,7 +174,7 @@ msgid ""
 "Human nature is complex, and it is quite common for a person to have "
 "multiple simultaneous motives for a single action."
 msgstr ""
-"A natureza humana é complexa e é comum que uma pessoa tenha "
+"A natureza humana é muito complexa e é muito comum que uma pessoa tenha "
 "múltiplos motivos simultâneos para uma mesma ação."
 
 #. type: Content of: <p>
@@ -244,7 +247,7 @@ msgid ""
 "creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
 "NoDerivs 3.0 United States License</a>."
 msgstr ""
-"Essa página está licenciada sob uma <a rel=\"license\" href=\"http://"
+"Essa página está licenciada sob <a rel=\"license\" href=\"http://"
 "creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
 "NoDerivs 3.0 United States License</a>."
 
@@ -256,7 +259,7 @@ msgstr ""
 "<a href=\"mailto:rberaldo@cabaladada.org\">&lt;rberaldo@cabaladada.org&gt;</"
 "a>, 2012"
 
-#.  timestamp start 
+#. timestamp start
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
