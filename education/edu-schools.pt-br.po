@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: edu-schools.pt-br.html\n"
 "POT-Creation-Date: 2011-10-02 20:25-0300\n"
-"PO-Revision-Date: 2012-03-07 11:54-0300\n"
+"PO-Revision-Date: 2012-03-07 11:55-0300\n"
 "Last-Translator: Rodrigo Macedo <rodrigomacedo@rmsolucoeseminformatica.com>\n"
 "Language-Team: Brazilian Portuguese\n"
 "Language: pt_BR\n"
@@ -304,7 +304,7 @@ msgstr ""
 "araceletorres@gmail.com\">&lt;araceletorres@gmail.com&gt;</a>, 2011;\n"
 "Rafael Beraldo\n"
 "<a href=\"mailto:rberaldo@cabaladada.org\">&lt;rberaldo@cabaladada.org&gt;</"
-"a>, 2012\n"
+"a>, 2012"
 
 #.  timestamp start 
 #. type: Content of: <div><p>
