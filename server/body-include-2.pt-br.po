@@ -9,9 +9,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: body-include-2.html\n"
 "POT-Creation-Date: 2012-02-21 17:00-0500\n"
-"PO-Revision-Date: 2012-03-08 11:42-0300\n"
+"PO-Revision-Date: 2012-03-08 11:44-0300\n"
 "Last-Translator: André Jan Smit <ajansmit@gmail.com>\n"
-"Language-Team: Brazilian Portuguese\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -24,8 +24,11 @@ msgid "<a href=\"/\">The GNU Operating System</a>"
 msgstr "<a href=\"/\">O Sistema Operacional GNU</a>"
 
 #. type: Content of: <div><div><div><h4>
-msgid "Sign up for the <a href=\"http://www.fsf.org/fss\">Free Software Supporter</a>"
-msgstr "Inscreva-se no <a href=\"http://www.fsf.org/fss\">Free Software Supporter</a>"
+msgid ""
+"Sign up for the <a href=\"http://www.fsf.org/fss\">Free Software Supporter</"
+"a>"
+msgstr ""
+"Inscreva-se no <a href=\"http://www.fsf.org/fss\">Free Software Supporter</a>"
 
 # type: Content of: <body><div><div><div><div><p>
 #. type: Content of: <div><div><div><p>
@@ -33,21 +36,45 @@ msgid "A monthly email newsletter about GNU and Free Software"
 msgstr "Um informativo mensal sobre o GNU e a FSF"
 
 #. type: Content of: <div><div><div><form><div>
-msgid "<input name=\"postURL\" type=\"hidden\" value=\"\" /> <input type=\"hidden\" name=\"group[25]\" value=\"1\" /> <input name=\"cancelURL\" type=\"hidden\" value=\"https://crm.fsf.org/civicrm/profile?reset=1&amp;gid=31\" /> <input name=\"_qf_default\" type=\"hidden\" value=\"Edit:cancel\" />"
-msgstr "<input name=\"postURL\" type=\"hidden\" value=\"\" /> <input type=\"hidden\" name=\"group[25]\" value=\"1\" /> <input name=\"cancelURL\" type=\"hidden\" value=\"https://crm.fsf.org/civicrm/profile?reset=1&amp;gid=31\" /> <input name=\"_qf_default\" type=\"hidden\" value=\"Edit:cancel\" />"
+msgid ""
+"<input name=\"postURL\" type=\"hidden\" value=\"\" /> <input type=\"hidden\" "
+"name=\"group[25]\" value=\"1\" /> <input name=\"cancelURL\" type=\"hidden\" "
+"value=\"https://crm.fsf.org/civicrm/profile?reset=1&amp;gid=31\" /> <input "
+"name=\"_qf_default\" type=\"hidden\" value=\"Edit:cancel\" />"
+msgstr ""
+"<input name=\"postURL\" type=\"hidden\" value=\"\" /> <input type=\"hidden\" "
+"name=\"group[25]\" value=\"1\" /> <input name=\"cancelURL\" type=\"hidden\" "
+"value=\"https://crm.fsf.org/civicrm/profile?reset=1&amp;gid=31\" /> <input "
+"name=\"_qf_default\" type=\"hidden\" value=\"Edit:cancel\" />"
 
 #. type: Content of: <div><div><div><form><p>
 msgid "<label>Enter your email address (e.g. richard@example.com)</label>"
-msgstr "<label>Digite seu endereço de e-mail (por exemplo richard@exemplo.com.br)</label>"
+msgstr ""
+"<label>Digite seu endereço de e-mail (por exemplo richard@exemplo.com.br)</"
+"label>"
 
 #. type: Content of: <div><div><div><form><p>
-msgid "<input type=\"text\" id=\"frmEmail\" name=\"email-Primary\" size=\"15\" maxlength=\"80\" /> &nbsp; <input type=\"submit\" name=\"_qf_Edit_next\" value=\"Ok\" />"
-msgstr "<input type=\"text\" id=\"frmEmail\" name=\"email-Primary\" size=\"15\" maxlength=\"80\" /> &nbsp; <input type=\"submit\" name=\"_qf_Edit_next\" value=\"Ok\" />"
+msgid ""
+"<input type=\"text\" id=\"frmEmail\" name=\"email-Primary\" size=\"15\" "
+"maxlength=\"80\" /> &nbsp; <input type=\"submit\" name=\"_qf_Edit_next\" "
+"value=\"Ok\" />"
+msgstr ""
+"<input type=\"text\" id=\"frmEmail\" name=\"email-Primary\" size=\"15\" "
+"maxlength=\"80\" /> &nbsp; <input type=\"submit\" name=\"_qf_Edit_next\" "
+"value=\"Ok\" />"
 
 # type: Content of: <body><div><div><form><div>
 #. type: Content of: <div><div><div><form><div>
-msgid "<label class=\"netscape4\" for=\"phrase\">Search:</label> <input name=\"phrase\" id=\"phrase\" type=\"text\" size=\"18\" accesskey=\"s\" value=\"Why GNU/Linux?\" onfocus=\"this.value=''\" /> <input type=\"submit\" value=\"Search\" />"
-msgstr "<label class=\"netscape4\" for=\"phrase\">Pesquisa:</label> <input name=\"phrase\" id=\"phrase\" type=\"text\" size=\"18\" accesskey=\"s\" value=\"Por que GNU/Linux?\" onfocus=\"this.value=''\" /> <input type=\"submit\" value=\"Search\" />"
+msgid ""
+"<label class=\"netscape4\" for=\"phrase\">Search:</label> <input name="
+"\"phrase\" id=\"phrase\" type=\"text\" size=\"18\" accesskey=\"s\" value="
+"\"Why GNU/Linux?\" onfocus=\"this.value=''\" /> <input type=\"submit\" value="
+"\"Search\" />"
+msgstr ""
+"<label class=\"netscape4\" for=\"phrase\">Pesquisa:</label> <input name="
+"\"phrase\" id=\"phrase\" type=\"text\" size=\"18\" accesskey=\"s\" value="
+"\"Por que GNU/Linux?\" onfocus=\"this.value=''\" /> <input type=\"submit\" "
+"value=\"Search\" />"
 
 # type: Content of: <body><div><div><div><ul><li>
 #. type: Content of: <div><div><ul><li>
@@ -81,8 +108,12 @@ msgstr "<a href=\"/help/help.html\">Ajude o GNU</a>"
 
 # type: Content of: <body><div><div><div><ul><li>
 #. type: Content of: <div><div><ul><li>
-msgid "<a href=\"https://www.fsf.org/associate/support_freedom?referrer=4052\">Join&nbsp;the&nbsp;FSF!</a>"
-msgstr "<a href=\"https://www.fsf.org/associate/support_freedom?referrer=4052\">Junte-se&nbsp;a&nbsp;FSF!</a>"
+msgid ""
+"<a href=\"https://www.fsf.org/associate/support_freedom?"
+"referrer=4052\">Join&nbsp;the&nbsp;FSF!</a>"
+msgstr ""
+"<a href=\"https://www.fsf.org/associate/support_freedom?"
+"referrer=4052\">Junte-se&nbsp;a&nbsp;FSF!</a>"
 
 #. type: Content of: <div><p><a>
 msgid "<a href=\"http://libreplanet.org/wiki/LibrePlanet2012\">"
@@ -95,4 +126,3 @@ msgstr "LibrePlanet 2012 -- 24 e 25 de março de 2012"
 #. type: Content of: <div><p>
 msgid "</a>"
 msgstr "</a>"
-
