@@ -3,12 +3,13 @@
 # This file is distributed under the same license as the gnu.org article.
 # Og Maciel <ogmaciel@gnome.org>, 2008.
 # Rafael Beraldo <rberaldo@cabaladada.org>, 2012.
+# André Jan Smit <ajansmit@gmail.com>, 2012.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: body-include-2.html\n"
 "POT-Creation-Date: 2012-02-21 17:00-0500\n"
-"PO-Revision-Date: 2012-03-07 22:11-0300\n"
+"PO-Revision-Date: 2012-03-08 11:42-0300\n"
 "Last-Translator: André Jan Smit <ajansmit@gmail.com>\n"
 "Language-Team: Brazilian Portuguese\n"
 "Language: \n"
