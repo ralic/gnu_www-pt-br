@@ -3,12 +3,13 @@
 # This file is distributed under the same license as the gnu.org article.
 # André Silva <andre.paulista@adinet.com.uy>, 2012.
 # Thiago Carreira <saycusca@gmail.com>, 2012.
+# Rafael Beraldo <rberaldo@cabaladada.org>, 2012.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: edu-software-tuxpaint\n"
 "POT-Creation-Date: 2012-03-05 15:41-0300\n"
-"PO-Revision-Date: 2012-03-08 12:52-0300\n"
+"PO-Revision-Date: 2012-03-08 12:57-0300\n"
 "Last-Translator: Thiago Carreira <saycusca@gmail.com>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -425,7 +426,7 @@ msgstr ""
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "<b>Tradução</b>: André Silva\n"
-"<ahref=\"mailto:andre.paulista@adinet.com.uy\">&lt;andre.paulista@adinet.com."
+"<a href=\"mailto:andre.paulista@adinet.com.uy\">&lt;andre.paulista@adinet.com."
 "uy&gt;</a>, 2012\n"
 " Thiago Carreira\n"
 "<a href=\"mailto:saycusca@gmail.com\">&lt;saycusca@gmail.com&gt;</a>, 2012"
