@@ -11,13 +11,13 @@ msgid ""
 msgstr ""
 "Project-Id-Version: essays-and-articles.html\n"
 "POT-Creation-Date: 2012-01-05 12:25-0500\n"
-"PO-Revision-Date: 2012-03-09 19:27-0300\n"
+"PO-Revision-Date: 2012-03-26 16:54-0300\n"
 "Last-Translator: Aslan Carlos <aslancarlos@gmail.com>\n"
 "Language-Team: Portuguese <>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+"Content-Transfer-Encoding: 8bits\n"
 "Outdated-Since: 2011-09-20 12:29-0300\n"
 "Plural-Forms: nplurals=2; plural=(n!=1);\n"
 
@@ -527,6 +527,11 @@ msgid ""
 "Java platform under GNU GPL</a>, the issue described in this article still "
 "remains important)"
 msgstr ""
+"<a href=\"/philosophy/java-trap.html\" id=\"JavaTrap\">Livre porém amarrado "
+"- A armadilha JAVA</a> (Embora em Dezembro de 2006 a SUN por meio de <a href="
+"\"http://www.fsf.org/news/fsf-welcomes-gpl-java.html\">redisponibilizou sua "
+"plataforma JAVA sob a GNU GPL</a>, o problema descrito neste artigo continua "
+"a ser importante)"
 
 # type: Content of: <ul><li>
 #. type: Content of: <ul><li>
@@ -591,6 +596,8 @@ msgid ""
 "<a href=\"/philosophy/pirate-party.html\">How the Swedish Pirate Party "
 "Platform Backfires on Free Software</a>"
 msgstr ""
+"<a href=\"/philosophy/pirate-party.html\">Como a plataforma de pirataria "
+"Sueca saí pela culatra no Software Livre</a>"
 
 # type: Content of: <ul><li>
 #. type: Content of: <ul><li>
@@ -599,6 +606,10 @@ msgid ""
 "Copyright</a> is another essay by <a href=\"http://www.stallman.org"
 "\">Richard Stallman</a> about the flaws in popular defenses of copyright law."
 msgstr ""
+"<a href=\"/philosophy/misinterpreting-copyright.html\">Erros de "
+"interpretação de Direitos Autorais</a> é outro artigo do <a href=\"http://"
+"www.stallman.org\">Richard Stallman</a> sobre as falhas em defesas populares "
+"das leis de direitos autorais."
 
 # type: Content of: <ul><li>
 #. type: Content of: <ul><li>
@@ -606,6 +617,8 @@ msgid ""
 "<a href=\"/philosophy/eldred-amicus.html\">FSF's Brief Amicus Curiae in the "
 "Eldred v. Ashcroft Supreme Court case</a>"
 msgstr ""
+"<a href=\"/philosophy/eldred-amicus.html\">Sumário da FSF jurisperito no "
+"Eldred v. Ashcroft caso na Suprema Corte</a>"
 
 # type: Content of: <ul><li>
 #. type: Content of: <ul><li>
@@ -626,6 +639,8 @@ msgid ""
 "<a href=\"/philosophy/reevaluating-copyright.html\">Reevaluating Copyright: "
 "The Public must prevail</a>"
 msgstr ""
+"<a href=\"/philosophy/reevaluating-copyright.html\">Reavaliando Direitos "
+"Autorais: O público deve prevalecer</a>"
 
 # type: Content of: <ul><li>
 #. type: Content of: <ul><li>
@@ -634,6 +649,9 @@ msgid ""
 "complaint_orig.html\"> Eldred v. Reno</a> is about a lawsuit to overturn a "
 "law that extends copyright by 20 extra years."
 msgstr ""
+"<a href=\"http://cyber.law.harvard.edu/openlaw/eldredvashcroft/cyber/"
+"complaint_orig.html\"> Eldred v. Reno</a> é sobre um processo legal para "
+"abolir uma lei que extende o copyright por 20 anos extra."
 
 # type: Content of: <ul><li>
 #. type: Content of: <ul><li>
@@ -643,6 +661,10 @@ msgid ""
 "philosophy/freedom-or-copyright-old.html\">older version</a> of this essay "
 "remains online as well)."
 msgstr ""
+"<a href=\"/philosophy/freedom-or-copyright.html\">Liberdade ou Direitos "
+"autorais?</a>, by <a href=\"http://www.stallman.org/\">Richard Stallman</a> "
+"(uma <a href=\"/philosophy/freedom-or-copyright-old.html\">versão antiga</a> "
+"deste artigo continua online)."
 
 # type: Content of: <ul><li>
 #. type: Content of: <ul><li>
@@ -653,6 +675,11 @@ msgid ""
 "Stallman</a> at the LIANZA conference in Christchurch, New Zealand, on "
 "October 12, 2009."
 msgstr ""
+"<a href=\"/philosophy/copyright-versus-community.html\" id=\"StallmanTalkLSM"
+"\"> Direitos autorais versus Comunidade na era da rede de computadores</a>: "
+"é uma transcrição de uma palestra por <a href=\"http://www.stallman.org\"> "
+"Richard Stallman</a> na conferência de LIANZA em Christchurch, Nova "
+"Zelândia, em Outubro 12, 2009."
 
 # type: Content of: <ul><li>
 #. type: Content of: <ul><li>
@@ -674,6 +701,8 @@ msgid ""
 "<a href=\"/philosophy/the-root-of-this-problem.html\">The problem is "
 "software controlled by its developer</a>, by Richard&nbsp;M. Stallman."
 msgstr ""
+"<a href=\"/philosophy/the-root-of-this-problem.html\">O problema é Software "
+"controlado por seu desenvolvedor</a>, por Richard&nbsp;M. Stallman."
 
 # type: Content of: <ul><li>
 #. type: Content of: <ul><li>
@@ -681,6 +710,8 @@ msgid ""
 "<a href=\"/philosophy/computing-progress.html\">Computing &ldquo;"
 "progress&rdquo;: good and bad</a>, by Richard M. Stallman."
 msgstr ""
+"<a href=\"/philosophy/computing-progress.html\">Computação &ldquo;"
+"progresso&rdquo;: Bom e Ruim</a>, por Richard M. Stallman."
 
 # type: Content of: <ul><li>
 #. type: Content of: <ul><li>
@@ -688,6 +719,8 @@ msgid ""
 "<a href=\"/philosophy/why-audio-format-matters.html\">Why Audio Format "
 "matters</a> by Karl Fogel"
 msgstr ""
+"<a href=\"/philosophy/why-audio-format-matters.html\">Por que formatos de "
+"audio importam</a> por Karl Fogel"
 
 # type: Content of: <ul><li>
 #. type: Content of: <ul><li>
@@ -995,7 +1028,7 @@ msgstr ""
 # type: Content of: <ul><li>
 #. type: Content of: <ul><li>
 msgid "<a href=\"/philosophy/dat.html\">The Right Way to Tax DAT</a>"
-msgstr ""
+msgstr "<a href=\"/philosophy/dat.html\">A forma correta de Taxar  DAT</a>"
 
 # type: Content of: <ul><li>
 #. type: Content of: <ul><li>
@@ -1003,6 +1036,8 @@ msgid ""
 "<a href=\"/philosophy/censoring-emacs.html\">Censoring My Software</a>, by "
 "<a href=\"http://www.stallman.org\">Richard Stallman</a>"
 msgstr ""
+"<a href=\"/philosophy/censoring-emacs.html\">Censura do meu software</a>, "
+"por <a href=\"http://www.stallman.org\">Richard Stallman</a>"
 
 # type: Content of: <h3>
 #. type: Content of: <h3>
@@ -1015,6 +1050,8 @@ msgid ""
 "<a href=\"/philosophy/words-to-avoid.html\">Confusing Words</a> which You "
 "Might Want to Avoid"
 msgstr ""
+"<a href=\"/philosophy/words-to-avoid.html\">Palavras confusas</a> que você "
+"deverá evitar."
 
 # type: Content of: <ul><li>
 #. type: Content of: <ul><li>
@@ -1038,6 +1075,8 @@ msgid ""
 "<a href=\"/philosophy/fs-translations.html\">Translations of the term &ldquo;"
 "free software&rdquo;</a> into various languages"
 msgstr ""
+"<a href=\"/philosophy/fs-translations.html\">Tradução de termo &ldquo;"
+"software livre&rdquo;</a> em várias línguas."
 
 # type: Content of: <h3>
 #. type: Content of: <h3>
@@ -1050,6 +1089,8 @@ msgid ""
 "<a href=\"/philosophy/use-free-software.html\">The Free Software Community "
 "After 20 Years</a>, With great but incomplete success, what now?"
 msgstr ""
+"<a href=\"/philosophy/use-free-software.html\">A comunidade de Software "
+"Livre após 20 anos</a>, Com grande mas incompleto sucesso, e agora?"
 
 # type: Content of: <ul><li>
 #. type: Content of: <ul><li>
@@ -1057,6 +1098,8 @@ msgid ""
 "<a href=\"/philosophy/mcvoy.html\">Thank You, Larry McVoy</a> by Richard M. "
 "Stallman"
 msgstr ""
+"<a href=\"/philosophy/mcvoy.html\">Obrigado, Larry McVoy</a> por Richard M. "
+"Stallman"
 
 # type: Content of: <ul><li>
 #. type: Content of: <ul><li>
