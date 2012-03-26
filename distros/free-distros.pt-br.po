@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: free-distros\n"
-"POT-Creation-Date: 2012-03-15 12:28-0300\n"
+"POT-Creation-Date: 2012-03-19 12:25-0300\n"
 "PO-Revision-Date: 2012-03-19 15:02-0300\n"
 "Last-Translator: Rafael Beraldo <rberaldo@cabaladada.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -251,9 +251,14 @@ msgstr ""
 "instalada</a>."
 
 #. type: Content of: <p>
+#, fuzzy
+#| msgid ""
+#| "<a href=\"/software/software.html\">Individual GNU packages</a> (most of "
+#| "which are included in the free distributions here) are described "
+#| "separately."
 msgid ""
 "<a href=\"/software/software.html\">Individual GNU packages</a> (most of "
-"which are included in the free distributions here) are described separately."
+"which are included in the free distributions here)  are described separately."
 msgstr ""
 "<a href=\"/software/software.html\">Os pacotes individuais do GNU </a> (a "
 "maioria dos quais estão inclusos nas distribuições livres) estão descritos "
@@ -338,7 +343,9 @@ msgstr ""
 "submissão de traduções desse artigo."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2011 Free Software Foundation, Inc."
+#, fuzzy
+#| msgid "Copyright &copy; 2011 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2011, 2012 Free Software Foundation, Inc."
 msgstr "Copyright &copy; 2011 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>

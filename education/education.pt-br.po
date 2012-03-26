@@ -123,7 +123,7 @@ msgstr ""
 "#rms\">Richard Stallman</a> explica brevemente e vai direto ao ponto sobre "
 "os princípios do software livre e como eles se conectam à educação."
 
-#. TRANSLATORS: please add the link to your language here in the first place, followed by a comma.
+#.  TRANSLATORS: please add the link to your language here in the first place, followed by a comma. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Transcriptions of this video are available in <a href=\"/education/misc/rms-"
@@ -136,7 +136,7 @@ msgstr ""
 "education-es-translation-to-en.txt\">inglês</a> e <a href=\"/education/misc/"
 "edu-misc.html#transcriptions\">outras línguas</a>."
 
-#. TRANSLATORS: please add the link to your language here in the first place, followed by a comma.
+#.  TRANSLATORS: please add the link to your language here in the first place, followed by a comma. 
 #. type: Content of: <div><div><p>
 msgid ""
 "SubRip subtitle files are also available for download in <a href=\"/"
@@ -253,7 +253,7 @@ msgstr ""
 "<a href=\"mailto:rberaldo@cabaladada.org\">&lt;rberaldo@cabaladada.org&gt;</"
 "a>, 2012"
 
-#. timestamp start
+#.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"

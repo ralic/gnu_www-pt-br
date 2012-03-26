@@ -50,9 +50,9 @@ msgstr ""
 "Virou moda atirar copyright, patentes e marcas — três entidades separadas e "
 "diferentes envolvendo três conjuntos de leis separados e diferentes — dentro "
 "da mesma panela e chamar isso de “Propriedade Intelectual”.  O termo "
-"distorcido e confuso não surgiu por acidente.  Companhias que lucram com a "
-"confusão o promovem.  E o meio mais claro para sair da confusão é rejeitar "
-"inteiramente o termo."
+"distorcido e confuso não ficou comum por acidente.  Companhias que lucram "
+"com a confusão o promovem.  E o meio mais claro para sair da confusão é "
+"rejeitar inteiramente o termo."
 
 # type: Content of: <p>
 #. type: Content of: <p>
@@ -70,14 +70,15 @@ msgid ""
 msgstr ""
 "De acordo com o professor Mark Lemley, da Stanford Law School, o uso "
 "generalizado do termo “propriedade intelectual” é uma moda que seguiu a "
-"fundação da OMPI, a Organização Mundial de “Propriedade Intelectual” em "
-"1967, mas apenas recentemente começou a ser comumente utilizado. (A OMPI é "
-"formalmente uma organização das Nações Unidas, mas na verdade representa o "
-"interesse de detentores de copyrights, patentes e marcas.) Uso generalizado "
-"data de <a href=\"http://ngrams.googlelabs.com/graph?content=intellectual"
-"+property&amp;year_start=1800&amp;year_end=2008&amp;corpus=0&amp;"
-"smoothing=1\">por volta de 1990</a>. (<a href=\"/graphics/seductivemirage.png"
-"\">Cópia local da imagem.</a>)"
+"fundação da OMPI, a Organização Mundial de “Propriedade Intelectual” (do "
+"inglês World Intellectual Property Organization) em 1967, mas apenas "
+"recentemente começou a ser comumente utilizado. (A OMPI é formalmente uma "
+"organização das Nações Unidas, mas na verdade representa o interesse de "
+"detentores de copyrights, patentes e marcas.) O uso generalizado data de <a "
+"href=\"http://ngrams.googlelabs.com/graph?content=intellectual+property&amp;"
+"year_start=1800&amp;year_end=2008&amp;corpus=0&amp;smoothing=1\">por volta "
+"de 1990</a>. (<a href=\"/graphics/seductivemirage.png\">Cópia local da "
+"imagem.</a>)"
 
 # type: Content of: <p>
 #. type: Content of: <p>
@@ -387,9 +388,8 @@ msgid ""
 "projects/wipo/wiwo.en.html\">one proposal for changing the name and "
 "substance of WIPO</a>."
 msgstr ""
-"E quanto a reformar a OMPI, entre outras coisas, aqui está <a href=\"http://"
-"www.fsfeurope.org/documents/wiwo.html\">uma proposta para mudar seu nome e "
-"essência</a>."
+"E quanto a reformar a OMPI, aqui está <a href=\"http://www.fsfeurope.org/"
+"documents/wiwo.html\">uma proposta para mudar seu nome e essência</a>."
 
 # type: Content of: <div>
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
