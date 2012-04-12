@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: essays-and-articles.html\n"
 "POT-Creation-Date: 2012-01-05 12:25-0500\n"
-"PO-Revision-Date: 2012-03-28 14:58-0300\n"
+"PO-Revision-Date: 2012-04-12 13:36-0300\n"
 "Last-Translator: Aslan Carlos <aslancarlos@gmail.com>\n"
 "Language-Team: Portuguese <>\n"
 "Language: \n"
@@ -753,6 +753,10 @@ msgid ""
 "slightly modified version of the article, originally published in Technology "
 "Review in 2000, by <a href=\"http://www.stallman.org\"> Richard Stallman</a>"
 msgstr ""
+"<a href=\"/philosophy/ebooks.html\">Ebooks: Liberdade ou direitos "
+"reservados</a> uma versão ligeiramente modificada do artigo, originalmente "
+"publicado na Technology Review em 2000, por <a href=\"http://www.stallman.org"
+"\"> Richard Stallman</a>"
 
 # type: Content of: <ul><li>
 #. type: Content of: <ul><li>
@@ -761,6 +765,9 @@ msgid ""
 "a work by <a href=\"http://www.stallman.org\">Richard Stallman</a> about the "
 "so-called &ldquo;trusted computing&rdquo; initiatives."
 msgstr ""
+"<a href=\"/philosophy/can-you-trust.html\">Você pode confiar em seu "
+"computador?</a>, um trabalho por <a href=\"http://www.stallman.org\">Richard "
+"Stallman</a> sobre o chamado &ldquo;computação confiável&rdquo; iniciativas."
 
 # type: Content of: <ul><li>
 #. type: Content of: <ul><li>
@@ -768,6 +775,9 @@ msgid ""
 "<a href=\"/philosophy/right-to-read.html\">The Right to Read: A Dystopian "
 "Short Story</a> by <a href=\"http://www.stallman.org/\"> Richard Stallman</a>"
 msgstr ""
+"<a href=\"/philosophy/right-to-read.html\">O Direito de Ler: Uma História "
+"Breve Dystopian</a> por <a href=\"http://www.stallman.org/\"> Richard "
+"Stallman</a>"
 
 # type: Content of: <h4>
 #. type: Content of: <h4>
@@ -775,6 +785,8 @@ msgid ""
 "The propaganda term <a href=\"/philosophy/words-to-avoid."
 "html#IntellectualProperty\"> &ldquo;Intellectual Property&rdquo;</a>"
 msgstr ""
+"O termo de propaganda <a href=\"/philosophy/words-to-avoid."
+"html#IntellectualProperty\"> &ldquo;Propriedade intelectual&rdquo;</a>"
 
 # type: Content of: <ul><li>
 #. type: Content of: <ul><li>
@@ -782,6 +794,8 @@ msgid ""
 "<a href=\"/philosophy/no-ip-ethos.html\">Don't Let &ldquo;Intellectual "
 "Property&rdquo; Twist Your Ethos</a>, by Richard&nbsp;M. Stallman."
 msgstr ""
+"<a href=\"/philosophy/no-ip-ethos.html\">Não deixe &ldquo;propriedade "
+"intelectural&rdquo; mexe com seu caracter</a>, por Richard&nbsp;M. Stallman."
 
 # type: Content of: <ul><li>
 #. type: Content of: <ul><li>
@@ -789,6 +803,8 @@ msgid ""
 "Comments from Richard Stallman on <a href=\"/philosophy/ipjustice.html\">the "
 "ICLC's rejection of the IP Enforcement Directive</a>"
 msgstr ""
+"comentários de Richard Stallman no <a href=\"/philosophy/ipjustice.html\">a "
+"rejeição do ICLC da directiva relativa à execução IP</a>"
 
 # type: Content of: <ul><li>
 #. type: Content of: <ul><li>
@@ -797,6 +813,9 @@ msgid ""
 "review of Boldrin and Levine's &ldquo;The case against intellectual property."
 "&rdquo;</a>"
 msgstr ""
+"Richard Stallman escreveu <a href=\"/philosophy/boldrin-levine.html\">uma "
+"revisão de Boldrin e Levine &ldquo;O caso contra a propriedade intelectual.."
+"&rdquo;</a>"
 
 # type: Content of: <ul><li>
 #. type: Content of: <ul><li>
@@ -805,6 +824,10 @@ msgid ""
 "Property&rdquo;? It's a Seductive Mirage</a>.  An essay on the true meaning "
 "of the phrase &ldquo;Intellectual Property&rdquo;, by Richard M. Stallman"
 msgstr ""
+"<a href=\"/philosophy/not-ipr.html\">Você disse &ldquo;Propriedade "
+"Intelectual&rdquo;? Isto é uma miragem sedutora</a>.  Um ensaio sobre o "
+"verdadeiro significado da frase &ldquo;Propriedade Intelectual&rdquo;, por "
+"Richard M. Stallman"
 
 # type: Content of: <h4>
 #. type: Content of: <h4>
@@ -817,6 +840,8 @@ msgid ""
 "<a href=\"/philosophy/w3c-patent.html\">FSF's Position on W3 Consortium "
 "&ldquo;Royalty-Free&rdquo; Patent Policy</a> rewritten"
 msgstr ""
+"<a href=\"/philosophy/w3c-patent.html\">Posição da FSF na consórcio W3 "
+"&ldquo;Royalty-Free&rdquo; Política de Patentes</a> reescrito"
 
 # type: Content of: <ul><li>
 #. type: Content of: <ul><li>
@@ -826,6 +851,10 @@ msgid ""
 "\"http://www.guardian.co.uk\">The Guardian</a> of London by <a href=\"http://"
 "www.stallman.org\">Richard Stallman</a> and Nick Hill."
 msgstr ""
+"<a href=\"/philosophy/guardian-article.html\">Isso é uma conversa combate</"
+"a> auma versão ligeiramente modificada do artigo, publicado originalmente em "
+"<a href=\"http://www.guardian.co.uk\">The Guardian</a> de Londres por <a "
+"href=\"http://www.stallman.org\">Richard Stallman</a> e Nick Hill."
 
 # type: Content of: <ul><li>
 #. type: Content of: <ul><li>
@@ -833,6 +862,8 @@ msgid ""
 "How to Protect the <a href=\"/philosophy/protecting.html\">Right to Write "
 "Software</a> (independent of whether it's free or not)"
 msgstr ""
+"Como proteger o <a href=\"/philosophy/protecting.html\">Direito a escrever "
+"Software</a> (independente de se é livre ou não)"
 
 #. type: Content of: <ul><li>
 msgid ""
@@ -841,6 +872,10 @@ msgid ""
 "to rule that the Digital Millennium Copyright Act (DMCA) does not prohibit "
 "them from publishing their research."
 msgstr ""
+"Em <a href=\"https://www.eff.org/press/releases/princeton-scientists-sue-"
+"over-squelched-research\"> Felten v. RIAA</a>, cientistas são questionados "
+"por uma corte que determina que o Digital Millennium Copyright Act (DMCA) "
+"não os proíbe de publicar sua pesquisa."
 
 #. type: Content of: <ul><li>
 msgid ""
@@ -848,6 +883,9 @@ msgid ""
 "Intellectual Property&rdquo;: MPAA (Motion Picture Association of America) "
 "DVD Cases Archive</a>"
 msgstr ""
+"<a href=\"https://www.eff.org/search/site/dvd cases/\">EFF &ldquo;"
+"Propriedade Intelectual&rdquo;: MPAA (Motion Picture Association of America) "
+"DVD Arquivos de casos</a>"
 
 # type: Content of: <ul><li>
 #. type: Content of: <ul><li>
@@ -855,6 +893,8 @@ msgid ""
 "<a href=\"/philosophy/patent-reform-is-not-enough.html\">Patent Reform Is "
 "Not Enough</a>"
 msgstr ""
+"<a href=\"/philosophy/patent-reform-is-not-enough.html\">A reforma das "
+"patentes não é o bastante</a>"
 
 # type: Content of: <ul><li>
 #. type: Content of: <ul><li>
@@ -862,11 +902,13 @@ msgid ""
 "<a href=\"/philosophy/savingeurope.html\">Saving Europe from Software "
 "Patents</a>"
 msgstr ""
+"<a href=\"/philosophy/savingeurope.html\">Salvando a Europa das patentes de "
+"software </a>"
 
 # type: Content of: <ul><li>
 #. type: Content of: <ul><li>
 msgid "<a href=\"/philosophy/amazon.html\">Boycott Amazon!</a>"
-msgstr ""
+msgstr "<a href=\"/philosophy/amazon.html\">Boicote da Amazon!</a>"
 
 # type: Content of: <ul><li>
 #. type: Content of: <ul><li>
@@ -876,11 +918,15 @@ msgid ""
 "paper that presents a mathematical model showing how patents can impede "
 "progress in fields like software."
 msgstr ""
+"<a href=\"http://www.researchoninnovation.org/patent.pdf\" id="
+"\"SequentialIPandI\">Inovação sequencial, patentes e imitação</a> é um "
+"artigo que apresenta um modelo matemático demonstrando como as patentes "
+"podem impedir o progresso em áreas como software."
 
 # type: Content of: <ul><li>
 #. type: Content of: <ul><li>
 msgid "<a href=\"/philosophy/hague.html\">Harm from the Hague</a>."
-msgstr ""
+msgstr "<a href=\"/philosophy/hague.html\">Danos da Haia</a>."
 
 # type: Content of: <ul><li>
 #. type: Content of: <ul><li>
@@ -889,6 +935,9 @@ msgid ""
 "story/0,12449,1540984,00.html\"> Soft sell</a>. An article by Richard M. "
 "Stallman published in <a href=\"http://www.guardian.co.uk\">The Guardian</a>."
 msgstr ""
+"<a href=\"http://technology.guardian.co.uk/online/comment/"
+"story/0,12449,1540984,00.html\"> Venda suave</a>. Um artigo de Richard M. "
+"Stallman publicado em <a href=\"http://www.guardian.co.uk\">The Guardian</a>."
 
 # type: Content of: <ul><li>
 #. type: Content of: <ul><li>
@@ -897,6 +946,9 @@ msgid ""
 "insideit\"> Patent absurdity</a>, an article by Richard M. Stallman "
 "published in <a href=\"http://www.guardian.co.uk\">The Guardian</a>."
 msgstr ""
+"<a href=\"http://www.guardian.co.uk/technology/2005/jun/23/onlinesupplement."
+"insideit\"> Absurdo de patente</a>, um artigo por Richard M. Stallman "
+"publicado no <a href=\"http://www.guardian.co.uk\">The Guardian</a>."
 
 # type: Content of: <ul><li>
 #. type: Content of: <ul><li>
@@ -904,6 +956,8 @@ msgid ""
 "<a href=\"/philosophy/trivial-patent.html\">The Anatomy of a Trivial Patent</"
 "a>, by Richard M. Stallman."
 msgstr ""
+"<a href=\"/philosophy/trivial-patent.html\">A Anatomia de uma patente "
+"trivial</a>, por Richard M. Stallman."
 
 # type: Content of: <ul><li>
 #. type: Content of: <ul><li>
@@ -915,6 +969,12 @@ msgid ""
 "html#UseofGraphics\">policies regarding GIFs</a>, see our web <a href=\"/"
 "server/standards/\">web guidelines</a>."
 msgstr ""
+"<a href=\"/philosophy/gif.html\">Por que não há arquivos GIF nas páginas web "
+"do GNU</a>, Embora esta história é uma ilustração histórica do perigo de "
+"patentes de software, estas patentes particulares são agora já não uma "
+"preocupação. Para mais detalhes do nosso site <a href=\"/server/fsf-html-"
+"style-sheet.html#UseofGraphics\">políticas de GIFs</a>, veja nossa web <a "
+"href=\"/server/standards/\">diretrizes de web</a>."
 
 # type: Content of: <h4>
 #. type: Content of: <h4>
@@ -929,6 +989,9 @@ msgid ""
 "the other clown taketh away</a> by <a href=\"http://www.stallman.org"
 "\">Richard Stallman</a>"
 msgstr ""
+"<a href=\"http://www.guardian.co.uk/technology/blog/2010/apr/06/digital-"
+"economy-bill-richard-stallman\">Bill economia digital: Um palhaço dá e outro "
+"palhaço tira</a> por <a href=\"http://www.stallman.org\">Richard Stallman</a>"
 
 # type: Content of: <ul><li>
 #. type: Content of: <ul><li>
@@ -937,12 +1000,17 @@ msgid ""
 "Inclusion A Good Thing? How Can We Make Sure It Is?</a> by <a href=\"http://"
 "www.stallman.org\">Richard Stallman</a>"
 msgstr ""
+"<a href=\"/philosophy/digital-inclusion-in-freedom.html\">Inclusão Digital é "
+"uma coisa boa? Como podemos ter certeza é?</a> por <a href=\"http://www."
+"stallman.org\">Richard Stallman</a>"
 
 # type: Content of: <ul><li>
 #. type: Content of: <ul><li>
 msgid ""
 "<a href=\"/philosophy/wsis.html\">World Summit on the Information Society</a>"
 msgstr ""
+"<a href=\"/philosophy/wsis.html\">Cimeira Mundial sobre a Sociedade da "
+"Informação</a>"
 
 # type: Content of: <ul><li>
 #. type: Content of: <ul><li>
@@ -952,6 +1020,10 @@ msgid ""
 "society/\"><i>Free Software, Free Society: The Selected Essays of Richard M. "
 "Stallman</i></a> is available for reading."
 msgstr ""
+"<a href=\"/philosophy/lessig-fsfs-intro.html\">O prefácio, por Lawrence "
+"Lessig</a> para <a href=\"http://shop.fsf.org/product/free-software-free-"
+"society/\"><i>Software Livre, Sociedade Livre: Artigos selecionados por "
+"Richard M. Stallman</i></a> está disponível para a leitura."
 
 # type: Content of: <ul><li>
 #. type: Content of: <ul><li>
@@ -959,6 +1031,8 @@ msgid ""
 "<a href=\"/philosophy/wassenaar.html\">Encryption software volunteers needed "
 "in countries without export control</a>."
 msgstr ""
+"<a href=\"/philosophy/wassenaar.html\">Voluntários em criptografia de "
+"software necessários em países sem controle de exportação </a>."
 
 # type: Content of: <ul><li>
 #. type: Content of: <ul><li>
@@ -966,6 +1040,8 @@ msgid ""
 "How to Protect the <a href=\"/philosophy/basic-freedoms.html\"> Freedoms of "
 "Speech, Press, and Association</a> on the Internet"
 msgstr ""
+"Como proteger o <a href=\"/philosophy/basic-freedoms.html\"> Liberdades de "
+"expressão, imprensa e Associação</a> na Internet"
 
 # type: Content of: <ul><li>
 #. type: Content of: <ul><li>
@@ -974,11 +1050,15 @@ msgid ""
 "campaign to resist the proposed rule by the United States Postal Service to "
 "collect private information from customers."
 msgstr ""
+"<a href=\"/philosophy/privacyaction.html\">Proteger a privacidade dos "
+"Correios</a>,uma campanha para resistir a regra proposta pela United States "
+"Postal Service para coletar informações privadas de clientes."
 
 # type: Content of: <ul><li>
 #. type: Content of: <ul><li>
 msgid "<a href=\"/philosophy/ucita.html\">Why We Must Fight UCITA</a>"
 msgstr ""
+"<a href=\"/philosophy/ucita.html\">Por que temos de lutar contra UCITA</a>"
 
 # type: Content of: <ul><li>
 #. type: Content of: <ul><li>
@@ -987,6 +1067,9 @@ msgid ""
 "a> &mdash; an article from The Guardian, by Richard Stallman (originally "
 "published under the title &ldquo;Second Sight&rdquo;)."
 msgstr ""
+"<a href=\"/philosophy/second-sight.html\">Software Livre e (e-)Governo</a> "
+"&mdash; um arquivo do The Guardian, por Richard Stallman (originalmente "
+"publicado sob o título &ldquo;Segunda vista&rdquo;)."
 
 # type: Content of: <ul><li>
 #. type: Content of: <ul><li>
@@ -996,6 +1079,10 @@ msgid ""
 "Richard Stallman regarding the use of proprietary software in cultural "
 "development."
 msgstr ""
+"<a href=\"http://www.insnet.org/ins_headlines.rxml?cust=212&amp;id=967\"> "
+"Software Livre e Desenvolvimento Sustentável</a> &mdash; pequeno artigo de "
+"Richard Stallman sobre o uso de software proprietário no desenvolvimento "
+"cultural."
 
 # type: Content of: <h4>
 #. type: Content of: <h4>
@@ -1028,6 +1115,10 @@ msgid ""
 "work of the GNU project.  Please see the <a href=\"/philosophy/sco/sco.html"
 "\">FSF SCO Response Page</a> for more details on this subject."
 msgstr ""
+"<a href=\"/philosophy/sco/sco-gnu-linux.html\">SCO, GNU, e Linux</a>, por "
+"Richard Stallman, ddiscute como o processo da SCO contra a IBM afeta o "
+"trabalho do projeto GNU. Por favor, consulte o <a href=\"/philosophy/sco/sco."
+"html\">FSF página de resposta SCO</a> para mais detalhes sobre este assunto."
 
 # type: Content of: <ul><li>
 #. type: Content of: <ul><li>
@@ -1036,6 +1127,9 @@ msgid ""
 "Proposed Revised Final Judgment in Microsoft vs. United States, submitted to "
 "the US Department of Justice under the Tunney Act</a>."
 msgstr ""
+"<a href=\"/philosophy/ms-doj-tunney.html\">Declaração da FSF em resposta à "
+"proposta de revisão do julgamento final da Microsoft contra os Estados "
+"Unidos, apresentada ao Departamento de Justiça dos EUA sob o Ato Tunney</a>."
 
 # type: Content of: <ul><li>
 #. type: Content of: <ul><li>
