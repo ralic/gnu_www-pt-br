@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: doc.html\n"
 "POT-Creation-Date: 2011-09-20 12:25-0300\n"
-"PO-Revision-Date: 2012-04-17 13:21-0300\n"
+"PO-Revision-Date: 2012-04-17 14:07-0300\n"
 "Last-Translator: Arthur Rodrigues Araruna <araruna@gmail.com>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -131,7 +131,7 @@ msgstr ""
 "<b>GNU Press:</b> outra maneira de contribuir é ajudar-nos a <a href=\"/doc/"
 "expanding.html\">expandir a disponibilidade em livrarias</a> dos livros da "
 "<a href=\"/doc/gnupresspub.html\">GNU Press</a>. Por essa ou qualquer outra "
-"razão, você pode <ahref=\"/doc/contact.html\">contatar a GNU Press</a>"
+"razão, você pode <a href=\"/doc/contact.html\">contatar a GNU Press</a>"
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
