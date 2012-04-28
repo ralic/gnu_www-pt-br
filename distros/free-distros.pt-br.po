@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: free-distros\n"
-"POT-Creation-Date: 2012-03-19 12:25-0300\n"
+"POT-Creation-Date: 2012-04-27 04:25-0300\n"
 "PO-Revision-Date: 2012-03-19 15:02-0300\n"
 "Last-Translator: Rafael Beraldo <rberaldo@cabaladada.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -214,11 +214,7 @@ msgstr ""
 "Ututo, uma distribuição GNU/Linux baseada no Gentoo. Foi o primeiro sistema "
 "GNU/Linux livre plenamente reconhecido pelo Projeto GNU."
 
-#. type: Content of: <table><tr><td><a>
-msgid "<a href=\"http://venenux.org\">"
-msgstr "<a href=\"http://venenux.org\">"
-
-#. type: Attribute 'alt' of: <table><tr><td><a><img>
+#. type: Attribute 'alt' of: <table><tr><td><img>
 msgid "Venenux"
 msgstr "Venenux"
 
@@ -370,6 +366,9 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#~ msgid "<a href=\"http://venenux.org\">"
+#~ msgstr "<a href=\"http://venenux.org\">"
 
 #~ msgid "I know of a distro that's not listed here!"
 #~ msgstr "Eu sei de uma distro que não está listado aqui!"
