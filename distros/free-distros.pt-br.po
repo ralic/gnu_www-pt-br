@@ -9,8 +9,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: free-distros\n"
 "POT-Creation-Date: 2012-05-07 14:19-0300\n"
-"PO-Revision-Date: 2012-05-07 14:17-0300\n"
-"Last-Translator: Leandro Toledo <leandrotoledo@member.fsf.org>\n"
+"PO-Revision-Date: 2012-05-07 14:42-0300\n"
+"Last-Translator: Rafael Beraldo <rberaldo@cabaladada.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
@@ -210,16 +210,12 @@ msgid "Ututo"
 msgstr "Ututo"
 
 #. type: Content of: <table><tr><td>
-#, fuzzy
-#| msgid ""
-#| "Ututo, a GNU/Linux distribution based on Gentoo.  It was the first fully "
-#| "free GNU/Linux system recognized by the GNU Project."
 msgid ""
 "Ututo XS, a GNU/Linux distribution based on Gentoo.  It was the first fully "
 "free GNU/Linux system recognized by the GNU Project."
 msgstr ""
-"Ututo, uma distribuição GNU/Linux baseada no Gentoo. Foi o primeiro sistema "
-"GNU/Linux livre plenamente reconhecido pelo Projeto GNU."
+"Ututo XS, uma distribuição GNU/Linux baseada no Gentoo. Foi o primeiro "
+"sistema GNU/Linux livre plenamente reconhecido pelo Projeto GNU."
 
 #. type: Attribute 'alt' of: <table><tr><td><img>
 msgid "Venenux"
@@ -254,11 +250,6 @@ msgstr ""
 "instalada</a>."
 
 #. type: Content of: <p>
-#, fuzzy
-#| msgid ""
-#| "<a href=\"/software/software.html\">Individual GNU packages</a> (most of "
-#| "which are included in the free distributions here) are described "
-#| "separately."
 msgid ""
 "<a href=\"/software/software.html\">Individual GNU packages</a> (most of "
 "which are included in the free distributions here)  are described separately."
@@ -346,10 +337,8 @@ msgstr ""
 "submissão de traduções desse artigo."
 
 #. type: Content of: <div><p>
-#, fuzzy
-#| msgid "Copyright &copy; 2011 Free Software Foundation, Inc."
 msgid "Copyright &copy; 2011, 2012 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2011 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2011, 2012 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
