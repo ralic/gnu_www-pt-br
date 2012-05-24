@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: education.pt-br.html\n"
 "POT-Creation-Date: 2012-05-12 20:28-0300\n"
-"PO-Revision-Date: 2012-03-07 11:11-0300\n"
+"PO-Revision-Date: 2012-05-24 18:29-0300\n"
 "Last-Translator: Leandro Toledo <leandrotoledo@member.fsf.org>\n"
 "Language-Team: Brazilian Portuguese\n"
 "Language: pt_BR\n"
@@ -155,17 +155,14 @@ msgstr ""
 #.      English with a link to the video with subtitles in your language, 
 #.      if it exists. 
 #. type: Content of: <div><div><p>
-#, fuzzy
-#| msgid ""
-#| "Download video as <a href=\"http://audio-video.gnu.org/video/rms-"
-#| "education-es-sub-en.ogv\"> Ogg Theora</a>."
 msgid ""
 "<a href=\"http://audio-video.gnu.org/video/rms-education-es-high-sub.en.ogv"
 "\"> Download and watch the video</a> at a higher definition in the Ogg "
 "Theora (ogv) free format."
 msgstr ""
-"Faça download do vídeo em formato <a href=\"http://audio-video.gnu.org/video/"
-"rms-education-es-sub-en.ogv\">Ogg Theora</a>."
+"<a href=\"http://audio-video.gnu.org/video/rms-education-es-high-sub.en.ogv"
+"\"> Baixe e assista o vídeo</a> numa resolução maior no formato livre Ogg "
+"Theora (ogv) "
 
 #. type: Content of: <div><div><p>
 msgid ""
