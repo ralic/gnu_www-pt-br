@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: distros.html\n"
 "POT-Creation-Date: 2012-05-18 20:25-0300\n"
-"PO-Revision-Date: 2012-05-30 14:02-0300\n"
+"PO-Revision-Date: 2012-05-30 14:10-0300\n"
 "Last-Translator: Aslan Carlos <aslancarlos@gmail.com>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -141,7 +141,7 @@ msgstr ""
 #. type: Content of: <ul><li>
 msgid "If you install it, you may install and use nonfree software."
 msgstr ""
-"Se você instalar isto, pode acabar instalando e usando software não-livre."
+"Se você a instalar, pode acabar instalando e usando software não-livre."
 
 #. type: Content of: <ul><li>
 msgid "It gives people the wrong idea of what the goal is."
