@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: distros.html\n"
 "POT-Creation-Date: 2012-05-18 20:25-0300\n"
-"PO-Revision-Date: 2012-05-29 15:30-0300\n"
+"PO-Revision-Date: 2012-05-30 13:14-0300\n"
 "Last-Translator: Rafael Beraldo <rberaldo@cabaladada.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -60,13 +60,12 @@ msgstr ""
 "nossa lista dessas distros:"
 
 #. type: Content of: <p>
-#, fuzzy
 #| msgid ""
 #| "<a href=\"/distros/free-distros.html\">Free GNU/Linux distributions</a>."
 msgid ""
 "<a href=\"/distros/free-distros.html\"> Free GNU/Linux distributions</a>."
 msgstr ""
-"<a href=\"/distros/free-distros.html\">Distribuições GNU/Linux livres</a>."
+"<a href=\"/distros/free-distros.html\"> Distribuições GNU/Linux livres</a>."
 
 #. type: Content of: <p>
 msgid ""
