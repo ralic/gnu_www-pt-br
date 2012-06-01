@@ -476,7 +476,6 @@ msgid "0-9541617-1-8"
 msgstr "0-9541617-1-8"
 
 #. type: Content of: <table><tr><td>
-#| msgid "<a href=\"http://www.diveintopython.org/\">Dive Into Python</a>"
 msgid "<a href=\"http://www.diveintopython.net/\">Dive Into Python</a>"
 msgstr "<a href=\"http://www.diveintopython.net/\">Dive Into Python</a>"
 
