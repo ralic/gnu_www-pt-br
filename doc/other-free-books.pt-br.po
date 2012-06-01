@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: other-free-books.html\n"
 "POT-Creation-Date: 2012-06-01 04:25-0300\n"
-"PO-Revision-Date: 2012-03-29 16:24-0300\n"
+"PO-Revision-Date: 2012-06-01 16:02-0300\n"
 "Last-Translator: Rafael Beraldo <rberaldo@cabaladada.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -476,10 +476,9 @@ msgid "0-9541617-1-8"
 msgstr "0-9541617-1-8"
 
 #. type: Content of: <table><tr><td>
-#, fuzzy
 #| msgid "<a href=\"http://www.diveintopython.org/\">Dive Into Python</a>"
 msgid "<a href=\"http://www.diveintopython.net/\">Dive Into Python</a>"
-msgstr "<a href=\"http://www.diveintopython.org/\">Dive Into Python</a>"
+msgstr "<a href=\"http://www.diveintopython.net/\">Dive Into Python</a>"
 
 #. type: Content of: <table><tr><td>
 msgid "Mark Pilgrim"
