@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: outdated.html\n"
-"POT-Creation-Date: 2011-11-05 04:01-0300\n"
-"PO-Revision-Date: 2012-02-27 15:26-0300\n"
+"POT-Creation-Date: 2012-08-10 06:00-0300\n"
+"PO-Revision-Date: 2012-11-21 20:22-0200\n"
 "Last-Translator: Rafael Beraldo <rberaldo@cabaladada.org>\n"
 "Language-Team: Brazilian Portuguese\n"
 "Language: \n"
@@ -32,6 +32,10 @@ msgid ""
 msgstr ""
 "Diferenças entre a última versão traduzida e a versão atual em inglês podem "
 "ser visualizadas em:"
+
+#. type: Content of: <div><p>
+msgid "The date of change in the English page is:"
+msgstr "A data da última mudança na página em inglês é:"
 
 #. type: Content of: <div><p>
 msgid ""
