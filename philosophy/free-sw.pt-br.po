@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: free-sw.html\n"
-"POT-Creation-Date: 2012-02-26 12:25-0500\n"
-"PO-Revision-Date: 2012-03-08 13:07-0300\n"
+"POT-Creation-Date: 2012-07-01 12:25-0300\n"
+"PO-Revision-Date: 2012-11-21 19:42-0200\n"
 "Last-Translator: Rodrigo Macedo <rodrigomacedo@rmsolucoeseminformatica.com>\n"
 "Language-Team: Brazilian Portuguese\n"
 "Language: pt_BR\n"
@@ -223,14 +223,14 @@ msgstr ""
 #. type: Content of: <p>
 msgid ""
 "In order for freedoms 1 and 3 (the freedom to make changes and the freedom "
-"to publish improved versions) to be meaningful, you must have access to the "
-"source code of the program.  Therefore, accessibility of source code is a "
-"necessary condition for free software.  Obfuscated &ldquo;source code&rdquo; "
-"is not real source code and does not count as source code."
+"to publish the changed versions) to be meaningful, you must have access to "
+"the source code of the program.  Therefore, accessibility of source code is "
+"a necessary condition for free software.  Obfuscated &ldquo;source "
+"code&rdquo; is not real source code and does not count as source code."
 msgstr ""
 "Para que as liberdades 1 e 3 (a liberdade de modificar e a liberdade de "
-"publicar versão melhoradas) tenham sentido, você deve ter acesso ao código-"
-"fonte do programa. Por consequência, acesso ao código-fonte é uma condição "
+"publicar versões modificadas) façam sentido, você deve ter acesso ao código-"
+"fonte do programa. Consequentemente, acesso ao código-fonte é uma condição "
 "necessária para o software livre. Código-fonte “obscurecido” não é código-"
 "fonte real e não conta como código-fonte."
 
@@ -335,12 +335,13 @@ msgstr ""
 #. type: Content of: <p>
 msgid ""
 "Whether a change constitutes an improvement is a subjective matter.  If your "
-"modifications are limited, in substance, to changes that someone else "
-"considers an improvement, that is not freedom."
+"right to modify a program is limited, in substance, to changes that someone "
+"else considers an improvement, that program is not free."
 msgstr ""
-"Se uma modificação constitui um aperfeiçoamento ou não é uma opinião "
-"subjetiva. Se suas modificações são limitadas, fundamentalmente, ao que "
-"outra pessoa considera um aperfeiçoamento, isso não é liberdade."
+"Se uma modificação constitui ou não um aperfeiçoamento é uma questão "
+"subjetiva. Se o seu direito de modificar um programa é limitado, "
+"fundamentalmente, a mudanças que outra pessoa considere um aperfeiçoamento, "
+"o programa não é livre."
 
 #. type: Content of: <p>
 msgid ""
@@ -567,7 +568,7 @@ msgstr ""
 "nossa ajuda você pode ter certeza de que a licença realmente é uma licença "
 "de software livre e evitar vários problemas práticos."
 
-#. type: Content of: <h2>
+#. type: Content of: <h3>
 msgid "Beyond Software"
 msgstr "Além do Software"
 
@@ -603,7 +604,7 @@ msgstr ""
 "livre pode ser estendida para a definição de <a href=\"http://freedomdefined."
 "org/\">obras culturais livres</a>, aplicável a qualquer tipo de obra."
 
-#. type: Content of: <h2>
+#. type: Content of: <h3>
 msgid "Open Source?"
 msgstr "Código Aberto?"
 
@@ -623,7 +624,7 @@ msgstr ""
 "mente a liberdade. A palavra “aberto”  <a href=\"/philosophy/open-source-"
 "misses-the-point.html\">nunca se refere à liberdade</a>."
 
-#. type: Content of: <h2>
+#. type: Content of: <h3>
 msgid "History"
 msgstr "Histórico"
 
@@ -915,11 +916,11 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2004, 2005, 2006, "
-"2007, 2009, 2010 Free Software Foundation, Inc."
+"Copyright &copy; 1996-2002, 2004-2007, 2009, 2010, 2012 Free Software "
+"Foundation, Inc."
 msgstr ""
-"Copyright &copy; 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2004, 2005, 2006, "
-"2007, 2009, 2010 Free Software Foundation, Inc."
+"Copyright &copy; 1996-2002, 2004-2007, 2009, 2010, 2012 Free Software "
+"Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -943,3 +944,33 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#~ msgid ""
+#~ "In order for freedoms 1 and 3 (the freedom to make changes and the "
+#~ "freedom to publish improved versions) to be meaningful, you must have "
+#~ "access to the source code of the program.  Therefore, accessibility of "
+#~ "source code is a necessary condition for free software.  Obfuscated "
+#~ "&ldquo;source code&rdquo; is not real source code and does not count as "
+#~ "source code."
+#~ msgstr ""
+#~ "Para que as liberdades 1 e 3 (a liberdade de modificar e a liberdade de "
+#~ "publicar versão melhoradas) tenham sentido, você deve ter acesso ao "
+#~ "código-fonte do programa. Por consequência, acesso ao código-fonte é uma "
+#~ "condição necessária para o software livre. Código-fonte “obscurecido” não "
+#~ "é código-fonte real e não conta como código-fonte."
+
+#~ msgid ""
+#~ "Whether a change constitutes an improvement is a subjective matter.  If "
+#~ "your modifications are limited, in substance, to changes that someone "
+#~ "else considers an improvement, that is not freedom."
+#~ msgstr ""
+#~ "Se uma modificação constitui um aperfeiçoamento ou não é uma opinião "
+#~ "subjetiva. Se suas modificações são limitadas, fundamentalmente, ao que "
+#~ "outra pessoa considera um aperfeiçoamento, isso não é liberdade."
+
+#~ msgid ""
+#~ "Copyright &copy; 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2004, 2005, "
+#~ "2006, 2007, 2009, 2010 Free Software Foundation, Inc."
+#~ msgstr ""
+#~ "Copyright &copy; 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2004, 2005, "
+#~ "2006, 2007, 2009, 2010 Free Software Foundation, Inc."
