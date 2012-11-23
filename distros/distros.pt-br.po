@@ -9,7 +9,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: distros.html\n"
-"POT-Creation-Date: 2012-10-05 20:25-0300\n"
+"POT-Creation-Date: 2012-11-23 12:56-0100\n"
 "PO-Revision-Date: 2012-11-23 12:48-0200\n"
 "Last-Translator: Rafael Ferreira <rafael.f.f1@gmail.com>\n"
 "Language-Team: Português (Brasileiro) <www-pt-br-general@gnu.org>\n"
@@ -279,7 +279,7 @@ msgstr ""
 "<a href=\"mailto:rberaldo@cabaladada.org\">&lt;rberaldo@cabaladada.org&gt;</"
 "a>, 2012"
 
-#. timestamp start
+#.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"

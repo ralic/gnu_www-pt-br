@@ -12,7 +12,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: philosophy.html\n"
-"POT-Creation-Date: 2012-10-01 20:25-0300\n"
+"POT-Creation-Date: 2012-11-23 12:54-0100\n"
 "PO-Revision-Date: 2012-11-23 03:05-0300\n"
 "Last-Translator: Rafael Ferreira <rafael.f.f1@gmail.com>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -155,10 +155,10 @@ msgstr ""
 "<a href=\"/philosophy/government-free-software.html\">Medidas que os "
 "governos podem usar para promover o software livre</a>"
 
-#. please leave both these ID attributes here. ...
-#. ... we removed this as an H$ section as it was duplicating the
-#. same information on links.html, but it's possible that some users
-#. have the URLs bookmarked or on their pages. -len
+#.  please leave both these ID attributes here. ... 
+#.  ... we removed this as an H$ section as it was duplicating the  
+#.  same information on links.html, but it's possible that some users 
+#.  have the URLs bookmarked or on their pages. -len 
 #. type: Content of: <p>
 msgid ""
 "<a id=\"TOCFreedomOrganizations\">We</a> <a id=\"FreedomOrganizations"
@@ -229,7 +229,7 @@ msgstr ""
 "<a href=\"mailto:rberaldo@cabaladada.org\">&lt;rberaldo@cabaladada.org&gt;</"
 "a>, 2012"
 
-#. timestamp start
+#.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"

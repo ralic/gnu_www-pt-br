@@ -10,7 +10,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: essays-and-articles.html\n"
-"POT-Creation-Date: 2012-05-15 20:25-0300\n"
+"POT-Creation-Date: 2012-10-12 12:25-0300\n"
 "PO-Revision-Date: 2012-04-17 14:57-0300\n"
 "Last-Translator: Aslan Carlos <aslancarlos@gmail.com>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -135,6 +135,19 @@ msgid ""
 "<a href=\"/software/reliability.html\">Free Software is More Reliable!</a>"
 msgstr ""
 "<a href=\"/software/reliability.html\">O Software Livre é Mais Confiável!</a>"
+
+# type: Content of: <ul><li>
+#. type: Content of: <ul><li>
+#, fuzzy
+#| msgid ""
+#| "<a href=\"/philosophy/free-doc.html\">Why Free Software Needs Free "
+#| "Documentation</a>"
+msgid ""
+"<a href=\"/philosophy/when_free_software_isnt_practically_better.html\">When "
+"Free Software Isn't (Practically) Better</a>"
+msgstr ""
+"<a href = \"/philosophy/free-doc.html\">Porque Programas Programas Livres "
+"Precisam de Documentos Livres</a>"
 
 # type: Content of: <ul><li>
 #. type: Content of: <ul><li>
@@ -1134,23 +1147,24 @@ msgstr ""
 "&mdash; um arquivo do The Guardian, por Richard Stallman (originalmente "
 "publicado sob o título &ldquo;Segunda vista&rdquo;)."
 
-# type: Content of: <ul><li>
 #. type: Content of: <ul><li>
 msgid ""
-"<a href=\"http://www.insnet.org/ins_headlines.rxml?cust=212&amp;id=967\"> "
-"Free Software and Sustainable Development</a> &mdash; A short article by "
-"Richard Stallman regarding the use of proprietary software in cultural "
-"development."
+"<a href=\"http://web.archive.org/web/20070806183422/http://www.insnet.org/"
+"ins_headlines.rxml?cust=212&amp;id=967\"> Free Software and Sustainable "
+"Development</a> &mdash; A short article by Richard Stallman regarding the "
+"use of proprietary software in cultural development."
 msgstr ""
-"<a href=\"http://www.insnet.org/ins_headlines.rxml?cust=212&amp;id=967\"> "
-"Software Livre e Desenvolvimento Sustentável</a> &mdash; pequeno artigo de "
-"Richard Stallman sobre o uso de software proprietário no desenvolvimento "
-"cultural."
 
 # type: Content of: <h4>
 #. type: Content of: <h4>
 msgid "Misc"
 msgstr "Diversos"
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"/philosophy/bug-nobody-allowed-to-understand.html\">The Bug Nobody "
+"is Allowed to Understand</a>, By Richard Stallman."
+msgstr ""
 
 # type: Content of: <ul><li>
 #. type: Content of: <ul><li>
@@ -1409,6 +1423,18 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+# type: Content of: <ul><li>
+#~ msgid ""
+#~ "<a href=\"http://www.insnet.org/ins_headlines.rxml?cust=212&amp;id=967\"> "
+#~ "Free Software and Sustainable Development</a> &mdash; A short article by "
+#~ "Richard Stallman regarding the use of proprietary software in cultural "
+#~ "development."
+#~ msgstr ""
+#~ "<a href=\"http://www.insnet.org/ins_headlines.rxml?cust=212&amp;id=967\"> "
+#~ "Software Livre e Desenvolvimento Sustentável</a> &mdash; pequeno artigo "
+#~ "de Richard Stallman sobre o uso de software proprietário no "
+#~ "desenvolvimento cultural."
 
 # type: Content of: <div><h4>
 #~ msgid "Translations of this page"
