@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: free-distros\n"
 "POT-Creation-Date: 2012-10-29 12:25-0300\n"
-"PO-Revision-Date: 2012-05-29 15:32-0300\n"
+"PO-Revision-Date: 2012-11-23 13:25-0200\n"
 "Last-Translator: Rafael Beraldo <rberaldo@cabaladada.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: \n"
@@ -40,18 +40,6 @@ msgstr ""
 "outros sites, ou se estão atualizados.</span></em>"
 
 #. type: Content of: <p>
-#, fuzzy
-#| msgid ""
-#| "Below are the <a href=\"/gnu/linux-and-gnu.html\">GNU/Linux</a> "
-#| "distributions we know follow the <a href=\"/distros/free-system-"
-#| "distribution-guidelines.html\">Guidelines for Free System Distributions</"
-#| "a>.  They have a firm policy commitment to only include and only propose "
-#| "free software.  They reject non-free applications, non-free programming "
-#| "platforms, non-free drivers, or non-free firmware &ldquo;blobs&rdquo;.  "
-#| "If by mistake they do include any, they remove it.  If you have found "
-#| "such non-free software or documentation in one of these distributions, "
-#| "you can <a href=\"/help/gnu-bucks.html\">report the issue and earn GNU "
-#| "Bucks</a>."
 msgid ""
 "Below are the complete, ready-to-use <a href=\"/gnu/linux-and-gnu.html\">GNU/"
 "Linux</a> distributions we know follow the <a href=\"/distros/free-system-"
@@ -63,15 +51,15 @@ msgid ""
 "free software or documentation in one of these distributions, you can <a "
 "href=\"/help/gnu-bucks.html\">report the issue and earn GNU Bucks</a>."
 msgstr ""
-"Estas são algumas distribuições <a href=\"/gnu/linux-and-gnu.html\">GNU/"
-"Linux</a> que sabemos obedecem às <a href=\"/distros/free-system-"
-"distribution-guidelines.html\">Diretrizes para Distribuição de Sistemas "
-"Livres</a>. Elas têm a política firme de incluir e oferecer apenas software "
-"livre. Essas distribuições rejeitam aplicativos, plataformas de programação, "
-"drivers e firmware que não são livres. Se acidentalmente incluírem algum, o "
-"eliminarão. Se você encontrar software ou documentação que não é livre "
-"nessas distribuições, pode <a href=\"/help/gnu-bucks.html\">reportar o "
-"problema e obter GNU Bucks</a> no processo."
+"Abaixo está a lista completa de distribuições <a href=\"/gnu/linux-and-gnu."
+"html\">GNU/Linux</a> prontas para usar que sabemos obedecem às <a href=\"/"
+"distros/free-system-distribution-guidelines.html\">Diretrizes para "
+"Distribuição de Sistemas Livres</a>. Elas têm a política firme de incluir e "
+"oferecer apenas software livre. Essas distribuições rejeitam aplicativos, "
+"plataformas de programação, drivers e firmware que não são livres. Se "
+"acidentalmente incluírem algum, o eliminarão. Se você encontrar software ou "
+"documentação que não é livre nessas distribuições, pode <a href=\"/help/gnu-"
+"bucks.html\">reportar o problema e obter GNU Bucks</a> no processo."
 
 #. type: Content of: <p>
 msgid ""
@@ -118,10 +106,8 @@ msgid "BLAG Linux and GNU, a GNU/Linux distribution based on Fedora."
 msgstr "BLAG Linux e GNU, uma distribuição GNU/Linux baseada no Fedora."
 
 #. type: Content of: <table><tr><td><a>
-#, fuzzy
-#| msgid "<a href=\"http://www.dragora.org/\">"
 msgid "<a href=\"http://www.dragora.org/en/index.html\">"
-msgstr "<a href=\"http://www.dragora.org/\">"
+msgstr "<a href=\"http://www.dragora.org/en/index.html\">"
 
 #. type: Attribute 'alt' of: <table><tr><td><a><img>
 msgid "Dragora"
@@ -136,8 +122,6 @@ msgstr ""
 "simplicidade"
 
 #. type: Content of: <table><tr><td><a>
-#, fuzzy
-#| msgid "<a href=\"http://dynebolic.org\">"
 msgid "<a href=\"http://www.dynebolic.org\">"
 msgstr "<a href=\"http://dynebolic.org\">"
 
@@ -218,10 +202,8 @@ msgstr ""
 "pequenas empresas, usuários domésticos e centros educacionais."
 
 #. type: Content of: <table><tr><td><a>
-#, fuzzy
-#| msgid "<a href=\"http://www.ututo.org/\">"
 msgid "<a href=\"http://proyecto.ututo.net/cmsd/\">"
-msgstr "<a href=\"http://www.ututo.org/\">"
+msgstr "<a href=\"http://proyecto.ututo.net/cmsd/\">"
 
 #. type: Attribute 'alt' of: <table><tr><td><a><img>
 msgid "Ututo"
@@ -236,10 +218,8 @@ msgstr ""
 "sistema GNU/Linux livre plenamente reconhecido pelo Projeto GNU."
 
 #. type: Content of: <table><tr><td><a>
-#, fuzzy
-#| msgid "<a href=\"http://venenux.org\">"
 msgid "<a href=\"http://pvnx.venenux.org\">"
-msgstr "<a href=\"http://venenux.org\">"
+msgstr "<a href=\"http://pvnx.venenux.org\">"
 
 #. type: Attribute 'alt' of: <table><tr><td><a><img>
 msgid "Venenux"
