@@ -4,13 +4,14 @@
 # Fernando Lozano <fernando@lozano.eti.br>, 2000.
 # Rafael Beraldo <rberaldo@cabaladada.org>, 2012.
 # Rodrigo Macedo <rodrigomacedo@rmsolucoeseminformatica.com>, 2012.
+# Rafael Ferreira <rafael.f.f1@gmail.com>, 2012.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: free-sw.html\n"
 "POT-Creation-Date: 2012-07-01 12:25-0300\n"
-"PO-Revision-Date: 2012-11-21 19:42-0200\n"
-"Last-Translator: Rodrigo Macedo <rodrigomacedo@rmsolucoeseminformatica.com>\n"
+"PO-Revision-Date: 2012-11-23 00:53-0200\n"
+"Last-Translator: Rafael Ferreira <rafael.f.f1@gmail.com>\n"
 "Language-Team: Brazilian Portuguese\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
@@ -83,9 +84,9 @@ msgid ""
 "for them."
 msgstr ""
 "Por “software livre” devemos entender aquele software que respeita a "
-"liberdade e senso de comunidade dos usuários. Grosso modo, os usuários "
+"liberdade e senso de comunidade dos usuários. Grosso modo, <b>os usuários "
 "possuem a liberdade de executar, copiar, distribuir, estudar, mudar e "
-"melhorar o software. Com essas liberdades, os usuários (tanto "
+"melhorar o software</b>. Com essas liberdades, os usuários (tanto "
 "individualmente quanto coletivamente) controlam o programa e o que ele faz "
 "por eles."
 
@@ -443,7 +444,7 @@ msgstr ""
 "dessas restrições, mas o que eles podem e devem fazer é se recusar a impô-"
 "las como condições para o uso do programa. Dessa maneira, restrições não "
 "irão afetar as atividades e pessoas fora da jurisdição desses governos. "
-"Desta maneira, licenças de software livre não devem requerer a obediência a "
+"Portanto, licenças de software livre não devem requerer a obediência a "
 "qualquer regulamentações de exportação como uma condição para qualquer das "
 "liberdades essenciais."
 
@@ -633,7 +634,7 @@ msgid ""
 "From time to time we revise this Free Software Definition.  Here is the list "
 "of changes, along with links to show exactly what was changed."
 msgstr ""
-"De tempos em temos, revisamos essa Definição de Software Livre. Aqui está "
+"De tempos em tempos, revisamos essa Definição de Software Livre. Aqui está "
 "uma lista de mudanças, juntamente com links para mostrar exatamente o que "
 "foi modificado."
 
@@ -811,8 +812,8 @@ msgid ""
 msgstr ""
 "<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
 "root=www&amp;r1=1.38&amp;r2=1.39\">Versão 1.39</a>: Nota que é aceitável que "
-"uma licença requira que você forneça o código-fonte para versões do software "
-"que você colocou em uso público."
+"uma licença requeira que você forneça o código-fonte para versões do "
+"software que você colocou em uso público."
 
 #. type: Content of: <ul><li>
 msgid ""
@@ -823,7 +824,7 @@ msgid ""
 msgstr ""
 "<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
 "root=www&amp;r1=1.30&amp;r2=1.31\">Versão 1.31</a>: Nota que é aceitável que "
-"uma licença requira que você se identifique como o autor de modificações. "
+"uma licença requeira que você se identifique como o autor de modificações. "
 "Outros esclarecimentos menores por todos texto."
 
 #. type: Content of: <ul><li>
@@ -855,7 +856,7 @@ msgid ""
 msgstr ""
 "<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
 "root=www&amp;r1=1.10&amp;r2=1.11\">Versão 1.11</a>: Nota que uma licença "
-"livre pode requirir que você mande uma cópia das versões que você distribui "
+"livre pode requerer que você mande uma cópia das versões que você distribui "
 "ao autor."
 
 #. type: Content of: <p>
