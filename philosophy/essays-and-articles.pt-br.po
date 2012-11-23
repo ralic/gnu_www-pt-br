@@ -6,12 +6,13 @@
 # Fernando Lozano <fernando@lozano.eti.br>, 2002, 2005.
 # Leandro Guimarães Faria Corcete Dutra <leandro.gfc.dutra@gmail.com>, 2009.
 # Aslan Carlos <aslancarlos@gmail.com>, 2012.
+# Rafael Beraldo <rberaldo@cabaladada.org>, 2012.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: essays-and-articles.html\n"
 "POT-Creation-Date: 2012-10-12 12:25-0300\n"
-"PO-Revision-Date: 2012-04-17 14:57-0300\n"
+"PO-Revision-Date: 2012-11-23 13:37-0200\n"
 "Last-Translator: Aslan Carlos <aslancarlos@gmail.com>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: \n"
@@ -138,16 +139,12 @@ msgstr ""
 
 # type: Content of: <ul><li>
 #. type: Content of: <ul><li>
-#, fuzzy
-#| msgid ""
-#| "<a href=\"/philosophy/free-doc.html\">Why Free Software Needs Free "
-#| "Documentation</a>"
 msgid ""
 "<a href=\"/philosophy/when_free_software_isnt_practically_better.html\">When "
 "Free Software Isn't (Practically) Better</a>"
 msgstr ""
-"<a href = \"/philosophy/free-doc.html\">Porque Programas Programas Livres "
-"Precisam de Documentos Livres</a>"
+"<a href=\"/philosophy/when_free_software_isnt_practically_better.html"
+"\">Quando o Software Livre não é (na Prática) Melhor</a>"
 
 # type: Content of: <ul><li>
 #. type: Content of: <ul><li>
@@ -722,16 +719,12 @@ msgstr "Gestão digital de restrições"
 
 # type: Content of: <ul><li>
 #. type: Content of: <ul><li>
-#, fuzzy
-#| msgid ""
-#| "<a href=\"/philosophy/reevaluating-copyright.html\">Reevaluating "
-#| "Copyright: The Public must prevail</a>"
 msgid ""
 "<a href=\"/philosophy/correcting-france-mistake.html\">Correcting My Mistake "
 "about French Law</a>"
 msgstr ""
-"<a href=\"/philosophy/reevaluating-copyright.html\">Reavaliando Direitos "
-"Autorais: O público deve prevalecer</a>"
+"<a href=\"/philosophy/correcting-france-mistake.html\">Corrigindo Meu Erro "
+"sobre a Legislação Francesa</a>"
 
 # type: Content of: <ul><li>
 #. type: Content of: <ul><li>
@@ -785,16 +778,12 @@ msgstr ""
 
 # type: Content of: <ul><li>
 #. type: Content of: <ul><li>
-#, fuzzy
-#| msgid ""
-#| "<a href=\"/philosophy/fs-motives.html\">Motives For Writing Free "
-#| "Software</a>"
 msgid ""
 "<a href=\"/philosophy/ebooks-must-increase-freedom.html\"> Ebooks must "
 "increase our freedom, not decrease it</a>"
 msgstr ""
-"<a href=\"/philosophy/free-sw.html\">Motivos para escrever um software "
-"livre</a>"
+"<a href=\"/philosophy/ebooks-must-increase-freedom.html\">Ebooks devem "
+"aumentar nossa liberdade, não diminuí-la</a>"
 
 # type: Content of: <ul><li>
 #. type: Content of: <ul><li>
@@ -1016,7 +1005,7 @@ msgstr ""
 
 #. type: Content of: <h4>
 msgid "Network Services"
-msgstr ""
+msgstr "Serviços de Rede"
 
 #. type: Content of: <ul><li>
 msgid ""
@@ -1025,19 +1014,19 @@ msgid ""
 "Richard Stallman published in <a href=\"http://bostonreview.net/BR35.2/"
 "stallman.php\">Boston Review</a>."
 msgstr ""
+"<a href=\"/philosophy/network-services-arent-free-or-nonfree.html\">Serviços "
+"de Rede não são Livres ou Não Livres; Eles Criam Outros Problemas</a> um "
+"artigo por Richard Stallman publicado no <a href=\"http://bostonreview.net/"
+"BR35.2/stallman.php\">Boston Review</a>."
 
 # type: Content of: <ul><li>
 #. type: Content of: <ul><li>
-#, fuzzy
-#| msgid ""
-#| "<a href=\"/philosophy/the-root-of-this-problem.html\">The problem is "
-#| "software controlled by its developer</a>, by Richard&nbsp;M. Stallman."
 msgid ""
 "<a href=\"/philosophy/who-does-that-server-really-serve.html\">Who does that "
 "server really serve?</a> by Richard Stallman"
 msgstr ""
-"<a href=\"/philosophy/the-root-of-this-problem.html\">O problema é Software "
-"controlado por seu desenvolvedor</a>, por Richard&nbsp;M. Stallman."
+"<a href=\"/philosophy/who-does-that-server-really-serve.html\">A quem esse "
+"servidor realmente serve?</a> por Richard Stallman"
 
 # type: Content of: <h4>
 #. type: Content of: <h4>
@@ -1046,16 +1035,12 @@ msgstr "Problemas sociais e culturais"
 
 # type: Content of: <ul><li>
 #. type: Content of: <ul><li>
-#, fuzzy
-#| msgid ""
-#| "<a href=\"/philosophy/computing-progress.html\">Computing &ldquo;"
-#| "progress&rdquo;: good and bad</a>, by Richard M. Stallman."
 msgid ""
 "<a href=\"/philosophy/nonfree-games.html\">Nonfree DRM'd Games on GNU/Linux: "
 "Good or Bad?</a> by Richard Stallman"
 msgstr ""
-"<a href=\"/philosophy/computing-progress.html\">Computação &ldquo;"
-"progresso&rdquo;: Bom e Ruim</a>, por Richard M. Stallman."
+"<a href=\"/philosophy/nonfree-games.html\">Jogos não livres sem DRM no GNU/"
+"Linux Bom ou Ruim?</a> por Richard Stallman"
 
 # type: Content of: <ul><li>
 #. type: Content of: <ul><li>
@@ -1154,6 +1139,10 @@ msgid ""
 "Development</a> &mdash; A short article by Richard Stallman regarding the "
 "use of proprietary software in cultural development."
 msgstr ""
+"<a href=\"http://web.archive.org/web/20070806183422/http://www.insnet.org/"
+"ins_headlines.rxml?cust=212&amp;id=967\">Software Livre e Desenvolvimento "
+"Sustentável</a> &mdash; Um breve artigo por Richard Stallman a respeito do "
+"uso de software proprietário no desenvolvimento cultural."
 
 # type: Content of: <h4>
 #. type: Content of: <h4>
@@ -1165,6 +1154,8 @@ msgid ""
 "<a href=\"/philosophy/bug-nobody-allowed-to-understand.html\">The Bug Nobody "
 "is Allowed to Understand</a>, By Richard Stallman."
 msgstr ""
+"<a href=\"/philosophy/bug-nobody-allowed-to-understand.html\">o Bug que "
+"Ninguém Está Autorizado a Compreender</a>, por Richard Stallman."
 
 # type: Content of: <ul><li>
 #. type: Content of: <ul><li>
