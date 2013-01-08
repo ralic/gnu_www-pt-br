@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: license-logos.html\n"
-"POT-Creation-Date: 2012-03-02 20:25-0500\n"
+"POT-Creation-Date: 2012-12-19 19:27-0500\n"
 "PO-Revision-Date: 2012-11-25 14:13-0200\n"
 "Last-Translator: Rafael Beraldo <rberaldo@cabaladada.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -136,7 +136,9 @@ msgstr ""
 "href=\"gfdl-logo-large.png\">Ainda maior</a>"
 
 #. type: Content of: <h3>
-msgid "Alternative logos by Christian Candena"
+#, fuzzy
+#| msgid "Alternative logos by Christian Candena"
+msgid "Alternative logos by Christian Cadena"
 msgstr "Logos alternativos por Christian Candena"
 
 #. type: Content of: <p><a>
@@ -207,3 +209,6 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#~ msgid "Alternative logos by Christian Candena"
+#~ msgstr "Logos alternativos por Christian Candena"
