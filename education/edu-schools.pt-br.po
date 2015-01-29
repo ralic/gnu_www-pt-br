@@ -1,0 +1,312 @@
+# Brazilian Portuguese translation of http://www.gnu.org/education/edu-schools.html
+# Copyright (C) 2011, 2012 Free Software Foundation, Inc.
+# This file is distributed under the same license as the gnu.org article.
+# Aracele Torres <araceletorres@gmail.com>, 2011.
+# Ineiev <ineiev@gnu.org>, 2011 (formal corrections).
+# Rafael Beraldo <rberaldo@cabaladada.org>, 2012.
+# Rodrigo Macedo <rodrigomacedo@rmsolucoeseminformatica.com>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: edu-schools.pt-br.html\n"
+"POT-Creation-Date: 2011-10-02 20:25-0300\n"
+"PO-Revision-Date: 2012-03-07 12:00-0300\n"
+"Last-Translator: Rodrigo Macedo <rodrigomacedo@rmsolucoeseminformatica.com>\n"
+"Language-Team: Brazilian Portuguese\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. type: Content of: <title>
+msgid ""
+"Why Schools Should Exclusively Use Free Software - GNU Project - Free "
+"Software Foundation (FSF)"
+msgstr ""
+"Porque Escolas Deveriam Usar Exclusivamente Software Livre - Projeto GNU - "
+"Free Software Foundation (FSF)"
+
+#. type: Content of: <div><h2>
+msgid "Why Schools Should Exclusively Use Free Software"
+msgstr "Porque Escolas Deveriam Usar Exclusivamente Software Livre"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/education/edu-contents.html\">Education Contents</a>"
+msgstr "<a href=\"/education/edu-contents.html\">Índice da Seção</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/education/edu-cases.html\">Case Studies</a>"
+msgstr "<a href=\"/education/edu-cases.html\">Estudo de Casos</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/education/edu-resources.html\">Educational Resources</a>"
+msgstr "<a href=\"/education/edu-resources.html\">Recursos Educacionais</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/education/edu-projects.html\">Education Projects</a>"
+msgstr "<a href=\"/education/edu-projects.html\">Projetos Educativos</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/education/edu-faq.html\">FAQ</a>"
+msgstr "<a href=\"/education/edu-faq.html\">Perguntas mais Frequentes</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/education/edu-team.html\">The Education Team</a>"
+msgstr "<a href=\"/education/edu-team.html\">Equipe da Educação</a>"
+
+#. type: Content of: <p>
+msgid ""
+"<a href=\"/education/education.html\">Education</a> &rarr; <a href=\"/"
+"education/education.html#indepth\">In Depth</a> &rarr; Why Schools Should "
+"Exclusively Use Free Software"
+msgstr ""
+"<a href=\"/education/education.html\">Educação</a> &rarr; <a href=\"/"
+"education/education.html#indepth\">Em Detalhes</a> &rarr; Porque Escolas "
+"Deveriam Usar Exclusivamente Software Livre"
+
+#. type: Content of: <p>
+msgid "by <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
+msgstr "por <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
+
+#. type: Content of: <p>
+msgid ""
+"There are general reasons why all computer users should insist on free "
+"software: it gives users the freedom to control their own computers&mdash;"
+"with proprietary software, the computer does what the software owner wants "
+"it to do, not what the user wants it to do.  Free software also gives users "
+"the freedom to cooperate with each other, to lead an upright life.  These "
+"reasons apply to schools as they do to everyone.  The purpose of this "
+"article is to state additional reasons that apply specifically to education."
+msgstr ""
+"Existem razões gerais pelas quais todos os usuários de computador deveriam "
+"insistir em software livre: ele dá aos usuários a liberdade de controlar "
+"seus próprios computadores — com software proprietário, o computador faz o "
+"que o dono do software quer, não o que o usuário quer. O software livre "
+"também dá aos usuários a liberdade de cooperar uns com os outros e levar a "
+"vida com retidão. Essas razões se aplicam às escolas tanto quanto a qualquer "
+"pessoa. O propósito desse artigo é expor razões adicionais que se aplicam "
+"especificamente a educação."
+
+#. type: Content of: <p>
+msgid ""
+"Educational activities (including schools) have a <a href=\"/education/"
+"education.html\">duty to teach only free software.</a> Here are the reasons."
+msgstr ""
+"Atividades educacionais (incluindo escolas) têm o <a href=\"/education/"
+"education.html\">dever se ensinar apenas software livre.</a> Aqui estão os "
+"motivos."
+
+#. type: Content of: <p>
+msgid ""
+"First, free software can save schools money. Free software gives schools, "
+"like other users, the freedom to copy and redistribute the software, so the "
+"school system can make copies for all the computers they have. In poor "
+"countries, this can help close the digital divide."
+msgstr ""
+"Em primeiro lugar, o software livre pode poupar dinheiro às escolas. Ele "
+"proporciona às escolas, como a outros usuários, a liberdade de copiar e "
+"redistribuir o software, de modo que o sistema escolar pode fazer cópias "
+"para todos os computadores que possui. Em países pobres isso pode ajudar a "
+"acabar com a dívida digital."
+
+#. type: Content of: <p>
+msgid ""
+"This obvious reason, while important in practical terms, is rather shallow. "
+"And proprietary software developers can eliminate this reason by donating "
+"copies to the schools.  (Warning: a school that accepts such an offer may "
+"have to pay for upgrades later.)  So let's look at the deeper reasons."
+msgstr ""
+"Essa razão óbvia, embora importante em termos práticos, é um tanto "
+"superficial. Desenvolvedores de software proprietário podem eliminá-la ao "
+"doar cópias às escolas. (Aviso: uma escola que aceita tal oferta pode ter "
+"que atualizar o software mais tarde.) Então vejamos as razões mais profundas."
+
+#. type: Content of: <p>
+msgid ""
+"Schools have a social mission: to teach students to be citizens of a strong, "
+"capable, independent, cooperating and free society.  They should promote the "
+"use of free software just as they promote recycling.  If schools teach "
+"students free software, then the students will tend to use free software "
+"after they graduate.  This will help society as a whole escape from being "
+"dominated (and gouged) by megacorporations."
+msgstr ""
+"Escolas têm uma missão social: ensinar seus alunos a serem cidadãos de uma "
+"sociedade forte, capaz,independente, cooperativa e livre. Elas devem "
+"promover o uso de software livre assim como promovem a reciclagem. Se as "
+"escolas ensinarem o software livre, os alunos tenderão a usá-lo depois de se "
+"graduar. Isso ajudará a sociedade como um todo a escapar do domínio (e "
+"abuso) das megacorporações."
+
+#. type: Content of: <p>
+msgid ""
+"What schools should refuse to do is teach dependence.  Those corporations "
+"offer free samples to schools for the same reason tobacco companies "
+"distribute free cigarettes to minors: to get children addicted <a href="
+"\"#note1\">(1)</a>.  They will not give discounts to these students once "
+"they've grown up and graduated."
+msgstr ""
+"O que as escolas devem se recusar a ensinar é a dependência. Essas "
+"corporações oferecem amostras grátis a escolas pela mesma razão que algumas "
+"companhias de tabaco distribuem cigarros grátis a menores: para que as "
+"crianças se viciem<a href=\"#note1\">(1)</a>. Eles não darão descontos a "
+"esses estudantes quando adultos e graduados."
+
+#. type: Content of: <p>
+msgid ""
+"Free software permits students to learn how software works.  Some students, "
+"on reaching their teens, want to learn everything there is to know about "
+"their computer and its software.  They are intensely curious to read the "
+"source code of the programs that they use every day.  To learn to write good "
+"code, students need to read lots of code and write lots of code.  They need "
+"to read and understand real programs that people really use.  Only free "
+"software permits this."
+msgstr ""
+"O software livre permite aos estudantes que aprendam como o software "
+"funciona. Alguns estudantes, quando chegam à adolescência, querem aprender "
+"tudo o que podem sobre computadores e software. Tem uma curiosidade intensa "
+"de ler o código-fonte dos programas que eles usam todos os dias. Para "
+"aprender a escrever bom código, os estudantes precisa ler e escrever muito "
+"código. Eles precisam ler e entender programas reais e que as pessoas de "
+"fato usem. Somente o software livre permite isso."
+
+#. type: Content of: <p>
+msgid ""
+"Proprietary software rejects their thirst for knowledge: it says, &ldquo;The "
+"knowledge you want is a secret&mdash;learning is forbidden!&rdquo; Free "
+"software encourages everyone to learn. The free software community rejects "
+"the &ldquo;priesthood of technology&rdquo;, which keeps the general public "
+"in ignorance of how technology works; we encourage students of any age and "
+"situation to read the source code and learn as much as they want to know. "
+"Schools that use free software will enable gifted programming students to "
+"advance."
+msgstr ""
+"O software proprietário rejeita a sede de conhecimento dos estudantes: ele "
+"diz, “O conhecimento que você deseja é secreto — aprender é proibido!” O "
+"software livre encoraja todos a aprender. A comunidade do software livre "
+"rejeita o “sacerdócio da tecnologia”, que mantém o público geral ignorante "
+"de como a tecnologia funciona; nós encorajamos estudantes de qualquer idade "
+"e situação a ler o código-fonte e aprender o quanto eles queiram aprender. "
+"As escolas que usem software livre permitirão que estudantes com um dom para "
+"programar avancem."
+
+#. type: Content of: <p>
+msgid ""
+"The deepest reason for using free software in schools is for moral "
+"education. We expect schools to teach students basic facts and useful "
+"skills, but that is not their whole job. The most fundamental job of schools "
+"is to teach good citizenship, which includes the habit of helping others. In "
+"the area of computing, this means teaching people to share software.  "
+"Schools, starting from nursery school, should tell their pupils, &ldquo;If "
+"you bring software to school, you must share it with the other students.  "
+"And you must show the source code to the class, in case someone wants to "
+"learn.&rdquo;"
+msgstr ""
+"A razão mais profunda para se utilizar software livre nas escolas é a "
+"educação moral; nós esperamos que as escolas ensinem aos alunos fatos "
+"básicos e habilidades úteis, mas isso não é tudo. O trabalho mais "
+"fundamental das escolas é ensinar como ser um bom cidadão, o que inclui o "
+"hábito de ajudar uns aos outros. Na área da computação, isso significa "
+"ensinar as pessoas a compartilhar o software. Escolas, começando pelo "
+"berçário, devem ensinar seus pupilos que “se você traz software para a "
+"escola, você deve compartilhá-lo com seus colegas. E você deve mostrar o "
+"código-fonte à sala, caso alguém queria aprender.”"
+
+#. type: Content of: <p>
+msgid ""
+"Of course, the school must practice what it preaches: all the software "
+"installed by the school should be available for students to copy, take home, "
+"and redistribute further."
+msgstr ""
+"Naturalmente, a escola deve praticar aquilo que prega: todo o software "
+"instalado pela escola deve estar disponível para que os estudantes copiem, "
+"levem para casa e passem para frente."
+
+#. type: Content of: <p>
+msgid ""
+"Teaching the students to use free software, and to participate in the free "
+"software community, is a hands-on civics lesson. It also teaches students "
+"the role model of public service rather than that of tycoons.  All levels of "
+"school should use free software."
+msgstr ""
+"Ensinar os estudantes a usar software livre e a participar na comunidade do "
+"software livre é uma lição cívica levada à prática que também ensina aos "
+"alunos a se espelhar no serviço público ao invés de nos magnatas. Todos os "
+"níveis da educação devem usar software livre."
+
+#. type: Content of: <ol><li>
+msgid ""
+"<cite><a id=\"note1\"></a>RJ Reynolds Tobacco Company was fined $15m in 2002 "
+"for handing out free samples of cigarettes at events attended by children.  "
+"See <a href=\"http://www.bbc.co.uk/worldservice/sci_tech/features/health/"
+"tobaccotrial/usa.htm\">http://www.bbc.co.uk/worldservice/sci_tech/features/"
+"health/tobaccotrial/usa.htm</a>.  </cite>"
+msgstr ""
+"<cite><a id=\"note1\"></a>Em 2002, a companhia de tabaco RJ Reynolds foi "
+"multada em 15 milhões de dólares por distribuir amostras grátis de cigarros "
+"em eventos frequentados por crianças. Veja <a href=\"http://www.bbc.co.uk/"
+"worldservice/sci_tech/features/health/tobaccotrial/usa.htm\">http://www.bbc."
+"co.uk/worldservice/sci_tech/features/health/tobaccotrial/usa.htm</a>.  </"
+"cite>"
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><p>
+msgid ""
+"Please send FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org\">&lt;"
+"gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways to "
+"contact</a> the FSF."
+msgstr ""
+"Por favor, envie suas perguntas sobre a FSF e GNU para <a href=\"mailto:"
+"gnu@gnu.org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/"
+"\">outras maneiras para contatar</a> a FSF."
+
+#. type: Content of: <div><p>
+msgid ""
+"Please send broken links and other corrections or suggestions to <a href="
+"\"mailto:education@gnu.org\">&lt;education@gnu.org&gt;</a>."
+msgstr ""
+"Por favor, envie links quebrados e outras correções ou sugestões para  <a "
+"href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a>."
+
+#. type: Content of: <div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"Por favor, veja o <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> para mais informações sobre a coordenação e "
+"submissão de traduções desse artigo."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2003, 2009 Richard Stallman"
+msgstr "Copyright &copy; 2003, 2009 Richard Stallman"
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
+"NoDerivs 3.0 United States License</a>."
+msgstr ""
+"Essa página está licenciada sob uma <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
+"NoDerivs 3.0 United States License</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+" <strong>Tradução</strong>: Aracele Torres <a href=\"mailto:"
+"araceletorres@gmail.com\">&lt;araceletorres@gmail.com&gt;</a>, 2011; \n"
+"Rafael Beraldo\n"
+"<a href=\"mailto:rberaldo@cabaladada.org\">&lt;rberaldo@cabaladada.org&gt;</"
+"a>, 2012"
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização:"

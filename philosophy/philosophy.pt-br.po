@@ -1,0 +1,327 @@
+# Brazilian Portuguese translation of http://www.gnu.org/philosophy/philosophy.html
+# Copyright (C) 2001, 2002, 2005, 2009 Free Software Foundation, Inc.
+# This file is distributed under the same license as the gnu.org article.
+# Pedro Oliveira <bili@linux.fe.up.pt>, 2001.
+# Miguel Oliveira <pmike@esoterica.pt>, 2001.
+# Fernando Lozano <fernando@lozano.eti.br>, 2002, 2005.
+# Leandro Guimarães Faria Corcete Dutra <leandro.gfc.dutra@gmail.com>, 2009.
+# Rafael Beraldo <rberaldo@cabaladada.org>, 2012.
+# Rodrigo Macedo <rodrigomacedo@rmsolucoeseminformatica.com> 2012.
+# Rafael Ferreira <rafael.f.f1@gmail.com>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: philosophy.html\n"
+"POT-Creation-Date: 2012-11-23 12:54-0100\n"
+"PO-Revision-Date: 2012-11-23 03:05-0300\n"
+"Last-Translator: Rafael Ferreira <rafael.f.f1@gmail.com>\n"
+"Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Outdated-Since: 2011-08-29 04:25-0300\n"
+
+#. type: Content of: <title>
+msgid ""
+"Philosophy of the GNU Project - GNU Project - Free Software Foundation (FSF)"
+msgstr ""
+"Filosofia do Projeto GNU - Projeto GNU - Free Software Foundation (FSF)"
+
+#. type: Content of: <div><h2>
+msgid "Philosophy of the GNU Project"
+msgstr "Filosofia do Projeto GNU"
+
+#. type: Content of: <p>
+msgid ""
+"<em>Free software</em> means that the software's users have freedom.  (The "
+"issue is not about price.)  We developed the GNU operating system so that "
+"users can have freedom in their computing."
+msgstr ""
+"<em>Software livre</em> significa que os usuários do software têm liberdade. "
+"(A questão não é de preço.) Nós desenvolvemos o sistema operacional GNU de "
+"modo que os usuários possam ter liberdade no uso do computador."
+
+#. type: Content of: <p>
+msgid ""
+"Specifically, free software means users have the <a href=\"/philosophy/free-"
+"sw.html\">four essential freedoms</a>: (0) to run the program, (1) to study "
+"and change the program in source code form, (2) to redistribute exact "
+"copies, and (3) to distribute modified versions."
+msgstr ""
+"Especificamente, software livre significa que os usuários têm as <a href=\"/"
+"philosophy/free-sw-html\">quatro liberdades essenciais</a>: (0) para "
+"executar o programa, (1) para estudar e mudar o código-fonte do programa, "
+"(2) para redistribuir cópias exatas e (3) para distribuir versões "
+"modificadas."
+
+#. type: Content of: <p>
+msgid ""
+"Software differs from material objects&mdash;such as chairs, sandwiches, and "
+"gasoline&mdash;in that it can be copied and changed much more easily.  These "
+"facilities are why software is useful; we believe a program's users should "
+"be free to take advantage of them, not solely its developer."
+msgstr ""
+"O software difere dos objetos materiais — como cadeiras, sanduíches e "
+"gasolina — porque ele pode ser copiado e modificado muito mais facilmente. "
+"Essas facilidades são o motivo pelo qual o software é útil; nós acreditamos "
+"que os usuários de um programa, e não somente seu desenvolvedor, devem ser "
+"livres para aproveitá-las."
+
+#. type: Content of: <p>
+msgid "For further reading, please select a section from the menu above."
+msgstr ""
+"Para leituras complementares, por favor selecione uma seção no menu acima."
+
+#. type: Content of: <p>
+msgid ""
+"We also maintain a list of <a href=\"/philosophy/latest-articles.html\">most "
+"recently added articles</a>."
+msgstr ""
+"Nós também mantemos uma lista dos <a href=\"/philosophy/latest-articles.html"
+"\">artigos mais recentes</a>."
+
+#. type: Content of: <h3>
+msgid "Introduction"
+msgstr "Introdução"
+
+#. type: Content of: <ul><li>
+msgid "<a href=\"/philosophy/free-sw.html\">What is Free Software?</a>"
+msgstr "<a href = \"/philosophy/free-sw.html\">O que é Software Livre?</a>"
+
+#. type: Content of: <ul><li>
+msgid "<a href=\"/gnu/gnu.html\">History of GNU/Linux</a>"
+msgstr "<a href=\"/gnu/gnu.html\">História do GNU/Linux</a>"
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"/philosophy/why-free.html\">Why Software Should Not Have Owners</a>"
+msgstr ""
+"<a href=\"/philosophy/why-free.html\">Por Que Software Não Deve Ter Donos</a>"
+
+#. type: Content of: <ul><li>
+msgid "<a href=\"/philosophy/pragmatic.html\">Copyleft: Pragmatic Idealism</a>"
+msgstr ""
+"<a href=\"/philosophy/pragmatic.html\">Copyleft: Idealismo Pragmático</a>"
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"/philosophy/free-doc.html\">Why Free Software Needs Free "
+"Documentation</a>"
+msgstr ""
+"<a href=\"/philosophy/free-doc.html\">Por que o Software Livre Precisa de "
+"Documentação Livre</a> "
+
+#. type: Content of: <ul><li>
+msgid "<a href=\"/philosophy/selling.html\">Selling Free Software</a> is OK!"
+msgstr "<a href=\"/philosophy/selling.html\">Vender Software Livre</a> é OK!"
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"/philosophy/fs-motives.html\">Motives For Writing Free Software</a>"
+msgstr ""
+"<a href=\"/philosophy/fs-motives.html\">Motivos para Escrever Software "
+"Livre</a>"
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"/philosophy/right-to-read.html\">The Right to Read: A Dystopian "
+"Short Story</a> by <a href=\"http://www.stallman.org/\"> Richard Stallman</a>"
+msgstr ""
+"<a href=\"/philosophy/right-to-read.html\">O Direito à Leitura: Um Conto "
+"Distópico</a> por <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"/philosophy/open-source-misses-the-point.html\">Why \"Open Source"
+"\" misses the point of Free Software</a>"
+msgstr ""
+"<a href=\"/philosophy/open-source-misses-the-point.html\">Por que o “Código "
+"Aberto” não entende a importância do Software Livre</a>"
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"/philosophy/when_free_software_isnt_practically_better.html\">When "
+"Free Software Isn't (Practically) Better</a>"
+msgstr ""
+"<a href=\"/philosophy/when_free_software_isnt_practically_better.html"
+"\">Quando o Software Livre não é (na Prática) Melhor</a>"
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"/philosophy/government-free-software.html\">Measures governments "
+"can use to promote free software</a>"
+msgstr ""
+"<a href=\"/philosophy/government-free-software.html\">Medidas que os "
+"governos podem usar para promover o software livre</a>"
+
+#.  please leave both these ID attributes here. ... 
+#.  ... we removed this as an H$ section as it was duplicating the  
+#.  same information on links.html, but it's possible that some users 
+#.  have the URLs bookmarked or on their pages. -len 
+#. type: Content of: <p>
+msgid ""
+"<a id=\"TOCFreedomOrganizations\">We</a> <a id=\"FreedomOrganizations"
+"\">also</a> keep a list of <a href=\"/links/links.html#FreedomOrganizations"
+"\">Organizations that Work for Freedom in Computer Development and "
+"Electronic Communications</a>."
+msgstr ""
+"<a id=\"TOCFreedomOrganizations\">Nós</a> <a id=\"FreedomOrganizations"
+"\">também</a> mantemos uma lista de <a href = \"/links/links."
+"html#FreedomOrganizations\">Organizações que Trabalham pela Liberdade no "
+"Desenvolvimento de Informática e nas Comunicações Eletrônicas</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><p>
+msgid ""
+"Please send FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org\">&lt;"
+"gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways to "
+"contact</a> the FSF."
+msgstr ""
+"Por favor, envie suas perguntas sobre a FSF e GNU para <a href=\"mailto:"
+"gnu@gnu.org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/"
+"\">outras maneiras para contatar</a> a FSF."
+
+#. type: Content of: <div><p>
+msgid ""
+"Please send broken links and other corrections or suggestions to <a href="
+"\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a>."
+msgstr ""
+"Por favor, envie links quebrados e outras correções ou sugestões para <a "
+"href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a>."
+
+#. type: Content of: <div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"Por favor, veja o <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> para mais informações sobre a coordenação e "
+"submissão de traduções desse artigo."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2011 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2011 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
+"NoDerivs 3.0 United States License</a>."
+msgstr ""
+"Essa página está licenciada sob uma <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
+"NoDerivs 3.0 United States License</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"<strong>Tradução</strong>: Leandro Guimarães Faria Corcete Dutra\n"
+"<a href=\"mailto:leandro.gfc.dutra@gmail.co\">&lt;leandro.gfc.dutra@gmail."
+"com&gt;</a>, 2009 <br/>\n"
+"Rafael Beraldo\n"
+"<a href=\"mailto:rberaldo@cabaladada.org\">&lt;rberaldo@cabaladada.org&gt;</"
+"a>, 2012"
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização:"
+
+# type: Content of: <ul><li>
+#, fuzzy
+#~ msgid ""
+#~ "<a href=\"/philosophy/android-and-users-freedom.html\">Android and Users' "
+#~ "Freedom</a>"
+#~ msgstr ""
+#~ "<a href = \"/philosophy/free-sw.html\">O Que São Programas Livres?</a>"
+
+# type: Content of: <ul><li>
+#, fuzzy
+#~ msgid ""
+#~ "<a href=\"/philosophy/the-danger-of-ebooks.html\">The Danger of E-Books</"
+#~ "a>"
+#~ msgstr ""
+#~ "<a href = \"/philosophy/free-sw.html\">O Que São Programas Livres?</a>"
+
+# type: Content of: <ul><li>
+#, fuzzy
+#~ msgid ""
+#~ "<a href=\"/philosophy/practical.html\">The advantages of free software</a>"
+#~ msgstr ""
+#~ "<a href = \"/philosophy/free-sw.html\">O Que São Programas Livres?</a>"
+
+# type: Content of: <ul><li>
+#, fuzzy
+#~ msgid ""
+#~ "<a href=\"/philosophy/assigning-copyright.html\">When a Company Asks For "
+#~ "Your Copyright</a>"
+#~ msgstr ""
+#~ "<a href = \"/philosophy/free-sw.html\">O Que São Programas Livres?</a>"
+
+# type: Content of: <ul><li>
+#, fuzzy
+#~ msgid ""
+#~ "<a href=\"/philosophy/who-does-that-server-really-serve.html\">Who Does "
+#~ "That Server Really Serve?</a>"
+#~ msgstr ""
+#~ "<a href = \"/philosophy/free-sw.html\">O Que São Programas Livres?</a>"
+
+# type: Content of: <ul><li>
+#, fuzzy
+#~ msgid ""
+#~ "<a href=\"/philosophy/selling-exceptions.html\">On Selling Exceptions to "
+#~ "the GNU GPL</a>"
+#~ msgstr ""
+#~ "<a href=\"/philosophy/selling.html\">Vender Programas Livres</a> Não Tem "
+#~ "Problema!"
+
+# type: Content of: <h3>
+#~ msgid "About Free Software"
+#~ msgstr "Sobre Programas Livres"
+
+# type: Content of: <p>
+#, fuzzy
+#~ msgid ""
+#~ "<a href=\"/philosophy/essays-and-articles.html\"> Essays and articles.</"
+#~ "a> A series of articles describing the philosophy of the free software "
+#~ "movement, which is the motivation for our development of the free "
+#~ "software operating system GNU."
+#~ msgstr ""
+#~ "Esta página lista uma série de artigos descrevendo a filosofia do "
+#~ "movimento de programs livres, que é nossa motivação para desenvolver o "
+#~ "sistema operacional livre GNU."
+
+# type: Content of: <div><h4>
+#~ msgid "Translations of this page"
+#~ msgstr "Traduções desta página"
+
+# type: Content of: <div><p>
+#~ msgid ""
+#~ "Verbatim copying and distribution of this entire article is permitted in "
+#~ "any medium, provided this notice is preserved."
+#~ msgstr ""
+#~ "Permite-se mundialmente a cópia e distribuição integrais deste artigo em "
+#~ "qualquer meio, desde que este aviso seja preservado."
+
+# type: Content of: <ul><li>
+#, fuzzy
+#~ msgid ""
+#~ "<a href=\"/philosophy/lest-codeplex-perplex.html\">Lest CodePlex perplex</"
+#~ "a>"
+#~ msgstr ""
+#~ "<a href = \"/philosophy/free-sw.html\">O Que São Programas Livres?</a>"
+
+# type: Content of: <ul><li>
+#, fuzzy
+#~ msgid ""
+#~ "<a href=\"/philosophy/pirate-party.html\">How the Swedish Pirate Party "
+#~ "Platform Backfires on Free Software</a>"
+#~ msgstr ""
+#~ "<a href = \"/philosophy/free-sw.html\">O Que São Programas Livres?</a>"
