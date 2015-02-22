@@ -8,7 +8,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: why-gnu-linux.html\n"
-"POT-Creation-Date: 2012-02-05 12:25-0500\n"
+"POT-Creation-Date: 2014-08-04 04:56+0000\n"
 "PO-Revision-Date: 2012-03-22 07:29-0300\n"
 "Last-Translator: Rafael Beraldo <Rafael Beraldo@cabaladada.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -19,7 +19,10 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
 #. type: Content of: <title>
-msgid "Why GNU/Linux? - GNU Project - Free Software Foundation (FSF)"
+# | Why GNU/Linux? - GNU Project - Free Software Foundation [-(FSF)-]
+#, fuzzy
+#| msgid "Why GNU/Linux? - GNU Project - Free Software Foundation (FSF)"
+msgid "Why GNU/Linux? - GNU Project - Free Software Foundation"
 msgstr "Por que GNU/Linux? - Projeto GNU - Free Software Foundation (FSF)"
 
 # ‘What's in a name’ é uma citação de Shakespare. Aparentemente, ‘que há num
@@ -168,6 +171,36 @@ msgstr ""
 "individualmente, dando ao usuário tanta liberdade quanto o Microsoft Windows."
 
 #. type: Content of: <p>
+# | People try to justify adding nonfree software in the name of the
+# | &ldquo;popularity of Linux&rdquo;&mdash;in effect, valuing popularity
+# | above freedom.  Sometimes this is openly admitted.  For instance, Wired
+# | Magazine said that Robert McMillan, editor of Linux Magazine, &ldquo;feels
+# | that the move toward open source software should be fueled by technical,
+# | rather than political, decisions.&rdquo; And Caldera's <acronym
+# | title=\"Chief Executive Officer\">CEO</acronym> openly urged users to drop
+# | the goal of freedom and work instead for the &ldquo;popularity of
+# | Linux&rdquo;.  <a
+# | [-href=\"http://web.archive.org/web/20000920053929/http://www.zdnet.com/filters/printerfriendly/
+# | 0,6061,2552025-2,00.html\">
+# | (http://web.archive.org/web/20000920053929/http://www.zdnet.com/filters/printerfriendly/
+# | 0,6061,2552025-2,00.html)</a>-]
+# | {+href=\"http://www.zdnet.com/stallman-love-is-not-free-3002091004/\">
+# | (http://www.zdnet.com/stallman-love-is-not-free-3002091004/)  </a>+}
+#, fuzzy
+#| msgid ""
+#| "People try to justify adding nonfree software in the name of the &ldquo;"
+#| "popularity of Linux&rdquo;&mdash;in effect, valuing popularity above "
+#| "freedom.  Sometimes this is openly admitted.  For instance, Wired "
+#| "Magazine said that Robert McMillan, editor of Linux Magazine, &ldquo;"
+#| "feels that the move toward open source software should be fueled by "
+#| "technical, rather than political, decisions.&rdquo; And Caldera's "
+#| "<acronym title=\"Chief Executive Officer\">CEO</acronym> openly urged "
+#| "users to drop the goal of freedom and work instead for the &ldquo;"
+#| "popularity of Linux&rdquo;.  <a href=\"http://web.archive.org/"
+#| "web/20000920053929/http://www.zdnet.com/filters/printerfriendly/ "
+#| "0,6061,2552025-2,00.html\"> (http://web.archive.org/web/20000920053929/"
+#| "http://www.zdnet.com/filters/printerfriendly/ 0,6061,2552025-2,00.html)</"
+#| "a>"
 msgid ""
 "People try to justify adding nonfree software in the name of the &ldquo;"
 "popularity of Linux&rdquo;&mdash;in effect, valuing popularity above "
@@ -177,10 +210,8 @@ msgid ""
 "political, decisions.&rdquo; And Caldera's <acronym title=\"Chief Executive "
 "Officer\">CEO</acronym> openly urged users to drop the goal of freedom and "
 "work instead for the &ldquo;popularity of Linux&rdquo;.  <a href=\"http://"
-"web.archive.org/web/20000920053929/http://www.zdnet.com/filters/"
-"printerfriendly/ 0,6061,2552025-2,00.html\"> (http://web.archive.org/"
-"web/20000920053929/http://www.zdnet.com/filters/printerfriendly/ "
-"0,6061,2552025-2,00.html)</a>"
+"www.zdnet.com/stallman-love-is-not-free-3002091004/\"> (http://www.zdnet.com/"
+"stallman-love-is-not-free-3002091004/)  </a>"
 msgstr ""
 "As pessoas tentam justificar a adição de software não-livre em nome da "
 "“popularidade do Linux” — com efeito, valorizando popularidade sobre "
@@ -379,30 +410,55 @@ msgstr ""
 "feito, nós temos de se reconhecidos pelo que já fizemos. Por favor no ajude, "
 "chamando o sistema de <a href=\"/gnu/linux-and-gnu.html\">GNU/Linux</a>."
 
+#. type: Content of: <blockquote><p>
+msgid ""
+"This essay is published in <a href=\"http://shop.fsf.org/product/free-"
+"software-free-society/\"> <cite>Free Software, Free Society: The Selected "
+"Essays of Richard M. Stallman</cite></a>."
+msgstr ""
+"Este ensaio foi publicado em <a href=\"http://shop.fsf.org/product/free-"
+"software-free-society/\"><cite>Software Livre, Sociedade Livre: Artigos "
+"selecionados de Richard M. Stallman</cite></a>."
+
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
 msgstr " "
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
+# | Please send {+general+} FSF &amp; GNU inquiries to <a
+# | href=\"mailto:gnu@gnu.org\">&lt;gnu@gnu.org&gt;</a>.  There are also <a
+# | href=\"/contact/\">other ways to contact</a> the FSF.  {+Broken links and
+# | other corrections or suggestions can be sent to <a
+# | href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a>.+}
+#, fuzzy
+#| msgid ""
+#| "Please send FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org\">&lt;"
+#| "gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways to "
+#| "contact</a> the FSF."
 msgid ""
-"Please send FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org\">&lt;"
-"gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways to "
-"contact</a> the FSF."
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
 msgstr ""
 "Por favor, envie suas perguntas sobre a FSF e GNU para <a href=\"mailto:"
 "gnu@gnu.org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/"
 "\">outras maneiras para contatar</a> a FSF."
 
-#. type: Content of: <div><p>
-msgid ""
-"Please send broken links and other corrections or suggestions to <a href="
-"\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a>."
-msgstr ""
-"Por favor, envie links quebrados e outras correções ou sugestões para  <a "
-"href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a>."
-
-#. type: Content of: <div><p>
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
 "\">Translations README</a> for information on coordinating and submitting "
@@ -413,7 +469,10 @@ msgstr ""
 "submissão de traduções desse artigo."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2000, 2006, 2007 Richard Stallman"
+# | Copyright &copy; 2000, 2006, [-2007-] {+2007, 2014+} Richard Stallman
+#, fuzzy
+#| msgid "Copyright &copy; 2000, 2006, 2007 Richard Stallman"
+msgid "Copyright &copy; 2000, 2006, 2007, 2014 Richard Stallman"
 msgstr "Copyright &copy; 2000, 2006, 2007 Richard Stallman"
 
 #. type: Content of: <div><p>
@@ -440,3 +499,10 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#~ msgid ""
+#~ "Please send broken links and other corrections or suggestions to <a href="
+#~ "\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a>."
+#~ msgstr ""
+#~ "Por favor, envie links quebrados e outras correções ou sugestões para  <a "
+#~ "href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a>."

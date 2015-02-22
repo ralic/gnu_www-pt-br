@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: doc.html\n"
-"POT-Creation-Date: 2011-09-20 12:25-0300\n"
+"POT-Creation-Date: 2015-02-18 19:25+0000\n"
 "PO-Revision-Date: 2012-04-17 14:07-0300\n"
 "Last-Translator: Arthur Rodrigues Araruna <araruna@gmail.com>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -18,7 +18,12 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
 #. type: Content of: <title>
-msgid "Documentation - GNU Project - Free Software Foundation (FSF)"
+# | Documentation {+of the GNU Project+} - GNU Project - Free Software
+# | Foundation [-(FSF)-]
+#, fuzzy
+#| msgid "Documentation - GNU Project - Free Software Foundation (FSF)"
+msgid ""
+"Documentation of the GNU Project - GNU Project - Free Software Foundation"
 msgstr "Documentação - Projeto GNU - Free Software Foundation (FSF)"
 
 #. type: Content of: <h2>
@@ -85,6 +90,29 @@ msgstr ""
 "redistribuir a documentação do GNU, exatamente como o software do GNU."
 
 #. type: Content of: <p>
+# | Originally, all our documentation was released under a short <a
+# | href=\"/licenses/licenses.html#WhatIsCopyleft\">copyleft</a> license, or
+# | under the <a href=\"/licenses/licenses.html#GPL\">GNU General Public
+# | License (GPL)</a>.  In 2001, the <a
+# | href=\"/licenses/licenses.html#FDL\">GNU Free Documentation License
+# | (FDL)</a> was created to address needs that were not met by licenses
+# | originally designed for software.  For more information on free
+# | documentation, please see <a href=\"http://www.stallman.org/\">Richard
+# | Stallman's</a> essay, &ldquo;<a href=\"/philosophy/free-doc.html\">Free
+# | Software and Free Manuals</a>&rdquo;.  {+A <a
+# | href=\"freemanuals.texi\">Texinfo version of that essay</a> is available
+# | for inclusion in manuals.+}
+#, fuzzy
+#| msgid ""
+#| "Originally, all our documentation was released under a short <a href=\"/"
+#| "licenses/licenses.html#WhatIsCopyleft\">copyleft</a> license, or under "
+#| "the <a href=\"/licenses/licenses.html#GPL\">GNU General Public License "
+#| "(GPL)</a>.  In 2001, the <a href=\"/licenses/licenses.html#FDL\">GNU Free "
+#| "Documentation License (FDL)</a> was created to address needs that were "
+#| "not met by licenses originally designed for software.  For more "
+#| "information on free documentation, please see <a href=\"http://www."
+#| "stallman.org/\">Richard Stallman's</a> essay, &ldquo;<a href=\"/"
+#| "philosophy/free-doc.html\">Free Software and Free Manuals</a>&rdquo;."
 msgid ""
 "Originally, all our documentation was released under a short <a href=\"/"
 "licenses/licenses.html#WhatIsCopyleft\">copyleft</a> license, or under the "
@@ -94,7 +122,8 @@ msgid ""
 "met by licenses originally designed for software.  For more information on "
 "free documentation, please see <a href=\"http://www.stallman.org/\">Richard "
 "Stallman's</a> essay, &ldquo;<a href=\"/philosophy/free-doc.html\">Free "
-"Software and Free Manuals</a>&rdquo;."
+"Software and Free Manuals</a>&rdquo;.  A <a href=\"freemanuals.texi"
+"\">Texinfo version of that essay</a> is available for inclusion in manuals."
 msgstr ""
 "Originalmente, toda a nossa documentação era lançada sob uma curta licença "
 "<a href=\"/licenses/licenses.html#WhatIsCopyleft\">copyleft</a>, ou sob a <a "
@@ -122,11 +151,22 @@ msgstr ""
 "\">clique aqui</a>."
 
 #. type: Content of: <p>
+# | <b>GNU Press:</b> another way to contribute is to help us <a
+# | href=\"/doc/expanding.html\">expand bookstore availability</a> of <a
+# | href=\"/doc/gnupresspub.html\">GNU Press</a> books.  For this or any
+# | reason, you can <a [-href=\"/doc/contact.html\">contact-]
+# | {+href=\"mailto:sales@fsf.org\">contact+} GNU Press</a>.
+#, fuzzy
+#| msgid ""
+#| "<b>GNU Press:</b> another way to contribute is to help us <a href=\"/doc/"
+#| "expanding.html\">expand bookstore availability</a> of <a href=\"/doc/"
+#| "gnupresspub.html\">GNU Press</a> books.  For this or any reason, you can "
+#| "<a href=\"/doc/contact.html\">contact GNU Press</a>."
 msgid ""
 "<b>GNU Press:</b> another way to contribute is to help us <a href=\"/doc/"
 "expanding.html\">expand bookstore availability</a> of <a href=\"/doc/"
 "gnupresspub.html\">GNU Press</a> books.  For this or any reason, you can <a "
-"href=\"/doc/contact.html\">contact GNU Press</a>."
+"href=\"mailto:sales@fsf.org\">contact GNU Press</a>."
 msgstr ""
 "<b>GNU Press:</b> outra maneira de contribuir é ajudar-nos a <a href=\"/doc/"
 "expanding.html\">expandir a disponibilidade em livrarias</a> dos livros da "
@@ -138,25 +178,40 @@ msgstr ""
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
 msgstr " "
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
+# | Please send {+general+} FSF &amp; GNU inquiries to <a
+# | href=\"mailto:gnu@gnu.org\">&lt;gnu@gnu.org&gt;</a>.  There are also <a
+# | href=\"/contact/\">other ways to contact</a> the FSF.  {+Broken links and
+# | other corrections or suggestions can be sent to <a
+# | href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a>.+}
+#, fuzzy
+#| msgid ""
+#| "Please send FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org\">&lt;"
+#| "gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways to "
+#| "contact</a> the FSF."
 msgid ""
-"Please send FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org\">&lt;"
-"gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways to "
-"contact</a> the FSF."
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
 msgstr ""
 "Por favor, envie suas perguntas sobre a FSF e GNU para <a href=\"mailto:"
 "gnu@gnu.org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/"
 "\">outras maneiras para contatar</a> a FSF."
 
-#. type: Content of: <div><p>
-msgid ""
-"Please send broken links and other corrections or suggestions to <a href="
-"\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a>."
-msgstr ""
-"Por favor, envie links quebrados e outras correções ou sugestões para  <a "
-"href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a>."
-
-#. type: Content of: <div><p>
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
 "\">Translations README</a> for information on coordinating and submitting "
@@ -167,9 +222,13 @@ msgstr ""
 "submissão de traduções desse artigo."
 
 #. type: Content of: <div><p>
-msgid ""
-"Copyright &copy; 2001, 2002, 2003, 2004, 2005, 2006, 2008, 2009, 2010 Free "
-"Software Foundation, Inc."
+# | Copyright &copy; [-2001, 2002, 2003, 2004, 2005, 2006, 2008, 2009, 2010-]
+# | {+2014, 2015+} Free Software Foundation, Inc.
+#, fuzzy
+#| msgid ""
+#| "Copyright &copy; 2001, 2002, 2003, 2004, 2005, 2006, 2008, 2009, 2010 "
+#| "Free Software Foundation, Inc."
+msgid "Copyright &copy; 2014, 2015 Free Software Foundation, Inc."
 msgstr ""
 "Copyright &copy; 2001, 2002, 2003, 2004, 2005, 2006, 2008, 2009, 2010 Free "
 "Software Foundation, Inc."
@@ -196,3 +255,10 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#~ msgid ""
+#~ "Please send broken links and other corrections or suggestions to <a href="
+#~ "\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a>."
+#~ msgstr ""
+#~ "Por favor, envie links quebrados e outras correções ou sugestões para  <a "
+#~ "href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a>."

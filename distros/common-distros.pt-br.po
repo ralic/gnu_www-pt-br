@@ -8,7 +8,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: common-distros.html\n"
-"POT-Creation-Date: 2012-10-22 04:25-0300\n"
+"POT-Creation-Date: 2014-06-30 16:25+0000\n"
 "PO-Revision-Date: 2012-11-26 19:31-0200\n"
 "Last-Translator: Rafael Beraldo <rberaldo@cabaladada.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -253,8 +253,14 @@ msgid "Gentoo GNU/Linux"
 msgstr "Gentoo GNU/Linux"
 
 #. type: Content of: <p>
+# | Gentoo [-makes it easy to install-] {+includes installation recipes for+}
+# | a number of nonfree programs [-through-] {+in+} its primary package system.
+#, fuzzy
+#| msgid ""
+#| "Gentoo makes it easy to install a number of nonfree programs through its "
+#| "primary package system."
 msgid ""
-"Gentoo makes it easy to install a number of nonfree programs through its "
+"Gentoo includes installation recipes for a number of nonfree programs in its "
 "primary package system."
 msgstr ""
 "O Gentoo facilita a instalação de uma série de programas não livres por meio "
@@ -285,14 +291,40 @@ msgstr ""
 "dedicados."
 
 #. type: Content of: <h3>
-msgid "openSUSE GNU/Linux"
-msgstr "openSUSE GNU/Linux"
+# | [-Debian-]{+Mint+} GNU/Linux
+#, fuzzy
+#| msgid "Debian GNU/Linux"
+msgid "Mint GNU/Linux"
+msgstr "Debian GNU/Linux"
 
 #. type: Content of: <p>
 msgid ""
-"openSUSE offers its users access to a repository of nonfree software.  This "
-"is an instance of how <a href=\"/philosophy/open-source-misses-the-point.html"
-"\"> &ldquo;open&rdquo; is weaker than &ldquo;free&rdquo;</a>."
+"Mint does not have a policy against including nonfree software, it includes "
+"nonfree binary blobs in drivers packaged with the kernel, and it includes "
+"nonfree programs in its repositories.  It even includes proprietary codecs."
+msgstr ""
+
+#. type: Content of: <h3>
+# | openSUSE [-GNU/Linux-]
+#, fuzzy
+#| msgid "openSUSE GNU/Linux"
+msgid "openSUSE"
+msgstr "openSUSE GNU/Linux"
+
+#. type: Content of: <p>
+# | openSUSE offers [-its users access to-] a repository of nonfree software. 
+# | This is an instance of how <a
+# | href=\"/philosophy/open-source-misses-the-point.html\"> &ldquo;open&rdquo;
+# | is weaker than &ldquo;free&rdquo;</a>.
+#, fuzzy
+#| msgid ""
+#| "openSUSE offers its users access to a repository of nonfree software.  "
+#| "This is an instance of how <a href=\"/philosophy/open-source-misses-the-"
+#| "point.html\"> &ldquo;open&rdquo; is weaker than &ldquo;free&rdquo;</a>."
+msgid ""
+"openSUSE offers a repository of nonfree software.  This is an instance of "
+"how <a href=\"/philosophy/open-source-misses-the-point.html\"> &ldquo;"
+"open&rdquo; is weaker than &ldquo;free&rdquo;</a>."
 msgstr ""
 "O openSUSE oferece aos seus usuários acesso a um repositório de software não "
 "livre. Esse é um exemplo de como o <a href=\"/philosophy/open-source-misses-"
@@ -322,12 +354,27 @@ msgid "Slackware"
 msgstr "Slackware"
 
 #. type: Content of: <p>
+# | Slackware has the two usual problems: there's no clear policy about what
+# | software can be included, and nonfree blobs are included in Linux, the
+# | kernel.  It also ships with the nonfree image-viewing program xv.  Of
+# | course, with no firm policy {+against them, more nonfree programs could
+# | get+} in [-place, there might be other-] {+at any time.  There is an <a
+# | href=\"http://freeslack.net/\">unofficial list</a> of+} nonfree software
+# | [-included that we missed.-] {+in Slackware.+}
+#, fuzzy
+#| msgid ""
+#| "Slackware has the two usual problems: there's no clear policy about what "
+#| "software can be included, and nonfree blobs are included in Linux, the "
+#| "kernel.  It also ships with the nonfree image-viewing program xv.  Of "
+#| "course, with no firm policy in place, there might be other nonfree "
+#| "software included that we missed."
 msgid ""
 "Slackware has the two usual problems: there's no clear policy about what "
 "software can be included, and nonfree blobs are included in Linux, the "
 "kernel.  It also ships with the nonfree image-viewing program xv.  Of "
-"course, with no firm policy in place, there might be other nonfree software "
-"included that we missed."
+"course, with no firm policy against them, more nonfree programs could get in "
+"at any time.  There is an <a href=\"http://freeslack.net/\">unofficial list</"
+"a> of nonfree software in Slackware."
 msgstr ""
 "O Slackware tem os dois problemas habituais: não existe uma política clara "
 "sobre qual tipo de software pode ser incluído e blobs não livres são "
@@ -336,7 +383,27 @@ msgstr ""
 "existam outros software não livres incluídos que não encontramos."
 
 #. type: Content of: <h3>
-msgid "SUSE GNU/Linux"
+msgid "SteamOS"
+msgstr ""
+
+#. type: Content of: <p>
+msgid ""
+"SteamOS, a version of GNU/Linux to be distributed by Valve, is not actually "
+"released for download yet. At present, we can say that it is very unlikely "
+"to be an operating system which respects user freedom, because it is meant "
+"to work closely with the Steam service. Steam uses <a href=\"https://www."
+"defectivebydesign.org/what_is_drm\">Digital Restrictions Management (DRM)</"
+"a> to impose restrictions on the software it distributes. SteamOS will have "
+"to contain the proprietary software necessary to enforce these restrictions. "
+"It will also be designed to promote and integrate with the Steam store, "
+"which promotes a large amount of proprietary software."
+msgstr ""
+
+#. type: Content of: <h3>
+# | SUSE GNU/Linux {+Enterprise+}
+#, fuzzy
+#| msgid "SUSE GNU/Linux"
+msgid "SUSE GNU/Linux Enterprise"
 msgstr "SUSE GNU/Linux"
 
 #. type: Content of: <p>
@@ -481,30 +548,56 @@ msgstr ""
 "explica como instalar as aplicações não livres que o Google distribui com o "
 "Android."
 
+#. type: Content of: <h3>
+msgid "ReactOS"
+msgstr ""
+
+#. type: Content of: <p>
+msgid ""
+"ReactOS is meant as a free binary compatible replacement for Windows. "
+"Allowing people to continue using the proprietary software and drivers meant "
+"for Windows is one of the stated goals of the project."
+msgstr ""
+
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
 msgstr " "
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
+# | Please send general FSF &amp; GNU inquiries to <a
+# | href=\"mailto:gnu@gnu.org\">&lt;gnu@gnu.org&gt;</a>.  There are also <a
+# | href=\"/contact/\">other ways to contact</a> the FSF.  {+Broken links and
+# | other corrections or suggestions can be sent to <a
+# | href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a>.+}
+#, fuzzy
+#| msgid ""
+#| "Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu."
+#| "org\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/"
+#| "\">other ways to contact</a> the FSF."
 msgid ""
 "Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
 "\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
-"to contact</a> the FSF."
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
 msgstr ""
 "Por favor, envie suas perguntas sobre a FSF e GNU para <a href=\"mailto:"
 "gnu@gnu.org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/"
 "\">outras maneiras para contatar</a> a FSF."
 
-#. type: Content of: <div><p>
-msgid ""
-"Please send broken links and other corrections or suggestions to <a href="
-"\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a>."
-msgstr ""
-"Por favor, envie links quebrados e outras correções ou sugestões para <a "
-"href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a>."
-
-#. type: Content of: <div><p>
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
 "\">Translations README</a> for information on coordinating and submitting "
@@ -515,7 +608,10 @@ msgstr ""
 "submissão de traduções desse artigo."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2011 Free Software Foundation, Inc."
+# | Copyright &copy; 201[-1-]{+4+} Free Software Foundation, Inc.
+#, fuzzy
+#| msgid "Copyright &copy; 2011 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2014 Free Software Foundation, Inc."
 msgstr "Copyright &copy; 2011 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
@@ -540,3 +636,10 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#~ msgid ""
+#~ "Please send broken links and other corrections or suggestions to <a href="
+#~ "\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a>."
+#~ msgstr ""
+#~ "Por favor, envie links quebrados e outras correções ou sugestões para <a "
+#~ "href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a>."

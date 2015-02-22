@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: free-system-distribution-guidelines.html\n"
-"POT-Creation-Date: 2012-10-29 12:25-0300\n"
+"POT-Creation-Date: 2014-08-22 15:56+0000\n"
 "PO-Revision-Date: 2013-02-06 05:12-0200\n"
 "Last-Translator: Rafael Beraldo <rberaldo@cabaladada.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -18,8 +18,14 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
 #. type: Content of: <title>
+# | [-Guidelines for-]Free System [-Distributions-] {+Distribution Guidelines
+# | (GNU FSDG)+} - GNU Project - Free Software Foundation
+#, fuzzy
+#| msgid ""
+#| "Guidelines for Free System Distributions - GNU Project - Free Software "
+#| "Foundation"
 msgid ""
-"Guidelines for Free System Distributions - GNU Project - Free Software "
+"Free System Distribution Guidelines (GNU FSDG) - GNU Project - Free Software "
 "Foundation"
 msgstr ""
 "Diretrizes para Distribuições de Sistemas Livres - Projeto GNU - Free "
@@ -30,7 +36,11 @@ msgid "Free GNU/Linux distributions"
 msgstr "Distribuições GNU/Linux livres"
 
 #. type: Content of: <h2>
-msgid "Guidelines for Free System Distributions"
+# | [-Guidelines for-]Free System [-Distributions-] {+Distribution Guidelines
+# | (GNU FSDG)+}
+#, fuzzy
+#| msgid "Guidelines for Free System Distributions"
+msgid "Free System Distribution Guidelines (GNU FSDG)"
 msgstr "Diretrizes para Distribuições de Sistemas Livres"
 
 #. type: Content of: <h3>
@@ -38,11 +48,22 @@ msgid "Introduction"
 msgstr "Introdução"
 
 #. type: Content of: <p>
+# | The purpose of these guidelines is to explain what it means for an
+# | installable system distribution (such as a GNU/Linux distribution) to
+# | qualify as [-free,-] {+<a href=\"/philosophy/free-sw.html\">free</a>
+# | (libre),+} and help distribution developers make their distributions
+# | qualify.
+#, fuzzy
+#| msgid ""
+#| "The purpose of these guidelines is to explain what it means for an "
+#| "installable system distribution (such as a GNU/Linux distribution) to "
+#| "qualify as free, and help distribution developers make their "
+#| "distributions qualify."
 msgid ""
 "The purpose of these guidelines is to explain what it means for an "
 "installable system distribution (such as a GNU/Linux distribution) to "
-"qualify as free, and help distribution developers make their distributions "
-"qualify."
+"qualify as <a href=\"/philosophy/free-sw.html\">free</a> (libre), and help "
+"distribution developers make their distributions qualify."
 msgstr ""
 "O propósito destas diretrizes é explicar qual o significado de uma "
 "distribuição de sistema instalável (como uma distribuição GNU/Linux) se "
@@ -74,18 +95,43 @@ msgid "Complete Distros"
 msgstr "Distribuições Completas"
 
 #. type: Content of: <p>
+# | Our list of distributions is a guide for [-what to-] {+systems you can+}
+# | install in a computer.  Therefore, it only includes distributions that are
+# | complete in themselves and ready to use.  If a distribution is incomplete
+# | &mdash; if [-using-] it requires further [-work-] {+development,+} or
+# | presupposes installing other software as well &mdash; then it [-doesn't
+# | belong in this list,-] {+is not listed here,+} even if it is free software.
+#, fuzzy
+#| msgid ""
+#| "Our list of distributions is a guide for what to install in a computer.  "
+#| "Therefore, it only includes distributions that are complete in themselves "
+#| "and ready to use.  If a distribution is incomplete &mdash; if using it "
+#| "requires further work or presupposes installing other software as well "
+#| "&mdash; then it doesn't belong in this list, even if it is free software."
 msgid ""
-"Our list of distributions is a guide for what to install in a computer.  "
-"Therefore, it only includes distributions that are complete in themselves "
-"and ready to use.  If a distribution is incomplete &mdash; if using it "
-"requires further work or presupposes installing other software as well "
-"&mdash; then it doesn't belong in this list, even if it is free software."
+"Our list of distributions is a guide for systems you can install in a "
+"computer.  Therefore, it only includes distributions that are complete in "
+"themselves and ready to use.  If a distribution is incomplete &mdash; if it "
+"requires further development, or presupposes installing other software as "
+"well &mdash; then it is not listed here, even if it is free software."
 msgstr ""
 "Nossa lista de distribuições é um guia para o que instalar em um computador. "
 "Portanto, ela só inclui distribuições que estão completas e prontas para "
 "usar. Se uma distribuição está incompleta - se usá-la requer mais trabalho "
 "ou pressupõe a instalação de outros softwares -, ela não pertence a esta "
 "lista, mesmo que seja software livre."
+
+#. type: Content of: <p>
+msgid ""
+"An exception to this requirement and to the self-hosting requirement above "
+"is for <em>small system distributions</em>, which are distros designed for "
+"devices with limited resources, like a wireless router for example. Free "
+"small system distributions do not need to be self-hosting or complete, "
+"because it is impractical to do development on such a system, but it must be "
+"developable and buildable on top of a free complete system distribution from "
+"our list of distributions, perhaps with the aid of free tools distributed "
+"alongside the small system distribution itself."
+msgstr ""
 
 #. type: Content of: <h3>
 msgid "License Rules"
@@ -114,15 +160,39 @@ msgstr ""
 "se façam alterações a ela.)"
 
 #. type: Content of: <p>
+# | The information, and the source, must be provided under an appropriate
+# | [-free license.-] {+<a href=\"/philosophy/free-sw.html\">free
+# | license</a>.+}  We {+evaluate specific licenses and+} list [-the ones we
+# | have evaluated on-] {+our determinations in+} <a class=\"reference\"
+# | href=\"/licenses/license-list.html\">our license list</a>, with separate
+# | sections for licenses that are suitable for software, documentation,
+# | fonts, and other useful works.  If such a work is released under
+# | [-multiple-] {+a disjunction of+} licenses, {+the work is free as long
+# | as+} at least one of [-which-] {+its licenses+} is [-free, it can be
+# | included in the system;-] {+free;+} the system developers [-just need to-]
+# | {+should+} follow the terms of the [-available-] {+applicable+} free
+# | license(s) when they distribute and/or modify it.
+#, fuzzy
+#| msgid ""
+#| "The information, and the source, must be provided under an appropriate "
+#| "free license.  We list the ones we have evaluated on <a class=\"reference"
+#| "\" href=\"/licenses/license-list.html\">our license list</a>, with "
+#| "separate sections for licenses that are suitable for software, "
+#| "documentation, fonts, and other useful works.  If such a work is released "
+#| "under multiple licenses, at least one of which is free, it can be "
+#| "included in the system; the system developers just need to follow the "
+#| "terms of the available free license(s) when they distribute and/or modify "
+#| "it."
 msgid ""
-"The information, and the source, must be provided under an appropriate free "
-"license.  We list the ones we have evaluated on <a class=\"reference\" href="
-"\"/licenses/license-list.html\">our license list</a>, with separate sections "
+"The information, and the source, must be provided under an appropriate <a "
+"href=\"/philosophy/free-sw.html\">free license</a>.  We evaluate specific "
+"licenses and list our determinations in <a class=\"reference\" href=\"/"
+"licenses/license-list.html\">our license list</a>, with separate sections "
 "for licenses that are suitable for software, documentation, fonts, and other "
-"useful works.  If such a work is released under multiple licenses, at least "
-"one of which is free, it can be included in the system; the system "
-"developers just need to follow the terms of the available free license(s) "
-"when they distribute and/or modify it."
+"useful works.  If such a work is released under a disjunction of licenses, "
+"the work is free as long as at least one of its licenses is free; the system "
+"developers should follow the terms of the applicable free license(s) when "
+"they distribute and/or modify it."
 msgstr ""
 "A informação, e sua fonte, devem ser fornecidas sob uma licença livre "
 "apropriada. Nós listamos aquelas que nós avaliamos em <a class=\"reference\" "
@@ -169,14 +239,31 @@ msgstr ""
 "compilado usando software não-livre."
 
 #. type: Content of: <p>
+# | There's a lot of code in most free system distributions today; the amount
+# | of effort it would take to audit it all directly is impractical for most
+# | teams.  In the past, some nonfree code has accidentally been included in
+# | free system distributions.  We don't de-list distributions because of
+# | this; instead, we only ask that a [-distribution put forth-]
+# | {+distribution's developers make+} a good faith effort to avoid including
+# | nonfree software, and commit [-itself-] {+themselves+} to removing such
+# | programs if [-they-] {+any+} are [-discovered later.-] {+discovered.+}
+#, fuzzy
+#| msgid ""
+#| "There's a lot of code in most free system distributions today; the amount "
+#| "of effort it would take to audit it all directly is impractical for most "
+#| "teams.  In the past, some nonfree code has accidentally been included in "
+#| "free system distributions.  We don't de-list distributions because of "
+#| "this; instead, we only ask that a distribution put forth a good faith "
+#| "effort to avoid including nonfree software, and commit itself to removing "
+#| "such programs if they are discovered later."
 msgid ""
 "There's a lot of code in most free system distributions today; the amount of "
 "effort it would take to audit it all directly is impractical for most "
 "teams.  In the past, some nonfree code has accidentally been included in "
 "free system distributions.  We don't de-list distributions because of this; "
-"instead, we only ask that a distribution put forth a good faith effort to "
-"avoid including nonfree software, and commit itself to removing such "
-"programs if they are discovered later."
+"instead, we only ask that a distribution's developers make a good faith "
+"effort to avoid including nonfree software, and commit themselves to "
+"removing such programs if any are discovered."
 msgstr ""
 "Há muito código na maioria das distribuições de sistema livre hoje em dia. A "
 "quantidade de esforço que seria necessário para auditar tudo é impraticável "
@@ -430,17 +517,42 @@ msgstr ""
 "patente."
 
 #. type: Content of: <h3>
+msgid "No Malware"
+msgstr ""
+
+#. type: Content of: <p>
+msgid "The distro must contain no DRM, no back doors, and no spyware."
+msgstr ""
+
+#. type: Content of: <h3>
 msgid "Commitment to Correct Mistakes"
 msgstr "Compromisso com a Correção de Erros"
 
 #. type: Content of: <p>
+# | Most distribution development teams don't have the resources to
+# | exhaustively check that their distribution meet all these criteria. 
+# | Neither do we.  So we expect [-developers-] {+distros+} to occasionally
+# | [-make mistakes that let some-] {+contain mistakes:+} nonfree software
+# | [-slip-] {+that slipped+} through, [-and we-] {+etc.  We+} don't reject a
+# | distribution [-just for that.-] {+over mistakes.+}  Our requirement is for
+# | the distribution developers to have a firm commitment to promptly correct
+# | any mistakes that are reported to them.
+#, fuzzy
+#| msgid ""
+#| "Most distribution development teams don't have the resources to "
+#| "exhaustively check that their distribution meet all these criteria.  "
+#| "Neither do we.  So we expect developers to occasionally make mistakes "
+#| "that let some nonfree software slip through, and we don't reject a "
+#| "distribution just for that.  Our requirement is for the distribution "
+#| "developers to have a firm commitment to promptly correct any mistakes "
+#| "that are reported to them."
 msgid ""
 "Most distribution development teams don't have the resources to exhaustively "
 "check that their distribution meet all these criteria.  Neither do we.  So "
-"we expect developers to occasionally make mistakes that let some nonfree "
-"software slip through, and we don't reject a distribution just for that.  "
-"Our requirement is for the distribution developers to have a firm commitment "
-"to promptly correct any mistakes that are reported to them."
+"we expect distros to occasionally contain mistakes: nonfree software that "
+"slipped through, etc.  We don't reject a distribution over mistakes.  Our "
+"requirement is for the distribution developers to have a firm commitment to "
+"promptly correct any mistakes that are reported to them."
 msgstr ""
 "A maioria das equipes de desenvolvimento de distribuição não possuem "
 "recursos para verificar exaustivamente se suas distribuições correspondem a "
@@ -530,16 +642,41 @@ msgstr ""
 "sobre essa questão."
 
 #. type: Content of: <h3>
+msgid "Please Avoid Repeating Propaganda and Confusion"
+msgstr ""
+
+#. type: Content of: <p>
+msgid ""
+"Please see our list of <a href=\"/philosophy/words-to-avoid.html\">words to "
+"avoid</a>, which are either biased, misguided or misleading, and try to "
+"avoid them in your public statements and discussions with the public."
+msgstr ""
+
+#. type: Content of: <h3>
 msgid "Final Notes"
 msgstr "Notas Finais"
 
 #. type: Content of: <p>
+# | We maintain a list of the <a href=\"/distros/free-distros.html\">free
+# | {+GNU+} system distributions</a> we know about.  If you know about a free
+# | distribution that isn't listed there, please ask its developers write to
+# | &lt;<a class=\"reference\"
+# | href=\"mailto:webmasters@gnu.org\">webmasters@gnu.org</a>&gt; with a
+# | description of their system and a link to their web page.
+#, fuzzy
+#| msgid ""
+#| "We maintain a list of the <a href=\"/distros/free-distros.html\">free "
+#| "system distributions</a> we know about.  If you know about a free "
+#| "distribution that isn't listed there, please ask its developers write to "
+#| "&lt;<a class=\"reference\" href=\"mailto:webmasters@gnu.org"
+#| "\">webmasters@gnu.org</a>&gt; with a description of their system and a "
+#| "link to their web page."
 msgid ""
-"We maintain a list of the <a href=\"/distros/free-distros.html\">free system "
-"distributions</a> we know about.  If you know about a free distribution that "
-"isn't listed there, please ask its developers write to &lt;<a class="
-"\"reference\" href=\"mailto:webmasters@gnu.org\">webmasters@gnu.org</a>&gt; "
-"with a description of their system and a link to their web page."
+"We maintain a list of the <a href=\"/distros/free-distros.html\">free GNU "
+"system distributions</a> we know about.  If you know about a free "
+"distribution that isn't listed there, please ask its developers write to &lt;"
+"<a class=\"reference\" href=\"mailto:webmasters@gnu.org\">webmasters@gnu."
+"org</a>&gt; with a description of their system and a link to their web page."
 msgstr ""
 "Mantemos uma lista das <a href=\"/distros/free-distros.html\">distribuições "
 "de sistemas livres</a> que temos conhecimento. Se você conhece alguma "
@@ -550,14 +687,9 @@ msgstr ""
 
 #. type: Content of: <p>
 msgid ""
-"Our list consists of systems based on GNU which acknowledge that they are "
-"based on GNU.  At present, we know of no other systems that would qualify.  "
-"If someday there is one, we will list it, but not necessarily in same way."
+"We also list <a href=\"/distros/free-non-gnu-distros.html\">free non-GNU "
+"system distributions</a> on the same ethical conditions."
 msgstr ""
-"Nossa lista é composta de sistemas baseados no GNU que reconhecem que são "
-"baseados no GNU. No presente momento, nós sabemos de nenhum outro sistema "
-"que se qualificaria. Se algum dia houver algum, iremos listá-lo, mas não "
-"necessariamente da mesma forma."
 
 #. type: Content of: <p>
 msgid ""
@@ -578,25 +710,40 @@ msgstr ""
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
 msgstr " "
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
+# | Please send {+general+} FSF &amp; GNU inquiries to <a
+# | href=\"mailto:gnu@gnu.org\">&lt;gnu@gnu.org&gt;</a>.  There are also <a
+# | href=\"/contact/\">other ways to contact</a> the FSF.  {+Broken links and
+# | other corrections or suggestions can be sent to <a
+# | href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a>.+}
+#, fuzzy
+#| msgid ""
+#| "Please send FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org\">&lt;"
+#| "gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways to "
+#| "contact</a> the FSF."
 msgid ""
-"Please send FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org\">&lt;"
-"gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways to "
-"contact</a> the FSF."
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
 msgstr ""
 "Por favor, envie suas perguntas sobre a FSF e GNU para <a href=\"mailto:"
 "gnu@gnu.org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/"
 "\">outras maneiras para contatar</a> a FSF."
 
-#. type: Content of: <div><p>
-msgid ""
-"Please send broken links and other corrections or suggestions to <a href="
-"\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a>."
-msgstr ""
-"Por favor, envie links quebrados e outras correções ou sugestões para <a "
-"href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a>."
-
-#. type: Content of: <div><p>
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
 "\">Translations README</a> for information on coordinating and submitting "
@@ -607,7 +754,10 @@ msgstr ""
 "submissão de traduções desse artigo."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2010 Free Software Foundation, Inc."
+# | Copyright &copy; 201[-0-]{+4+} Free Software Foundation, Inc.
+#, fuzzy
+#| msgid "Copyright &copy; 2010 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2014 Free Software Foundation, Inc."
 msgstr "Copyright &copy; 2010 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
@@ -632,3 +782,24 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#~ msgid "Guidelines for Free System Distributions"
+#~ msgstr "Diretrizes para Distribuições de Sistemas Livres"
+
+#~ msgid ""
+#~ "Our list consists of systems based on GNU which acknowledge that they are "
+#~ "based on GNU.  At present, we know of no other systems that would "
+#~ "qualify.  If someday there is one, we will list it, but not necessarily "
+#~ "in same way."
+#~ msgstr ""
+#~ "Nossa lista é composta de sistemas baseados no GNU que reconhecem que são "
+#~ "baseados no GNU. No presente momento, nós sabemos de nenhum outro sistema "
+#~ "que se qualificaria. Se algum dia houver algum, iremos listá-lo, mas não "
+#~ "necessariamente da mesma forma."
+
+#~ msgid ""
+#~ "Please send broken links and other corrections or suggestions to <a href="
+#~ "\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a>."
+#~ msgstr ""
+#~ "Por favor, envie links quebrados e outras correções ou sugestões para <a "
+#~ "href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a>."

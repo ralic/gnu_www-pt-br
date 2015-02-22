@@ -8,7 +8,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: edu-software-tuxpaint\n"
-"POT-Creation-Date: 2012-05-17 20:25-0300\n"
+"POT-Creation-Date: 2014-04-25 17:26+0000\n"
 "PO-Revision-Date: 2012-11-25 14:12-0200\n"
 "Last-Translator: Rafael Beraldo <rberaldo@cabaladada.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -19,12 +19,11 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
 #. type: Content of: <title>
-msgid "Tux Paint - GNU Project - Free Software Foundation (FSF)"
+# | Tux Paint - GNU Project - Free Software Foundation [-(FSF)-]
+#, fuzzy
+#| msgid "Tux Paint - GNU Project - Free Software Foundation (FSF)"
+msgid "Tux Paint - GNU Project - Free Software Foundation"
 msgstr "Tux Paint - Projeto GNU - Free Software Foundation (FSF)"
-
-#. type: Content of: <div><h2>
-msgid "Tux Paint"
-msgstr "Tux Paint"
 
 #. type: Content of: <div><ul><li>
 msgid "<a href=\"/education/edu-contents.html\">Education Contents</a>"
@@ -59,6 +58,10 @@ msgstr ""
 "<a href=\"/education/education.html\">Educação</a> &rarr; <a href=\"/"
 "education/edu-resources.html\">Recursos Educacionais</a> &rarr; <a href=\"/"
 "education/edu-software.html\">Software Livre Educacional</a> &rarr; Tux Paint"
+
+#. type: Content of: <h2>
+msgid "Tux Paint"
+msgstr "Tux Paint"
 
 #. type: Content of: <h3>
 msgid "Description"
@@ -384,25 +387,40 @@ msgstr ""
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
 msgstr " "
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
+# | Please send general FSF &amp; GNU inquiries to <a
+# | href=\"mailto:gnu@gnu.org\">&lt;gnu@gnu.org&gt;</a>.  There are also <a
+# | href=\"/contact/\">other ways to contact</a> the FSF.  {+Broken links and
+# | other corrections or suggestions can be sent to <a
+# | href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a>.+}
+#, fuzzy
+#| msgid ""
+#| "Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu."
+#| "org\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/"
+#| "\">other ways to contact</a> the FSF."
 msgid ""
 "Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
 "\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
-"to contact</a> the FSF."
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
 msgstr ""
 "Por favor, envie suas perguntas sobre a FSF e GNU para <a href=\"mailto:"
 "gnu@gnu.org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/"
 "\">outras maneiras para contatar</a> a FSF."
 
-#. type: Content of: <div><p>
-msgid ""
-"Please send broken links and other corrections or suggestions to <a href="
-"\"mailto:education@gnu.org\">&lt;education@gnu.org&gt;</a>."
-msgstr ""
-"Por favor, envie links quebrados e outras correções ou sugestões para  <a "
-"href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a>."
-
-#. type: Content of: <div><p>
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
 "\">Translations README</a> for information on coordinating and submitting "
@@ -413,7 +431,11 @@ msgstr ""
 "submissão de traduções desse artigo."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2011, 2012 Free Software Foundation, Inc."
+# | Copyright &copy; 2011, [-2012-] {+2012, 2014+} Free Software Foundation,
+# | Inc.
+#, fuzzy
+#| msgid "Copyright &copy; 2011, 2012 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2011, 2012, 2014 Free Software Foundation, Inc."
 msgstr "Copyright &copy; 2011, 2012 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
@@ -440,3 +462,10 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização:"
+
+#~ msgid ""
+#~ "Please send broken links and other corrections or suggestions to <a href="
+#~ "\"mailto:education@gnu.org\">&lt;education@gnu.org&gt;</a>."
+#~ msgstr ""
+#~ "Por favor, envie links quebrados e outras correções ou sugestões para  <a "
+#~ "href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a>."
