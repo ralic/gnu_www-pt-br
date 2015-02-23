@@ -1,0 +1,313 @@
+# Brazilian Portuguese translation of http://www.gnu.org/keepingup.html
+# Copyright (C) 2009 Free Software Foundation, Inc.
+# This file is distributed under the same license as the gnu.org article.
+# Leandro Guimarães Faria Corcete DUTRA <leandro.gfc.dutra@gmail.com>, 2009.
+# Dec 2014: trivial update of a few strings (T. Godefroy).
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: keepingup.html\n"
+"POT-Creation-Date: 2014-08-19 03:55+0000\n"
+"PO-Revision-Date: 2009-02-07 22:55+0200\n"
+"Last-Translator: Leandro Guimarães Faria Corcete DUTRA <leandro.gfc."
+"dutra@gmail.com>\n"
+"Language-Team: Brazilian Portuguese\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Outdated-Since: 2011-09-20 04:25-0300\n"
+
+# type: Content of: <title>
+#. type: Content of: <title>
+msgid ""
+"Keeping Up With GNU and the FSF - GNU Project - Free Software Foundation"
+msgstr ""
+"Mantendo-se Atualizado com o GNU e a FSF - Projeto GNU - Free Software "
+"Foundation"
+
+# type: Content of: <h2>
+#. type: Content of: <h2>
+msgid "Keeping Up With GNU and the FSF"
+msgstr "Mantendo-se Atualizado com o GNU e a FSF"
+
+# type: Content of: <p>
+#. type: Content of: <p>
+msgid ""
+"This page contains a list of resources to help you keep up to date on what "
+"is happening with the GNU Project and the Free Software Foundation."
+msgstr ""
+"Esta página contém uma lista de recursos para ajudar a manter-se atualizado "
+"sobre o que acontece com o Projeto GNU e a Free Software Foundation"
+
+# type: Content of: <h3>
+#. type: Content of: <h3>
+msgid "What's New"
+msgstr "Novidades"
+
+# type: Content of: <p>
+#. type: Content of: <p>
+msgid ""
+"Find out <a href=\"http://planet.gnu.org/\">What's New in and about the GNU "
+"Project</a>."
+msgstr ""
+"Descubra <a href=\"http://planet.gnu.org/\">As Novidades de e sobre o "
+"Projeto GNU</a>."
+
+# type: Content of: <h3>
+#. type: Content of: <h3>
+msgid "Take Action"
+msgstr "Aja"
+
+# type: Content of: <p>
+#. type: Content of: <p>
+msgid ""
+"Keep up on what <a href=\"/server/takeaction.html\">you can do</a> to keep "
+"software free, and promote the freedoms of speech, press, and association on "
+"the Internet."
+msgstr ""
+"Atualize-se sobre <a href = \"/server/takeaction.html\">o que pode fazer</a> "
+"para manter a liberdade em sistemas, e promover as liberdades de expressão, "
+"divulgação, e associação na Rede."
+
+# type: Content of: <h3>
+#. type: Content of: <h3>
+msgid "Coming Events"
+msgstr "Eventos Vindouros"
+
+# type: Content of: <p>
+#. type: Content of: <p>
+msgid "Find out about <a href=\"/events.html\">coming FSF and GNU Events</a>."
+msgstr "Saiba sobre <a href=\"/events.html\">eventos vindouros FSF e GNU</a>."
+
+# type: Content of: <h3>
+#. type: Content of: <h3>
+msgid "Press Releases"
+msgstr "Informes à Imprensa"
+
+#. type: Content of: <p>
+#, fuzzy
+#| msgid ""
+#| "Read the <a href=\"/press/press.html#releases\">Press Releases</a> from "
+#| "the GNU Project and the FSF."
+msgid ""
+"Read the <a href=\"//fsf.org/news\">press releases</a> from the GNU Project "
+"and the FSF.  <a href=\"/press/press.html#releases\">Old press releases</a> "
+"are also available."
+msgstr ""
+"Leia os <a href = \"/press/press.html#releases\">Informes à Imprensa</a> do "
+"Projeto GNU e da FSF."
+
+# type: Content of: <h3>
+#. type: Content of: <h3>
+msgid "Free Software Directory"
+msgstr "Lista de Programas Livres"
+
+# type: Content of: <p>
+#. type: Content of: <p>
+#, fuzzy
+#| msgid ""
+#| "Additions and updates are constantly made to the <a href=\"http://"
+#| "directory.fsf.org\">Free Software Directory</a>.  Check the list of "
+#| "recent updates often to see what's new."
+msgid ""
+"Additions and updates are constantly made to the <a href=\"http://directory."
+"fsf.org\">Free Software Directory</a>.  Check the list of recent updates "
+"often to see what's new (and consider contributing)."
+msgstr ""
+"Adiciona-se a, e atualiza-se, constantemente a <a href = \"http://directory."
+"fsf.org\">Lista de Sistemas Livres</a>.  Confira freqüentemente a lista de "
+"atualizações recentes para saber das novidades."
+
+# type: Content of: <h3>
+#. type: Content of: <h3>
+msgid "Mailing Lists"
+msgstr "Listas de Discussão"
+
+# type: Content of: <p>
+#. type: Content of: <p>
+msgid ""
+"There are many <a href=\"http://lists.gnu.org\">public mailing lists</a> "
+"related to the GNU Project and the FSF. You can subscribe to these lists to "
+"keep up with the latest news and developments on GNU Projects/Packages and "
+"to get general information about GNU/FSF."
+msgstr ""
+"Há muitas <a href=\"http://lists.gnu.org\">listas públicas de discussão</a> "
+"relacionadas ao Projeto GNU e à FSF.  Pode-se assinar essas listas para "
+"manter-se atualizado sobre as últimas novidades e acontecimentos de Projetos "
+"e Pacotes GNU, e obter informações gerais sobre o GNU e a FSF."
+
+# type: Content of: <p>
+#. type: Content of: <p>
+msgid "Here are some that are good for general info:"
+msgstr "Estas têm boas informações gerais:"
+
+#. type: Content of: <ul><li>
+#, fuzzy
+msgid ""
+"<a href=\"//www.fsf.org/free-software-supporter/\"> The Free Software "
+"Supporter</a> will keep you up-to-date each month on news from the free "
+"software movement.  The Free Software Supporter is published in English, "
+"Spanish, and French."
+msgstr ""
+"O <a href=\"//www.fsf.org/free-software-supporter/\"> Free Software "
+"Supporter</a>, um informativo mensal sobre o GNU e a FSF."
+
+# type: Content of: <ul><li>
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"http://mail.gnu.org/mailman/listinfo/info-gnu\"> info-gnu</a>: "
+"Announcements and requests for help from the GNU project and the Free "
+"Software Foundation."
+msgstr ""
+"<a href = \"http://mail.gnu.org/mailman/listinfo/info-gnu\">info-gnu</a>: "
+"anúncios e pedidos de ajuda do projeto GNU e da Free Software Foundation."
+
+# type: Content of: <ul><li>
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"http://mail.gnu.org/mailman/listinfo/info-gnu-events\"> info-gnu-"
+"events</a>: Announcements of GNU and FSF events."
+msgstr ""
+"<a href = \"http://mail.gnu.org/mailman/listinfo/info-gnu/events\">info-gnu-"
+"events</a>: anúncios de eventos GNU e da FSF."
+
+# type: Content of: <ul><li>
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"http://mail.gnu.org/mailman/listinfo/info-press\"> info-press</a>: "
+"GNU press announcements."
+msgstr ""
+"<a href = \"http://mail.gnu.org/mailman/listinfo/info-press\">info-press</"
+"a>: anúncios à imprensa GNU."
+
+# type: Content of: <h3>
+#. type: Content of: <h3>
+msgid "Usenet"
+msgstr "Usenet"
+
+# type: Content of: <p>
+#. type: Content of: <p>
+msgid ""
+"There are several gnu.* Usenet newsgroups that are good sources of "
+"information.  This group is useful in keeping up with what's going on with "
+"GNU:"
+msgstr ""
+"Há vários grupos de notícias Usenet gnu.* que são boas fontes de informação. "
+"O seguinte grupo é útil para acompanhar o que acontece com o GNU:"
+
+# type: Content of: <ul><li>
+#. type: Content of: <ul><li>
+msgid "gnu.announce"
+msgstr "gnu.announce"
+
+# type: Content of: <h3>
+#. type: Content of: <h3>
+msgid "News in Spanish"
+msgstr "Notícias em espanhol"
+
+# type: Content of: <p>
+#. type: Content of: <p>
+msgid ""
+"You can get news about GNU in Spanish at <a href=\"http://gnuticias.es.gnu."
+"org\">GNUticias</a>."
+msgstr ""
+"Pode-se obter notícias em espanhol sobre o GNU em <a href = \"http://"
+"gnuticias.es.gnu.org/\">GNUticias</a>"
+
+# type: Content of: <div>
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+# type: Content of: <div><p>
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF.  Links quebrados e outras correções ou "
+"sugestões podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
+"envio de traduções das páginas desse site."
+
+#. type: Content of: <div><p>
+#, fuzzy
+#| msgid "Copyright &copy; 2011, 2012 Free Software Foundation, Inc."
+msgid ""
+"Copyright &copy; 2003, 2004, 2005, 2006, 2007, 2014 Free Software "
+"Foundation, Inc."
+msgstr "Copyright &copy; 2011, 2012 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
+"NoDerivs 3.0 United States License</a>."
+msgstr ""
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/3.0/us/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 3.0 Estados Unidos</a>."
+
+# type: Content of: <div><div>
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr "<b>Tradução:</b> Leandro Guimarães Faria Corcete DUTRA"
+
+# type: Content of: <div><p>
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização: "
+
+# type: Content of: <p>
+#~ msgid ""
+#~ "Read the <a href=\"/press/press.html#releases\">Press Releases</a> from "
+#~ "the GNU Project and the FSF."
+#~ msgstr ""
+#~ "Leia os <a href = \"/press/press.html#releases\">Informes à Imprensa</a> "
+#~ "do Projeto GNU e da FSF."
+
+# type: Content of: <ul><li>
+#~ msgid ""
+#~ "<a href=\"http://mail.gnu.org/mailman/listinfo/info-fsf\"> info-fsf</a>: "
+#~ "Free Software Foundation announcements and information."
+#~ msgstr ""
+#~ "<a href = \"http://mail.gnu.org/mailman/listinfo/info-fsf\">info-fsf</a>: "
+#~ "anúnicos e informações da Free Software Foundation."
+
+# type: Content of: <h3>
+#~ msgid "News"
+#~ msgstr "Notícias"
