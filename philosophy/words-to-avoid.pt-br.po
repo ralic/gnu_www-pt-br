@@ -9,28 +9,28 @@ msgid ""
 msgstr ""
 "Project-Id-Version: words-to-avoid.html\n"
 "POT-Creation-Date: 2015-01-06 21:23+0100\n"
-"PO-Revision-Date: 2015-02-05 17:13-0200\n"
-"Last-Translator: Rafael Beraldo <rberaldo@cabaladada.org>\n"
+"PO-Revision-Date: 2015-02-23 10:11-0000\n"
+"Last-Translator: Tássio Naia <tassio.naia@gmail.com>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Outdated-Since: 2002-04-10 18:56+0000\n"
+"X-Generator: Poedit 1.5.5\n"
 
 #. type: Content of: <title>
 msgid ""
 "Words to Avoid (or Use with Care) Because They Are Loaded or Confusing - GNU "
 "Project - Free Software Foundation"
 msgstr ""
-"Palavras a se Evitar (ou Usar com Cuidado) Porque São Carregadas de Sentido "
-"ou Confusas - Projeto GNU - Free Software Foundation"
+"Palavras a Evitar (ou Usar com Cuidado) Porque São Carregadas de Sentido ou "
+"Confusas - Projeto GNU - Free Software Foundation"
 
 #. type: Content of: <h2>
 msgid "Words to Avoid (or Use with Care) Because They Are Loaded or Confusing"
 msgstr ""
-"Palavras a se Evitar (ou Usar com Cuidado) Porque São Carregadas de Sentido "
-"ou Confusas"
+"Palavras a se Evitar (ou Usar com Cuidado) Porque Enviesadas ou Confusas"
 
 #. type: Content of: <p>
 msgid ""
@@ -41,8 +41,8 @@ msgid ""
 msgstr ""
 "Existem várias palavras ou frases que recomendamos evitar completamente ou "
 "evitar em alguns contextos e usos. Algumas são ambíguas ou enganosas; outras "
-"pressupõe um ponto de vista com o qual discordamos e esperamos que você "
-"também discorde."
+"pressupõe um ponto de vista com o qual discordamos e do qual esperamos que "
+"você também discorde."
 
 #. type: Content of: <div><blockquote><p>
 msgid ""
@@ -124,7 +124,7 @@ msgstr ""
 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#Ecosystem\">Ecosystem</a>&rdquo; |"
-msgstr "&ldquo;<a href=\"#Ecosystem\">Ecosistema</a>&rdquo; |"
+msgstr "&ldquo;<a href=\"#Ecosystem\">Ecossistema</a>&rdquo; |"
 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#FLOSS\">FLOSS</a>&rdquo; |"
@@ -148,7 +148,7 @@ msgstr "&ldquo;<a href=\"#Freeware\">Freeware</a>&rdquo; |"
 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#GiveAwaySoftware\">Give away software</a>&rdquo; |"
-msgstr "&ldquo;<a href=\"#GiveAwaySoftware\">Doar software</a>&rdquo; |"
+msgstr "&ldquo;<a href=\"#GiveAwaySoftware\">Dar software</a>&rdquo; |"
 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#Hacker\">Hacker</a>&rdquo; |"
@@ -344,12 +344,12 @@ msgid ""
 "beyond transmitting files.  Thus, the term spreads confusion.  If you base "
 "your thinking on it, your thinking will be confused."
 msgstr ""
-"O termo &ldquo;computação em nuvem&rdquo; (ou só <a name=\"Cloud\">&ldquo;"
-"nuvem&rdquo;</a>, no contexto da computação) é uma palavra da moda sem "
-"qualquer sentido coerente. Ela é usada para designar uma série de atividades "
-"diferentes cuja única característica em comum é que elas usam a Internet "
+"O termo &ldquo;computação em nuvem&rdquo; (ou simplesmente <a name=\"Cloud"
+"\">&ldquo;nuvem&rdquo;</a>, no contexto da computação) é uma palavra da moda "
+"sem qualquer sentido coerente. Ela é usada para designar uma série de "
+"atividades diferentes cuja única característica comum é usar a  Internet "
 "para algo além da transmissão de arquivos. Portanto, o termo promove a "
-"confusão. Se você pensar baseado nela, seu pensamento será confundido."
+"confusão. Se você pensar baseando-se nela, seu pensamento será confundido."
 
 #. type: Content of: <p>
 msgid ""
@@ -555,8 +555,8 @@ msgid ""
 "erroneous to speak of &ldquo;consuming&rdquo; information, music, books, "
 "software, etc., since using them does not use them up."
 msgstr ""
-"&ldquo;Consumo&rdquo; se refere  ao que fazemos com a comida: a ingerimos e "
-"a usamos de maneira que ela acaba. Por analogia, empregamos a mesma palavra "
+"&ldquo;Consumo&rdquo; refere-se ao que fazemos com a comida: nós a ingerimos "
+"e usamos de maneira que ela acaba. Por analogia, empregamos a mesma palavra "
 "para descrever o uso de outras coisas de maneira que elas acabam. No "
 "entanto, é errôneo falar do &ldquo;consumo&rdquo; de informação, música, "
 "livros, software etc., uma vez que elas não acabam quando as usamos."
@@ -574,9 +574,8 @@ msgstr ""
 "talvez se sintam sofisticadas ao usar um jargão elegante da economia. No "
 "entanto, o conceito econômico a que eles implicitamente se referem é "
 "inapropriado para a atividade em questão. Outras pessoas talvez busquem "
-"limitar a discussão para a perspectiva econômica apenas, rejeitando outras "
-"perspectivas como a ética ou a social &mdash; um pensamento bastante "
-"limitado."
+"limitar a discussão à perspectiva econômica, rejeitando outras perspectivas "
+"como a ética ou a social &mdash; um pensamento bastante limitado."
 
 #. type: Content of: <p>
 msgid "See also the following entry."
@@ -593,7 +592,7 @@ msgid ""
 "recording, or running a program, does not consume it."
 msgstr ""
 "O termo &ldquo;consumidor,&rdquo; quando usado para se referir aos usuários "
-"de computador, é carregado de suposições que devemos rejeitar. Tocar uma "
+"da computação, é carregado de suposições que devemos rejeitar. Tocar uma "
 "música ou rodar um programa não o consomem."
 
 #. type: Content of: <p>
@@ -692,7 +691,7 @@ msgstr ""
 "\"#TransNote1\">1</a></sup>, mas usar a palavra &ldquo;conteúdo&rdquo; como "
 "um substantivo para descrever publicações e obras autorais adota uma atitude "
 "que você talvez prefira evitar: ela as trata como uma commodity cujo "
-"propósito é encher uma caixa e dar dinheiro. Na verdade, ela denigre as "
+"propósito é encher uma caixa e ganhar dinheiro. Na verdade, ela denigre as "
 "próprias obras. Se você não concorda com essa atitude, você pode chamá-las "
 "de &ldquo;obras&rdquo; ou &ldquo;publicações.&rdquo;"
 
@@ -774,7 +773,7 @@ msgstr ""
 "BY-SA e CC0) e o resto é não-livre. Portanto, a descrição de uma obra como "
 "&ldquo;licenciada em Creative Commons&rdquo; fracassa em dizer se ela é "
 "livre ou não, e sugere que essa questão não é importante. A frase pode ser "
-"acurada, mas a omissão é nociva."
+"verdade, mas a omissão é nociva."
 
 #. type: Content of: <p>
 msgid ""
@@ -784,7 +783,7 @@ msgid ""
 "work uses, find out and then make your statement."
 msgstr ""
 "Para incentivar que se preste atenção à distinção mais importante, sempre "
-"especifique <em>qual</em> licença Creative Commons foi usada, por exemplo "
+"especifique <em>qual</em> licença Creative Commons é usada, por exemplo "
 "&ldquo;licenciado sob CC BY-SA.&rdquo; Se você não sabe qual licença foi "
 "usada, descubra e depois faça sua declaração."
 
@@ -807,11 +806,11 @@ msgstr ""
 "implicitamente a uma deidade (&ldquo;o criador&rdquo;). A palavra é usada "
 "pelas editoras para elevar a moral dos autores acima daquela das pessoas "
 "normais, de maneira a justificar a atribuição de maiores poderes de "
-"copyright que os publicadores podem, então, exercer em nome dos autores. "
-"Recomendamos chamá-los de &ldquo;autores.&rdquo; No entanto, em muitos casos "
-"&ldquo;detentor dos direitos autorais&rdquo; é o que você realmente quer "
-"dizer. Esse dois termos não são equivalentes: frequentemente, o detentor dos "
-"direitos autorais não é o autor."
+"copyright, poderes estes que os publicadores podem, então, exercer em nome "
+"dos autores. Recomendamos chamá-los de &ldquo;autores.&rdquo; No entanto, em "
+"muitos casos &ldquo;detentor dos direitos autorais&rdquo; é o que você "
+"realmente quer dizer. Esse dois termos não são equivalentes: frequentemente, "
+"o detentor dos direitos autorais não é o autor."
 
 #. type: Content of: <h4>
 msgid "&ldquo;Digital Goods&rdquo;"
@@ -906,7 +905,7 @@ msgid ""
 msgstr ""
 "A &ldquo;Gestão de Direitos Digitais&rdquo; (do inglês &ldquo;Digital Rights "
 "Management,&rdquo; frequentemente abreviada como &ldquo;DRM&rdquo;) se "
-"refere a mecanismos técnicos projetados para impôr restrições à usuários de "
+"refere a mecanismos técnicos projetados para impor restrições à usuários de "
 "computador. A palavra &ldquo;direitos,&rdquo; usada no termo, é propaganda "
 "arquitetada para pegar-lhe desprevenido e direcionar sua visão para o ponto "
 "de vista daqueles poucos que impõe tais restrições, ignorando os direitos do "
@@ -1068,7 +1067,7 @@ msgid ""
 "of it.  These are answers to different questions."
 msgstr ""
 "Não use o termo &ldquo;software disponível livremente&rdquo; como um "
-"sinônimo para &ldquo;software livre.&rdquo; Eles não são equivalentes. "
+"sinônimo de &ldquo;software livre.&rdquo; Eles não são equivalentes. "
 "Software está &ldquo;disponível livremente&rdquo; se é de fácil acesso. "
 "&ldquo;Software livre&rdquo; é definido pela liberdade dos usuários de terem "
 "uma cópia. Essas são respostas para problemas diferentes."
@@ -1954,17 +1953,17 @@ msgstr ""
 "webmasters@gnu.org&gt;</a>."
 
 #
-#.  TRANSLATORS: Ignore the original text in this paragraph,
-#.         replace it with the translation of these two:
-#.         We work hard and do our best to provide accurate, good quality
-#.         translations.  However, we are not exempt from imperfection.
-#.         Please send your comments and general suggestions in this regard
-#.         to <a href="mailto:web-translators@gnu.org">
-#.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
-#.         our web pages, see <a
-#.         href="/server/standards/README.translations.html">Translations
-#.         README</a>. 
+#. TRANSLATORS: Ignore the original text in this paragraph,
+#. replace it with the translation of these two:
+#. We work hard and do our best to provide accurate, good quality
+#. translations.  However, we are not exempt from imperfection.
+#. Please send your comments and general suggestions in this regard
+#. to <a href="mailto:web-translators@gnu.org">
+#. &lt;web-translators@gnu.org&gt;</a>.</p>
+#. <p>For information on coordinating and submitting translations of
+#. our web pages, see <a
+#. href="/server/standards/README.translations.html">Translations
+#. README</a>.
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
@@ -2006,7 +2005,7 @@ msgstr ""
 "rberaldo@cabaladada.org\">&lt;rberaldo@cabaladada.org&gt;</a> (2015)"
 
 # type: Content of: <div><p>
-#.  timestamp start 
+#. timestamp start
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização: "
