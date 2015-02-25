@@ -1,7 +1,8 @@
-# Brazilian Portuguese translations for http://www.gnu.org/philosophy/compromise.html
+# Brazilian Portuguese translation of http://www.gnu.org/philosophy/compromise.html
 # Copyright (C) 2012 Free Software Foundation, Inc.
 # This file is distributed under the same license as the gnu.org article.
 # Rafael Beraldo <rberaldo@cabaladada.org>, 2012.
+# Dec 2014, Jan 2015: trivial update (T. Godefroy).
 #
 msgid ""
 msgstr ""
@@ -17,15 +18,9 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
 #. type: Content of: <title>
-# | Avoiding Ruinous Compromises - GNU Project - Free Software Foundation
-# | [-(FSF)-]
-#, fuzzy
-#| msgid ""
-#| "Avoiding Ruinous Compromises - GNU Project - Free Software Foundation "
-#| "(FSF)"
 msgid "Avoiding Ruinous Compromises - GNU Project - Free Software Foundation"
 msgstr ""
-"Evitando Compromissos Ruinosos - GNU Project - Free Software Foundation (FSF)"
+"Evitando Compromissos Ruinosos - GNU Project - Free Software Foundation"
 
 #. type: Content of: <h2>
 msgid "Avoiding Ruinous Compromises"
@@ -36,31 +31,6 @@ msgid "by <strong>Richard Stallman</strong>"
 msgstr "por <strong>Richard Stallman</strong>"
 
 #. type: Content of: <blockquote><p>
-# | [-<em>&ldquo;Twenty-five-]{+&ldquo;Twenty-five+} years ago <a
-# | href=\"/gnu/initial-announcement.html\">on September 27, 1983, I announced
-# | a plan</a> to create a completely free operating system called
-# | GNU&mdash;for &lsquo;GNU's Not Unix&rsquo;.  As part of the 25th
-# | anniversary of the GNU system, I have written this article on how our
-# | community can avoid ruinous compromises.  In addition to avoiding such
-# | compromises, there are many ways you can <a [-href=\"/help/\">help-]
-# | {+href=\"/help/help.html\">help+} GNU</a> and free software.  One basic
-# | way is to <a
-# | href=\"https://www.fsf.org/associate/support_freedom/join_fsf?referrer=4052\">
-# | join the Free Software Foundation</a> as an Associate
-# | [-Member.&rdquo;</em>&mdash;<b>Richard-]
-# | {+Member.&rdquo;&mdash;<b>Richard+} Stallman</b>
-#, fuzzy
-#| msgid ""
-#| "<em>&ldquo;Twenty-five years ago <a href=\"/gnu/initial-announcement.html"
-#| "\">on September 27, 1983, I announced a plan</a> to create a completely "
-#| "free operating system called GNU&mdash;for &lsquo;GNU's Not Unix&rsquo;.  "
-#| "As part of the 25th anniversary of the GNU system, I have written this "
-#| "article on how our community can avoid ruinous compromises.  In addition "
-#| "to avoiding such compromises, there are many ways you can <a href=\"/help/"
-#| "\">help GNU</a> and free software.  One basic way is to <a href=\"https://"
-#| "www.fsf.org/associate/support_freedom/join_fsf?referrer=4052\"> join the "
-#| "Free Software Foundation</a> as an Associate Member.&rdquo;</em>&mdash;"
-#| "<b>Richard Stallman</b>"
 msgid ""
 "&ldquo;Twenty-five years ago <a href=\"/gnu/initial-announcement.html\">on "
 "September 27, 1983, I announced a plan</a> to create a completely free "
@@ -73,8 +43,8 @@ msgid ""
 "Free Software Foundation</a> as an Associate Member.&rdquo;&mdash;<b>Richard "
 "Stallman</b>"
 msgstr ""
-"<em>&ldquo;Vinte cinco anos atrás, <a href=\"/gnu/initial-announcement.html"
-"\">em 27 de setembro de 1983, anunciei um plano</a> para criar um sistema "
+"&ldquo;Vinte cinco anos atrás, <a href=\"/gnu/initial-announcement.html\">em "
+"27 de setembro de 1983, anunciei um plano</a> para criar um sistema "
 "operacional completamente livre chamado GNU&mdash;sigla para &lsquo;GNU's "
 "Not Unix&rsquo; (GNU Não é Unix);.  Como parte do vigésimo quinto "
 "aniversário do sistema GNU, escrevi este artigo sobre como nossa comunidade "
@@ -82,8 +52,7 @@ msgstr ""
 "muitas maneiras para <a href=\"/help/\">ajudar o GNU</a> e o software "
 "livre.  Uma forma básica é <a href=\"https://www.fsf.org/associate/"
 "support_freedom/join_fsf?referrer=4052\"> juntar-se à Free Software "
-"Foundation</a> como um Membro Associado.&rdquo;</em>&mdash;<b>Richard "
-"Stallman</b>"
+"Foundation</a> como um Membro Associado.&rdquo;&mdash;<b>Richard Stallman</b>"
 
 #. type: Content of: <p>
 msgid ""
@@ -257,8 +226,8 @@ msgid ""
 "open-source-misses-the-point.html\">do not support open source.</a>"
 msgstr ""
 "A filosofia do código aberto pressupõe e apela aos valores de consumidor, "
-"desse modo afirmando e reforçando-os. É por isso que nós <a href="
-"\"philosophy/open-source-misses-the-point.html\">não defendemos o código "
+"desse modo afirmando e reforçando-os. É por isso que nós <a href=\"/"
+"philosophy/open-source-misses-the-point.html\">não defendemos o código "
 "livre</a>."
 
 #. type: Attribute 'alt' of: <img>
@@ -392,28 +361,6 @@ msgstr ""
 "nossos valores honestos."
 
 #. type: Content of: <p>
-# | If you want to move to free software without compromising the goal of
-# | freedom, look at <a href=\"http://www.fsf.org/resources\">the FSF's
-# | resources area</a>.  It lists hardware and machine configurations that
-# | work with free software, <a href=\"/distros\"> totally free GNU/Linux
-# | distros</a> to install, and {+<a href=\"http://directory.fsf.org/\">+}
-# | thousands of free software [-packages-] {+packages</a>+} that work in a
-# | 100 percent free software environment.  If you want to help the community
-# | stay on the road to freedom, one important way is to publicly uphold
-# | citizen values.  When people are discussing what is good or bad, or what
-# | to do, cite the values of freedom and community and argue from them.
-#, fuzzy
-#| msgid ""
-#| "If you want to move to free software without compromising the goal of "
-#| "freedom, look at <a href=\"http://www.fsf.org/resources\">the FSF's "
-#| "resources area</a>.  It lists hardware and machine configurations that "
-#| "work with free software, <a href=\"/distros\"> totally free GNU/Linux "
-#| "distros</a> to install, and thousands of free software packages that work "
-#| "in a 100 percent free software environment.  If you want to help the "
-#| "community stay on the road to freedom, one important way is to publicly "
-#| "uphold citizen values.  When people are discussing what is good or bad, "
-#| "or what to do, cite the values of freedom and community and argue from "
-#| "them."
 msgid ""
 "If you want to move to free software without compromising the goal of "
 "freedom, look at <a href=\"http://www.fsf.org/resources\">the FSF's "
@@ -430,41 +377,25 @@ msgstr ""
 "liberdade, veja <a href=\"http://www.fsf.org/resources\">a área de recursos "
 "da FSF</a>. Lá há uma lista de hardware e configurações de máquina que "
 "funcionam com software livre, <a href=\"/distros\">distribuições GNU/Linux "
-"completamente livres</a> para instalar e milhares de pacotes de software "
-"livre que funcionam em um ambiente 100% software livre. Se você deseja "
-"ajudar a comunidade a continuar no caminho da liberdade, uma maneira "
-"importante é apoiar publicamente os valores de cidadão. Quando as pessoas "
-"estão discutindo o que é bom ou ruim, ou o que fazem, cite os valores da "
-"liberdade e comunidade e discuta a partir deles."
+"completamente livres</a> para instalar e <a href=\"http://directory.fsf.org/"
+"\"> milhares de pacotes de software livre</a> que funcionam em um ambiente "
+"100% software livre. Se você deseja ajudar a comunidade a continuar no "
+"caminho da liberdade, uma maneira importante é apoiar publicamente os "
+"valores de cidadão. Quando as pessoas estão discutindo o que é bom ou ruim, "
+"ou o que fazem, cite os valores da liberdade e comunidade e discuta a partir "
+"deles."
 
 #. type: Content of: <p>
-# | A road that lets you go faster is [-no improvement-] {+not better+} if it
-# | leads to the wrong place.  Compromise is essential to achieve an ambitious
-# | goal, but beware of compromises that lead away from the goal.
-#, fuzzy
-#| msgid ""
-#| "A road that lets you go faster is no improvement if it leads to the wrong "
-#| "place.  Compromise is essential to achieve an ambitious goal, but beware "
-#| "of compromises that lead away from the goal."
 msgid ""
 "A road that lets you go faster is not better if it leads to the wrong "
 "place.  Compromise is essential to achieve an ambitious goal, but beware of "
 "compromises that lead away from the goal."
 msgstr ""
-"Uma estrada que lhe deixa ir mais rápido não é uma melhoria se ela leva ao "
-"lugar errado. Compromisso é essencial para atingir um objetivo ambicioso, "
-"mas cuidado com os compromissos que levam para longe do objetivo."
+"Uma estrada que lhe deixa ir mais rápido não é melhor se ela leva ao lugar "
+"errado. Compromisso é essencial para atingir um objetivo ambicioso, mas "
+"cuidado com os compromissos que levam para longe do objetivo."
 
 #. type: Content of: <p>
-# | For a similar point in a different area of life, see <a
-# | [-href=\"http://www.guardian.co.uk/commentisfree/2011/jul/19/nudge-is-not-enough-behaviour-change\">\"'Nudge'-]
-# | {+href=\"http://www.guardian.co.uk/commentisfree/2011/jul/19/nudge-is-not-enough-behaviour-change\">
-# | &ldquo;Nudge&rdquo;+} is not [-enough\"</a>.-] {+enough</a>.+}
-#, fuzzy
-#| msgid ""
-#| "For a similar point in a different area of life, see <a href=\"http://www."
-#| "guardian.co.uk/commentisfree/2011/jul/19/nudge-is-not-enough-behaviour-"
-#| "change\">\"'Nudge' is not enough\"</a>."
 msgid ""
 "For a similar point in a different area of life, see <a href=\"http://www."
 "guardian.co.uk/commentisfree/2011/jul/19/nudge-is-not-enough-behaviour-change"
@@ -472,24 +403,15 @@ msgid ""
 msgstr ""
 "Para uma discussão similar em uma área diferente da vida, veja <a href="
 "\"http://www.guardian.co.uk/commentisfree/2011/jul/19/nudge-is-not-enough-"
-"behaviour-change\">“‘Nudge’ is not enough”</a>."
+"behaviour-change\">“Nudge” is not enough</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
 msgstr " "
 
+# type: Content of: <div><p>
 #. type: Content of: <div><div><p>
-# | Please send {+general+} FSF &amp; GNU inquiries to <a
-# | href=\"mailto:gnu@gnu.org\">&lt;gnu@gnu.org&gt;</a>.  There are also <a
-# | href=\"/contact/\">other ways to contact</a> the FSF.  {+Broken links and
-# | other corrections or suggestions can be sent to <a
-# | href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a>.+}
-#, fuzzy
-#| msgid ""
-#| "Please send FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org\">&lt;"
-#| "gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways to "
-#| "contact</a> the FSF."
 msgid ""
 "Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
 "\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
@@ -497,10 +419,13 @@ msgid ""
 "can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
 "org&gt;</a>."
 msgstr ""
-"Por favor, envie suas perguntas sobre a FSF e GNU para <a href=\"mailto:"
-"gnu@gnu.org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/"
-"\">outras maneiras para contatar</a> a FSF."
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF.  Links quebrados e outras correções ou "
+"sugestões podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
 
+#
 #.  TRANSLATORS: Ignore the original text in this paragraph,
 #.         replace it with the translation of these two:
 #.         We work hard and do our best to provide accurate, good quality
@@ -518,46 +443,31 @@ msgid ""
 "\">Translations README</a> for information on coordinating and submitting "
 "translations of this article."
 msgstr ""
-"Por favor, veja o <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> para mais informações sobre a coordenação e "
-"submissão de traduções desse artigo."
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
+"envio de traduções das páginas desse site."
 
 #. type: Content of: <div><p>
-# | Copyright &copy; 2008, [-2009-] {+2009, 2014, 2015+} <a
-# | href=\"http://www.stallman.org/\">Richard Stallman</a>.
-#, fuzzy
-#| msgid ""
-#| "Copyright &copy; 2008, 2009 <a href=\"http://www.stallman.org/\">Richard "
-#| "Stallman</a>."
 msgid ""
 "Copyright &copy; 2008, 2009, 2014, 2015 <a href=\"http://www.stallman.org/"
 "\">Richard Stallman</a>."
 msgstr ""
-"Copyright &copy; 2008, 2009 <a href=\"http://www.stallman.org/\">Richard "
-"Stallman</a>."
+"Copyright &copy; 2008, 2009, 2014, 2015 <a href=\"http://www.stallman.org/"
+"\">Richard Stallman</a>."
 
 #. type: Content of: <div><p>
-# | [-Richard Stallman-]{+This page+} is [-the founder of the Free Software
-# | Foundation.  You can copy and redistribute this article-] {+licensed+}
-# | under [-the-] {+a+} <a rel=\"license\"
-# | href=\"http://creativecommons.org/licenses/by-nd/3.0/us/\">Creative
-# | Commons [-Attribution Noderivs-] {+Attribution-NoDerivs+} 3.0
-# | [-license</a>.-] {+United States License</a>.+}
-#, fuzzy
-#| msgid ""
-#| "Richard Stallman is the founder of the Free Software Foundation.  You can "
-#| "copy and redistribute this article under the <a rel=\"license\" href="
-#| "\"http://creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons "
-#| "Attribution Noderivs 3.0 license</a>."
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
 "creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
 "NoDerivs 3.0 United States License</a>."
 msgstr ""
-"Richard Stallman é o fundador da Free Software Foundation. Você pode copiar "
-"e redistribuir esse artigo sob a licença <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution "
-"Noderivs 3.0</a>."
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/3.0/us/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 3.0 Estados Unidos</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>
@@ -568,14 +478,8 @@ msgstr ""
 "a>, 2012 e Amanda Onishi <a href=\"mailto:amandaonishi@gmail.com\">&lt;"
 "amandaonishi@gmail.com&gt;</a>, 2012"
 
+# type: Content of: <div><p>
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
-msgstr "Última atualização:"
-
-#~ msgid ""
-#~ "Please send broken links and other corrections or suggestions to <a href="
-#~ "\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a>."
-#~ msgstr ""
-#~ "Por favor, envie links quebrados e outras correções ou sugestões para  <a "
-#~ "href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a>."
+msgstr "Última atualização: "
