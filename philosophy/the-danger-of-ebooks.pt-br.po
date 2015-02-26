@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: the-danger-of-ebooks.html\n"
 "POT-Creation-Date: 2014-03-31 06:29+0000\n"
-"PO-Revision-Date: 2015-02-26 17:18-0300\n"
+"PO-Revision-Date: 2015-02-26 17:21-0300\n"
 "Last-Translator: Rafael Beraldo <rberaldo@cabaladada.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -128,9 +128,15 @@ msgid ""
 "time, but only by specifying by name another user of the same system. No "
 "giving or selling."
 msgstr ""
+<<<<<<< HEAD
 "Um substituto inferior do “empréstimo” é permitido para alguns livros por um "
 "tempo limitado, mas somente especificando-se pelo nome algum outro usuário "
 "do mesmo sistema. Não é permitido dar ou vender."
+=======
+"Um substituto inferior do &ldquo;empréstimo&rdquo; é permitido para alguns "
+"livros por um tempo limitado, mas somente especificando-se pelo nome algum "
+"outro usuário do mesmo sistema. Não é permitido dar ou vender."
+>>>>>>> 42957320969fe8557c391e3bf2033e9fd931cc96
 
 #. type: Content of: <ul><li>
 msgid ""
