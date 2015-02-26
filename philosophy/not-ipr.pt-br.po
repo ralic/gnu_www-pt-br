@@ -1,6 +1,7 @@
 # Brazilian Portuguese translation of http://www.gnu.org/philosophy/not-ipr.html
-# Copyright (C) 2008 2012 Free Software Foundation, Inc.
+# Copyright (C) 2008 Free Software Foundation, Inc.
 # This file is distributed under the same license as the gnu.org article.
+# FSFLA, taken from http://estudiolivre.org/tiki-index.php?page=MiragemSedutora, 2008.
 # Rodrigo Macedo <rodrigomacedo@rmsolucoeseminformatica.com>, 2012.
 # Rafael Beraldo <rberaldo@cabaladada.org>, 2012.
 #
@@ -11,26 +12,20 @@ msgstr ""
 "PO-Revision-Date: 2012-03-11 09:45-0300\n"
 "Last-Translator: Rafael Beraldo <rberaldo@cabaladada.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
-"Language: \n"
+"Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8-bit\n"
-"Outdated-Since: 2011-09-20 12:30-0300\n"
+"Outdated-Since: 2013-07-22 14:22+0000\n"
 
 # type: Content of: <title>
 #. type: Content of: <title>
-# | Did You Say &ldquo;Intellectual Property&rdquo;? It's a Seductive Mirage -
-# | GNU Project - Free Software Foundation [-(FSF)-]
-#, fuzzy
-#| msgid ""
-#| "Did You Say &ldquo;Intellectual Property&rdquo;? It's a Seductive Mirage "
-#| "- GNU Project - Free Software Foundation (FSF)"
 msgid ""
 "Did You Say &ldquo;Intellectual Property&rdquo;? It's a Seductive Mirage - "
 "GNU Project - Free Software Foundation"
 msgstr ""
 "Você Disse “Propriedade Intelectual”?  É uma Miragem Sedutora - Projeto GNU "
-"- Free Software Foundation (FSF)"
+"- Free Software Foundation"
 
 # type: Content of: <h2>
 #. type: Content of: <h2>
@@ -56,9 +51,9 @@ msgstr ""
 "Virou moda atirar copyright, patentes e marcas — três entidades separadas e "
 "diferentes envolvendo três conjuntos de leis separados e diferentes — dentro "
 "da mesma panela e chamar isso de “Propriedade Intelectual”.  O termo "
-"distorcido e confuso não ficou comum por acidente.  Companhias que lucram "
-"com a confusão o promovem.  E o meio mais claro para sair da confusão é "
-"rejeitar inteiramente o termo."
+"distorcido e confuso não surgiu por acidente.  Companhias que lucram com a "
+"confusão o promovem.  E o meio mais claro para sair da confusão é rejeitar "
+"inteiramente o termo."
 
 # type: Content of: <p>
 #. type: Content of: <p>
@@ -76,15 +71,14 @@ msgid ""
 msgstr ""
 "De acordo com o professor Mark Lemley, da Stanford Law School, o uso "
 "generalizado do termo “propriedade intelectual” é uma moda que seguiu a "
-"fundação da OMPI, a Organização Mundial de “Propriedade Intelectual” (do "
-"inglês World Intellectual Property Organization) em 1967, mas apenas "
-"recentemente começou a ser comumente utilizado. (A OMPI é formalmente uma "
-"organização das Nações Unidas, mas na verdade representa o interesse de "
-"detentores de copyrights, patentes e marcas.) O uso generalizado data de <a "
-"href=\"http://ngrams.googlelabs.com/graph?content=intellectual+property&amp;"
-"year_start=1800&amp;year_end=2008&amp;corpus=0&amp;smoothing=1\">por volta "
-"de 1990</a>. (<a href=\"/graphics/seductivemirage.png\">Cópia local da "
-"imagem.</a>)"
+"fundação da OMPI, a Organização Mundial de “Propriedade Intelectual” em "
+"1967, mas apenas recentemente começou a ser comumente utilizado. (A OMPI é "
+"formalmente uma organização das Nações Unidas, mas na verdade representa o "
+"interesse de detentores de copyrights, patentes e marcas.) Uso generalizado "
+"data de <a href=\"http://ngrams.googlelabs.com/graph?content=intellectual"
+"+property&amp;year_start=1800&amp;year_end=2008&amp;corpus=0&amp;"
+"smoothing=1\">por volta de 1990</a>. (<a href=\"/graphics/seductivemirage.png"
+"\">Cópia local da imagem.</a>)"
 
 # type: Content of: <p>
 #. type: Content of: <p>
@@ -131,13 +125,6 @@ msgstr ""
 
 # type: Content of: <p>
 #. type: Content of: <p>
-# | Some of these alternative names would be an improvement, but it is a
-# | mistake to replace &ldquo;intellectual property&rdquo; with any other
-# | term.  A different name will not address the term's deeper problem:
-# | overgeneralization.  There is no such unified thing as &ldquo;intellectual
-# | property&rdquo;&mdash;it is a mirage.  The only reason people think it
-# | makes sense as a coherent category is that widespread use of the term has
-# | misled [-them.-] {+them about the laws in question.+}
 #, fuzzy
 #| msgid ""
 #| "Some of these alternative names would be an improvement, but it is a "
@@ -191,11 +178,6 @@ msgstr ""
 
 # type: Content of: <p>
 #. type: Content of: <p>
-# | [-Copyright-]{+For instance, copyright+} law was designed to promote
-# | authorship and art, and covers the details of expression of a work. 
-# | Patent law was intended to promote the publication of useful ideas, at the
-# | price of giving the one who publishes an idea a temporary monopoly over
-# | it&mdash;a price that may be worth paying in some fields and not in others.
 #, fuzzy
 #| msgid ""
 #| "Copyright law was designed to promote authorship and art, and covers the "
@@ -218,12 +200,6 @@ msgstr ""
 
 # type: Content of: <p>
 #. type: Content of: <p>
-# | Trademark law, by contrast, was not intended to promote any particular way
-# | of acting, but simply to enable buyers to know what they are buying. 
-# | Legislators under the influence of the term &ldquo;intellectual
-# | property&rdquo;, however, have turned it into a scheme that provides
-# | incentives for advertising.  {+And these are just three out of many laws
-# | that the term refers to.+}
 #, fuzzy
 #| msgid ""
 #| "Trademark law, by contrast, was not intended to promote any particular "
@@ -286,15 +262,6 @@ msgstr ""
 
 # type: Content of: <p>
 #. type: Content of: <p>
-# | People often say &ldquo;intellectual property&rdquo; when they really mean
-# | some larger or smaller [-category.-] {+set of laws.+}  For instance, rich
-# | countries often impose unjust laws on poor countries to squeeze money out
-# | of them.  Some of these laws are {+among those called+}
-# | &ldquo;intellectual property&rdquo; laws, and others are not; nonetheless,
-# | critics of the practice often grab for that label because it has become
-# | familiar to them.  By using it, they misrepresent the nature of the issue.
-# |  It would be better to use an accurate term, such as &ldquo;legislative
-# | colonization&rdquo;, that gets to the heart of the matter.
 #, fuzzy
 #| msgid ""
 #| "People often say &ldquo;intellectual property&rdquo; when they really "
@@ -356,11 +323,6 @@ msgstr ""
 
 # type: Content of: <p>
 #. type: Content of: <p>
-# | That statement refers to Article 1, Section 8, Clause 8 of the US
-# | Constitution, which authorizes copyright law and patent law.  That clause,
-# | though, has nothing to do with trademark [-law-] {+law, trade secret
-# | law,+} or various others.  The term &ldquo;intellectual property&rdquo;
-# | led that professor to make {+a+} false generalization.
 #, fuzzy
 #| msgid ""
 #| "That statement refers to Article 1, Section 8, Clause 8 of the US "
@@ -494,8 +456,9 @@ msgid ""
 "projects/wipo/wiwo.en.html\">one proposal for changing the name and "
 "substance of WIPO</a>."
 msgstr ""
-"E quanto a reformar a OMPI, aqui está <a href=\"http://www.fsfeurope.org/"
-"documents/wiwo.html\">uma proposta para mudar seu nome e essência</a>."
+"E quanto a reformar a OMPI, entre outras coisas, aqui está <a href=\"http://"
+"www.fsfeurope.org/documents/wiwo.pt.html\">uma proposta para mudar seu nome "
+"e essência</a>."
 
 #. type: Content of: <p>
 msgid ""
@@ -519,18 +482,8 @@ msgstr ""
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
 msgstr " "
 
+# type: Content of: <div><p>
 #. type: Content of: <div><div><p>
-# | Please send {+general+} FSF &amp; GNU inquiries to <a
-# | [-href=\"mailto:gnu@gnu.org\"><em>gnu@gnu.org</em></a>.-]
-# | {+href=\"mailto:gnu@gnu.org\">&lt;gnu@gnu.org&gt;</a>.+}  There are also
-# | <a href=\"/contact/\">other ways to contact</a> the FSF.  {+Broken links
-# | and other corrections or suggestions can be sent to <a
-# | href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a>.+}
-#, fuzzy
-#| msgid ""
-#| "Please send FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
-#| "\"><em>gnu@gnu.org</em></a>.  There are also <a href=\"/contact/\">other "
-#| "ways to contact</a> the FSF."
 msgid ""
 "Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
 "\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
@@ -538,11 +491,13 @@ msgid ""
 "can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
 "org&gt;</a>."
 msgstr ""
-"Por favor, envie suas perguntas sobre a FSF e GNU para <a href=\"mailto:"
-"gnu@gnu.org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/"
-"\">outras maneiras para contatar</a> a FSF."
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF.  Links quebrados e outras correções ou "
+"sugestões podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
 
-# type: Content of: <div><p>
+#
 #.  TRANSLATORS: Ignore the original text in this paragraph,
 #.         replace it with the translation of these two:
 #.         We work hard and do our best to provide accurate, good quality
@@ -560,12 +515,15 @@ msgid ""
 "\">Translations README</a> for information on coordinating and submitting "
 "translations of this article."
 msgstr ""
-"Por favor, veja o <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> para mais informações sobre a coordenação e "
-"submissão de traduções desse artigo."
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
+"envio de traduções das páginas desse site."
 
 #. type: Content of: <div><p>
-# | Copyright &copy; 2004, 2006, [-2010-] {+2010, 2013+} Richard M. Stallman
 #, fuzzy
 #| msgid "Copyright &copy; 2004, 2006, 2010 Richard M. Stallman"
 msgid "Copyright &copy; 2004, 2006, 2010, 2013 Richard M. Stallman"
@@ -577,9 +535,9 @@ msgid ""
 "creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
 "NoDerivs 3.0 United States License</a>."
 msgstr ""
-"Essa página está licenciada sob uma <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-"NoDerivs 3.0 United States License</a>."
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/3.0/us/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 3.0 Estados Unidos</a>."
 
 # type: Content of: <div><div>
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
@@ -591,26 +549,4 @@ msgstr " "
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
-msgstr "Atualizado:"
-
-#~ msgid ""
-#~ "Please send broken links and other corrections or suggestions to <a href="
-#~ "\"mailto:webmasters@gnu.org\"><em>webmasters@gnu.org</em></a>."
-#~ msgstr ""
-#~ "Por favor, envie links quebrados e outras correções ou sugestões para  <a "
-#~ "href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a>."
-
-# type: Content of: <div><h4>
-#~ msgid "Translations of this page"
-#~ msgstr "Traduções desta página"
-
-# type: Content of: <div><p>
-#, fuzzy
-#~ msgid ""
-#~ "Copyright &copy; 2004, 2006, 2010 Richard M. Stallman <br /> Verbatim "
-#~ "copying and distribution of this entire article is permitted worldwide "
-#~ "without royalty in any medium provided this notice is preserved."
-#~ msgstr ""
-#~ "Copyright © 2004, 2006 Richard M. Stallman<br />Permite-se mundialmente a "
-#~ "cópia e distribuição este artigo integral sem <em>royalties</em> em "
-#~ "qualquer meio desde que esta nota seja preservada."
+msgstr "Última atualização: "

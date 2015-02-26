@@ -4,6 +4,7 @@
 # Rafael Beraldo <rberaldo@cabaladada.org>, 2012.
 # Rafael Ferreira <rafael.f.f1@gmail.com>, 2012.
 # Thiago Carreira <saycusca@gmail.com>, 2012.
+# Dec 2014; trivial update of a few strings (T. Godefroy).
 #
 msgid ""
 msgstr ""
@@ -16,6 +17,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Outdated-Since: 2013-09-28 04:55+0000\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -253,8 +255,6 @@ msgid "Gentoo GNU/Linux"
 msgstr "Gentoo GNU/Linux"
 
 #. type: Content of: <p>
-# | Gentoo [-makes it easy to install-] {+includes installation recipes for+}
-# | a number of nonfree programs [-through-] {+in+} its primary package system.
 #, fuzzy
 #| msgid ""
 #| "Gentoo makes it easy to install a number of nonfree programs through its "
@@ -291,11 +291,8 @@ msgstr ""
 "dedicados."
 
 #. type: Content of: <h3>
-# | [-Debian-]{+Mint+} GNU/Linux
-#, fuzzy
-#| msgid "Debian GNU/Linux"
 msgid "Mint GNU/Linux"
-msgstr "Debian GNU/Linux"
+msgstr "Mint GNU/Linux"
 
 #. type: Content of: <p>
 msgid ""
@@ -305,17 +302,10 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <h3>
-# | openSUSE [-GNU/Linux-]
-#, fuzzy
-#| msgid "openSUSE GNU/Linux"
 msgid "openSUSE"
-msgstr "openSUSE GNU/Linux"
+msgstr "openSUSE"
 
 #. type: Content of: <p>
-# | openSUSE offers [-its users access to-] a repository of nonfree software. 
-# | This is an instance of how <a
-# | href=\"/philosophy/open-source-misses-the-point.html\"> &ldquo;open&rdquo;
-# | is weaker than &ldquo;free&rdquo;</a>.
 #, fuzzy
 #| msgid ""
 #| "openSUSE offers its users access to a repository of nonfree software.  "
@@ -354,13 +344,6 @@ msgid "Slackware"
 msgstr "Slackware"
 
 #. type: Content of: <p>
-# | Slackware has the two usual problems: there's no clear policy about what
-# | software can be included, and nonfree blobs are included in Linux, the
-# | kernel.  It also ships with the nonfree image-viewing program xv.  Of
-# | course, with no firm policy {+against them, more nonfree programs could
-# | get+} in [-place, there might be other-] {+at any time.  There is an <a
-# | href=\"http://freeslack.net/\">unofficial list</a> of+} nonfree software
-# | [-included that we missed.-] {+in Slackware.+}
 #, fuzzy
 #| msgid ""
 #| "Slackware has the two usual problems: there's no clear policy about what "
@@ -400,11 +383,8 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <h3>
-# | SUSE GNU/Linux {+Enterprise+}
-#, fuzzy
-#| msgid "SUSE GNU/Linux"
 msgid "SUSE GNU/Linux Enterprise"
-msgstr "SUSE GNU/Linux"
+msgstr "SUSE GNU/Linux Enterprise"
 
 #. type: Content of: <p>
 msgid ""
@@ -564,17 +544,8 @@ msgstr ""
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
 msgstr " "
 
+# type: Content of: <div><p>
 #. type: Content of: <div><div><p>
-# | Please send general FSF &amp; GNU inquiries to <a
-# | href=\"mailto:gnu@gnu.org\">&lt;gnu@gnu.org&gt;</a>.  There are also <a
-# | href=\"/contact/\">other ways to contact</a> the FSF.  {+Broken links and
-# | other corrections or suggestions can be sent to <a
-# | href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a>.+}
-#, fuzzy
-#| msgid ""
-#| "Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu."
-#| "org\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/"
-#| "\">other ways to contact</a> the FSF."
 msgid ""
 "Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
 "\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
@@ -582,10 +553,13 @@ msgid ""
 "can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
 "org&gt;</a>."
 msgstr ""
-"Por favor, envie suas perguntas sobre a FSF e GNU para <a href=\"mailto:"
-"gnu@gnu.org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/"
-"\">outras maneiras para contatar</a> a FSF."
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF.  Links quebrados e outras correções ou "
+"sugestões podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
 
+#
 #.  TRANSLATORS: Ignore the original text in this paragraph,
 #.         replace it with the translation of these two:
 #.         We work hard and do our best to provide accurate, good quality
@@ -603,12 +577,15 @@ msgid ""
 "\">Translations README</a> for information on coordinating and submitting "
 "translations of this article."
 msgstr ""
-"Por favor, veja o <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> para mais informações sobre a coordenação e "
-"submissão de traduções desse artigo."
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
+"envio de traduções das páginas desse site."
 
 #. type: Content of: <div><p>
-# | Copyright &copy; 201[-1-]{+4+} Free Software Foundation, Inc.
 #, fuzzy
 #| msgid "Copyright &copy; 2011 Free Software Foundation, Inc."
 msgid "Copyright &copy; 2014 Free Software Foundation, Inc."
@@ -620,9 +597,9 @@ msgid ""
 "creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
 "NoDerivs 3.0 United States License</a>."
 msgstr ""
-"Essa página está licenciada sob uma <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-"NoDerivs 3.0 United States License</a>."
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/3.0/us/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 3.0 Estados Unidos</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>
@@ -632,14 +609,8 @@ msgstr ""
 "<a href=\"mailto:rberaldo@cabaladada.org\">&lt;rberaldo@cabaladada.org&gt;</"
 "a>, 2012"
 
+# type: Content of: <div><p>
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
-msgstr "Última atualização:"
-
-#~ msgid ""
-#~ "Please send broken links and other corrections or suggestions to <a href="
-#~ "\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a>."
-#~ msgstr ""
-#~ "Por favor, envie links quebrados e outras correções ou sugestões para <a "
-#~ "href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a>."
+msgstr "Última atualização: "
