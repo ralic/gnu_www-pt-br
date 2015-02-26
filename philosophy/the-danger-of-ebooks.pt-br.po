@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: the-danger-of-ebooks.html\n"
 "POT-Creation-Date: 2014-03-31 06:29+0000\n"
-"PO-Revision-Date: 2015-02-26 17:32-0300\n"
+"PO-Revision-Date: 2015-02-26 20:14-0300\n"
 "Last-Translator: Rafael Beraldo <rberaldo@cabaladada.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -221,7 +221,7 @@ msgstr ""
 "<li id=\"TransNote1\">O termo <em>back door</em> (em português, “porta dos "
 "fundos”) se refere a um recurso utilizado para ganhar acesso a um computador "
 "ou outro sistema sem a autorização do seu dono ou administrador.</li>\n"
-"</ol>\n"
+"</ol>"
 
 # type: Content of: <div><p>
 #. type: Content of: <div><div><p>
