@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: the-danger-of-ebooks.html\n"
 "POT-Creation-Date: 2014-03-31 06:29+0000\n"
-"PO-Revision-Date: 2015-02-27 18:49-0300\n"
+"PO-Revision-Date: 2015-02-27 19:22-0300\n"
 "Last-Translator: Rafael Beraldo <rberaldo@cabaladada.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -96,7 +96,7 @@ msgstr "Contraste isso com os e-books da Amazon (que são bem típicos):"
 
 #. type: Content of: <ul><li>
 msgid "Amazon requires users to identify themselves to get an e-book."
-msgstr "Amazon requer que os usuários se identifiquem para obter um e-book."
+msgstr "Ela requer que os usuários se identifiquem para obter um e-book."
 
 #. type: Content of: <ul><li>
 msgid ""
