@@ -88,9 +88,9 @@ msgid ""
 "interfere with releasing GNU as free software.  I had planned an approach "
 "for licensing the programs in GNU that would ensure that all modified "
 "versions must be free software as well&mdash;an approach that developed into "
-"the <a href=\"/licenses/gpl.html\">GNU General Public License</a> (GNU GPL)"
-"&mdash;and I did not want to have to beg the MIT administration to let me "
-"use it."
+"the <a href=\"/licenses/gpl.html\">GNU General Public License</a> (GNU "
+"GPL)&mdash;and I did not want to have to beg the MIT administration to let "
+"me use it."
 msgstr ""
 "Em 1984, quando eu iniciei o desenvolvimento do <a href=\"/gnu/thegnuproject."
 "html\">sistema operacional GNU</a>, minha primeira decisão foi pedir "
@@ -346,6 +346,7 @@ msgstr ""
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
 msgstr " "
 
+# type: Content of: <div><p>
 #. type: Content of: <div><div><p>
 msgid ""
 "Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
@@ -360,6 +361,7 @@ msgstr ""
 "sugestões podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
 "webmasters@gnu.org&gt;</a>."
 
+#
 #.  TRANSLATORS: Ignore the original text in this paragraph,
 #.         replace it with the translation of these two:
 #.         We work hard and do our best to provide accurate, good quality
@@ -406,6 +408,7 @@ msgstr ""
 "Traduzida por: Cláudio Machado <a href=\"mailto:claudio.machado@bol.com.br"
 "\">&lt;claudio.machado@bol.com.br&gt;</a>"
 
+# type: Content of: <div><p>
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"

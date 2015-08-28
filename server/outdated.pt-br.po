@@ -85,16 +85,16 @@ msgid "<span class=\"outdated-html-dummy-span\">.</span>"
 msgstr ""
 
 # type: Content of: <div><p>
-#. #endif 
-#. #if expr='${LANGUAGE_SUFFIX} = /^[.](de|es|fr)$/' 
-#. TRANSLATORS: Please replace web-translators@gnu.org with the email address
-#.              of your translation team. 
-#. type: Content of: outside any tag (error?)
 # | [-Please send broken links and other corrections or suggestions-]{+If you
 # | wish+} to {+help us maintain this page, please contact+} <a
 # | [-href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a>.-]
 # | {+href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</
 # | a>.+}
+#. #endif 
+#. #if expr='${LANGUAGE_SUFFIX} = /^[.](de|es|fr)$/' 
+#. TRANSLATORS: Please replace web-translators@gnu.org with the email address
+#.              of your translation team. 
+#. type: Content of: outside any tag (error?)
 #, fuzzy
 #| msgid ""
 #| "Please send broken links and other corrections or suggestions to <a href="
@@ -106,13 +106,13 @@ msgstr ""
 "Envie links quebrados e outras correções ou sugestões para <a href=\"mailto:"
 "webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a>."
 
-#. #else 
-#. type: Content of: outside any tag (error?)
 # | Please see the <a
 # | href=\"/server/standards/README.translations.html\">Translations
 # | README</a> [-to find out how you can help with updating-] {+for
 # | information on maintaining translations of+} this [-translation.-]
 # | {+article.+}
+#. #else 
+#. type: Content of: outside any tag (error?)
 #, fuzzy
 #| msgid ""
 #| "Please see the <a href=\"/server/standards/README.translations.html"

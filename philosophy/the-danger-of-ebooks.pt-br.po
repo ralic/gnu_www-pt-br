@@ -234,10 +234,11 @@ msgid ""
 msgstr ""
 "Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
 "org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
-"meios de contatar</a> a FSF. Links quebrados e outras correções ou sugestões "
-"podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"meios de contatar</a> a FSF.  Links quebrados e outras correções ou "
+"sugestões podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
 "webmasters@gnu.org&gt;</a>."
 
+#
 #.  TRANSLATORS: Ignore the original text in this paragraph,
 #.         replace it with the translation of these two:
 #.         We work hard and do our best to provide accurate, good quality
@@ -255,13 +256,13 @@ msgid ""
 "\">Translations README</a> for information on coordinating and submitting "
 "translations of this article."
 msgstr ""
-"Nós trabalhamos arduamente para oferecer traduções precisas e de boa "
-"qualidade. No entanto, não estamos isentos de erros. Por favor, envie seus "
-"comentários e sugestões em geral sobre as traduções para <a href=\"mailto:"
-"web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</a>.</p> "
-"<p>Consulte o <a href=\"/server/standards/README.translations.html\">Guia "
-"para as traduções</a> para mais informações sobre a coordenação e o envio de "
-"traduções das páginas desse site."
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
+"envio de traduções das páginas desse site."
 
 #. type: Content of: <div><p>
 msgid "Copyright &copy; 2011 Richard Stallman"
@@ -273,9 +274,9 @@ msgid ""
 "creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
 "NoDerivs 3.0 United States License</a>."
 msgstr ""
-"Esta página está licenciada com uma Licença <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Atribuição-"
-"SemDerivações 3.0 Estados Unidos</a>."
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/3.0/us/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 3.0 Estados Unidos</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>

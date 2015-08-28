@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: edu-why.html\n"
-"POT-Creation-Date: 2014-03-29 13:26+0000\n"
+"POT-Creation-Date: 2015-05-04 19:56+0000\n"
 "PO-Revision-Date: 2015-02-23 19:37+0100\n"
 "Last-Translator: Hudson Flávio Meneses Lacerda <hfmlacerda@yahoo.com.br>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -162,12 +162,23 @@ msgstr ""
 "interesses comerciais e evita aprisionamento por um fornecedor."
 
 #. type: Content of: <ul><li>
+#, fuzzy
+#| msgid ""
+#| "Proprietary software companies use schools and universities as a "
+#| "springboard to reach users and thus impose their software on society as a "
+#| "whole. They offer discounts, or even gratis copies of their proprietary "
+#| "programs to educational institutions, so that students will learn to use "
+#| "them and become dependent on them. After these students graduate, neither "
+#| "them nor their future employers will be offered discounted copies.  "
+#| "Essentially, what these companies are doing is they are recruiting "
+#| "schools and universities into agents to lead people to permanent lifelong "
+#| "dependency."
 msgid ""
 "Proprietary software companies use schools and universities as a springboard "
 "to reach users and thus impose their software on society as a whole. They "
 "offer discounts, or even gratis copies of their proprietary programs to "
 "educational institutions, so that students will learn to use them and become "
-"dependent on them. After these students graduate, neither them nor their "
+"dependent on them. After these students graduate, neither they nor their "
 "future employers will be offered discounted copies.  Essentially, what these "
 "companies are doing is they are recruiting schools and universities into "
 "agents to lead people to permanent lifelong dependency."
@@ -305,7 +316,9 @@ msgstr ""
 "envio de traduções das páginas desse site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2011 Free Software Foundation, Inc."
+#, fuzzy
+#| msgid "Copyright &copy; 2011 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2011, 2015 Free Software Foundation, Inc."
 msgstr "Copyright &copy; 2011 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>

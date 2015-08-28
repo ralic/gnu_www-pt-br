@@ -9,7 +9,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: common-distros.html\n"
-"POT-Creation-Date: 2014-06-30 16:25+0000\n"
+"POT-Creation-Date: 2015-06-14 08:55+0000\n"
 "PO-Revision-Date: 2012-11-26 19:31-0200\n"
 "Last-Translator: Rafael Beraldo <rberaldo@cabaladada.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -395,6 +395,16 @@ msgstr ""
 "disponíveis para download no FTP oficial do SUSE."
 
 #. type: Content of: <h3>
+msgid "Tails"
+msgstr ""
+
+#. type: Content of: <p>
+msgid ""
+"Tails uses the vanilla version of Linux, which contains nonfree firmware "
+"blobs."
+msgstr ""
+
+#. type: Content of: <h3>
 msgid "Ubuntu GNU/Linux"
 msgstr "Ubuntu GNU/Linux"
 
@@ -416,15 +426,27 @@ msgstr ""
 
 #. type: Content of: <p>
 msgid ""
-"Ubuntu's trademark policy prohibits commercial redistribution of exact "
-"copies of Ubuntu, denying an important freedom."
+"The &ldquo;Ubuntu Software Center&rdquo; lists proprietary programs and free "
+"programs jumbled together.  It is <a href=\"http://www.freesoftwaremagazine."
+"com/articles/"
+"ubuntu_software_center_proprietary_and_free_software_mixed_confusing_ui"
+"\">hard to tell which ones are free</a> since proprietary programs for "
+"download at no charge are labelled &ldquo;free&rdquo;."
 msgstr ""
-"A política da marca registrada do Ubuntu proíbe a redistribuição comercial "
-"de cópias exatas do Ubuntu, negando uma liberdade importante."
 
 #. type: Content of: <p>
+#, fuzzy
+#| msgid ""
+#| "As of October 2012, Ubuntu <a href=\"http://www.omgubuntu.co.uk/2012/10/"
+#| "does-ubuntus-amazon-lens-break-eu-law\"> sends personal data about users' "
+#| "searches</a> to a server belonging to Canonical, which sends back ads to "
+#| "buy things from Amazon.  This does not, strictly speaking, affect whether "
+#| "Ubuntu is free software, but it is a violation of users' privacy.  It "
+#| "also encourages buying from Amazon, a company <a href=\"http://"
+#| "DefectiveByDesign.org/\">associated with DRM</a> as well as mistreatment "
+#| "of workers, authors and publishers."
 msgid ""
-"As of October 2012, Ubuntu <a href=\"http://www.omgubuntu.co.uk/2012/10/does-"
+"Since October 2012, Ubuntu <a href=\"http://www.omgubuntu.co.uk/2012/10/does-"
 "ubuntus-amazon-lens-break-eu-law\"> sends personal data about users' "
 "searches</a> to a server belonging to Canonical, which sends back ads to buy "
 "things from Amazon.  This does not, strictly speaking, affect whether Ubuntu "
@@ -444,20 +466,49 @@ msgstr ""
 "trabalhadores, autores e editoras."
 
 #. type: Content of: <p>
+#, fuzzy
+#| msgid ""
+#| "This adware is one of the rare occasions in which a free software "
+#| "developer persists in keeping a malicious feature in its version of a "
+#| "program."
 msgid ""
 "This adware is one of the rare occasions in which a free software developer "
-"persists in keeping a malicious feature in its version of a program."
+"persists in keeping a malicious feature in its version of a free program."
 msgstr ""
 "Esse adware é uma das raras ocasiões na qual um desenvolvedor de software "
 "livre persiste em manter funções maliciosas nas versões de um programa."
+
+#. type: Content of: <p>
+msgid ""
+"Ubuntu <a href=\"http://www.ubuntu.com/legal/terms-and-policies/intellectual-"
+"property-policy#your-use-of-ubuntu\">appears to permit commercial "
+"redistribution of exact copies with the trademarks</a>; removal of the "
+"trademarks is required only for modified versions.  That is an acceptable "
+"policy for trademarks.  The same page, further down, makes a vague and "
+"ominous statement about &ldquo;Ubuntu patents,&rdquo; without giving enough "
+"details to show whether that constitutes aggression or not."
+msgstr ""
+
+#. type: Content of: <p>
+msgid ""
+"That page spreads confusion by using the misleading term <a href=\"/"
+"philosophy/not-ipr.html\">&ldquo;intellectual property rights&rdquo;</a>, "
+"which falsely presumes that trademark law and patent law and several other "
+"laws belong in one single conceptual framework.  Use of that term is "
+"harmful, without exception, so after making a reference to someone else's "
+"use of the term, we should always reject it.  However, that is not a "
+"substantive issue about Ubuntu as a GNU/Linux distribution."
+msgstr ""
 
 #. type: Content of: <h2>
 msgid "Some Other Distros"
 msgstr "Algumas Outras Distros"
 
 #. type: Content of: <p>
-msgid "Here we discuss some systems that are not GNU/Linux."
-msgstr "Aqui discutimos alguns outros sistemas que não são o GNU/Linux."
+msgid ""
+"Here we discuss some well-known or significant non-GNU/Linux system distros "
+"that do not qualify as free."
+msgstr ""
 
 #. type: Content of: <h3>
 msgid "BSD systems"
@@ -513,6 +564,19 @@ msgid ""
 msgstr ""
 "O Haiku inclui alguns programas que você não pode modificar. Ele também "
 "inclui blobs de firmware não livres."
+
+#. type: Content of: <h3>
+msgid "Android"
+msgstr ""
+
+#. type: Content of: <p>
+msgid ""
+"<a href=\"/philosophy/android-and-users-freedom.html\">Android</a> as "
+"released by Google contains many nonfree parts as well as many free parts.  "
+"Most of the free parts are covered by a pushover license (not <a href=\"/"
+"copyleft/copyleft.html\">copyleft</a>), so manufacturers that distribute "
+"Android in a product sometimes make those parts nonfree as well."
+msgstr ""
 
 #. type: Content of: <h3>
 msgid "CyanogenMod"
@@ -587,15 +651,20 @@ msgstr ""
 
 #. type: Content of: <div><p>
 #, fuzzy
-#| msgid "Copyright &copy; 2011 Free Software Foundation, Inc."
-msgid "Copyright &copy; 2014 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2011 Free Software Foundation, Inc."
+#| msgid "Copyright &copy; 2011, 2012 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2014, 2015 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2011, 2012 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
+#, fuzzy
+#| msgid ""
+#| "This page is licensed under a <a rel=\"license\" href=\"http://"
+#| "creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
+#| "NoDerivs 3.0 United States License</a>."
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-"NoDerivs 3.0 United States License</a>."
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
 msgstr ""
 "Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
 "creativecommons.org/licenses/by-nd/3.0/us/deed.pt_BR\">Creative Commons "
@@ -614,3 +683,46 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização: "
+
+#~ msgid ""
+#~ "Ubuntu's trademark policy prohibits commercial redistribution of exact "
+#~ "copies of Ubuntu, denying an important freedom."
+#~ msgstr ""
+#~ "A política da marca registrada do Ubuntu proíbe a redistribuição "
+#~ "comercial de cópias exatas do Ubuntu, negando uma liberdade importante."
+
+#~ msgid ""
+#~ "As of October 2012, Ubuntu <a href=\"http://www.omgubuntu.co.uk/2012/10/"
+#~ "does-ubuntus-amazon-lens-break-eu-law\"> sends personal data about users' "
+#~ "searches</a> to a server belonging to Canonical, which sends back ads to "
+#~ "buy things from Amazon.  This does not, strictly speaking, affect whether "
+#~ "Ubuntu is free software, but it is a violation of users' privacy.  It "
+#~ "also encourages buying from Amazon, a company <a href=\"http://"
+#~ "DefectiveByDesign.org/\">associated with DRM</a> as well as mistreatment "
+#~ "of workers, authors and publishers."
+#~ msgstr ""
+#~ "A partir de outubro de 2012, o Ubuntu <a href=\"http://www.omgubuntu.co."
+#~ "uk/2012/10/does-ubuntus-amazon-lens-break-eu-law\">envia informações "
+#~ "pessoais sobre as buscas dos usuários</a> a um servidor que pertence à "
+#~ "Canonical, que envia de volta anúncios para comprar coisas da Amazon. "
+#~ "Estritamente falando, isso não afeta se o Ubuntu é software livre ou não, "
+#~ "mas é uma violação da privacidade dos usuários. A distribuição também "
+#~ "encoraja compras na Amazon, uma companhia que está <a href=\"http://"
+#~ "DefectiveByDesign.org/\">associada ao DRM</a>, além de maltratar seus "
+#~ "trabalhadores, autores e editoras."
+
+#~ msgid ""
+#~ "This adware is one of the rare occasions in which a free software "
+#~ "developer persists in keeping a malicious feature in its version of a "
+#~ "program."
+#~ msgstr ""
+#~ "Esse adware é uma das raras ocasiões na qual um desenvolvedor de software "
+#~ "livre persiste em manter funções maliciosas nas versões de um programa."
+
+#~ msgid "Here we discuss some systems that are not GNU/Linux."
+#~ msgstr "Aqui discutimos alguns outros sistemas que não são o GNU/Linux."
+
+#, fuzzy
+#~| msgid "Copyright &copy; 2011 Free Software Foundation, Inc."
+#~ msgid "Copyright &copy; 2014 Free Software Foundation, Inc."
+#~ msgstr "Copyright &copy; 2011 Free Software Foundation, Inc."

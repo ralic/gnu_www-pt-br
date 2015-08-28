@@ -1,16 +1,16 @@
 # Master Compendium for Brazilian Portuguese translations of gnu.org articles.
 # Copyright (C) 2012, 2013 Free Software Foundation, Inc.
 # This file is distributed under the same license as the articles in www.gnu.org.
-# Rafael Beraldo <rberaldo@cabaladada.org>, 2013, 2015.
+# Rafael Beraldo <rberaldo@cabaladada.org>, 2013.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: master\n"
 "POT-Creation-Date: 2010-11-22 12:25-0500\n"
-"PO-Revision-Date: 2015-02-25 09:51-0300\n"
+"PO-Revision-Date: 2013-02-07 01:39-0200\n"
 "Last-Translator: Rafael Beraldo <rberaldo@cabaladada.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
-"Language: es\n"
+"Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -27,8 +27,8 @@ msgid ""
 msgstr ""
 "Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
 "org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
-"meios de contatar</a> a FSF. Links quebrados e outras correções ou sugestões "
-"podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"meios de contatar</a> a FSF.  Links quebrados e outras correções ou "
+"sugestões podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
 "webmasters@gnu.org&gt;</a>."
 
 #
@@ -49,13 +49,13 @@ msgid ""
 "see <a href=\"/server/standards/README.translations.html\">Translations "
 "README</a>."
 msgstr ""
-"Nós trabalhamos arduamente para oferecer traduções precisas e de boa "
-"qualidade. No entanto, não estamos isentos de erros. Por favor, envie seus "
-"comentários e sugestões em geral sobre as traduções para <a href=\"mailto:"
-"web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</a>.</p> "
-"<p>Consulte o <a href=\"/server/standards/README.translations.html\">Guia "
-"para as traduções</a> para mais informações sobre a coordenação e o envio de "
-"traduções das páginas desse site."
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
+"envio de traduções das páginas desse site."
 
 #
 #.  TRANSLATORS: Ignore the original text in this paragraph,
@@ -75,13 +75,13 @@ msgid ""
 "\">Translations README</a> for information on coordinating and submitting "
 "translations of this article."
 msgstr ""
-"Nós trabalhamos arduamente para oferecer traduções precisas e de boa "
-"qualidade. No entanto, não estamos isentos de erros. Por favor, envie seus "
-"comentários e sugestões em geral sobre as traduções para <a href=\"mailto:"
-"web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</a>.</p> "
-"<p>Consulte o <a href=\"/server/standards/README.translations.html\">Guia "
-"para as traduções</a> para mais informações sobre a coordenação e o envio de "
-"traduções das páginas desse site."
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
+"envio de traduções das páginas desse site."
 
 # type: Content of: <div><p>
 #. type: Content of: <div><p>
@@ -148,9 +148,9 @@ msgid ""
 "creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
 "NoDerivs 3.0 United States License</a>."
 msgstr ""
-"Esta página está licenciada com uma Licença <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Atribuição-"
-"SemDerivações 3.0 Estados Unidos</a>."
+"Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/3.0/us/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 3.0 Estados Unidos</a>."
 
 # type: Content of: <div><p>
 #. type: Content of: <table><tr><td>

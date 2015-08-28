@@ -9,7 +9,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: licenses.html\n"
-"POT-Creation-Date: 2015-02-25 17:55+0000\n"
+"POT-Creation-Date: 2015-06-12 21:55+0000\n"
 "PO-Revision-Date: 2014-12-20 17:12-0200\n"
 "Last-Translator: Yuri da Silva <yuri.silva.31.charles AT gmail.com>\n"
 "Language-Team: web-translators <web-translators@gnu.org>\n"
@@ -65,6 +65,21 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <h3>
+msgid "Evaluating Licenses"
+msgstr ""
+
+#. type: Content of: <p>
+msgid ""
+"If you come across a license not mentioned in our <a href=\"/licenses/"
+"license-list.html\">license list</a>, you can ask us to evaluate whether it "
+"is a free license.  Please email a copy of the license (and the URL where "
+"you found it)  to <a href=\"mailto:licensing@fsf.org\">licensing@fsf.org</"
+"a>.  Our licensing experts in the staff and the board of directors will "
+"review it.  If the license has some unusual conditions, they may pose "
+"difficult philosophical problems, so we can't promise to decide quickly."
+msgstr ""
+
+#. type: Content of: <h3>
 #, fuzzy
 msgid "Common Resources for our Software Licenses"
 msgstr "Recursos Comuns para nossas Licenças de Software"
@@ -75,10 +90,10 @@ msgid ""
 "licenses:"
 msgstr ""
 
-#. type: Content of: <ul><li>
 # | <a [-href=\"/licenses/gpl-faq.html\">The GNU GPL Frequently-]
 # | {+href=\"/licenses/gpl-faq.html\">Frequently+} Asked [-Questions</a>-]
 # | {+Questions about the GNU licenses</a>+}
+#. type: Content of: <ul><li>
 #, fuzzy
 #| msgid ""
 #| "<a href=\"/licenses/gpl-faq.html\">The GNU GPL Frequently Asked "
@@ -98,9 +113,9 @@ msgstr ""
 "<a href=\"/licenses/gpl-howto.html\">Como usar licenças do GNU em seus "
 "próprios programas</a>"
 
-#. type: Content of: <ul><li>
 # | <a href=\"/licenses/gpl-violation.html\">What to do if you see a violation
 # | of [-the-] {+a+} GNU [-GPL, LGPL or FDL</a>-] {+license</a>+}
+#. type: Content of: <ul><li>
 #, fuzzy
 #| msgid ""
 #| "<a href=\"/licenses/gpl-violation.html\">What to do if you see a "
@@ -163,12 +178,12 @@ msgstr ""
 msgid "The GNU General Public License"
 msgstr "A Licença Pública Geral GNU"
 
-#. type: Content of: <p>
 # | The GNU General Public License is often called the GNU GPL for [-short
 # | and-] {+short; it+} is used by most GNU [-programs as well as many other
 # | Free Software programs that are not part-] {+programs, and by more than
 # | half+} of [-the GNU Project.-] {+all free software packages.+}  The latest
 # | version is version 3.
+#. type: Content of: <p>
 #, fuzzy
 #| msgid ""
 #| "The GNU General Public License is often called the GNU GPL for short and "
@@ -244,9 +259,9 @@ msgstr ""
 "<a href=\"/licenses/lgpl.dbk\">DocBook</a> e \n"
 "<a href=\"/licenses/lgpl.texi\">Texinfo</a>."
 
-#. type: Content of: <ul><li>
 # | <a href=\"/licenses/why-not-lgpl.html\">Why you shouldn't use the
 # | [-Library-] {+Lesser+} GPL for your next library</a>
+#. type: Content of: <ul><li>
 #, fuzzy
 #| msgid ""
 #| "<a href=\"/licenses/why-not-lgpl.html\">Why you shouldn't use the Library "
@@ -308,12 +323,12 @@ msgstr "<a href=\"/licenses/why-affero-gpl.html\">Porque a GPL Affero</a>"
 msgid "The GNU Free Documentation License"
 msgstr "A Licença de Documentação Livre GNU"
 
-#. type: Content of: <p>
 # | The GNU Free Documentation License is a form of copyleft intended for use
 # | on a manual, textbook or other document to assure everyone the effective
 # | freedom to copy and redistribute it, with or without modifications, either
 # | commercially or [-noncommercially.-] {+non-commercially.  The latest
 # | version is 1.3.+}
+#. type: Content of: <p>
 #, fuzzy
 #| msgid ""
 #| "The GNU Free Documentation License is a form of copyleft intended for use "
@@ -332,7 +347,6 @@ msgstr ""
 "liberdade de copiar e redistribui-los, com ou sem modificações, tanto "
 "comercial quanto não-comercialmente. A versão mais recente é versão 1.3."
 
-#. type: Content of: <ul><li>
 # | The GNU [-FDL as-] {+Free Documentation License text is available in these
 # | formats:+} <a [-href=\"/licenses/fdl.html\">html</a>,-]
 # | {+href=\"/licenses/fdl.html\">HTML</a>,+} <a
@@ -346,6 +360,7 @@ msgstr ""
 # | {+href=\"/licenses/fdl.tex\">LaTeX</a>.  These documents are not formatted
 # | for standalone publishing, and are intended to be included in another
 # | document.+}
+#. type: Content of: <ul><li>
 #, fuzzy
 #| msgid ""
 #| "The GNU FDL as <a href=\"/licenses/fdl.html\">html</a>, <a href=\"/"
@@ -367,9 +382,9 @@ msgstr ""
 "<a href=\"/licenses/fdl.texi\">Texinfo</a> e \n"
 "<a href=\"/licenses/fdl.tex\">TeX</a>."
 
-#. type: Content of: <ul><li>
 # | <a href=\"/licenses/why-gfdl.html\">Why [-you-] {+publishers+} should use
 # | the GNU FDL</a>
+#. type: Content of: <ul><li>
 #, fuzzy
 #| msgid ""
 #| "<a href=\"/licenses/why-gfdl.html\">Why you should use the GNU FDL</a>"
@@ -440,13 +455,13 @@ msgstr ""
 msgid "GNU General Public License (GPL)"
 msgstr "Licença Pública Geral GNU (GPL)"
 
-#. type: Content of: <dl><dd>
 # | [-The GNU GPL as-]<a [-href=\"/licenses/gpl.html\">html</a>,-]
 # | {+href=\"http://www.gnu.org/licenses/gpl-3.0.html\">GPLv3</a>,+} <a
 # | [-href=\"/licenses/gpl.txt\">text</a> and-]
 # | {+href=\"http://www.gnu.org/licenses/gpl-2.0.html\">GPLv2</a>,+} <a
 # | [-href=\"/licenses/gpl.texi\">Texinfo</a>-]
 # | {+href=\"http://www.gnu.org/licenses/gpl-1.0.html\">GPLv1</a>+}
+#. type: Content of: <dl><dd>
 #, fuzzy
 #| msgid ""
 #| "The GNU GPL as <a href=\"/licenses/gpl.html\">html</a>, <a href=\"/"
@@ -514,13 +529,13 @@ msgstr "Ver também a <a href=\"old-licenses/\">pagina de antigas licenças</a>.
 msgid "Unofficial Translations"
 msgstr "Traduções Extra-Oficiais"
 
-#. type: Content of: <p>
 # | Legally speaking, the original (English) version of the [-GPL-]
 # | {+licenses+} is what specifies the actual distribution terms for GNU
 # | [-programs.-] {+programs and others that use them.+} But to help people
 # | better understand the licenses, we give permission to publish translations
 # | into other languages [-if the translations-] provided that they follow our
 # | regulations for unofficial translations[-.-]{+:+}
+#. type: Content of: <p>
 #, fuzzy
 #| msgid ""
 #| "Legally speaking, the original (English) version of the GPL is what "
@@ -669,14 +684,6 @@ msgstr ""
 "causa disso."
 
 #. type: Content of: <p>
-# | Copyleft also helps programmers who want to contribute <a
-# | [-href=\"/software/software.html#HelpWriteSoftware\">improvements</a>-]
-# | {+href=\"/help/software.html#develop\">improvements</a>+} to <a
-# | href=\"/philosophy/free-sw.html\">free software</a> get permission to do
-# | that.  These programmers often work for companies or universities that
-# | would do almost anything to get more money.  A programmer may want to
-# | contribute her changes to the community, but her employer may want to turn
-# | the changes into a proprietary software product.
 #, fuzzy
 #| msgid ""
 #| "Copyleft also helps programmers who want to contribute <a href=\"/"
@@ -687,7 +694,7 @@ msgstr ""
 #| "her changes to the community, but her employer may want to turn the "
 #| "changes into a proprietary software product."
 msgid ""
-"Copyleft also helps programmers who want to contribute <a href=\"/help/"
+"Copyleft also helps programmers who want to contribute <a href=\"/software/"
 "software.html#develop\">improvements</a> to <a href=\"/philosophy/free-sw."
 "html\">free software</a> get permission to do that.  These programmers often "
 "work for companies or universities that would do almost anything to get more "
@@ -874,10 +881,15 @@ msgid "Copyright &copy; 2014, 2015 Free Software Foundation, Inc."
 msgstr "Copyright &copy; 1996, 1997, 1998, 1999 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
+#, fuzzy
+#| msgid ""
+#| "This page is licensed under a <a rel=\"license\" href=\"http://"
+#| "creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
+#| "NoDerivs 3.0 United States License</a>."
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-"NoDerivs 3.0 United States License</a>."
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
 msgstr ""
 "Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
 "creativecommons.org/licenses/by-nd/3.0/us/deed.pt_BR\">Creative Commons "
@@ -895,6 +907,41 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização: "
+
+# | Copyleft also helps programmers who want to contribute <a
+# | [-href=\"/software/software.html#HelpWriteSoftware\">improvements</a>-]
+# | {+href=\"/help/software.html#develop\">improvements</a>+} to <a
+# | href=\"/philosophy/free-sw.html\">free software</a> get permission to do
+# | that.  These programmers often work for companies or universities that
+# | would do almost anything to get more money.  A programmer may want to
+# | contribute her changes to the community, but her employer may want to turn
+# | the changes into a proprietary software product.
+#, fuzzy
+#~| msgid ""
+#~| "Copyleft also helps programmers who want to contribute <a href=\"/"
+#~| "software/software.html#HelpWriteSoftware\">improvements</a> to <a href="
+#~| "\"/philosophy/free-sw.html\">free software</a> get permission to do "
+#~| "that.  These programmers often work for companies or universities that "
+#~| "would do almost anything to get more money.  A programmer may want to "
+#~| "contribute her changes to the community, but her employer may want to "
+#~| "turn the changes into a proprietary software product."
+#~ msgid ""
+#~ "Copyleft also helps programmers who want to contribute <a href=\"/help/"
+#~ "software.html#develop\">improvements</a> to <a href=\"/philosophy/free-sw."
+#~ "html\">free software</a> get permission to do that.  These programmers "
+#~ "often work for companies or universities that would do almost anything to "
+#~ "get more money.  A programmer may want to contribute her changes to the "
+#~ "community, but her employer may want to turn the changes into a "
+#~ "proprietary software product."
+#~ msgstr ""
+#~ "O Copyleft também ajuda os programadores que desejam contribuir com <a "
+#~ "href=\"/software/software.html#HelpWriteSoftware\">melhorias</a> para o "
+#~ "<a href=\"/philosophy/free-sw.html\">software livre</a> a obterem "
+#~ "permissão de faze-lo. Esses programadores frequentemente trabalham para "
+#~ "empresas ou universidades que fariam qualquer coisa para ganhar mais "
+#~ "dinheiro. Um programador pode desejar contribuir com modificações para a "
+#~ "comunidade, mas seu empregador pode desejar transformar as mudanças em um "
+#~ "produto de software proprietário."
 
 #~ msgid "GNU, FSF, Free Software Foundation, Linux, Copyleft, Licenses"
 #~ msgstr "GNU, FSF, Free Software Foundation, Linux, Copyleft, Licenses"

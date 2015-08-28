@@ -8,7 +8,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: words-to-avoid.html\n"
-"POT-Creation-Date: 2015-01-05 13:55+0000\n"
+"POT-Creation-Date: 2015-07-16 14:55+0000\n"
 "PO-Revision-Date: 2015-02-23 19:57+0100\n"
 "Last-Translator: Tássio Naia <tassio.naia@gmail.com>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -56,6 +56,12 @@ msgstr ""
 #. type: Content of: <p>
 msgid "<a href=\"/philosophy/philosophy.html\">Other Texts to Read</a> |"
 msgstr "<a href=\"/philosophy/philosophy.html\">Outros Textos para Ler</a> |"
+
+#. type: Content of: <p>
+#, fuzzy
+#| msgid "&ldquo;<a href=\"#Hacker\">Hacker</a>&rdquo; |"
+msgid "&ldquo;<a href=\"#Access\">Access</a>&rdquo; |"
+msgstr "&ldquo;<a href=\"#Hacker\">Hacker</a>&rdquo; |"
 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#Alternative\">Alternative</a>&rdquo; |"
@@ -150,6 +156,12 @@ msgid "&ldquo;<a href=\"#GiveAwaySoftware\">Give away software</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#GiveAwaySoftware\">Dar software</a>&rdquo; |"
 
 #. type: Content of: <p>
+#, fuzzy
+#| msgid "&ldquo;<a href=\"#Closed\">Closed</a>&rdquo; |"
+msgid "&ldquo;<a href=\"#Google\">Google</a>&rdquo; |"
+msgstr "&ldquo;<a href=\"#Closed\">Fechado</a>&rdquo; |"
+
+#. type: Content of: <p>
 msgid "&ldquo;<a href=\"#Hacker\">Hacker</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#Hacker\">Hacker</a>&rdquo; |"
 
@@ -221,6 +233,12 @@ msgstr ""
 "&ldquo;<a href=\"#SharingEconomy\">Economia do compartilhamento</a>&rdquo; |"
 
 #. type: Content of: <p>
+#, fuzzy
+#| msgid "&ldquo;<a href=\"#Open\">Open</a>&rdquo; |"
+msgid "&ldquo;<a href=\"#Skype\">Skype</a>&rdquo; |"
+msgstr "&ldquo;<a href=\"#Open\">Aberto</a>&rdquo; |"
+
+#. type: Content of: <p>
 msgid "&ldquo;<a href=\"#SoftwareIndustry\">Software Industry</a>&rdquo; |"
 msgstr ""
 "&ldquo;<a href=\"#SoftwareIndustry\">Indústria do Software</a>&rdquo; |"
@@ -229,6 +247,17 @@ msgstr ""
 msgid "&ldquo;<a href=\"#SourceModel\">Source model</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#SourceModel\">Modelo da fonte</a>&rdquo; |"
 
+#. #if expr="$LANGUAGE_SUFFIX	= /^.(es)$/" 
+#.  TRANSLATORS: translate if this word is used often in your
+#.      language to refer to mobile computers; otherwise,
+#.      fill the translation with a space. 
+#. type: Content of: <p>
+#, fuzzy
+#| msgid "&ldquo;<a href=\"#Commercial\">Commercial</a>&rdquo; |"
+msgid "&ldquo;<a href=\"#Terminal\">Terminal</a>&rdquo; |"
+msgstr "&ldquo;<a href=\"#Commercial\">Comercial</a>&rdquo; |"
+
+#. #endif 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#Theft\">Theft</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#Theft\">Roubo</a>&rdquo; |"
@@ -241,7 +270,54 @@ msgstr "&ldquo;<a href=\"#TrustedComputing\">Computação Confiável</a>&rdquo; 
 msgid "&ldquo;<a href=\"#Vendor\">Vendor</a>&rdquo;"
 msgstr "&ldquo;<a href=\"#Vendor\">Vendedor</a>&rdquo;"
 
-#. type: Content of: <h4>
+#. type: Content of: <h3>
+#, fuzzy
+#| msgid "&ldquo;Hacker&rdquo;"
+msgid "&ldquo;Access&rdquo;"
+msgstr "&ldquo;Hacker&rdquo;"
+
+#. type: Content of: <p>
+msgid ""
+"It is a common misunderstanding to think free software means that the public "
+"has &ldquo;access&rdquo; to a program.  That is not what free software means."
+msgstr ""
+
+#. type: Content of: <p>
+msgid ""
+"The <a href=\"/philosophy/free-sw.html\">criterion for free software</a> is "
+"not about who has &ldquo;access&rdquo; to the program; the four essential "
+"freedoms concern what a user that has a copy of the program can do with it.  "
+"For instance, freedom 2 says that that user is free to make another copy and "
+"give or sell it to you.  But no user is <em>obligated</em> to do that for "
+"you; you do not have a <em>right</em> to demand a copy of that program from "
+"any user."
+msgstr ""
+
+#. type: Content of: <p>
+msgid ""
+"In particular, if you write a program yourself and never offer a copy to "
+"anyone else, that program is free software (in a trivial way)  because you "
+"(the sole user that has it) have the four essential freedoms."
+msgstr ""
+
+#. type: Content of: <p>
+msgid ""
+"In practice, when many users have copies of a program, someone is sure to "
+"post it on the internet, giving everyone access to it.  We think people "
+"ought to do that, if the program is useful.  But this isn't a requirement of "
+"free software."
+msgstr ""
+
+#. type: Content of: <p>
+msgid ""
+"There is one specific point in which a question of having access is directly "
+"pertinent to free software: the GNU GPL permits giving a particular user "
+"access to download a program's source code as a substitute for physically "
+"giving that user a copy of the source.  This applies to the special case in "
+"which the user already has a copy of the program in non-source form."
+msgstr ""
+
+#. type: Content of: <h3>
 msgid "&ldquo;Alternative&rdquo;"
 msgstr "&ldquo;Alternativa&rdquo;"
 
@@ -277,7 +353,7 @@ msgstr ""
 "seja bom oferecer aos usuários essas &ldquo;alternativas&rdquo; ao software "
 "livre."
 
-#. type: Content of: <h4>
+#. type: Content of: <h3>
 msgid "&ldquo;BSD-style&rdquo;"
 msgstr "&ldquo;do tipo BSD&rdquo;"
 
@@ -305,7 +381,7 @@ msgstr ""
 "license-list.html\">a licença em questão</a> e evitar o termo vago &ldquo;do "
 "tipo BSD&rdquo;"
 
-#. type: Content of: <h4>
+#. type: Content of: <h3>
 msgid "&ldquo;Closed&rdquo;"
 msgstr "&ldquo;Fechado&rdquo;"
 
@@ -330,7 +406,7 @@ msgstr ""
 "philosophy/categories.html#ProprietarySoftware\">&ldquo;proprietário&rdquo;</"
 "a>."
 
-#. type: Content of: <h4>
+#. type: Content of: <h3>
 msgid "&ldquo;Cloud Computing&rdquo;"
 msgstr "&ldquo;Computação em Nuvem&rdquo;"
 
@@ -452,7 +528,7 @@ msgstr ""
 "o termo mesmo assim, pois, como um desenvolvedor de software proprietário, "
 "ele não é motivado pelos mesmos ideais que nós."
 
-#. type: Content of: <h4>
+#. type: Content of: <h3>
 msgid "&ldquo;Commercial&rdquo;"
 msgstr "&ldquo;Comercial&rdquo;"
 
@@ -510,7 +586,7 @@ msgstr ""
 "Sejamos cuidadosos para não usar a palavra &ldquo;comercial&rdquo; dessa "
 "maneira."
 
-#. type: Content of: <h4>
+#. type: Content of: <h3>
 msgid "&ldquo;Compensation&rdquo;"
 msgstr "&ldquo;Compensação&rdquo;"
 
@@ -542,95 +618,50 @@ msgstr ""
 "subsídio para as mesmas companhias de publicação que estão empurrando leis "
 "injustas para cima de nós."
 
-#. type: Content of: <h4>
+#. type: Content of: <h3>
 msgid "&ldquo;Consume&rdquo;"
 msgstr "&ldquo;Consumo&rdquo;"
 
 #. type: Content of: <p>
 msgid ""
-"&ldquo;Consume&rdquo; refers to what we do with food: we ingest it, and use "
-"it in a way that uses it up.  By analogy, we employ the same word to "
-"describe using other things in a way that uses them up.  However, it is "
-"erroneous to speak of &ldquo;consuming&rdquo; information, music, books, "
-"software, etc., since using them does not use them up."
-msgstr ""
-"&ldquo;Consumo&rdquo; refere-se ao que fazemos com a comida: nós a ingerimos "
-"e usamos de maneira que ela acaba. Por analogia, empregamos a mesma palavra "
-"para descrever o uso de outras coisas de maneira que elas acabam. No "
-"entanto, é errôneo falar do &ldquo;consumo&rdquo; de informação, música, "
-"livros, software etc., uma vez que elas não acabam quando as usamos."
-
-#. type: Content of: <p>
-msgid ""
-"Why is this perverse usage spreading? Some may feel that they sound "
-"sophisticated using a fashionable term from economics.  However, the "
-"economics they implicitly refer to is inappropriate for the activity in "
-"question.  Others may intend to limit discussion to an economic perspective, "
-"rejecting other perspectives such as ethical or social &mdash; which is "
-"narrowminded."
-msgstr ""
-"Mas por que esse uso perverso da palavra está se espalhando? Algumas pessoas "
-"talvez se sintam sofisticadas ao usar um jargão elegante da economia. No "
-"entanto, o conceito econômico a que eles implicitamente se referem é "
-"inapropriado para a atividade em questão. Outras pessoas talvez busquem "
-"limitar a discussão à perspectiva econômica, rejeitando outras perspectivas "
-"como a ética ou a social &mdash; um pensamento bastante limitado."
-
-#. type: Content of: <p>
-msgid "See also the following entry."
-msgstr "Veja também a entrada a seguir."
-
-#. type: Content of: <h4>
-msgid "&ldquo;Consumer&rdquo;"
-msgstr "&ldquo;Consumidor&rdquo;"
-
-#. type: Content of: <p>
-msgid ""
-"The term &ldquo;consumer,&rdquo; when used to refer to the users of "
-"computing, is loaded with assumptions we should reject.  Playing a "
+"&ldquo;Consume&rdquo; refers to what we do with food: we ingest it, after "
+"which the food as such no longer exists.  By analogy, we employ the same "
+"word for other products whose use <em>uses them up</em>.  Applying it to "
+"durable goods, such as clothing or appliances, is a stretch.  Applying it to "
+"published works (programs, recordings on a disk or in a file, books on paper "
+"or in a file), whose nature is to last indefinitely and which can be run, "
+"played or read any number of times, is simply an error.  Playing a "
 "recording, or running a program, does not consume it."
 msgstr ""
-"O termo &ldquo;consumidor,&rdquo; quando usado para se referir aos usuários "
-"da computação, é carregado de suposições que devemos rejeitar. Tocar uma "
-"música ou rodar um programa não o consomem."
 
 #. type: Content of: <p>
 msgid ""
-"The terms &ldquo;producer&rdquo; and &ldquo;consumer&rdquo; come from "
-"economics and its treatment of material products.  Thus, using them leads "
-"people to mistakenly apply to copiable digital data all that they know about "
-"the economics of uncopiable material products.  Of course, this error is "
-"exactly the one proprietary software developers want people to make."
+"The term &ldquo;consume&rdquo; is associated with the economics of "
+"uncopiable material products, and leads people to transfer its conclusions "
+"unconsciously to copiable digital works &mdash; an error that proprietary "
+"software developers (and other publishers) dearly wish to encourage.  Their "
+"twisted viewpoint comes through clearly in <a href=\"http://www."
+"businessinsider.com/former-google-exec-launches-sourcepoint-with-10-million-"
+"series-a-funding-2015-6\">this article</a>, which also refers to "
+"publications as &ldquo;<a href=\"#Content\">content</a>.&rdquo;"
 msgstr ""
-"Os termos &ldquo;produtor&rdquo; e &ldquo;consumidor&rdquo; vem da economia "
-"e de como ela trata produtos materiais. Assim, as pessoas são levadas a "
-"equivocadamente empregar a dados digitais e copiáveis tudo o que sabem sobre "
-"a economia de produtos materiais não copiáveis. É claro, esse erro é "
-"exatamente o que os desenvolvedores de software proprietário querem que as "
-"pessoas cometam."
 
 #. type: Content of: <p>
+#, fuzzy
+#| msgid ""
+#| "The limited thinking associated with &ldquo;consumers&rdquo; leads to "
+#| "outrages such as the CBDTPA (&ldquo;Consumer Broadband and Digital "
+#| "Television Promotion Act&rdquo;) which proposed to require <a href="
+#| "\"http://DefectiveByDesign.org/\">Digital Restrictions Management (DRM)</"
+#| "a> facilities in every digital device.  If all the users do is &ldquo;"
+#| "consume,&rdquo; why should they object?"
 msgid ""
-"In addition, describing the users of software as &ldquo;consumers&rdquo; "
-"presumes they are limited to helplessly selecting from whatever &ldquo;"
-"products&rdquo; are available in the &ldquo;market.&rdquo; There is no room "
-"in this mind-set for the idea that users can exercise control over the "
-"software they use."
-msgstr ""
-"Além disso, a descrição de usuários de software como &ldquo;"
-"consumidores&rdquo; presume que eles estão limitados a escolher, "
-"desamparados, a partir do que estiver disponível no &ldquo;mercado.&rdquo; "
-"Nessa mentalidade não há lugar para a ideia de que os usuários podem exercer "
-"controle sobre o software que usam."
-
-#. type: Content of: <p>
-msgid ""
-"The limited thinking associated with &ldquo;consumers&rdquo; leads to "
-"outrages such as the CBDTPA (&ldquo;Consumer Broadband and Digital "
-"Television Promotion Act&rdquo;) which proposed to require <a href=\"http://"
-"DefectiveByDesign.org/\">Digital Restrictions Management (DRM)</a> "
-"facilities in every digital device.  If all the users do is &ldquo;consume,"
-"&rdquo; why should they object?"
+"The narrow thinking associated with the idea that we &ldquo;consume "
+"content&rdquo; paves the way for laws such as the DMCA that forbid users to "
+"break the <a href=\"http://DefectiveByDesign.org/\">Digital Restrictions "
+"Management</a> (DRM) facilities in digital devices.  If users think what "
+"they do with these devices is &ldquo;consume,&rdquo; they may see such "
+"restrictions as natural."
 msgstr ""
 "Esse tipo de pensamento limitado associado aos &ldquo;consumidores&rdquo; "
 "leva a ultrajes como a CBDTPA (&ldquo;Lei do Consumidor de Banda Larga e da "
@@ -643,35 +674,102 @@ msgstr ""
 
 #. type: Content of: <p>
 msgid ""
-"The shallow economic conception of users as &ldquo;consumers&rdquo; tends to "
-"go hand in hand with the idea that published works are mere <a href="
-"\"#Content\">&ldquo;content.&rdquo;</a>"
+"It also encourages the acceptation of &ldquo;streaming&rdquo; services, "
+"which use DRM to limit use of digital recordings to a form that fits the "
+"word &ldquo;consume.&rdquo;"
 msgstr ""
-"O conceito superficial de considerar usuários como &ldquo;"
-"consumidores&rdquo; tende a andar de mãos dadas com a ideia de que trabalhos "
-"publicados são meramente <a href=\"#Content\">&ldquo;conteúdo.&rdquo;</a>"
 
 #. type: Content of: <p>
 msgid ""
+"Why is this perverse usage spreading? Some may feel that the term sounds "
+"sophisticated; if that attracts you, rejecting it with cogent reasons can "
+"appear even more sophisticated.  Others may be acting from business "
+"interests (their own, or their employers').  Their use of the term in "
+"prestigious forums gives the impression that it's the &ldquo;correct&rdquo; "
+"term."
+msgstr ""
+
+#. type: Content of: <p>
+msgid ""
+"To speak of &ldquo;consuming&rdquo; music, fiction, or any other artistic "
+"works is to treat them as products rather than as art.  If you don't want to "
+"spread that attitude, you would do well to reject using the term &ldquo;"
+"consume&rdquo; for them.  We recommend saying that someone &ldquo;"
+"experiences&rdquo; an artistic work or a work stating a point of view, and "
+"that someone &ldquo;uses&rdquo; a practical work."
+msgstr ""
+
+#. type: Content of: <p>
+msgid "See also the following entry."
+msgstr "Veja também a entrada a seguir."
+
+#. type: Content of: <h3>
+msgid "&ldquo;Consumer&rdquo;"
+msgstr "&ldquo;Consumidor&rdquo;"
+
+#. type: Content of: <p>
+msgid ""
+"The term &ldquo;consumer,&rdquo; when used to refer to the users of "
+"computing, is loaded with assumptions we should reject.  Some come from the "
+"idea that using the program &ldquo;consumes&rdquo; the program (see <a href="
+"\"#Consume\">the previous entry</a>), which leads people to impose on "
+"copiable digital works the economic conclusions that were drawn about "
+"uncopiable material products."
+msgstr ""
+
+#. type: Content of: <p>
+#, fuzzy
+#| msgid ""
+#| "In addition, describing the users of software as &ldquo;consumers&rdquo; "
+#| "presumes they are limited to helplessly selecting from whatever &ldquo;"
+#| "products&rdquo; are available in the &ldquo;market.&rdquo; There is no "
+#| "room in this mind-set for the idea that users can exercise control over "
+#| "the software they use."
+msgid ""
+"In addition, describing the users of software as &ldquo;consumers&rdquo; "
+"refers to a framing in which people are limited to selecting between "
+"whatever &ldquo;products&rdquo; are available in the &ldquo;market.&rdquo; "
+"There is no room in this framing for the idea that users can <a href=\"/"
+"philosophy/free-software-even-more-important.html\">directly exercise "
+"control over what a program does</a>."
+msgstr ""
+"Além disso, a descrição de usuários de software como &ldquo;"
+"consumidores&rdquo; presume que eles estão limitados a escolher, "
+"desamparados, a partir do que estiver disponível no &ldquo;mercado.&rdquo; "
+"Nessa mentalidade não há lugar para a ideia de que os usuários podem exercer "
+"controle sobre o software que usam."
+
+#. type: Content of: <p>
+#, fuzzy
+#| msgid ""
+#| "To describe people who are not limited to passive use of works, we "
+#| "suggest terms such as &ldquo;individuals&rdquo; and &ldquo;"
+#| "citizens&rdquo; &mdash; not &ldquo;consumers.&rdquo;"
+msgid ""
 "To describe people who are not limited to passive use of works, we suggest "
-"terms such as &ldquo;individuals&rdquo; and &ldquo;citizens&rdquo; &mdash; "
-"not &ldquo;consumers.&rdquo;"
+"terms such as &ldquo;individuals&rdquo; and &ldquo;citizens,&rdquo; rather "
+"than &ldquo;consumers.&rdquo;"
 msgstr ""
 "Para descrever pessoas que não estão limitadas ao uso passivo de obras, "
 "sugerimos os termos &ldquo;indivíduos&rdquo; e &ldquo;cidadãos&rdquo; "
 "&mdash; não &ldquo;consumidores.&rdquo;"
 
 #. type: Content of: <p>
+#, fuzzy
+#| msgid ""
+#| "The problem with the word &ldquo;consumer&rdquo; has been <a href="
+#| "\"http://www.theguardian.com/commentisfree/2013/aug/11/capitalism-"
+#| "language-raymond-williams\"> noted before</a>."
 msgid ""
-"The problem with the word &ldquo;consumer&rdquo; has been <a href=\"http://"
+"This problem with the word &ldquo;consumer&rdquo; has been <a href=\"http://"
 "www.theguardian.com/commentisfree/2013/aug/11/capitalism-language-raymond-"
-"williams\"> noted before</a>."
+"williams\">noted before</a>."
 msgstr ""
 "O problema com a palavra &ldquo;consumidor&rdquo; já foi <a href=\"http://"
 "www.theguardian.com/commentisfree/2013/aug/11/capitalism-language-raymond-"
 "williams\">notado anteriormente</a>."
 
-#. type: Content of: <h4>
+#. type: Content of: <h3>
 msgid "&ldquo;Content&rdquo;"
 msgstr "&ldquo;Conteúdo&rdquo;"
 
@@ -754,7 +852,7 @@ msgstr ""
 "sistema de revisão de web sites&rdquo; (do inglês &ldquo;web site revision "
 "system&rdquo; ou WRS)."
 
-#. type: Content of: <h4>
+#. type: Content of: <h3>
 msgid "&ldquo;Creative Commons licensed&rdquo;"
 msgstr "&ldquo;licenciado em Creative Commons&rdquo;"
 
@@ -786,7 +884,7 @@ msgstr ""
 "&ldquo;licenciado sob CC BY-SA.&rdquo; Se você não sabe qual licença foi "
 "usada, descubra e depois faça sua declaração."
 
-#. type: Content of: <h4>
+#. type: Content of: <h3>
 msgid "&ldquo;Creator&rdquo;"
 msgstr "&ldquo;Criador&rdquo;"
 
@@ -811,7 +909,7 @@ msgstr ""
 "realmente quer dizer. Esse dois termos não são equivalentes: frequentemente, "
 "o detentor dos direitos autorais não é o autor."
 
-#. type: Content of: <h4>
+#. type: Content of: <h3>
 msgid "&ldquo;Digital Goods&rdquo;"
 msgstr "&ldquo;Bens Digitais&rdquo;"
 
@@ -833,7 +931,7 @@ msgstr ""
 "Ela também enquadra os problemas nos termos da economia, cujos valores "
 "superficiais e limitados não incluem a liberdade e a comunidade."
 
-#. type: Content of: <h4>
+#. type: Content of: <h3>
 msgid "&ldquo;Digital Locks&rdquo;"
 msgstr "&ldquo;Cadeados Digitais&rdquo;"
 
@@ -850,11 +948,21 @@ msgstr ""
 "Quem o adota não pensou direito sobre o assunto."
 
 #. type: Content of: <p>
+#, fuzzy
+#| msgid ""
+#| "Locks are not necessarily oppressive or bad.  You probably own several "
+#| "locks, and their keys or codes as well; you may find them useful or "
+#| "troublesome, but they don't oppress you, because you are in a position to "
+#| "open and close them."
 msgid ""
 "Locks are not necessarily oppressive or bad.  You probably own several "
 "locks, and their keys or codes as well; you may find them useful or "
-"troublesome, but they don't oppress you, because you are in a position to "
-"open and close them."
+"troublesome, but they don't oppress you, because you can open and close "
+"them.  Likewise, we find <a href=\"http://www.theguardian.com/"
+"technology/2015/may/01/encryption-wont-work-if-it-has-a-back-door-only-the-"
+"good-guys-have-keys-to-\">encryption</a> invaluable for protecting our "
+"digital files.  That too is a kind of digital lock that you have control "
+"over."
 msgstr ""
 "Cadeados não são necessariamente opressivos ou maus. Você provavelmente "
 "possui vários, incluindo suas chaves ou códigos; talvez você ache que eles "
@@ -862,11 +970,17 @@ msgstr ""
 "condições de abri-los e fechá-los."
 
 #. type: Content of: <p>
+#, fuzzy
+#| msgid ""
+#| "DRM is like a lock placed on you by someone else, who refuses to give you "
+#| "the key&mdash;in other words, like <em>handcuffs</em>.  Therefore, the "
+#| "clear way to refer to them is &ldquo;digital handcuffs,&rdquo; not &ldquo;"
+#| "digital locks.&rdquo;"
 msgid ""
 "DRM is like a lock placed on you by someone else, who refuses to give you "
-"the key&mdash;in other words, like <em>handcuffs</em>.  Therefore, the clear "
-"way to refer to them is &ldquo;digital handcuffs,&rdquo; not &ldquo;digital "
-"locks.&rdquo;"
+"the key&mdash;in other words, like <em>handcuffs</em>.  Therefore, the "
+"proper metaphor for DRM is &ldquo;digital handcuffs,&rdquo; not &ldquo;"
+"digital locks.&rdquo;"
 msgstr ""
 "O DRM é como um cadeado colocado em você por alguém que se recusa a lhe dar "
 "a chave &mdash; em outras palavras, igual a <em>algemas</em>. Assim, a "
@@ -889,7 +1003,7 @@ msgstr ""
 "no entanto, quando afirmarmos nosso apoio, manifestadamente substituiremos a "
 "palavra por &ldquo;algemas digitais&rdquo; e explicaremos por quê."
 
-#. type: Content of: <h4>
+#. type: Content of: <h3>
 msgid "&ldquo;Digital Rights Management&rdquo;"
 msgstr "&ldquo;Gestão Digital de Restrições&rdquo;"
 
@@ -926,7 +1040,7 @@ msgstr ""
 "Por favor, registre-se para apoiar nossa <a href=\"http://DefectiveByDesign."
 "org/\">campanha para abolir o DRM</a>."
 
-#. type: Content of: <h4>
+#. type: Content of: <h3>
 msgid "&ldquo;Ecosystem&rdquo;"
 msgstr "&ldquo;Ecossistema&rdquo;"
 
@@ -976,7 +1090,7 @@ msgstr ""
 "espécies em perigo, as artes tradicionais&hellip; E as liberdades dos "
 "usuários de computador."
 
-#. type: Content of: <h4>
+#. type: Content of: <h3>
 msgid "&ldquo;FLOSS&rdquo;"
 msgstr "&ldquo;FLOSS&rdquo;"
 
@@ -996,7 +1110,7 @@ msgstr ""
 "de ser neutro. Mas se você quer mostrar que defende a liberdade, não use um "
 "termo neutro."
 
-#. type: Content of: <h4>
+#. type: Content of: <h3>
 msgid "&ldquo;For free&rdquo;"
 msgstr "&ldquo;De graça&rdquo;"
 
@@ -1033,7 +1147,7 @@ msgstr ""
 "Para evitar confusões, você pode dizer que um programa está disponível "
 "&ldquo;como software livre.&rdquo;"
 
-#. type: Content of: <h4>
+#. type: Content of: <h3>
 msgid "&ldquo;FOSS&rdquo;"
 msgstr "&ldquo;FOSS&rdquo;"
 
@@ -1053,7 +1167,7 @@ msgstr ""
 "melhor. Mas se você quer mostrar que defende a liberdade, não use um termo "
 "neutro."
 
-#. type: Content of: <h4>
+#. type: Content of: <h3>
 msgid "&ldquo;Freely available&rdquo;"
 msgstr "&ldquo;Disponível livremente&rdquo;"
 
@@ -1071,7 +1185,7 @@ msgstr ""
 "&ldquo;Software livre&rdquo; é definido pela liberdade dos usuários de terem "
 "uma cópia. Essas são respostas para problemas diferentes."
 
-#. type: Content of: <h4>
+#. type: Content of: <h3>
 msgid "&ldquo;Freeware&rdquo;"
 msgstr "&ldquo;Freeware&rdquo;"
 
@@ -1117,7 +1231,7 @@ msgstr ""
 "entendam que ela significa exatamente o que diz, vão entender exatamente "
 "qual é a questão."
 
-#. type: Content of: <h4>
+#. type: Content of: <h3>
 msgid "&ldquo;Give away software&rdquo;"
 msgstr "&ldquo;Doar software&rdquo;"
 
@@ -1135,7 +1249,23 @@ msgstr ""
 "liberdade. Uma das maneiras de evitar essa confusão é dizer &ldquo;publicado "
 "como software livre.&rdquo;"
 
-#. type: Content of: <h4>
+#. type: Content of: <h3>
+#, fuzzy
+#| msgid "&ldquo;Closed&rdquo;"
+msgid "&ldquo;Google&rdquo;"
+msgstr "&ldquo;Fechado&rdquo;"
+
+#. type: Content of: <p>
+msgid ""
+"Please avoid using the term &ldquo;google&rdquo; as a verb, meaning to "
+"search for something on the internet. &ldquo;Google&rdquo; is just the name "
+"of one particular search engine among others. We suggest to use the term "
+"&ldquo;web search&rdquo; instead. Try to use a search engine that respects "
+"your privacy; <a href=\"https://duckduckgo.com/\">DuckDuckGo</a> claims not "
+"to track its users, although we cannot confirm."
+msgstr ""
+
+#. type: Content of: <h3>
 msgid "&ldquo;Hacker&rdquo;"
 msgstr "&ldquo;Hacker&rdquo;"
 
@@ -1165,7 +1295,7 @@ msgstr ""
 "Por favor, não espalhe esse erro. Pessoas que burlam a segurança são &ldquo;"
 "crackers.&rdquo;"
 
-#. type: Content of: <h4>
+#. type: Content of: <h3>
 msgid "&ldquo;Intellectual property&rdquo;"
 msgstr "&ldquo;Propriedade intelectual&rdquo;"
 
@@ -1229,7 +1359,7 @@ msgstr ""
 "a Organização Mundial da &ldquo;Propriedade Intelectual&rdquo; envergonhada</"
 "a>."
 
-#. type: Content of: <h4>
+#. type: Content of: <h3>
 msgid "&ldquo;LAMP system&rdquo;"
 msgstr "&ldquo;sistema LAMP&rdquo;"
 
@@ -1247,7 +1377,7 @@ msgstr ""
 "sistema GNU/Linux. Assim, ao invés de &ldquo;LAMP,&rdquo; o termo deveria "
 "ser &ldquo;GLAMP&rdquo;: &ldquo;GNU, Linux, Apache, MySQL e PHP.&rdquo;"
 
-#. type: Content of: <h4>
+#. type: Content of: <h3>
 msgid "&ldquo;Linux system&rdquo;"
 msgstr "&ldquo;sistema Linux&rdquo;"
 
@@ -1267,7 +1397,7 @@ msgstr ""
 "gnu/linux-and-gnu.html\">GNU/Linux</a>, tanto para dar crédito ao Projeto "
 "GNU quanto para distinguir o sistema inteiro de apenas o kernel."
 
-#. type: Content of: <h4>
+#. type: Content of: <h3>
 msgid "&ldquo;Market&rdquo;"
 msgstr "&ldquo;Mercado&rdquo;"
 
@@ -1308,7 +1438,7 @@ msgstr ""
 "empresa para atingir mero sucesso é negar a importância da liberdade e "
 "legitimar o software proprietário."
 
-#. type: Content of: <h4>
+#. type: Content of: <h3>
 msgid "&ldquo;Monetize&rdquo;"
 msgstr "&ldquo;Monetizar&rdquo;"
 
@@ -1347,7 +1477,7 @@ msgstr ""
 "Um negócio produtivo e ético pode dar dinheiro, mas se ele subordina tudo "
 "mais ao lucro, é pouco provável que irá manter-se ético."
 
-#. type: Content of: <h4>
+#. type: Content of: <h3>
 msgid "&ldquo;MP3 Player&rdquo;"
 msgstr "&ldquo;MP3 Player&rdquo;"
 
@@ -1372,7 +1502,7 @@ msgstr ""
 "rejeitar. Sugerimos os termos &ldquo;tocador de audio digital&rdquo; ou "
 "simplesmente &ldquo;tocador de audio,&rdquo; se o contexto permitir."
 
-#. type: Content of: <h4>
+#. type: Content of: <h3>
 msgid "&ldquo;Open&rdquo;"
 msgstr "&ldquo;Aberto&rdquo;"
 
@@ -1396,7 +1526,7 @@ msgstr ""
 "nosso trabalho &mdash; isso leva as pessoas a pensarem que compartilhamos "
 "daqueles pontos de vista."
 
-#. type: Content of: <h4>
+#. type: Content of: <h3>
 msgid "&ldquo;PC&rdquo;"
 msgstr "&ldquo;PC&rdquo;"
 
@@ -1418,7 +1548,7 @@ msgid ""
 msgstr ""
 "O termo &ldquo;WC&rdquo; já foi sugerido para um computador rondando Windows."
 
-#. type: Content of: <h4>
+#. type: Content of: <h3>
 msgid "&ldquo;Photoshop&rdquo;"
 msgstr "&ldquo;Photoshop&rdquo;"
 
@@ -1437,7 +1567,7 @@ msgstr ""
 "outros programas para a edição de imagens, como o <a href=\"/software/gimp"
 "\">GIMP</a>."
 
-#. type: Content of: <h4>
+#. type: Content of: <h3>
 msgid "&ldquo;Piracy&rdquo;"
 msgstr "&ldquo;Pirataria&rdquo;"
 
@@ -1488,7 +1618,7 @@ msgstr ""
 "piracy-and-theft-terms-in-hotfile-trial-131129/\">&ldquo;pirataria&rdquo; e "
 "&ldquo;roubo&rdquo; são apenas palavras difamatórias</a>."
 
-#. type: Content of: <h4>
+#. type: Content of: <h3>
 msgid "&ldquo;PowerPoint&rdquo;"
 msgstr "&ldquo;PowerPoint&rdquo;"
 
@@ -1508,7 +1638,7 @@ msgstr ""
 "apresentações. Opções recomendadas incluem a classe <tt>beamer</tt> do TeX e "
 "o Impress, do LibreOffice.org."
 
-#. type: Content of: <h4>
+#. type: Content of: <h3>
 msgid "&ldquo;Protection&rdquo;"
 msgstr "&ldquo;Proteção&rdquo;"
 
@@ -1575,7 +1705,7 @@ msgstr ""
 "a campanha <a href=\"http://DefectiveByDesign.org\">Defective by Design</a> "
 "(em português, &ldquo;Deliberadamente Defeituoso&rdquo;)."
 
-#. type: Content of: <h4>
+#. type: Content of: <h3>
 msgid "&ldquo;RAND (Reasonable and Non-Discriminatory)&rdquo;"
 msgstr "&ldquo;RAND (Razoável e Não-Discriminatório)&rdquo;"
 
@@ -1636,7 +1766,7 @@ msgstr ""
 "UFO&rdquo;). Ele é acurado, pois a única condição nessas licenças é uma taxa "
 "uniforme de royalty."
 
-#. type: Content of: <h4>
+#. type: Content of: <h3>
 msgid "&ldquo;SaaS&rdquo; or &ldquo;Software as a Service&rdquo;"
 msgstr "&ldquo;SaaS&rdquo; ou &ldquo;Software como Serviço&rdquo;"
 
@@ -1676,7 +1806,7 @@ msgstr ""
 "&rdquo; porque a piada &ldquo;software como ser vicio&rdquo; é boa demais "
 "para ser perdida."
 
-#. type: Content of: <h4>
+#. type: Content of: <h3>
 msgid "&ldquo;Sell software&rdquo;"
 msgstr "&ldquo;Vender software&rdquo;"
 
@@ -1708,18 +1838,26 @@ msgstr ""
 "Veja <a href=\"/philosophy/selling.html\">Vendendo Software Livre</a> para "
 "uma discussão mais aprofundada sobre o assunto."
 
-#. type: Content of: <h4>
+#. type: Content of: <h3>
 msgid "&ldquo;Sharing economy&rdquo;"
 msgstr "&ldquo;Economia do compartilhamento&rdquo;"
 
 #. type: Content of: <p>
+#, fuzzy
+#| msgid ""
+#| "People often use the term &ldquo;sharing economy&rdquo; to refer to "
+#| "services such as Uber and Airbnb that arrange business deals between "
+#| "people.  We use the term &ldquo;sharing&rdquo; to refer to noncommercial "
+#| "cooperation, including noncommercial redistribution of exact copies of "
+#| "published works.  Stretching the word &ldquo;sharing&rdquo; undermines "
+#| "its meaning, so we don't use it in this context."
 msgid ""
-"People often use the term &ldquo;sharing economy&rdquo; to refer to services "
-"such as Uber and Airbnb that arrange business deals between people.  We use "
-"the term &ldquo;sharing&rdquo; to refer to noncommercial cooperation, "
-"including noncommercial redistribution of exact copies of published works.  "
-"Stretching the word &ldquo;sharing&rdquo; undermines its meaning, so we "
-"don't use it in this context."
+"The term &ldquo;sharing economy&rdquo; is not a good way to refer to "
+"services such as Uber and Airbnb that arrange business transactions between "
+"people.  We use the term &ldquo;sharing&rdquo; to refer to noncommercial "
+"cooperation, including noncommercial redistribution of exact copies of "
+"published works.  Stretching the word &ldquo;sharing&rdquo; to include these "
+"transactions undermines its meaning, so we don't use it in this context."
 msgstr ""
 "As pessoas frequentemente usam o termo &ldquo;sharing economy&rdquo; para se "
 "referir a serviços como o Uber ou o Airbnb, que organizam negócios entre "
@@ -1730,14 +1868,36 @@ msgstr ""
 "contexto."
 
 #. type: Content of: <p>
+#, fuzzy
+#| msgid ""
+#| "A better term for these businesses is &ldquo;interpeer transaction "
+#| "brokers.&rdquo;"
 msgid ""
-"A better term for these businesses is &ldquo;interpeer transaction brokers."
-"&rdquo;"
+"A more suitable term for businesses like Uber is the &ldquo;piecework "
+"service economy.&rdquo;"
 msgstr ""
 "Um termo melhor para esses negócios é &ldquo;mediadores de transações entre "
 "pares.&rdquo;"
 
-#. type: Content of: <h4>
+#. type: Content of: <h3>
+#, fuzzy
+#| msgid "&ldquo;Open&rdquo;"
+msgid "&ldquo;Skype&rdquo;"
+msgstr "&ldquo;Aberto&rdquo;"
+
+#. type: Content of: <p>
+msgid ""
+"Please avoid using the term &ldquo;Skype&rdquo; as a verb, meaning any kind "
+"of video communication or telephony over the Internet in general.  &ldquo;"
+"Skype&rdquo; is just the name of one particular proprietary program, one "
+"that <a href=\"/philosophy/proprietary/proprietary-surveillance."
+"html#SpywareInSkype\"> spies on its users</a>. If you want to make video and "
+"voice calls over the Internet in a way that respects both your freedom and "
+"your privacy, try one of the <a href=\"https://libreplanet.org/wiki/Group:"
+"Skype_Replacement\"> numerous free Skype replacements</a>."
+msgstr ""
+
+#. type: Content of: <h3>
 msgid "&ldquo;Software Industry&rdquo;"
 msgstr "&ldquo;Indústria do Software&rdquo;"
 
@@ -1778,7 +1938,7 @@ msgstr ""
 "2003, votou a definição de &ldquo;indústria&rdquo; como &ldquo;produção "
 "automatizada de bens materiais.&rdquo;</a>"
 
-#. type: Content of: <h4>
+#. type: Content of: <h3>
 msgid "&ldquo;Source model&rdquo;"
 msgstr "&ldquo;Modelo da fonte&rdquo;"
 
@@ -1805,7 +1965,21 @@ msgstr ""
 "oportunidade para dizer &ldquo;código aberto&rdquo; em páginas descrevendo "
 "programas de software livre."
 
-#. type: Content of: <h4>
+#. type: Content of: <h3>
+#, fuzzy
+#| msgid "&ldquo;Commercial&rdquo;"
+msgid "&ldquo;Terminal&rdquo;"
+msgstr "&ldquo;Comercial&rdquo;"
+
+#. type: Content of: <p>
+msgid ""
+"Mobile phones and tablets are computers, and people should be able to do "
+"their computing on them using free software.  To call them &ldquo;"
+"terminals&rdquo; supposes that all they are good for is to connect to "
+"servers, which is a bad way to do your own computing."
+msgstr ""
+
+#. type: Content of: <h3>
 msgid "&ldquo;Theft&rdquo;"
 msgstr "&ldquo;Roubo&rdquo;"
 
@@ -1859,7 +2033,7 @@ msgstr ""
 "se encaixam nas nossas ideias de certo e errado (a especificação), elas é "
 "que devem mudar."
 
-#. type: Content of: <h4>
+#. type: Content of: <h3>
 msgid "&ldquo;Trusted Computing&rdquo;"
 msgstr "&ldquo;Computação Confiável&rdquo;"
 
@@ -1878,7 +2052,7 @@ msgstr ""
 "deles, a máquina é &ldquo;confiável&rdquo;; mas do seu ponto de vista, ele é "
 "&ldquo;traiçoeiro.&rdquo;"
 
-#. type: Content of: <h4>
+#. type: Content of: <h3>
 msgid "&ldquo;Vendor&rdquo;"
 msgstr "&ldquo;Vendedor&rdquo;"
 
@@ -1986,10 +2160,15 @@ msgstr ""
 "2009, 2010, 2011, 2012, 2015 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
+#, fuzzy
+#| msgid ""
+#| "This page is licensed under a <a rel=\"license\" href=\"http://"
+#| "creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
+#| "NoDerivs 3.0 United States License</a>."
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-"NoDerivs 3.0 United States License</a>."
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
 msgstr ""
 "Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
 "creativecommons.org/licenses/by-nd/3.0/us/deed.pt_BR\">Creative Commons "
@@ -2008,3 +2187,67 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização: "
+
+#~ msgid ""
+#~ "&ldquo;Consume&rdquo; refers to what we do with food: we ingest it, and "
+#~ "use it in a way that uses it up.  By analogy, we employ the same word to "
+#~ "describe using other things in a way that uses them up.  However, it is "
+#~ "erroneous to speak of &ldquo;consuming&rdquo; information, music, books, "
+#~ "software, etc., since using them does not use them up."
+#~ msgstr ""
+#~ "&ldquo;Consumo&rdquo; refere-se ao que fazemos com a comida: nós a "
+#~ "ingerimos e usamos de maneira que ela acaba. Por analogia, empregamos a "
+#~ "mesma palavra para descrever o uso de outras coisas de maneira que elas "
+#~ "acabam. No entanto, é errôneo falar do &ldquo;consumo&rdquo; de "
+#~ "informação, música, livros, software etc., uma vez que elas não acabam "
+#~ "quando as usamos."
+
+#~ msgid ""
+#~ "Why is this perverse usage spreading? Some may feel that they sound "
+#~ "sophisticated using a fashionable term from economics.  However, the "
+#~ "economics they implicitly refer to is inappropriate for the activity in "
+#~ "question.  Others may intend to limit discussion to an economic "
+#~ "perspective, rejecting other perspectives such as ethical or social "
+#~ "&mdash; which is narrowminded."
+#~ msgstr ""
+#~ "Mas por que esse uso perverso da palavra está se espalhando? Algumas "
+#~ "pessoas talvez se sintam sofisticadas ao usar um jargão elegante da "
+#~ "economia. No entanto, o conceito econômico a que eles implicitamente se "
+#~ "referem é inapropriado para a atividade em questão. Outras pessoas talvez "
+#~ "busquem limitar a discussão à perspectiva econômica, rejeitando outras "
+#~ "perspectivas como a ética ou a social &mdash; um pensamento bastante "
+#~ "limitado."
+
+#~ msgid ""
+#~ "The term &ldquo;consumer,&rdquo; when used to refer to the users of "
+#~ "computing, is loaded with assumptions we should reject.  Playing a "
+#~ "recording, or running a program, does not consume it."
+#~ msgstr ""
+#~ "O termo &ldquo;consumidor,&rdquo; quando usado para se referir aos "
+#~ "usuários da computação, é carregado de suposições que devemos rejeitar. "
+#~ "Tocar uma música ou rodar um programa não o consomem."
+
+#~ msgid ""
+#~ "The terms &ldquo;producer&rdquo; and &ldquo;consumer&rdquo; come from "
+#~ "economics and its treatment of material products.  Thus, using them leads "
+#~ "people to mistakenly apply to copiable digital data all that they know "
+#~ "about the economics of uncopiable material products.  Of course, this "
+#~ "error is exactly the one proprietary software developers want people to "
+#~ "make."
+#~ msgstr ""
+#~ "Os termos &ldquo;produtor&rdquo; e &ldquo;consumidor&rdquo; vem da "
+#~ "economia e de como ela trata produtos materiais. Assim, as pessoas são "
+#~ "levadas a equivocadamente empregar a dados digitais e copiáveis tudo o "
+#~ "que sabem sobre a economia de produtos materiais não copiáveis. É claro, "
+#~ "esse erro é exatamente o que os desenvolvedores de software proprietário "
+#~ "querem que as pessoas cometam."
+
+#~ msgid ""
+#~ "The shallow economic conception of users as &ldquo;consumers&rdquo; tends "
+#~ "to go hand in hand with the idea that published works are mere <a href="
+#~ "\"#Content\">&ldquo;content.&rdquo;</a>"
+#~ msgstr ""
+#~ "O conceito superficial de considerar usuários como &ldquo;"
+#~ "consumidores&rdquo; tende a andar de mãos dadas com a ideia de que "
+#~ "trabalhos publicados são meramente <a href=\"#Content\">&ldquo;conteúdo."
+#~ "&rdquo;</a>"
