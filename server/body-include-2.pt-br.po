@@ -116,8 +116,8 @@ msgstr "<a href=\"/help/help.html\">Ajude o GNU</a>"
 
 #~ msgid "<label>Enter your email address (e.g. richard@example.com)</label>"
 #~ msgstr ""
-#~ "<label>Digite seu endereço de e-mail (por exemplo richard@exemplo.com.br)"
-#~ "</label>"
+#~ "<label>Digite seu endereço de e-mail (por exemplo richard@exemplo.com."
+#~ "br)</label>"
 
 # type: Content of: <body><div><div><form><div>
 #~ msgid ""
