@@ -9,7 +9,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: common-distros.html\n"
-"POT-Creation-Date: 2015-06-14 08:55+0000\n"
+"POT-Creation-Date: 2016-06-08 14:25+0000\n"
 "PO-Revision-Date: 2012-11-26 19:31-0200\n"
 "Last-Translator: Rafael Beraldo <rberaldo@cabaladada.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -183,15 +183,32 @@ msgstr ""
 msgid "Debian GNU/Linux"
 msgstr "Debian GNU/Linux"
 
+# | Debian's Social Contract states the goal of making Debian entirely free
+# | software, and Debian conscientiously keeps nonfree software out of the
+# | official Debian system.  However, Debian also provides a repository of
+# | nonfree software.  According to the project, this software is &ldquo;not
+# | part of the Debian system,&rdquo; but the repository is hosted on many of
+# | the project's main servers, and people can readily [-learn about-]
+# | {+find+} these nonfree packages by browsing Debian's online package
+# | [-database.-] {+database and its wiki.+}
 #. type: Content of: <p>
+#, fuzzy
+#| msgid ""
+#| "Debian's Social Contract states the goal of making Debian entirely free "
+#| "software, and Debian conscientiously keeps nonfree software out of the "
+#| "official Debian system.  However, Debian also provides a repository of "
+#| "nonfree software.  According to the project, this software is &ldquo;not "
+#| "part of the Debian system,&rdquo; but the repository is hosted on many of "
+#| "the project's main servers, and people can readily learn about these "
+#| "nonfree packages by browsing Debian's online package database."
 msgid ""
 "Debian's Social Contract states the goal of making Debian entirely free "
 "software, and Debian conscientiously keeps nonfree software out of the "
 "official Debian system.  However, Debian also provides a repository of "
 "nonfree software.  According to the project, this software is &ldquo;not "
 "part of the Debian system,&rdquo; but the repository is hosted on many of "
-"the project's main servers, and people can readily learn about these nonfree "
-"packages by browsing Debian's online package database."
+"the project's main servers, and people can readily find these nonfree "
+"packages by browsing Debian's online package database and its wiki."
 msgstr ""
 "O Contrato Social do Debian estabelece a meta de tornar o Debian "
 "completamente livre, e o Debian conscienciosamente mantém software não livre "
@@ -254,6 +271,8 @@ msgstr ""
 msgid "Gentoo GNU/Linux"
 msgstr "Gentoo GNU/Linux"
 
+# | Gentoo [-makes it easy to install-] {+includes installation recipes for+}
+# | a number of nonfree programs [-through-] {+in+} its primary package system.
 #. type: Content of: <p>
 #, fuzzy
 #| msgid ""
@@ -305,6 +324,10 @@ msgstr ""
 msgid "openSUSE"
 msgstr "openSUSE"
 
+# | openSUSE offers [-its users access to-] a repository of nonfree software. 
+# | This is an instance of how <a
+# | href=\"/philosophy/open-source-misses-the-point.html\"> &ldquo;open&rdquo;
+# | is weaker than &ldquo;free&rdquo;</a>.
 #. type: Content of: <p>
 #, fuzzy
 #| msgid ""
@@ -343,6 +366,13 @@ msgstr ""
 msgid "Slackware"
 msgstr "Slackware"
 
+# | Slackware has the two usual problems: there's no clear policy about what
+# | software can be included, and nonfree blobs are included in Linux, the
+# | kernel.  It also ships with the nonfree image-viewing program xv.  Of
+# | course, with no firm policy {+against them, more nonfree programs could
+# | get+} in [-place, there might be other-] {+at any time.  There is an <a
+# | href=\"http://freeslack.net/\">unofficial list</a> of+} nonfree software
+# | [-included that we missed.-] {+in Slackware.+}
 #. type: Content of: <p>
 #, fuzzy
 #| msgid ""
@@ -371,15 +401,12 @@ msgstr ""
 
 #. type: Content of: <p>
 msgid ""
-"SteamOS, a version of GNU/Linux to be distributed by Valve, is not actually "
-"released for download yet. At present, we can say that it is very unlikely "
-"to be an operating system which respects user freedom, because it is meant "
-"to work closely with the Steam service. Steam uses <a href=\"https://www."
-"defectivebydesign.org/what_is_drm\">Digital Restrictions Management (DRM)</"
-"a> to impose restrictions on the software it distributes. SteamOS will have "
-"to contain the proprietary software necessary to enforce these restrictions. "
-"It will also be designed to promote and integrate with the Steam store, "
-"which promotes a large amount of proprietary software."
+"SteamOS, a version of GNU/Linux to be distributed by Valve. It contains "
+"proprietary software, including the Steam client and proprietary drivers. "
+"Steam uses <a href=\"https://www.defectivebydesign.org/what_is_drm\">Digital "
+"Restrictions Management (DRM)</a> to impose restrictions on the software it "
+"distributes, as well as on the proprietary software it promotes via the "
+"Steam store."
 msgstr ""
 
 #. type: Content of: <h3>
@@ -433,50 +460,6 @@ msgid ""
 "\">hard to tell which ones are free</a> since proprietary programs for "
 "download at no charge are labelled &ldquo;free&rdquo;."
 msgstr ""
-
-#. type: Content of: <p>
-#, fuzzy
-#| msgid ""
-#| "As of October 2012, Ubuntu <a href=\"http://www.omgubuntu.co.uk/2012/10/"
-#| "does-ubuntus-amazon-lens-break-eu-law\"> sends personal data about users' "
-#| "searches</a> to a server belonging to Canonical, which sends back ads to "
-#| "buy things from Amazon.  This does not, strictly speaking, affect whether "
-#| "Ubuntu is free software, but it is a violation of users' privacy.  It "
-#| "also encourages buying from Amazon, a company <a href=\"http://"
-#| "DefectiveByDesign.org/\">associated with DRM</a> as well as mistreatment "
-#| "of workers, authors and publishers."
-msgid ""
-"Since October 2012, Ubuntu <a href=\"http://www.omgubuntu.co.uk/2012/10/does-"
-"ubuntus-amazon-lens-break-eu-law\"> sends personal data about users' "
-"searches</a> to a server belonging to Canonical, which sends back ads to buy "
-"things from Amazon.  This does not, strictly speaking, affect whether Ubuntu "
-"is free software, but it is a violation of users' privacy.  It also "
-"encourages buying from Amazon, a company <a href=\"http://DefectiveByDesign."
-"org/\">associated with DRM</a> as well as mistreatment of workers, authors "
-"and publishers."
-msgstr ""
-"A partir de outubro de 2012, o Ubuntu <a href=\"http://www.omgubuntu.co."
-"uk/2012/10/does-ubuntus-amazon-lens-break-eu-law\">envia informações "
-"pessoais sobre as buscas dos usuários</a> a um servidor que pertence à "
-"Canonical, que envia de volta anúncios para comprar coisas da Amazon. "
-"Estritamente falando, isso não afeta se o Ubuntu é software livre ou não, "
-"mas é uma violação da privacidade dos usuários. A distribuição também "
-"encoraja compras na Amazon, uma companhia que está <a href=\"http://"
-"DefectiveByDesign.org/\">associada ao DRM</a>, além de maltratar seus "
-"trabalhadores, autores e editoras."
-
-#. type: Content of: <p>
-#, fuzzy
-#| msgid ""
-#| "This adware is one of the rare occasions in which a free software "
-#| "developer persists in keeping a malicious feature in its version of a "
-#| "program."
-msgid ""
-"This adware is one of the rare occasions in which a free software developer "
-"persists in keeping a malicious feature in its version of a free program."
-msgstr ""
-"Esse adware é uma das raras ocasiões na qual um desenvolvedor de software "
-"livre persiste em manter funções maliciosas nas versões de um programa."
 
 #. type: Content of: <p>
 msgid ""
@@ -649,12 +632,19 @@ msgstr ""
 "\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
 "envio de traduções das páginas desse site."
 
+# | Copyright &copy; 2014, [-2015-] {+2015, 2016+} Free Software Foundation,
+# | Inc.
 #. type: Content of: <div><p>
 #, fuzzy
-#| msgid "Copyright &copy; 2011, 2012 Free Software Foundation, Inc."
-msgid "Copyright &copy; 2014, 2015 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2011, 2012 Free Software Foundation, Inc."
+#| msgid "Copyright &copy; 2014, 2015 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2014, 2015, 2016 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2014, 2015 Free Software Foundation, Inc."
 
+# | This page is licensed under a <a rel=\"license\"
+# | [-href=\"http://creativecommons.org/licenses/by-nd/3.0/us/\">Creative-]
+# | {+href=\"http://creativecommons.org/licenses/by-nd/4.0/\">Creative+}
+# | Commons [-Attribution-NoDerivs 3.0 United States-]
+# | {+Attribution-NoDerivatives 4.0 International+} License</a>.
 #. type: Content of: <div><p>
 #, fuzzy
 #| msgid ""
@@ -683,6 +673,72 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização: "
+
+#~ msgid ""
+#~ "Debian's Social Contract states the goal of making Debian entirely free "
+#~ "software, and Debian conscientiously keeps nonfree software out of the "
+#~ "official Debian system.  However, Debian also provides a repository of "
+#~ "nonfree software.  According to the project, this software is &ldquo;not "
+#~ "part of the Debian system,&rdquo; but the repository is hosted on many of "
+#~ "the project's main servers, and people can readily learn about these "
+#~ "nonfree packages by browsing Debian's online package database."
+#~ msgstr ""
+#~ "O Contrato Social do Debian estabelece a meta de tornar o Debian "
+#~ "completamente livre, e o Debian conscienciosamente mantém software não "
+#~ "livre fora do sistema Debian oficial. No entanto, o Debian também provê "
+#~ "um repositório de software não livre. De acordo com o projeto, esse "
+#~ "software “não é parte do sistema Debian”, mas o repositório é hospedado "
+#~ "em muitos dos servidores principais do projeto e as pessoas podem "
+#~ "facilmente descobrir esses pacotes não livres navegando pela base de "
+#~ "dados online de pacotes do Debian."
+
+#, fuzzy
+#~| msgid ""
+#~| "As of October 2012, Ubuntu <a href=\"http://www.omgubuntu.co.uk/2012/10/"
+#~| "does-ubuntus-amazon-lens-break-eu-law\"> sends personal data about "
+#~| "users' searches</a> to a server belonging to Canonical, which sends back "
+#~| "ads to buy things from Amazon.  This does not, strictly speaking, affect "
+#~| "whether Ubuntu is free software, but it is a violation of users' "
+#~| "privacy.  It also encourages buying from Amazon, a company <a href="
+#~| "\"http://DefectiveByDesign.org/\">associated with DRM</a> as well as "
+#~| "mistreatment of workers, authors and publishers."
+#~ msgid ""
+#~ "Since October 2012, Ubuntu <a href=\"http://www.omgubuntu.co.uk/2012/10/"
+#~ "does-ubuntus-amazon-lens-break-eu-law\"> sends personal data about users' "
+#~ "searches</a> to a server belonging to Canonical, which sends back ads to "
+#~ "buy things from Amazon.  This does not, strictly speaking, affect whether "
+#~ "Ubuntu is free software, but it is a violation of users' privacy.  It "
+#~ "also encourages buying from Amazon, a company <a href=\"http://"
+#~ "DefectiveByDesign.org/\">associated with DRM</a> as well as mistreatment "
+#~ "of workers, authors and publishers."
+#~ msgstr ""
+#~ "A partir de outubro de 2012, o Ubuntu <a href=\"http://www.omgubuntu.co."
+#~ "uk/2012/10/does-ubuntus-amazon-lens-break-eu-law\">envia informações "
+#~ "pessoais sobre as buscas dos usuários</a> a um servidor que pertence à "
+#~ "Canonical, que envia de volta anúncios para comprar coisas da Amazon. "
+#~ "Estritamente falando, isso não afeta se o Ubuntu é software livre ou não, "
+#~ "mas é uma violação da privacidade dos usuários. A distribuição também "
+#~ "encoraja compras na Amazon, uma companhia que está <a href=\"http://"
+#~ "DefectiveByDesign.org/\">associada ao DRM</a>, além de maltratar seus "
+#~ "trabalhadores, autores e editoras."
+
+#, fuzzy
+#~| msgid ""
+#~| "This adware is one of the rare occasions in which a free software "
+#~| "developer persists in keeping a malicious feature in its version of a "
+#~| "program."
+#~ msgid ""
+#~ "This adware is one of the rare occasions in which a free software "
+#~ "developer persists in keeping a malicious feature in its version of a "
+#~ "free program."
+#~ msgstr ""
+#~ "Esse adware é uma das raras ocasiões na qual um desenvolvedor de software "
+#~ "livre persiste em manter funções maliciosas nas versões de um programa."
+
+#, fuzzy
+#~| msgid "Copyright &copy; 2011, 2012 Free Software Foundation, Inc."
+#~ msgid "Copyright &copy; 2014, 2015 Free Software Foundation, Inc."
+#~ msgstr "Copyright &copy; 2011, 2012 Free Software Foundation, Inc."
 
 #~ msgid ""
 #~ "Ubuntu's trademark policy prohibits commercial redistribution of exact "

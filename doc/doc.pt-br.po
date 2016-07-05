@@ -87,6 +87,18 @@ msgstr ""
 "Acreditamos que o leitor deve ser livre para copiar, atualizar e "
 "redistribuir a documentação do GNU, exatamente como o software do GNU."
 
+# | Originally, all our documentation was released under a short <a
+# | href=\"/licenses/licenses.html#WhatIsCopyleft\">copyleft</a> license, or
+# | under the <a href=\"/licenses/licenses.html#GPL\">GNU General Public
+# | License (GPL)</a>.  In 2001, the <a
+# | href=\"/licenses/licenses.html#FDL\">GNU Free Documentation License
+# | (FDL)</a> was created to address needs that were not met by licenses
+# | originally designed for software.  For more information on free
+# | documentation, please see <a href=\"http://www.stallman.org/\">Richard
+# | Stallman's</a> essay, &ldquo;<a href=\"/philosophy/free-doc.html\">Free
+# | Software and Free Manuals</a>&rdquo;.  {+A <a
+# | href=\"freemanuals.texi\">Texinfo version of that essay</a> is available
+# | for inclusion in manuals.+}
 #. type: Content of: <p>
 #, fuzzy
 #| msgid ""
@@ -136,6 +148,11 @@ msgstr ""
 "sobre essa e outras maneiras de ajudar, <a href=\"/help/help.html#helpgnu"
 "\">clique aqui</a>."
 
+# | <b>GNU Press:</b> another way to contribute is to help us <a
+# | href=\"/doc/expanding.html\">expand bookstore availability</a> of <a
+# | href=\"/doc/gnupresspub.html\">GNU Press</a> books.  For this or any
+# | reason, you can <a [-href=\"/doc/contact.html\">contact-]
+# | {+href=\"mailto:sales@fsf.org\">contact+} GNU Press</a>.
 #. type: Content of: <p>
 #, fuzzy
 #| msgid ""
@@ -200,6 +217,7 @@ msgstr ""
 "\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
 "envio de traduções das páginas desse site."
 
+# | Copyright &copy; [-2011-] {+2014, 2015+} Free Software Foundation, Inc.
 #. type: Content of: <div><p>
 #, fuzzy
 #| msgid "Copyright &copy; 2011 Free Software Foundation, Inc."

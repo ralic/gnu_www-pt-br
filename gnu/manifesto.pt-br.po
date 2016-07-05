@@ -25,6 +25,14 @@ msgstr "O Manifesto GNU - Projeto GNU - Free Software Foundation"
 msgid "The GNU Manifesto"
 msgstr "O Manifesto GNU"
 
+# | The GNU Manifesto (which appears below) was written by <a
+# | href=\"http://www.stallman.org/\">Richard Stallman</a> [-at the beginning
+# | of the GNU Project,-] {+in 1985+} to ask for [-participation and support. 
+# | For-] {+support in developing+} the [-first few years,-] {+GNU operating
+# | system.  Part of the text was taken from the original announcement of
+# | 1983.  Through 1987,+} it was updated in minor ways to account for
+# | [-developments, but now-] {+developments; since then,+} it seems best to
+# | leave it [-unchanged as most people have seen it.-] {+unchanged.+}
 #. type: Content of: <p>
 #, fuzzy
 #| msgid ""
@@ -194,6 +202,11 @@ msgstr ""
 "demais: eu não podia permanecer em uma instituição onde tais coisas eram "
 "feitas a mim contra a minha vontade."
 
+# | So that I can continue to use computers without dishonor, I have decided
+# | to put together a sufficient body of free software so that I will be able
+# | to get along without any software that is not free.  I have resigned from
+# | the AI [-l-]{+L+}ab to deny MIT any legal excuse to prevent me from giving
+# | GNU [-away.-] {+away.<a href=\"#f2a\">(2)</a>+}
 #. type: Content of: <p>
 #, fuzzy
 #| msgid ""
@@ -388,6 +401,8 @@ msgstr ""
 msgid "Why All Computer Users Will Benefit"
 msgstr "Por que Todos os Usuários de Computadores Serão Beneficiados"
 
+# | Once GNU is written, everyone will be able to obtain good system software
+# | free, just like air.<a href=\"#f2\">([-2-]{+3+})</a>
 #. type: Content of: <p>
 #, fuzzy
 #| msgid ""
@@ -502,6 +517,9 @@ msgid ""
 msgstr ""
 "<strong>“Você tem que cobrar pelo programa para pagar pelo suporte.”</strong>"
 
+# | If people would rather pay for GNU plus service than get GNU free without
+# | service, a company to provide just service to people who have obtained GNU
+# | free ought to be profitable.<a href=\"#f3\">([-3-]{+4+})</a>
 #. type: Content of: <p>
 #, fuzzy
 #| msgid ""
@@ -611,6 +629,10 @@ msgstr ""
 "seus anúncios e mais. Desta forma, somente os usuários que se beneficiam dos "
 "anúncios pagam por eles."
 
+# | On the other hand, if many people get GNU from their friends, and such
+# | companies don't succeed, this will show that advertising was not really
+# | necessary to spread GNU.  Why is it that free market advocates don't want
+# | to let the free market decide this?<a href=\"#f4\">([-4-]{+5+})</a>
 #. type: Content of: <p>
 #, fuzzy
 #| msgid ""
@@ -655,6 +677,9 @@ msgstr ""
 "negócio é outro, GNU pode poupa-lo de ser forçado para o negócio caro de "
 "vender sistemas operacionais."
 
+# | I would like to see GNU development supported by gifts from many
+# | manufacturers and users, reducing the cost to each.<a
+# | href=\"#f5\">([-5-]{+6+})</a>
 #. type: Content of: <p>
 #, fuzzy
 #| msgid ""
@@ -775,6 +800,12 @@ msgstr ""
 "possível para eles serem pagos para programar; somente não tão bem pagos "
 "como o são hoje."
 
+# | Restricting copying is not the only basis for business in software.  It is
+# | the most common [-basis-] {+basis<a href=\"#f8\">(7)</a>+} because it
+# | brings in the most money.  If it were prohibited, or rejected by the
+# | customer, software business would move to other bases of organization
+# | which are now used less often.  There are always numerous ways to organize
+# | any kind of business.
 #. type: Content of: <p>
 #, fuzzy
 #| msgid ""
@@ -828,6 +859,11 @@ msgstr ""
 "“Controle sobre o uso das idéias” é na verdade controle sobre as vidas das "
 "pessoas; e isto em geral torna as vidas das pessoas mais difícil."
 
+# | People who have studied the issue of intellectual property [-rights-]
+# | {+rights<a href=\"#f6\">(8)</a>+} carefully (such as lawyers) say that
+# | there is no intrinsic right to intellectual property.  The kinds of
+# | supposed intellectual property rights that the government recognizes were
+# | created by specific acts of legislation for specific purposes.
 #. type: Content of: <p>
 #, fuzzy
 #| msgid ""
@@ -1085,6 +1121,10 @@ msgstr ""
 "A venda de serviços de treinamento, ajuda e manutenção também poderia "
 "empregar os programadores."
 
+# | People with new ideas could distribute programs as [-freeware,-]
+# | {+freeware<a href=\"#f7\">(9)</a>,+} asking for donations from satisfied
+# | users, or selling hand[---]holding services.  I have met people who are
+# | already working this way successfully.
 #. type: Content of: <p>
 #, fuzzy
 #| msgid ""
@@ -1375,6 +1415,8 @@ msgstr ""
 "\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
 "envio de traduções das páginas desse site."
 
+# | Copyright [-(C)-] {+&copy;+} 1985, [-1993-] {+1993, 2003, 2005, 2007,
+# | 2008, 2009, 2010, 2014, 2015+} Free Software Foundation, Inc.
 #. type: Content of: <div><p>
 #, fuzzy
 #| msgid "Copyright (C) 1985, 1993 Free Software Foundation, Inc."

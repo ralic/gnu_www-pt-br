@@ -19,6 +19,8 @@ msgstr ""
 "Outdated-Since: 2012-12-27 10:25-0500\n"
 "Plural-Forms: nplurals=2; plural=(n!=1);\n"
 
+# | [-Educational-]Frequently Asked Questions {+About Free Software and
+# | Education+} - GNU Project - Free Software Foundation
 #. type: Content of: <title>
 #, fuzzy
 #| msgid ""
@@ -61,6 +63,8 @@ msgstr ""
 "<a href=\"/education/education.html\">Educação</a> &rarr; Perguntas mais "
 "Frequentes"
 
+# | [-Educational-]Frequently Asked Questions [-- GNU Project --] {+About+}
+# | Free Software [-Foundation-] {+and Education+}
 #. type: Content of: <h2>
 #, fuzzy
 #| msgid ""

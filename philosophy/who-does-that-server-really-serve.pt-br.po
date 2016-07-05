@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: who-does-that-server-really-serve.html\n"
-"POT-Creation-Date: 2015-01-05 12:55+0000\n"
+"POT-Creation-Date: 2016-06-07 05:25+0000\n"
 "PO-Revision-Date: 2015-02-23 19:57+0100\n"
 "Last-Translator: Hudson Flávio Meneses Lacerda <hfmlacerda@yahoo.com.br>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -41,18 +41,34 @@ msgstr ""
 "(A primeira versão foi publicada no <a href=\"http://bostonreview.net/BR35.2/"
 "stallman.php\">Boston Review</a>.)"
 
+# | <strong>On the Internet, proprietary software isn't the only way to lose
+# | your freedom.  Service as a Software Substitute, or SaaSS, is another way
+# | to [-let-] {+give+} someone else [-have-] power over your
+# | computing.</strong>
 #. type: Content of: <p>
+#, fuzzy
+#| msgid ""
+#| "<strong>On the Internet, proprietary software isn't the only way to lose "
+#| "your freedom.  Service as a Software Substitute, or SaaSS, is another way "
+#| "to let someone else have power over your computing.</strong>"
 msgid ""
 "<strong>On the Internet, proprietary software isn't the only way to lose "
 "your freedom.  Service as a Software Substitute, or SaaSS, is another way to "
-"let someone else have power over your computing.</strong>"
+"give someone else power over your computing.</strong>"
 msgstr ""
 "<strong>Na internet, software proprietário não é a única maneira de você "
 "perder a sua liberdade.  Serviço como Substituto de Software [Service as a "
 "Software Substitute], ou SaaSS, é outra forma de deixar que alguém tenha "
 "poder sobre sua computação.</strong>"
 
-#. type: Content of: outside any tag (error?)
+#. type: Content of: <p>
+msgid ""
+"The basic point is, you can have control over a program someone else wrote "
+"(if it's free), but you can never have control over a service someone else "
+"runs, so never use a service where in principle a program would do."
+msgstr ""
+
+#. type: Content of: <p>
 #, fuzzy
 msgid ""
 "SaaSS means using a service implemented by someone else as a substitute for "
@@ -116,13 +132,26 @@ msgstr ""
 "(Veja a <a href=\"/philosophy/free-sw.html\">definição de software livre</"
 "a>.)"
 
+# | With free software, we, the users, take back control of our computing. 
+# | Proprietary software still exists, but we can exclude it from our lives
+# | and many of us have done so.  However, we {+are+} now [-face a new
+# | threat-] {+offered another tempting way+} to [-our-] {+cede+} control over
+# | our computing: Service as a Software Substitute (SaaSS).  For our
+# | freedom's sake, we have to reject that too.
 #. type: Content of: <p>
+#, fuzzy
+#| msgid ""
+#| "With free software, we, the users, take back control of our computing.  "
+#| "Proprietary software still exists, but we can exclude it from our lives "
+#| "and many of us have done so.  However, we now face a new threat to our "
+#| "control over our computing: Service as a Software Substitute (SaaSS).  "
+#| "For our freedom's sake, we have to reject that too."
 msgid ""
 "With free software, we, the users, take back control of our computing.  "
 "Proprietary software still exists, but we can exclude it from our lives and "
-"many of us have done so.  However, we now face a new threat to our control "
-"over our computing: Service as a Software Substitute (SaaSS).  For our "
-"freedom's sake, we have to reject that too."
+"many of us have done so.  However, we are now offered another tempting way "
+"to cede control over our computing: Service as a Software Substitute "
+"(SaaSS).  For our freedom's sake, we have to reject that too."
 msgstr ""
 "Com software livre, nós, os usuários, tomamos de volta o controle sobre "
 "nossa computação.  Software proprietário ainda existe, mas nós podemos "
@@ -158,12 +187,22 @@ msgstr ""
 "sobre os dados fornecidos, e então envia os resultados de volta, diretamente "
 "a ele, ou em seu nome."
 
+# | The computing is <em>her own</em> because, by assumption, she could, in
+# | principle, have done it by running a program on her own computer (whether
+# | or not that program is available to her at present).  [-When-]  {+In cases
+# | where+} this assumption is not so, it isn't SaaSS.
 #. type: Content of: <p>
+#, fuzzy
+#| msgid ""
+#| "The computing is <em>her own</em> because, by assumption, she could, in "
+#| "principle, have done it by running a program on her own computer (whether "
+#| "or not that program is available to her at present).  When this "
+#| "assumption is not so, it isn't SaaSS."
 msgid ""
 "The computing is <em>her own</em> because, by assumption, she could, in "
 "principle, have done it by running a program on her own computer (whether or "
-"not that program is available to her at present).  When this assumption is "
-"not so, it isn't SaaSS."
+"not that program is available to her at present).  In cases where this "
+"assumption is not so, it isn't SaaSS."
 msgstr ""
 "A computação é <em>do próprio usuário</em> porque supõe-se que, em "
 "princípio, ele poderia tê-la realizado usando um programa em seu próprio "
@@ -247,6 +286,15 @@ msgstr ""
 "slate.com/articles/technology/data_mine_1/2013/09/"
 "privacy_facebook_kids_don_t_post_photos_of_your_kids_on_social_media.html"
 "\">as fotos vazaram de lá</a>."
+
+#. type: Content of: <p>
+msgid ""
+"Theoretically, homomorphic encryption might some day advance to the point "
+"where future SaaSS services might be constructed to be unable to understand "
+"some of the data that users send them.  Such services <em>could</em> be set "
+"up not to snoop on users; this does not mean they <em>will</em> do no "
+"snooping."
+msgstr ""
 
 #. type: Content of: <p>
 msgid ""
@@ -375,11 +423,11 @@ msgid ""
 "Many free software supporters assume that the problem of SaaSS will be "
 "solved by developing free software for servers.  For the server operator's "
 "sake, the programs on the server had better be free; if they are "
-"proprietary, their owners have power over the server.  That's unfair to the "
-"server operator, and doesn't help the users at all.  But if the programs on "
-"the server are free, that doesn't protect <em>the server's users</em> from "
-"the effects of SaaSS.  These programs liberate the server operator, but not "
-"the server's users."
+"proprietary, their developers/owners have power over the server.  That's "
+"unfair to the server operator, and doesn't help the server's users at all.  "
+"But if the programs on the server are free, that doesn't protect <em>the "
+"server's users</em> from the effects of SaaSS.  These programs liberate the "
+"server operator, but not the server's users."
 msgstr ""
 "Muitos apoiadores de software livre assumem que o problema do SaaSS vai ser "
 "resolvido pelo desenvolvimento de software livre para servidores.  Para o "
@@ -404,15 +452,35 @@ msgstr ""
 "recommendations.html\">Recomendamos o uso da GNU Affero GPL</a> como a "
 "licença para programas frequentemente usados em servidores."
 
+# | But none of these servers would give you control over computing you do on
+# | it, unless it's <em>your</em> [-server.-] {+server (one whose software
+# | load you control, regardless of whether the machine is your property).+} 
+# | It may be OK to trust your friend's server for some jobs, just as you
+# | might let your friend maintain the software on your own computer.  Outside
+# | of that, all these servers would be SaaSS for you.  SaaSS always subjects
+# | you to the power of the server operator, and the only remedy is, <em>Don't
+# | use SaaSS!</em> Don't use someone else's server to do your own computing
+# | on data provided by you.
 #. type: Content of: <p>
+#, fuzzy
+#| msgid ""
+#| "But none of these servers would give you control over computing you do on "
+#| "it, unless it's <em>your</em> server.  It may be OK to trust your "
+#| "friend's server for some jobs, just as you might let your friend maintain "
+#| "the software on your own computer.  Outside of that, all these servers "
+#| "would be SaaSS for you.  SaaSS always subjects you to the power of the "
+#| "server operator, and the only remedy is, <em>Don't use SaaSS!</em> Don't "
+#| "use someone else's server to do your own computing on data provided by "
+#| "you."
 msgid ""
 "But none of these servers would give you control over computing you do on "
-"it, unless it's <em>your</em> server.  It may be OK to trust your friend's "
-"server for some jobs, just as you might let your friend maintain the "
-"software on your own computer.  Outside of that, all these servers would be "
-"SaaSS for you.  SaaSS always subjects you to the power of the server "
-"operator, and the only remedy is, <em>Don't use SaaSS!</em> Don't use "
-"someone else's server to do your own computing on data provided by you."
+"it, unless it's <em>your</em> server (one whose software load you control, "
+"regardless of whether the machine is your property).  It may be OK to trust "
+"your friend's server for some jobs, just as you might let your friend "
+"maintain the software on your own computer.  Outside of that, all these "
+"servers would be SaaSS for you.  SaaSS always subjects you to the power of "
+"the server operator, and the only remedy is, <em>Don't use SaaSS!</em> Don't "
+"use someone else's server to do your own computing on data provided by you."
 msgstr ""
 "Mas nenhum daqueles servidores daria a você o controle sobre a computação "
 "que você faz nele, a não ser que seja o <em>seu</em> servidor. Pode ser "
@@ -471,12 +539,22 @@ msgstr ""
 "de Serviço como Substituto de Software, ou SaaSS.  Por lhe negar o controle "
 "de sua própria computação, ele é ruim para você."
 
+# | Another clear example is using a service such as Flickr or Instagram to
+# | modify a photo.  Modifying photos is an activity that people have done in
+# | their own computers for decades; doing it in a server [-instead of-] {+you
+# | don't control, rather than+} your own computer{+,+} is SaaSS.
 #. type: Content of: <p>
+#, fuzzy
+#| msgid ""
+#| "Another clear example is using a service such as Flickr or Instagram to "
+#| "modify a photo.  Modifying photos is an activity that people have done in "
+#| "their own computers for decades; doing it in a server instead of your own "
+#| "computer is SaaSS."
 msgid ""
 "Another clear example is using a service such as Flickr or Instagram to "
 "modify a photo.  Modifying photos is an activity that people have done in "
-"their own computers for decades; doing it in a server instead of your own "
-"computer is SaaSS."
+"their own computers for decades; doing it in a server you don't control, "
+"rather than your own computer, is SaaSS."
 msgstr ""
 "Outro exemplo claro é o uso de um serviço como Flickr ou Instagram para "
 "modificar uma foto.   Modificar fotos é uma atividade que as pessoas têm "
@@ -488,7 +566,7 @@ msgstr ""
 msgid ""
 "Rejecting SaaSS does not mean refusing to use any network servers run by "
 "anyone other than you.  Most servers are not SaaSS because the jobs they do "
-"are not the user's own computing."
+"are some sort of communication, rather than the user's own computing."
 msgstr ""
 "Rejeitar SaaSS não significa se recusar a usar quaisquer servidores de rede "
 "mantidos por qualquer pessoa além de você. A maioria dos servidores não são "
@@ -501,11 +579,11 @@ msgid ""
 "The original idea of web servers wasn't to do computing for you, it was to "
 "publish information for you to access.  Even today this is what most web "
 "sites do, and it doesn't pose the SaaSS problem, because accessing someone's "
-"published information isn't doing your own computing.  Neither is publishing "
-"your own materials via a blog site or a microblogging service such as "
-"Twitter or StatusNet.  (These services may have other problems, of course.)  "
-"The same goes for other communication not meant to be private, such as chat "
-"groups."
+"published information isn't doing your own computing.  Neither is use of a "
+"blog site to publish your own works, or using a microblogging service such "
+"as Twitter or StatusNet.  (These services may or may not have other "
+"problems, depending on details.)  The same goes for other communication not "
+"meant to be private, such as chat groups."
 msgstr ""
 "O propósito original de servidores web não era realizar atividades "
 "computacionais por você, e sim publicar informações para você acessar. Mesmo "
@@ -565,8 +643,8 @@ msgstr ""
 #, fuzzy
 msgid ""
 "Purchasing online is not SaaSS, because the computing isn't <em>your own</"
-"em>; rather, it is done jointly by and for you and the store.  The real "
-"issue in online shopping is whether you trust the other party with your "
+"em> activity; rather, it is done jointly by and for you and the store.  The "
+"real issue in online shopping is whether you trust the other party with your "
 "money and other personal information (starting with your name)."
 msgstr ""
 "Fazer compras pela internet não é SaaSS, porque a computação não é <em>sua</"
@@ -574,10 +652,17 @@ msgstr ""
 "problema real nas compras pela internet é se você deve confiar seu dinheiro "
 "e outras informações pessoais (a começar pelo seu nome) à outra parte."
 
+# | Repository sites such as [-as-] Savannah and SourceForge are not
+# | inherently SaaSS, because a repository's job is publication of data
+# | supplied to it.
 #. type: Content of: <p>
+#, fuzzy
+#| msgid ""
+#| "Repository sites such as as Savannah and SourceForge are not inherently "
+#| "SaaSS, because a repository's job is publication of data supplied to it."
 msgid ""
-"Repository sites such as as Savannah and SourceForge are not inherently "
-"SaaSS, because a repository's job is publication of data supplied to it."
+"Repository sites such as Savannah and SourceForge are not inherently SaaSS, "
+"because a repository's job is publication of data supplied to it."
 msgstr ""
 "Sítio de repositórios tais como Savannah e SourceForge não são inerentemente "
 "SaaSS, porque a tarefa de um repositório é publicar os dados a ele "
@@ -725,6 +810,26 @@ msgstr ""
 "palavras, &ldquo;Seja um otário.&rdquo;  Uma nuvem na mente é um obstáculo "
 "ao pensamento claro.  Em prol do pensamento claro, evitemos o termo &ldquo;"
 "nuvem.&rdquo;"
+
+#. type: Content of: <h3>
+msgid "Renting a Server Distinguished from SaaSS"
+msgstr ""
+
+#. type: Content of: <p>
+msgid ""
+"If you rent a server (real or virtual), whose software load you have control "
+"over, that's not SaaSS.  In SaaSS, someone else decides what software runs "
+"on the server and therefore controls the computing it does for you.  In the "
+"case where you install the software on the server, you control what "
+"computing it does for you.  Thus, the rented server is virtually your "
+"computer.  For this issue, it counts as yours."
+msgstr ""
+
+#. type: Content of: <p>
+msgid ""
+"The <em>data</em> on the rented remote server is less secure than if you had "
+"the server at home, but that is a separate issue from SaaSS."
+msgstr ""
 
 #. type: Content of: <h3>
 msgid "Dealing with the SaaSS Problem"
@@ -894,14 +999,24 @@ msgstr ""
 
 #. type: Content of: <div><p>
 #, fuzzy
-msgid "Copyright &copy; 2010, 2013, 2015 Richard Stallman"
+msgid "Copyright &copy; 2010, 2013, 2015, 2016 Richard Stallman"
 msgstr "Copyright &copy; 2010, 2013 Richard Stallman"
 
+# | This page is licensed under a <a rel=\"license\"
+# | [-href=\"http://creativecommons.org/licenses/by-nd/3.0/us/\">Creative-]
+# | {+href=\"http://creativecommons.org/licenses/by-nd/4.0/\">Creative+}
+# | Commons [-Attribution-NoDerivs 3.0 United States-]
+# | {+Attribution-NoDerivatives 4.0 International+} License</a>.
 #. type: Content of: <div><p>
+#, fuzzy
+#| msgid ""
+#| "This page is licensed under a <a rel=\"license\" href=\"http://"
+#| "creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
+#| "NoDerivs 3.0 United States License</a>."
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-"NoDerivs 3.0 United States License</a>."
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
 msgstr ""
 "Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
 "creativecommons.org/licenses/by-nd/3.0/us/deed.pt_BR\">Creative Commons "
@@ -920,6 +1035,149 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização: "
+
+#~ msgid ""
+#~ "<strong>On the Internet, proprietary software isn't the only way to lose "
+#~ "your freedom.  Service as a Software Substitute, or SaaSS, is another way "
+#~ "to let someone else have power over your computing.</strong>"
+#~ msgstr ""
+#~ "<strong>Na internet, software proprietário não é a única maneira de você "
+#~ "perder a sua liberdade.  Serviço como Substituto de Software [Service as "
+#~ "a Software Substitute], ou SaaSS, é outra forma de deixar que alguém "
+#~ "tenha poder sobre sua computação.</strong>"
+
+#~ msgid ""
+#~ "With free software, we, the users, take back control of our computing.  "
+#~ "Proprietary software still exists, but we can exclude it from our lives "
+#~ "and many of us have done so.  However, we now face a new threat to our "
+#~ "control over our computing: Service as a Software Substitute (SaaSS).  "
+#~ "For our freedom's sake, we have to reject that too."
+#~ msgstr ""
+#~ "Com software livre, nós, os usuários, tomamos de volta o controle sobre "
+#~ "nossa computação.  Software proprietário ainda existe, mas nós podemos "
+#~ "excluí-lo de nossas vidas, e muitos de nós já o fizemos.  Porém, agora "
+#~ "estamos face-a-face com uma nova ameaça ao controle de nossa computação: "
+#~ "Serviço como Substituto de Software (SaaSS).  Para o bem de nossa "
+#~ "liberdade, temos que rejeitar isso também."
+
+#~ msgid ""
+#~ "The computing is <em>her own</em> because, by assumption, she could, in "
+#~ "principle, have done it by running a program on her own computer (whether "
+#~ "or not that program is available to her at present).  When this "
+#~ "assumption is not so, it isn't SaaSS."
+#~ msgstr ""
+#~ "A computação é <em>do próprio usuário</em> porque supõe-se que, em "
+#~ "princípio, ele poderia tê-la realizado usando um programa em seu próprio "
+#~ "computador (independentemente de o programa estar ou não disponível para "
+#~ "ele no momento).  Quando essa suposição não se aplica, não se trata de "
+#~ "SaaSS."
+
+#, fuzzy
+#~ msgid ""
+#~ "Many free software supporters assume that the problem of SaaSS will be "
+#~ "solved by developing free software for servers.  For the server "
+#~ "operator's sake, the programs on the server had better be free; if they "
+#~ "are proprietary, their owners have power over the server.  That's unfair "
+#~ "to the server operator, and doesn't help the users at all.  But if the "
+#~ "programs on the server are free, that doesn't protect <em>the server's "
+#~ "users</em> from the effects of SaaSS.  These programs liberate the server "
+#~ "operator, but not the server's users."
+#~ msgstr ""
+#~ "Muitos apoiadores de software livre assumem que o problema do SaaSS vai "
+#~ "ser resolvido pelo desenvolvimento de software livre para servidores.  "
+#~ "Para o bem dos operadores de servidor, é melhor que os programas no "
+#~ "servidor sejam livres; quando eles são proprietários, seus donos têm o "
+#~ "poder sobre o servidor.  Isso é injusto com o operador e não ajuda os "
+#~ "usuários em nada.  Mas se os programas no servidor são livres, isso não "
+#~ "protege você <em>como usuário do servidor</em> dos efeitos do SaaSS. Eles "
+#~ "dão liberdade ao operador, mas não aos usuários do servidor."
+
+#~ msgid ""
+#~ "But none of these servers would give you control over computing you do on "
+#~ "it, unless it's <em>your</em> server.  It may be OK to trust your "
+#~ "friend's server for some jobs, just as you might let your friend maintain "
+#~ "the software on your own computer.  Outside of that, all these servers "
+#~ "would be SaaSS for you.  SaaSS always subjects you to the power of the "
+#~ "server operator, and the only remedy is, <em>Don't use SaaSS!</em> Don't "
+#~ "use someone else's server to do your own computing on data provided by "
+#~ "you."
+#~ msgstr ""
+#~ "Mas nenhum daqueles servidores daria a você o controle sobre a computação "
+#~ "que você faz nele, a não ser que seja o <em>seu</em> servidor. Pode ser "
+#~ "aceitável confiar algumas tarefas a servidores de amigos seus, assim como "
+#~ "você poderia deixar um amigo seu configurar os programas de seu próprio "
+#~ "computador. Fora isso, todos aqueles servidores serão SaaSS para você. "
+#~ "SaaSS sempre lhe sujeita ao poder do operador do servidor, e o único "
+#~ "remédio é: <em>Não use SaaSS!</em> Não use um servidor alheio para fazer "
+#~ "suas próprias atividades computacionais sobre dados fornecidos por você."
+
+#~ msgid ""
+#~ "Another clear example is using a service such as Flickr or Instagram to "
+#~ "modify a photo.  Modifying photos is an activity that people have done in "
+#~ "their own computers for decades; doing it in a server instead of your own "
+#~ "computer is SaaSS."
+#~ msgstr ""
+#~ "Outro exemplo claro é o uso de um serviço como Flickr ou Instagram para "
+#~ "modificar uma foto.   Modificar fotos é uma atividade que as pessoas têm "
+#~ "feito em seus próprios computadores ao longo de décadas; fazê-la em um "
+#~ "servidor, ao invés de em seru próprio computador é SaaSS."
+
+#, fuzzy
+#~ msgid ""
+#~ "Rejecting SaaSS does not mean refusing to use any network servers run by "
+#~ "anyone other than you.  Most servers are not SaaSS because the jobs they "
+#~ "do are not the user's own computing."
+#~ msgstr ""
+#~ "Rejeitar SaaSS não significa se recusar a usar quaisquer servidores de "
+#~ "rede mantidos por qualquer pessoa além de você. A maioria dos servidores "
+#~ "não são SaaSS, porque os trabalhos que eles fazem não são a computação do "
+#~ "próprio usuário."
+
+#, fuzzy
+#~ msgid ""
+#~ "The original idea of web servers wasn't to do computing for you, it was "
+#~ "to publish information for you to access.  Even today this is what most "
+#~ "web sites do, and it doesn't pose the SaaSS problem, because accessing "
+#~ "someone's published information isn't doing your own computing.  Neither "
+#~ "is publishing your own materials via a blog site or a microblogging "
+#~ "service such as Twitter or StatusNet.  (These services may have other "
+#~ "problems, of course.)  The same goes for other communication not meant to "
+#~ "be private, such as chat groups."
+#~ msgstr ""
+#~ "O propósito original de servidores web não era realizar atividades "
+#~ "computacionais por você, e sim publicar informações para você acessar. "
+#~ "Mesmo hoje em dia, é isso o que faz a maioria dos sítios web, sem que "
+#~ "haja o problema do SaaSS, pois acessar uma informação publicada por outra "
+#~ "pessoa não é fazer sua própria computação. Nem a publicação de seu "
+#~ "próprio material através de um sítio de blogues ou serviço de "
+#~ "microblogue, como Twitter ou StatusNet. (Esses serviços podem ter outros "
+#~ "problemas, é claro.) O mesmo vale para outras comunicações que não têm a "
+#~ "intenção de ser privadas, como grupos de bate-papo."
+
+#, fuzzy
+#~ msgid ""
+#~ "Purchasing online is not SaaSS, because the computing isn't <em>your own</"
+#~ "em>; rather, it is done jointly by and for you and the store.  The real "
+#~ "issue in online shopping is whether you trust the other party with your "
+#~ "money and other personal information (starting with your name)."
+#~ msgstr ""
+#~ "Fazer compras pela internet não é SaaSS, porque a computação não é "
+#~ "<em>sua</em>; pelo contrário, ela é feita conjuntamente por você e pela "
+#~ "loja. O problema real nas compras pela internet é se você deve confiar "
+#~ "seu dinheiro e outras informações pessoais (a começar pelo seu nome) à "
+#~ "outra parte."
+
+#~ msgid ""
+#~ "Repository sites such as as Savannah and SourceForge are not inherently "
+#~ "SaaSS, because a repository's job is publication of data supplied to it."
+#~ msgstr ""
+#~ "Sítio de repositórios tais como Savannah e SourceForge não são "
+#~ "inerentemente SaaSS, porque a tarefa de um repositório é publicar os "
+#~ "dados a ele fornecidos."
+
+#, fuzzy
+#~ msgid "Copyright &copy; 2010, 2013, 2015 Richard Stallman"
+#~ msgstr "Copyright &copy; 2010, 2013 Richard Stallman"
 
 #~ msgid ""
 #~ "Some proprietary programs can mistreat users under remote command.  For "

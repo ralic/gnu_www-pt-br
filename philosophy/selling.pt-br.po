@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: selling.html\n"
-"POT-Creation-Date: 2015-04-13 09:55+0000\n"
+"POT-Creation-Date: 2016-01-01 05:56+0000\n"
 "PO-Revision-Date: 2015-01-20 21:20+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: web-translators <web-translators@gnu.org>\n"
@@ -46,6 +46,11 @@ msgstr ""
 "dinheiro para distribuir cópias de software ou cobrar o mínimo possível — "
 "somente o suficiente para cobrir os custos."
 
+# | Actually, we encourage people who redistribute <a
+# | href=\"/philosophy/free-sw.html\">free software</a> to charge as much as
+# | they wish or can.  If {+a license does not permit users to make copies and
+# | sell them, it is a nonfree license.  If+} this seems surprising to you,
+# | please read on.
 #. type: Content of: <p>
 #, fuzzy
 #| msgid ""
@@ -91,6 +96,11 @@ msgstr ""
 "independentemente do preço, porque os usuários têm liberdade para usar o "
 "mesmo."
 
+# | <a href=\"/philosophy/categories.html#ProprietarySoftware\">Nonfree
+# | programs</a> are usually sold for a high price, but sometimes a store will
+# | give you a copy at no charge.  That doesn't make it free software, though.
+# |  Price or no price, the program is nonfree because {+its+} users [-don't
+# | have-] {+are denied+} freedom.
 #. type: Content of: <p>
 #, fuzzy
 #| msgid ""
@@ -409,23 +419,35 @@ msgstr ""
 "\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
 "envio de traduções das páginas desse site."
 
+# | Copyright &copy; 1996, 1997, 1998, 2001, 2007, [-2013, 2015-] {+2015,
+# | 2016+} Free Software Foundation, Inc.
 #. type: Content of: <div><p>
+#, fuzzy
+#| msgid ""
+#| "Copyright &copy; 1996, 1997, 1998, 2001, 2007, 2013, 2015 Free Software "
+#| "Foundation, Inc."
 msgid ""
-"Copyright &copy; 1996, 1997, 1998, 2001, 2007, 2013, 2015 Free Software "
+"Copyright &copy; 1996, 1997, 1998, 2001, 2007, 2015, 2016 Free Software "
 "Foundation, Inc."
 msgstr ""
 "Copyright &copy; 1996, 1997, 1998, 2001, 2007, 2013, 2015 Free Software "
 "Foundation, Inc."
 
+# || No change detected.  The change might only be in amounts of spaces.
 #. type: Content of: <div><p>
+#, fuzzy
+#| msgid ""
+#| "This page is licensed under a <a rel=\"license\" href=\"http://"
+#| "creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+#| "NoDerivatives 4.0 International License</a>."
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-"NoDerivs 3.0 United States License</a>."
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
 msgstr ""
 "Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/deed.pt_BR\">Creative Commons "
-"Atribuição-SemDerivações 3.0 Estados Unidos</a>."
+"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 4.0 Internacional</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>
@@ -439,6 +461,13 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização: "
+
+#~ msgid ""
+#~ "Copyright &copy; 1996, 1997, 1998, 2001, 2007, 2013, 2015 Free Software "
+#~ "Foundation, Inc."
+#~ msgstr ""
+#~ "Copyright &copy; 1996, 1997, 1998, 2001, 2007, 2013, 2015 Free Software "
+#~ "Foundation, Inc."
 
 #~ msgid ""
 #~ "Actually, we encourage people who redistribute <a href=\"/philosophy/free-"

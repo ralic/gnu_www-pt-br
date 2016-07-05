@@ -8,7 +8,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: words-to-avoid.html\n"
-"POT-Creation-Date: 2015-07-16 14:55+0000\n"
+"POT-Creation-Date: 2016-03-26 17:56+0000\n"
 "PO-Revision-Date: 2015-09-11 21:28-0300\n"
 "Last-Translator: Bruno Félix Rezende Ribeiro <oitofelix@gnu.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -57,6 +57,14 @@ msgstr ""
 #. type: Content of: <p>
 msgid "<a href=\"/philosophy/philosophy.html\">Other Texts to Read</a> |"
 msgstr "<a href=\"/philosophy/philosophy.html\">Outros Textos para Ler</a> |"
+
+# | &ldquo;<a [-href=\"#Hacker\">Hacker</a>&rdquo;-]
+# | {+href=\"#Ad-blocker\">Ad-blocker</a>&rdquo;+} |
+#. type: Content of: <p>
+#, fuzzy
+#| msgid "&ldquo;<a href=\"#Hacker\">Hacker</a>&rdquo; |"
+msgid "&ldquo;<a href=\"#Ad-blocker\">Ad-blocker</a>&rdquo; |"
+msgstr "&ldquo;<a href=\"#Hacker\">Hacker</a>&rdquo; |"
 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#Access\">Access</a>&rdquo; |"
@@ -262,6 +270,22 @@ msgstr "&ldquo;<a href=\"#TrustedComputing\">Computação Confiável</a>&rdquo; 
 msgid "&ldquo;<a href=\"#Vendor\">Vendor</a>&rdquo;"
 msgstr "&ldquo;<a href=\"#Vendor\">Vendedor</a>&rdquo;"
 
+# | [-&ldquo;Hacker&rdquo;-]{+&ldquo;Ad-blocker&rdquo;+}
+#. type: Content of: <h3>
+#, fuzzy
+#| msgid "&ldquo;Hacker&rdquo;"
+msgid "&ldquo;Ad-blocker&rdquo;"
+msgstr "&ldquo;Hacker&rdquo;"
+
+#. type: Content of: <p>
+msgid ""
+"When the purpose of some program is to block advertisements, &ldquo;ad-"
+"blocker&rdquo; is a good term for it.  However, the GNU browser IceCat "
+"blocks advertisements that track the user as consequence of broader measures "
+"to prevent surveillance by web sites.  This is not an &ldquo;ad-blocker,"
+"&rdquo; this is <em>surveillance protection</em>."
+msgstr ""
+
 #. type: Content of: <h3>
 msgid "&ldquo;Access&rdquo;"
 msgstr "&ldquo;Acesso&rdquo;"
@@ -369,10 +393,23 @@ msgstr ""
 msgid "&ldquo;BSD-style&rdquo;"
 msgstr "&ldquo;do tipo BSD&rdquo;"
 
+# | The expression &ldquo;BSD-style license&rdquo; leads to confusion because
+# | it <a [-href=\"/philosophy/bsd.html\">lumps-]
+# | {+href=\"/licenses/bsd.html\">lumps+} together licenses that have
+# | important differences</a>.  For instance, the original BSD license with
+# | the advertising clause is incompatible with the GNU General Public
+# | License, but the revised BSD license is compatible with the GPL.
 #. type: Content of: <p>
+#, fuzzy
+#| msgid ""
+#| "The expression &ldquo;BSD-style license&rdquo; leads to confusion because "
+#| "it <a href=\"/philosophy/bsd.html\">lumps together licenses that have "
+#| "important differences</a>.  For instance, the original BSD license with "
+#| "the advertising clause is incompatible with the GNU General Public "
+#| "License, but the revised BSD license is compatible with the GPL."
 msgid ""
 "The expression &ldquo;BSD-style license&rdquo; leads to confusion because it "
-"<a href=\"/philosophy/bsd.html\">lumps together licenses that have important "
+"<a href=\"/licenses/bsd.html\">lumps together licenses that have important "
 "differences</a>.  For instance, the original BSD license with the "
 "advertising clause is incompatible with the GNU General Public License, but "
 "the revised BSD license is compatible with the GPL."
@@ -422,14 +459,30 @@ msgstr ""
 msgid "&ldquo;Cloud Computing&rdquo;"
 msgstr "&ldquo;Computação em Nuvem&rdquo;"
 
+# | The term &ldquo;cloud computing&rdquo; (or just <a
+# | name=\"Cloud\">&ldquo;cloud&rdquo;</a>, in the context of computing) is a
+# | marketing buzzword with no coherent meaning.  It is used for a range of
+# | different activities whose only common characteristic is that they use the
+# | Internet for something beyond transmitting files.  Thus, the term spreads
+# | confusion.  If you base your thinking on it, your thinking will be
+# | [-confused.-] {+confused (or, could we say, &ldquo;cloudy&rdquo;?).+}
 #. type: Content of: <p>
+#, fuzzy
+#| msgid ""
+#| "The term &ldquo;cloud computing&rdquo; (or just <a name=\"Cloud\">&ldquo;"
+#| "cloud&rdquo;</a>, in the context of computing) is a marketing buzzword "
+#| "with no coherent meaning.  It is used for a range of different activities "
+#| "whose only common characteristic is that they use the Internet for "
+#| "something beyond transmitting files.  Thus, the term spreads confusion.  "
+#| "If you base your thinking on it, your thinking will be confused."
 msgid ""
 "The term &ldquo;cloud computing&rdquo; (or just <a name=\"Cloud\">&ldquo;"
 "cloud&rdquo;</a>, in the context of computing) is a marketing buzzword with "
 "no coherent meaning.  It is used for a range of different activities whose "
 "only common characteristic is that they use the Internet for something "
 "beyond transmitting files.  Thus, the term spreads confusion.  If you base "
-"your thinking on it, your thinking will be confused."
+"your thinking on it, your thinking will be confused (or, could we say, "
+"&ldquo;cloudy&rdquo;?)."
 msgstr ""
 "O termo &ldquo;computação em nuvem&rdquo; (ou simplesmente <a name=\"Cloud"
 "\">&ldquo;nuvem&rdquo;</a>, no contexto da computação) é uma palavra da moda "
@@ -438,12 +491,23 @@ msgstr ""
 "para algo além da transmissão de arquivos. Portanto, o termo promove a "
 "confusão. Se você pensar baseando-se nela, seu pensamento será confundido."
 
+# | When thinking about or responding to a statement someone else has made
+# | using this term, the first step is to clarify the topic.  What scenario is
+# | the statement about? What is a good, clear term for that scenario? Once
+# | the topic is clearly formulated, coherent [-discussion is-] {+thought
+# | about it becomes+} possible.
 #. type: Content of: <p>
+#, fuzzy
+#| msgid ""
+#| "When thinking about or responding to a statement someone else has made "
+#| "using this term, the first step is to clarify the topic.  What scenario "
+#| "is the statement about? What is a good, clear term for that scenario? "
+#| "Once the topic is clearly formulated, coherent discussion is possible."
 msgid ""
 "When thinking about or responding to a statement someone else has made using "
 "this term, the first step is to clarify the topic.  What scenario is the "
 "statement about? What is a good, clear term for that scenario? Once the "
-"topic is clearly formulated, coherent discussion is possible."
+"topic is clearly formulated, coherent thought about it becomes possible."
 msgstr ""
 "Quando estiver respondendo a alguém que usou esse termo, o primeiro passo é "
 "esclarecer o assunto. Sobre qual cenário ela estava falando? Qual é um termo "
@@ -526,13 +590,26 @@ msgstr ""
 "computação em nuvem&rdquo; promove é não usar &ldquo;nuvem&rdquo; em conexão "
 "à computação. Fale sobre o cenário usando um termo específico."
 
+# | Curiously, Larry Ellison, a proprietary software developer, also <a
+# | [-href=\"http://news.cnet.com/8301-13953_3-10052188-80.html\">-]
+# | {+href=\"http://www.cnet.com/news/oracles-ellison-nails-cloud-computing/\">+}
+# | noted the vacuity of the term &ldquo;cloud computing.&rdquo;</a> He
+# | decided to use the term anyway because, as a proprietary software
+# | developer, he isn't motivated by the same ideals as we are.
 #. type: Content of: <p>
+#, fuzzy
+#| msgid ""
+#| "Curiously, Larry Ellison, a proprietary software developer, also <a href="
+#| "\"http://news.cnet.com/8301-13953_3-10052188-80.html\"> noted the vacuity "
+#| "of the term &ldquo;cloud computing.&rdquo;</a> He decided to use the term "
+#| "anyway because, as a proprietary software developer, he isn't motivated "
+#| "by the same ideals as we are."
 msgid ""
 "Curiously, Larry Ellison, a proprietary software developer, also <a href="
-"\"http://news.cnet.com/8301-13953_3-10052188-80.html\"> noted the vacuity of "
-"the term &ldquo;cloud computing.&rdquo;</a> He decided to use the term "
-"anyway because, as a proprietary software developer, he isn't motivated by "
-"the same ideals as we are."
+"\"http://www.cnet.com/news/oracles-ellison-nails-cloud-computing/\"> noted "
+"the vacuity of the term &ldquo;cloud computing.&rdquo;</a> He decided to use "
+"the term anyway because, as a proprietary software developer, he isn't "
+"motivated by the same ideals as we are."
 msgstr ""
 "Curiosamente, Larry Ellison, um desenvolvedor de software proprietário, "
 "também <a href=\"http://news.cnet.com/8301-13953_3-10052188-80.html\">notou "
@@ -655,10 +732,28 @@ msgstr ""
 "quanto se queira, é simplesmente um erro.  Reprodução de uma gravação, ou a "
 "execução de um programa, não os consome."
 
+# | The term &ldquo;consume&rdquo; is associated with the economics of
+# | uncop[-i-]{+y+}able material products, and leads people to transfer its
+# | conclusions unconsciously to copiable digital works &mdash; an error that
+# | proprietary software developers (and other publishers) dearly wish to
+# | encourage.  Their twisted viewpoint comes through clearly in <a
+# | href=\"http://www.businessinsider.com/former-google-exec-launches-sourcepoint-with-10-million-series-a-funding-2015-6\">this
+# | article</a>, which also refers to publications as &ldquo;<a
+# | href=\"#Content\">content</a>.&rdquo;
 #. type: Content of: <p>
+#, fuzzy
+#| msgid ""
+#| "The term &ldquo;consume&rdquo; is associated with the economics of "
+#| "uncopiable material products, and leads people to transfer its "
+#| "conclusions unconsciously to copiable digital works &mdash; an error that "
+#| "proprietary software developers (and other publishers) dearly wish to "
+#| "encourage.  Their twisted viewpoint comes through clearly in <a href="
+#| "\"http://www.businessinsider.com/former-google-exec-launches-sourcepoint-"
+#| "with-10-million-series-a-funding-2015-6\">this article</a>, which also "
+#| "refers to publications as &ldquo;<a href=\"#Content\">content</a>.&rdquo;"
 msgid ""
 "The term &ldquo;consume&rdquo; is associated with the economics of "
-"uncopiable material products, and leads people to transfer its conclusions "
+"uncopyable material products, and leads people to transfer its conclusions "
 "unconsciously to copiable digital works &mdash; an error that proprietary "
 "software developers (and other publishers) dearly wish to encourage.  Their "
 "twisted viewpoint comes through clearly in <a href=\"http://www."
@@ -815,17 +910,39 @@ msgstr ""
 "próprias obras. Se você não concorda com essa atitude, você pode chamá-las "
 "de &ldquo;obras&rdquo; ou &ldquo;publicações.&rdquo;"
 
+# | Those who use the term &ldquo;content&rdquo; are often the publishers that
+# | push for increased copyright power in the name of the authors
+# | (&ldquo;creators,&rdquo; as they say) of the works.  The term
+# | &ldquo;content&rdquo; reveals their real attitude towards these works and
+# | their authors.  (See <a
+# | [-href=\"http://archive.salon.com/tech/feature/2000/06/14/love/print.html\">Courtney-]
+# | {+href=\"http://www.salon.com/2000/06/14/love_7/\">Courtney+} Love's open
+# | letter to Steve Case</a> and search for &ldquo;content provider&rdquo; in
+# | that page.  Alas, Ms. Love is unaware that the term &ldquo;intellectual
+# | property&rdquo; is also <a href=\"#IntellectualProperty\"> biased and
+# | confusing</a>.)
 #. type: Content of: <p>
+#, fuzzy
+#| msgid ""
+#| "Those who use the term &ldquo;content&rdquo; are often the publishers "
+#| "that push for increased copyright power in the name of the authors "
+#| "(&ldquo;creators,&rdquo; as they say) of the works.  The term &ldquo;"
+#| "content&rdquo; reveals their real attitude towards these works and their "
+#| "authors.  (See <a href=\"http://archive.salon.com/tech/feature/2000/06/14/"
+#| "love/print.html\">Courtney Love's open letter to Steve Case</a> and "
+#| "search for &ldquo;content provider&rdquo; in that page.  Alas, Ms. Love "
+#| "is unaware that the term &ldquo;intellectual property&rdquo; is also <a "
+#| "href=\"#IntellectualProperty\"> biased and confusing</a>.)"
 msgid ""
 "Those who use the term &ldquo;content&rdquo; are often the publishers that "
 "push for increased copyright power in the name of the authors (&ldquo;"
 "creators,&rdquo; as they say) of the works.  The term &ldquo;content&rdquo; "
 "reveals their real attitude towards these works and their authors.  (See <a "
-"href=\"http://archive.salon.com/tech/feature/2000/06/14/love/print.html"
-"\">Courtney Love's open letter to Steve Case</a> and search for &ldquo;"
-"content provider&rdquo; in that page.  Alas, Ms. Love is unaware that the "
-"term &ldquo;intellectual property&rdquo; is also <a href="
-"\"#IntellectualProperty\"> biased and confusing</a>.)"
+"href=\"http://www.salon.com/2000/06/14/love_7/\">Courtney Love's open letter "
+"to Steve Case</a> and search for &ldquo;content provider&rdquo; in that "
+"page.  Alas, Ms. Love is unaware that the term &ldquo;intellectual "
+"property&rdquo; is also <a href=\"#IntellectualProperty\"> biased and "
+"confusing</a>.)"
 msgstr ""
 "Aqueles que usam o termo &ldquo;conteúdo&rdquo; são frequentemente as "
 "editoras que pressionam por maior poder de copyright em nome dos autores "
@@ -1267,14 +1384,31 @@ msgstr ""
 msgid "&ldquo;Google&rdquo;"
 msgstr "“Google”"
 
+# | Please avoid using the term &ldquo;google&rdquo; as a verb, meaning to
+# | search for something on the internet. &ldquo;Google&rdquo; is just the
+# | name of one particular search engine among others. We suggest to use the
+# | term [-&ldquo;web search&rdquo; instead.-] {+&ldquo;search the web&rdquo;
+# | or (in some contexts) just &ldquo;search&rdquo;.+} Try to use a search
+# | engine that respects your privacy; <a
+# | href=\"https://duckduckgo.com/\">DuckDuckGo</a> claims not to track its
+# | users, although we cannot confirm.
 #. type: Content of: <p>
+#, fuzzy
+#| msgid ""
+#| "Please avoid using the term &ldquo;google&rdquo; as a verb, meaning to "
+#| "search for something on the internet. &ldquo;Google&rdquo; is just the "
+#| "name of one particular search engine among others. We suggest to use the "
+#| "term &ldquo;web search&rdquo; instead. Try to use a search engine that "
+#| "respects your privacy; <a href=\"https://duckduckgo.com/\">DuckDuckGo</a> "
+#| "claims not to track its users, although we cannot confirm."
 msgid ""
 "Please avoid using the term &ldquo;google&rdquo; as a verb, meaning to "
 "search for something on the internet. &ldquo;Google&rdquo; is just the name "
 "of one particular search engine among others. We suggest to use the term "
-"&ldquo;web search&rdquo; instead. Try to use a search engine that respects "
-"your privacy; <a href=\"https://duckduckgo.com/\">DuckDuckGo</a> claims not "
-"to track its users, although we cannot confirm."
+"&ldquo;search the web&rdquo; or (in some contexts) just &ldquo;"
+"search&rdquo;. Try to use a search engine that respects your privacy; <a "
+"href=\"https://duckduckgo.com/\">DuckDuckGo</a> claims not to track its "
+"users, although we cannot confirm."
 msgstr ""
 "Por favor, evite usar o termo “google” como um verbo, com o significado de "
 "procurar algo na internet.  “Google” é apenas o nome de um determinado "
@@ -1440,12 +1574,26 @@ msgstr ""
 "você respeite a liberdade de seus clientes, desejamos-lhe sucesso em seu "
 "mercado."
 
+# | But the free software movement is a social movement, not a business, and
+# | the success it aims for is not a market success.  We are trying to serve
+# | the public by giving it freedom&mdash;not competing to draw business away
+# | from a rival.  To equate this campaign for freedom to a business'{+s+}
+# | efforts for mere success is to deny the importance of freedom and
+# | legitimize proprietary software.
 #. type: Content of: <p>
+#, fuzzy
+#| msgid ""
+#| "But the free software movement is a social movement, not a business, and "
+#| "the success it aims for is not a market success.  We are trying to serve "
+#| "the public by giving it freedom&mdash;not competing to draw business away "
+#| "from a rival.  To equate this campaign for freedom to a business' efforts "
+#| "for mere success is to deny the importance of freedom and legitimize "
+#| "proprietary software."
 msgid ""
 "But the free software movement is a social movement, not a business, and the "
 "success it aims for is not a market success.  We are trying to serve the "
 "public by giving it freedom&mdash;not competing to draw business away from a "
-"rival.  To equate this campaign for freedom to a business' efforts for mere "
+"rival.  To equate this campaign for freedom to a business's efforts for mere "
 "success is to deny the importance of freedom and legitimize proprietary "
 "software."
 msgstr ""
@@ -1524,15 +1672,35 @@ msgstr ""
 msgid "&ldquo;Open&rdquo;"
 msgstr "&ldquo;Aberto&rdquo;"
 
+# | Please avoid using the term &ldquo;open&rdquo; or &ldquo;open
+# | source&rdquo; as a substitute for &ldquo;free software.&rdquo; Those terms
+# | refer to a <a href=\"/philosophy/open-source-misses-the-point.html\">
+# | different [-position</a>-] {+set of views</a>+} based on different values.
+# |  [-Free-]  {+The free+} software [-is-] {+movement campaigns for your
+# | freedom in your computing, as+} a [-political movement;-] {+matter of
+# | justice.  The+} open source [-is a development model.  When referring to
+# | the open source position, using its name is appropriate; but please do-]
+# | {+non-movement does+} not [-use it to label us or our work&mdash;that
+# | leads people to think we share those views.-] {+campaign for anything in
+# | this way.+}
 #. type: Content of: <p>
+#, fuzzy
+#| msgid ""
+#| "Please avoid using the term &ldquo;open&rdquo; or &ldquo;open "
+#| "source&rdquo; as a substitute for &ldquo;free software.&rdquo; Those "
+#| "terms refer to a <a href=\"/philosophy/open-source-misses-the-point.html"
+#| "\"> different position</a> based on different values.  Free software is a "
+#| "political movement; open source is a development model.  When referring "
+#| "to the open source position, using its name is appropriate; but please do "
+#| "not use it to label us or our work&mdash;that leads people to think we "
+#| "share those views."
 msgid ""
 "Please avoid using the term &ldquo;open&rdquo; or &ldquo;open source&rdquo; "
 "as a substitute for &ldquo;free software.&rdquo; Those terms refer to a <a "
-"href=\"/philosophy/open-source-misses-the-point.html\"> different position</"
-"a> based on different values.  Free software is a political movement; open "
-"source is a development model.  When referring to the open source position, "
-"using its name is appropriate; but please do not use it to label us or our "
-"work&mdash;that leads people to think we share those views."
+"href=\"/philosophy/open-source-misses-the-point.html\"> different set of "
+"views</a> based on different values.  The free software movement campaigns "
+"for your freedom in your computing, as a matter of justice.  The open source "
+"non-movement does not campaign for anything in this way."
 msgstr ""
 "Por favor, evite usar o termo &ldquo;aberto&rdquo; ou &ldquo;código "
 "aberto&rdquo; como substitutos para &ldquo;software livre.&rdquo; Esses "
@@ -1543,6 +1711,13 @@ msgstr ""
 "nome é apropriado; mas, por favor, não o use para classificar a nós ou ao "
 "nosso trabalho &mdash; isso leva as pessoas a pensarem que compartilhamos "
 "daqueles pontos de vista."
+
+#. type: Content of: <p>
+msgid ""
+"When referring to the open source views, it's correct to use that name, but "
+"please do not use that term when talking about us, our software, or our "
+"views&mdash;that leads people to suppose our views are similar to theirs."
+msgstr ""
 
 #. type: Content of: <h3>
 msgid "&ldquo;PC&rdquo;"
@@ -1624,12 +1799,22 @@ msgstr ""
 "de um termo positivo, como &ldquo;compartilhar informações com seu vizinho."
 "&rdquo;"
 
+# | A US judge, presiding over a trial for copyright infringement, recognized
+# | that <a
+# | href=\"http://torrentfreak.com/mpaa-banned-from-using-piracy-and-theft-terms-in-hotfile-trial-131129/\">&ldquo;piracy&rdquo;
+# | and &ldquo;theft&rdquo; are smear[---]{+ +}words.</a>
 #. type: Content of: <p>
+#, fuzzy
+#| msgid ""
+#| "A US judge, presiding over a trial for copyright infringement, recognized "
+#| "that <a href=\"http://torrentfreak.com/mpaa-banned-from-using-piracy-and-"
+#| "theft-terms-in-hotfile-trial-131129/\">&ldquo;piracy&rdquo; and &ldquo;"
+#| "theft&rdquo; are smear-words.</a>"
 msgid ""
 "A US judge, presiding over a trial for copyright infringement, recognized "
 "that <a href=\"http://torrentfreak.com/mpaa-banned-from-using-piracy-and-"
 "theft-terms-in-hotfile-trial-131129/\">&ldquo;piracy&rdquo; and &ldquo;"
-"theft&rdquo; are smear-words.</a>"
+"theft&rdquo; are smear words.</a>"
 msgstr ""
 "Um juiz americano, presidindo um julgamento por violação de copyright, "
 "reconheceu que <a href=\"http://torrentfreak.com/mpaa-banned-from-using-"
@@ -1814,11 +1999,19 @@ msgstr ""
 "Veja <a href=\"/philosophy/who-does-that-server-really-serve.html\">A Quem "
 "Aquele Servidor Realmente Serve?</a> para uma discussão desse problema."
 
+# | In Spanish we continue to use the term &ldquo;software como
+# | servicio&rdquo; because the joke of &ldquo;software como ser vicio&rdquo;
+# | {+(&ldquo;software, as being pernicious&rdquo;)+} is too good to give up.
 #. type: Content of: <p>
+#, fuzzy
+#| msgid ""
+#| "In Spanish we continue to use the term &ldquo;software como "
+#| "servicio&rdquo; because the joke of &ldquo;software como ser vicio&rdquo; "
+#| "is too good to give up."
 msgid ""
 "In Spanish we continue to use the term &ldquo;software como servicio&rdquo; "
-"because the joke of &ldquo;software como ser vicio&rdquo; is too good to "
-"give up."
+"because the joke of &ldquo;software como ser vicio&rdquo; (&ldquo;software, "
+"as being pernicious&rdquo;) is too good to give up."
 msgstr ""
 "Em espanhol, continuamos a usar o termo &ldquo;software como servicio,"
 "&rdquo; porque a piada &ldquo;software como ser vicio&rdquo; é boa demais "
@@ -1889,9 +2082,30 @@ msgstr ""
 msgid "&ldquo;Skype&rdquo;"
 msgstr "&ldquo;Skype&rdquo;"
 
+# | Please avoid using the term &ldquo;[-S-]{+s+}kype&rdquo; as a verb,
+# | meaning any kind of video communication or telephony over the Internet in
+# | general.  &ldquo;Skype&rdquo; is just the name of one particular
+# | proprietary program, one that <a
+# | href=\"/philosophy/proprietary/proprietary-surveillance.html#SpywareInSkype\">
+# | spies on its users</a>. If you want to make video and voice calls over the
+# | Internet in a way that respects both your freedom and your privacy, try
+# | one of the <a
+# | href=\"https://libreplanet.org/wiki/Group:Skype_Replacement\"> numerous
+# | free Skype replacements</a>.
 #. type: Content of: <p>
+#, fuzzy
+#| msgid ""
+#| "Please avoid using the term &ldquo;Skype&rdquo; as a verb, meaning any "
+#| "kind of video communication or telephony over the Internet in general.  "
+#| "&ldquo;Skype&rdquo; is just the name of one particular proprietary "
+#| "program, one that <a href=\"/philosophy/proprietary/proprietary-"
+#| "surveillance.html#SpywareInSkype\"> spies on its users</a>. If you want "
+#| "to make video and voice calls over the Internet in a way that respects "
+#| "both your freedom and your privacy, try one of the <a href=\"https://"
+#| "libreplanet.org/wiki/Group:Skype_Replacement\"> numerous free Skype "
+#| "replacements</a>."
 msgid ""
-"Please avoid using the term &ldquo;Skype&rdquo; as a verb, meaning any kind "
+"Please avoid using the term &ldquo;skype&rdquo; as a verb, meaning any kind "
 "of video communication or telephony over the Internet in general.  &ldquo;"
 "Skype&rdquo; is just the name of one particular proprietary program, one "
 "that <a href=\"/philosophy/proprietary/proprietary-surveillance."
@@ -1929,14 +2143,36 @@ msgstr ""
 "delas desenvolvem software livre e/ou não-livre, mas aquelas que desenvolvem "
 "software livre não são geridas como fábricas."
 
+# | The term &ldquo;industry&rdquo; is being used as propaganda by advocates
+# | of software patents.  They call software development
+# | &ldquo;industry&rdquo; and then try to argue that this means it should be
+# | subject to patent monopolies.  <a
+# | [-href=\"http://web.archive.org/web/20071222001014/http://www.swpat.ffii.org/papers/europarl0309/\"-]
+# | {+href=\"https://web.archive.org/web/20071215073111/http://eupat.ffii.org/papers/europarl0309/\"+}
+# | title=\"archived version of
+# | [-http://swpat.ffii.org/papers/europarl0309/\"> The-]
+# | {+http://eupat.ffii.org/papers/europarl0309/\">The+} European Parliament,
+# | rejecting software patents in 2003, voted to define &ldquo;industry&rdquo;
+# | as &ldquo;automated production of material goods.&rdquo;</a>
 #. type: Content of: <p>
+#, fuzzy
+#| msgid ""
+#| "The term &ldquo;industry&rdquo; is being used as propaganda by advocates "
+#| "of software patents.  They call software development &ldquo;"
+#| "industry&rdquo; and then try to argue that this means it should be "
+#| "subject to patent monopolies.  <a href=\"http://web.archive.org/"
+#| "web/20071222001014/http://www.swpat.ffii.org/papers/europarl0309/\" title="
+#| "\"archived version of http://swpat.ffii.org/papers/europarl0309/\"> The "
+#| "European Parliament, rejecting software patents in 2003, voted to define "
+#| "&ldquo;industry&rdquo; as &ldquo;automated production of material goods."
+#| "&rdquo;</a>"
 msgid ""
 "The term &ldquo;industry&rdquo; is being used as propaganda by advocates of "
 "software patents.  They call software development &ldquo;industry&rdquo; and "
 "then try to argue that this means it should be subject to patent "
-"monopolies.  <a href=\"http://web.archive.org/web/20071222001014/http://www."
-"swpat.ffii.org/papers/europarl0309/\" title=\"archived version of http://"
-"swpat.ffii.org/papers/europarl0309/\"> The European Parliament, rejecting "
+"monopolies.  <a href=\"https://web.archive.org/web/20071215073111/http://"
+"eupat.ffii.org/papers/europarl0309/\" title=\"archived version of http://"
+"eupat.ffii.org/papers/europarl0309/\">The European Parliament, rejecting "
 "software patents in 2003, voted to define &ldquo;industry&rdquo; as &ldquo;"
 "automated production of material goods.&rdquo;</a>"
 msgstr ""
@@ -2046,6 +2282,18 @@ msgstr ""
 "casos, elas tentam implementar a justiça. Se as leis (a implementação) não "
 "se encaixam nas nossas ideias de certo e errado (a especificação), elas é "
 "que devem mudar."
+
+#. type: Content of: <p>
+msgid ""
+"A US judge, presiding over a trial for copyright infringement, recognized "
+"that <a href=\"http://torrentfreak.com/mpaa-banned-from-using-piracy-and-"
+"theft-terms-in-hotfile-trial-131129/\">&ldquo;piracy&rdquo; and &ldquo;"
+"theft&rdquo; are smear-words.</a>"
+msgstr ""
+"Um juiz americano, presidindo um julgamento por violação de copyright, "
+"reconheceu que <a href=\"http://torrentfreak.com/mpaa-banned-from-using-"
+"piracy-and-theft-terms-in-hotfile-trial-131129/\">&ldquo;pirataria&rdquo; e "
+"&ldquo;roubo&rdquo; são apenas palavras difamatórias</a>."
 
 #. type: Content of: <h3>
 msgid "&ldquo;Trusted Computing&rdquo;"
@@ -2169,10 +2417,17 @@ msgstr ""
 "\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
 "envio de traduções das páginas desse site."
 
+# | Copyright &copy; 1996, 1997, 1998, 1999, 2001, 2002, 2003, 2004, 2007,
+# | 2008, 2009, 2010, 2011, 2012, [-2015-] {+2015, 2016+} Free Software
+# | Foundation, Inc.
 #. type: Content of: <div><p>
+#, fuzzy
+#| msgid ""
+#| "Copyright &copy; 1996, 1997, 1998, 1999, 2001, 2002, 2003, 2004, 2007, "
+#| "2008, 2009, 2010, 2011, 2012, 2015 Free Software Foundation, Inc."
 msgid ""
 "Copyright &copy; 1996, 1997, 1998, 1999, 2001, 2002, 2003, 2004, 2007, 2008, "
-"2009, 2010, 2011, 2012, 2015 Free Software Foundation, Inc."
+"2009, 2010, 2011, 2012, 2015, 2016 Free Software Foundation, Inc."
 msgstr ""
 "Copyright &copy; 1996, 1997, 1998, 1999, 2001, 2002, 2003, 2004, 2007, 2008, "
 "2009, 2010, 2011, 2012, 2015 Free Software Foundation, Inc."
@@ -2201,7 +2456,209 @@ msgstr ""
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
-msgstr "Última atualização:"
+msgstr "Última atualização: "
+
+#~ msgid ""
+#~ "The expression &ldquo;BSD-style license&rdquo; leads to confusion because "
+#~ "it <a href=\"/philosophy/bsd.html\">lumps together licenses that have "
+#~ "important differences</a>.  For instance, the original BSD license with "
+#~ "the advertising clause is incompatible with the GNU General Public "
+#~ "License, but the revised BSD license is compatible with the GPL."
+#~ msgstr ""
+#~ "A expressão &ldquo;do tipo BSD&rdquo; (do inglês &ldquo;BSD-style&rdquo;) "
+#~ "leva à confusão, pois ela <a href=\"/philosophy/bsd.html\">aglomera "
+#~ "licenças que têm diferenças importantes</a>. Por exemplo, a licença BSD "
+#~ "original possui uma cláusula advertindo que é incompatível com a GNU "
+#~ "General Public License, mas a licença BSD revisada é compatível com a GPL."
+
+#~ msgid ""
+#~ "The term &ldquo;cloud computing&rdquo; (or just <a name=\"Cloud\">&ldquo;"
+#~ "cloud&rdquo;</a>, in the context of computing) is a marketing buzzword "
+#~ "with no coherent meaning.  It is used for a range of different activities "
+#~ "whose only common characteristic is that they use the Internet for "
+#~ "something beyond transmitting files.  Thus, the term spreads confusion.  "
+#~ "If you base your thinking on it, your thinking will be confused."
+#~ msgstr ""
+#~ "O termo &ldquo;computação em nuvem&rdquo; (ou simplesmente <a name=\"Cloud"
+#~ "\">&ldquo;nuvem&rdquo;</a>, no contexto da computação) é uma palavra da "
+#~ "moda sem qualquer sentido coerente. Ela é usada para designar uma série "
+#~ "de atividades diferentes cuja única característica comum é usar a  "
+#~ "Internet para algo além da transmissão de arquivos. Portanto, o termo "
+#~ "promove a confusão. Se você pensar baseando-se nela, seu pensamento será "
+#~ "confundido."
+
+#~ msgid ""
+#~ "When thinking about or responding to a statement someone else has made "
+#~ "using this term, the first step is to clarify the topic.  What scenario "
+#~ "is the statement about? What is a good, clear term for that scenario? "
+#~ "Once the topic is clearly formulated, coherent discussion is possible."
+#~ msgstr ""
+#~ "Quando estiver respondendo a alguém que usou esse termo, o primeiro passo "
+#~ "é esclarecer o assunto. Sobre qual cenário ela estava falando? Qual é um "
+#~ "termo bom e claro para esse cenário? Uma vez que o tópico esteja "
+#~ "claramente formulado, uma discussão coerente é possível."
+
+#~ msgid ""
+#~ "Curiously, Larry Ellison, a proprietary software developer, also <a href="
+#~ "\"http://news.cnet.com/8301-13953_3-10052188-80.html\"> noted the vacuity "
+#~ "of the term &ldquo;cloud computing.&rdquo;</a> He decided to use the term "
+#~ "anyway because, as a proprietary software developer, he isn't motivated "
+#~ "by the same ideals as we are."
+#~ msgstr ""
+#~ "Curiosamente, Larry Ellison, um desenvolvedor de software proprietário, "
+#~ "também <a href=\"http://news.cnet.com/8301-13953_3-10052188-80.html"
+#~ "\">notou a vacuidade do termo &ldquo;computação em nuvem.&rdquo;</a> Ele "
+#~ "decidiu usar o termo mesmo assim, pois, como um desenvolvedor de software "
+#~ "proprietário, ele não é motivado pelos mesmos ideais que nós."
+
+#~ msgid ""
+#~ "The term &ldquo;consume&rdquo; is associated with the economics of "
+#~ "uncopiable material products, and leads people to transfer its "
+#~ "conclusions unconsciously to copiable digital works &mdash; an error that "
+#~ "proprietary software developers (and other publishers) dearly wish to "
+#~ "encourage.  Their twisted viewpoint comes through clearly in <a href="
+#~ "\"http://www.businessinsider.com/former-google-exec-launches-sourcepoint-"
+#~ "with-10-million-series-a-funding-2015-6\">this article</a>, which also "
+#~ "refers to publications as &ldquo;<a href=\"#Content\">content</a>.&rdquo;"
+#~ msgstr ""
+#~ "O termo “consumo” está associado com a economia de produtos materiais não-"
+#~ "copiáveis, e leva as pessoas a transferir inconscientemente as suas "
+#~ "conclusões para as obras digitais copiáveis — um erro que desenvolvedores "
+#~ "de software privativo (e outros editores) encarecidamente desejam "
+#~ "encorajar.  Este ponto de vista distorcido aparece claramente <a href="
+#~ "\"http://www.businessinsider.com/former-google-exec-launches-sourcepoint-"
+#~ "with-10-million-series-a-funding-2015-6\">neste artigo</a>, que também se "
+#~ "refere a publicações como “<a href=\"#Content\">conteúdo</a>”."
+
+#~ msgid ""
+#~ "Those who use the term &ldquo;content&rdquo; are often the publishers "
+#~ "that push for increased copyright power in the name of the authors "
+#~ "(&ldquo;creators,&rdquo; as they say) of the works.  The term &ldquo;"
+#~ "content&rdquo; reveals their real attitude towards these works and their "
+#~ "authors.  (See <a href=\"http://archive.salon.com/tech/feature/2000/06/14/"
+#~ "love/print.html\">Courtney Love's open letter to Steve Case</a> and "
+#~ "search for &ldquo;content provider&rdquo; in that page.  Alas, Ms. Love "
+#~ "is unaware that the term &ldquo;intellectual property&rdquo; is also <a "
+#~ "href=\"#IntellectualProperty\"> biased and confusing</a>.)"
+#~ msgstr ""
+#~ "Aqueles que usam o termo &ldquo;conteúdo&rdquo; são frequentemente as "
+#~ "editoras que pressionam por maior poder de copyright em nome dos autores "
+#~ "(&ldquo;criadores,&rdquo; como eles dizem) das obras. O termo &ldquo;"
+#~ "conteúdo&rdquo; revela sua verdadeira atitude perante esses trabalhos e "
+#~ "seus autores. (Veja <a href=\"http://archive.salon.com/tech/"
+#~ "feature/2000/06/14/love/print.html\">a carta aberta de Courtney Love para "
+#~ "Steve Case</a> e busque por &ldquo;content provider&rdquo; na página. É "
+#~ "uma pena que a senhora Love não saiba que o termo &ldquo;propriedade "
+#~ "intelectual&rdquo; também é <a href=\"#IntellectualProperty\">enviesado e "
+#~ "confuso</a>.)"
+
+#~ msgid ""
+#~ "Please avoid using the term &ldquo;google&rdquo; as a verb, meaning to "
+#~ "search for something on the internet. &ldquo;Google&rdquo; is just the "
+#~ "name of one particular search engine among others. We suggest to use the "
+#~ "term &ldquo;web search&rdquo; instead. Try to use a search engine that "
+#~ "respects your privacy; <a href=\"https://duckduckgo.com/\">DuckDuckGo</a> "
+#~ "claims not to track its users, although we cannot confirm."
+#~ msgstr ""
+#~ "Por favor, evite usar o termo “google” como um verbo, com o significado "
+#~ "de procurar algo na internet.  “Google” é apenas o nome de um determinado "
+#~ "mecanismo de pesquisa dentre outros.  Em vez disso, sugerimos usar o "
+#~ "termo “pesquisa na web”.  Tente usar um motor de busca que respeite sua "
+#~ "privacidade; <a href=\"https://duckduckgo.com/\">DuckDuckGo</a> alega não "
+#~ "rastrear seus usuários, embora não possamos confirmar."
+
+#~ msgid ""
+#~ "But the free software movement is a social movement, not a business, and "
+#~ "the success it aims for is not a market success.  We are trying to serve "
+#~ "the public by giving it freedom&mdash;not competing to draw business away "
+#~ "from a rival.  To equate this campaign for freedom to a business' efforts "
+#~ "for mere success is to deny the importance of freedom and legitimize "
+#~ "proprietary software."
+#~ msgstr ""
+#~ "Mas o movimento do software livre é um movimento social, não um negócio, "
+#~ "e o sucesso que ele busca não é um sucesso de mercado. Estamos tentando "
+#~ "servir o público dando liberdade a ele &mdash; não competindo para tirar "
+#~ "negócios de um rival. Equiparar essa campanha pelo software livre com "
+#~ "esforços de uma empresa para atingir mero sucesso é negar a importância "
+#~ "da liberdade e legitimar o software proprietário."
+
+#~ msgid ""
+#~ "Please avoid using the term &ldquo;open&rdquo; or &ldquo;open "
+#~ "source&rdquo; as a substitute for &ldquo;free software.&rdquo; Those "
+#~ "terms refer to a <a href=\"/philosophy/open-source-misses-the-point.html"
+#~ "\"> different position</a> based on different values.  Free software is a "
+#~ "political movement; open source is a development model.  When referring "
+#~ "to the open source position, using its name is appropriate; but please do "
+#~ "not use it to label us or our work&mdash;that leads people to think we "
+#~ "share those views."
+#~ msgstr ""
+#~ "Por favor, evite usar o termo &ldquo;aberto&rdquo; ou &ldquo;código "
+#~ "aberto&rdquo; como substitutos para &ldquo;software livre.&rdquo; Esses "
+#~ "termos referem a uma <a href=\"/philosophy/open-source-misses-the-point."
+#~ "html\">opinião diferente</a>, baseada em valores diferentes. O software "
+#~ "livre é um movimento político; o código aberto é um modelo de "
+#~ "desenvolvimento. Quando estiver referindo à posicionamento do código "
+#~ "aberto, o uso de seu nome é apropriado; mas, por favor, não o use para "
+#~ "classificar a nós ou ao nosso trabalho &mdash; isso leva as pessoas a "
+#~ "pensarem que compartilhamos daqueles pontos de vista."
+
+#~ msgid ""
+#~ "In Spanish we continue to use the term &ldquo;software como "
+#~ "servicio&rdquo; because the joke of &ldquo;software como ser vicio&rdquo; "
+#~ "is too good to give up."
+#~ msgstr ""
+#~ "Em espanhol, continuamos a usar o termo &ldquo;software como servicio,"
+#~ "&rdquo; porque a piada &ldquo;software como ser vicio&rdquo; é boa demais "
+#~ "para ser perdida."
+
+#~ msgid ""
+#~ "Please avoid using the term &ldquo;Skype&rdquo; as a verb, meaning any "
+#~ "kind of video communication or telephony over the Internet in general.  "
+#~ "&ldquo;Skype&rdquo; is just the name of one particular proprietary "
+#~ "program, one that <a href=\"/philosophy/proprietary/proprietary-"
+#~ "surveillance.html#SpywareInSkype\"> spies on its users</a>. If you want "
+#~ "to make video and voice calls over the Internet in a way that respects "
+#~ "both your freedom and your privacy, try one of the <a href=\"https://"
+#~ "libreplanet.org/wiki/Group:Skype_Replacement\"> numerous free Skype "
+#~ "replacements</a>."
+#~ msgstr ""
+#~ "Por favor, evite usar o termo “Skype” como um verbo que significa fazer "
+#~ "qualquer tipo de chamada telefônica ou de vídeo pela Internet.  “Skype” é "
+#~ "apenas o nome de um programa privativo em particular, um que <a href=\"/"
+#~ "philosophy/proprietary/proprietary-surveillance.html#SpywareInSkype"
+#~ "\">espiona seus usuários</a>.  Se você quiser fazer chamadas de voz e "
+#~ "vídeo através da Internet de uma forma que respeite tanto sua liberdade "
+#~ "quanto sua privacidade, experimente um dos <a href=\"https://libreplanet."
+#~ "org/wiki/Group:Skype_Replacement\">inúmeros substitutos livres do Skype</"
+#~ "a>."
+
+#~ msgid ""
+#~ "The term &ldquo;industry&rdquo; is being used as propaganda by advocates "
+#~ "of software patents.  They call software development &ldquo;"
+#~ "industry&rdquo; and then try to argue that this means it should be "
+#~ "subject to patent monopolies.  <a href=\"http://web.archive.org/"
+#~ "web/20071222001014/http://www.swpat.ffii.org/papers/europarl0309/\" title="
+#~ "\"archived version of http://swpat.ffii.org/papers/europarl0309/\"> The "
+#~ "European Parliament, rejecting software patents in 2003, voted to define "
+#~ "&ldquo;industry&rdquo; as &ldquo;automated production of material goods."
+#~ "&rdquo;</a>"
+#~ msgstr ""
+#~ "O termo &ldquo;indústria&rdquo; está sendo usado como propaganda pelos "
+#~ "defensores das patentes de software. Eles chamam o desenvolvimento de "
+#~ "software de uma &ldquo;indústria&rdquo; e então tentam argumentar que "
+#~ "isso significa que ele deveria estar sujeito aos monopólios de patentes. "
+#~ "<a href=\"http://web.archive.org/web/20071222001014/http://www.swpat.ffii."
+#~ "org/papers/europarl0309/\" title=\"versão arquivada de http://swpat.ffii."
+#~ "org/papers/europarl0309/\">O Parlamento Europeu, ao rejeitar as patentes "
+#~ "de software em 2003, votou a definição de &ldquo;indústria&rdquo; como "
+#~ "&ldquo;produção automatizada de bens materiais.&rdquo;</a>"
+
+#~ msgid ""
+#~ "Copyright &copy; 1996, 1997, 1998, 1999, 2001, 2002, 2003, 2004, 2007, "
+#~ "2008, 2009, 2010, 2011, 2012, 2015 Free Software Foundation, Inc."
+#~ msgstr ""
+#~ "Copyright &copy; 1996, 1997, 1998, 1999, 2001, 2002, 2003, 2004, 2007, "
+#~ "2008, 2009, 2010, 2011, 2012, 2015 Free Software Foundation, Inc."
 
 #~ msgid ""
 #~ "&ldquo;Consume&rdquo; refers to what we do with food: we ingest it, and "

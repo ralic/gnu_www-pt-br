@@ -79,6 +79,14 @@ msgstr ""
 "destravado, mas receia tentar consegui-lo através de um método proibido. "
 "Isso refuta a ideia de que usuários prefiram dispositivos travados."
 
+# | It is true that a general computer lets you run programs designed to
+# | [-spy-] {+<a href=\"/philosophy/proprietary.html\">spy+} on you, restrict
+# | you, or even let the developer attack [-you.-] {+you</a>.+}  Such programs
+# | include KaZaA, RealPlayer, Adobe [-Flash,-] {+Flash Player,+} Windows
+# | Media Player, Microsoft Windows, and MacOS.  Windows Vista does all three
+# | of those things; it also lets Microsoft change the software without
+# | asking, or command it to permanently cease normal [-functioning.-]
+# | {+functioning.<a href=\"#note1\">(1)</a>+}
 #. type: Content of: <p>
 #, fuzzy
 #| msgid ""

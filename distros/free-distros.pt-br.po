@@ -10,7 +10,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: free-distros.html\n"
-"POT-Creation-Date: 2015-07-11 14:28+0000\n"
+"POT-Creation-Date: 2016-05-12 18:25+0000\n"
 "PO-Revision-Date: 2014-12-20 17:12-0200\n"
 "Last-Translator: Yuri da Silva <yuri.silva.31.charles AT gmail.com>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -133,6 +133,11 @@ msgid ""
 "than starting a new one."
 msgstr ""
 
+# | <strong>All of the distributions that follow are installable to a
+# | computer's hard [-drive and-] {+drive;+} most can be run [-live.</strong>
+# | They are listed-] {+live.  Not all hardware works+} in [-alphabetical
+# | order.-] {+the free world; each distro's site should say which hardware it
+# | supports.</strong>+}
 #. type: Content of: <p>
 #, fuzzy
 #| msgid ""
@@ -148,6 +153,12 @@ msgstr ""
 "disco rígido e muitas delas operam sem a necessidade de instalação.</strong> "
 "Elas estão organizadas em ordem alfabética."
 
+# | We {+endorse these distros only for freedom.  We+} do not try to judge or
+# | compare these distros based on any [-criterion-] other [-than freedom;-]
+# | {+criterion;+} therefore, we list them in alphabetical order.  We
+# | [-encourage-] {+suggest+} you [-to read these brief descriptions and to-]
+# | consult their respective web sites and other information to [-choose the-]
+# | {+judge which+} one [-best-] {+is most convenient+} for you.
 #. type: Content of: <p>
 #, fuzzy
 #| msgid ""
@@ -191,9 +202,12 @@ msgstr "</a>"
 msgid "BLAG Linux and GNU, a GNU/Linux distribution based on Fedora."
 msgstr "BLAG Linux e GNU, uma distribuição de GNU/Linux baseada no Fedora."
 
+# | <a [-href=\"http://librewrt.org/\">-] {+href=\"http://dragora.org\">+}
 #. type: Content of: <table><tr><td><a>
-msgid "<a href=\"http://www.dragora.org/en/index.html\">"
-msgstr "<a href=\"http://www.dragora.org/\">"
+#, fuzzy
+#| msgid "<a href=\"http://librewrt.org/\">"
+msgid "<a href=\"http://dragora.org\">"
+msgstr "<a href=\"http://librewrt.org/\">"
 
 #. type: Attribute 'alt' of: <table><tr><td><a><img>
 msgid "Dragora"
@@ -346,6 +360,9 @@ msgstr "<a href=\"http://librecmc.org/\">"
 msgid "libreCMC"
 msgstr "libreCMC"
 
+# | libreCMC is an embedded GNU/Linux distro for devices with very limited
+# | resources. While primarily targeting routers, it offers support for a wide
+# | range of devices and use cases. {+In 2015, LibreWRT merged with libreCMC.+}
 #. type: Content of: <table><tr><td>
 #, fuzzy
 #| msgid ""
@@ -361,6 +378,7 @@ msgstr ""
 "recursos bastante limitados. Mesmo que seja designado para roteadores, ela "
 "oferece suporte a vários dispositivos e usos."
 
+# | <a [-href=\"http://librecmc.org/\">-] {+href=\"http://proteanos.com/\">+}
 #. type: Content of: <table><tr><td><a>
 #, fuzzy
 #| msgid "<a href=\"http://librecmc.org/\">"
@@ -445,6 +463,14 @@ msgstr ""
 "favor, fale aos mantenedores da distribuição sobre essa página e encoraje-os "
 "a nos contatar — nós gostaríamos de ouvi-los."
 
+# | If you maintain a distribution that follows the <a
+# | href=\"/distros/free-system-distribution-guidelines.html\">Free System
+# | Distribution Guidelines</a> and would like to be listed here, please write
+# | to [-us at-] <a
+# | href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a> with an
+# | introduction and a link to the project Web site.  When you do, we'll
+# | explain more about our evaluation process to you, and get started on it
+# | quickly.  We look forward to hearing from you!
 #. type: Content of: <p>
 #, fuzzy
 #| msgid ""
@@ -458,9 +484,9 @@ msgstr ""
 msgid ""
 "If you maintain a distribution that follows the <a href=\"/distros/free-"
 "system-distribution-guidelines.html\">Free System Distribution Guidelines</"
-"a> and would like to be listed here, please write to us at <a href=\"mailto:"
-"licensing@fsf.org\">&lt;licensing@fsf.org&gt;</a> with an introduction and a "
-"link to the project Web site.  When you do, we'll explain more about our "
+"a> and would like to be listed here, please write to <a href=\"mailto:"
+"webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a> with an introduction and "
+"a link to the project Web site.  When you do, we'll explain more about our "
 "evaluation process to you, and get started on it quickly.  We look forward "
 "to hearing from you!"
 msgstr ""
@@ -516,14 +542,19 @@ msgstr ""
 "\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
 "envio de traduções das páginas desse site."
 
-# | Copyright &copy; [-2011, 2012-] {+2014, 2015+} Free Software Foundation,
+# | Copyright &copy; 2014, [-2015-] {+2015, 2016+} Free Software Foundation,
 # | Inc.
 #. type: Content of: <div><p>
 #, fuzzy
-#| msgid "Copyright &copy; 2011, 2012 Free Software Foundation, Inc."
-msgid "Copyright &copy; 2014, 2015 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2011, 2012 Free Software Foundation, Inc."
+#| msgid "Copyright &copy; 2014, 2015 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2014, 2015, 2016 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2014, 2015 Free Software Foundation, Inc."
 
+# | This page is licensed under a <a rel=\"license\"
+# | [-href=\"http://creativecommons.org/licenses/by-nd/3.0/us/\">Creative-]
+# | {+href=\"http://creativecommons.org/licenses/by-nd/4.0/\">Creative+}
+# | Commons [-Attribution-NoDerivs 3.0 United States-]
+# | {+Attribution-NoDerivatives 4.0 International+} License</a>.
 #. type: Content of: <div><p>
 #, fuzzy
 #| msgid ""
@@ -552,6 +583,38 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização: "
+
+#~ msgid "<a href=\"http://www.dragora.org/en/index.html\">"
+#~ msgstr "<a href=\"http://www.dragora.org/\">"
+
+#, fuzzy
+#~| msgid ""
+#~| "If you maintain a distribution that follows the <a href=\"/distros/free-"
+#~| "system-distribution-guidelines.html\">Free System Distribution "
+#~| "Guidelines</a> and would like to be listed here, please write to us at "
+#~| "<a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a> "
+#~| "with an introduction and a link to the project Web site.  When you do, "
+#~| "we'll explain more about our evaluation process to you, and get started "
+#~| "on it quickly.  We look forward to hearing from you!"
+#~ msgid ""
+#~ "If you maintain a distribution that follows the <a href=\"/distros/free-"
+#~ "system-distribution-guidelines.html\">Free System Distribution "
+#~ "Guidelines</a> and would like to be listed here, please write to us at <a "
+#~ "href=\"mailto:licensing@fsf.org\">&lt;licensing@fsf.org&gt;</a> with an "
+#~ "introduction and a link to the project Web site.  When you do, we'll "
+#~ "explain more about our evaluation process to you, and get started on it "
+#~ "quickly.  We look forward to hearing from you!"
+#~ msgstr ""
+#~ "Se você mantém uma distribuição que segue as <a href=\"/distros/free-"
+#~ "system-distribution-guidelines.html\">Diretrizes de Distribuição de "
+#~ "Sistemas Livres</a> e gostaria que a distribuição fosse listada aqui, por "
+#~ "favor escreva-nos para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+#~ "webmasters@gnu.org&gt;</a>"
+
+#, fuzzy
+#~| msgid "Copyright &copy; 2011, 2012 Free Software Foundation, Inc."
+#~ msgid "Copyright &copy; 2014, 2015 Free Software Foundation, Inc."
+#~ msgstr "Copyright &copy; 2011, 2012 Free Software Foundation, Inc."
 
 #~ msgid ""
 #~ "We hope other distributions will become entirely free and that some day "

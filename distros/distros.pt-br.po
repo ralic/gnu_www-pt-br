@@ -81,6 +81,7 @@ msgstr ""
 "Linux livre, sugerimos que você se junte ao desenvolvimento de uma distro "
 "livre existente, ao invés de criar a sua própria."
 
+# | Free [-GNU/Linux-] {+Non-GNU+} Distros
 #. type: Content of: <h3>
 #, fuzzy
 #| msgid "Free GNU/Linux Distros"
@@ -94,6 +95,9 @@ msgid ""
 "ethical criteria that we apply to GNU/Linux distros."
 msgstr ""
 
+# | <a [-href=\"/distros/free-distros.html\">-]
+# | {+href=\"/distros/free-non-gnu-distros.html\">+} Free [-GNU/Linux-]
+# | {+Non-GNU+} distributions</a>.
 #. type: Content of: <p>
 #, fuzzy
 #| msgid ""
@@ -104,6 +108,11 @@ msgid ""
 msgstr ""
 "<a href=\"/distros/free-distros.html\"> Distribuições GNU/Linux livres</a>."
 
+# | All of these existing distros could use more development help.  Thus, if
+# | you want to make an effective contribution [-to free GNU/Linux
+# | distributions,-] {+in this area,+} we suggest that you join the
+# | development of an existing free distro rather that starting a new free
+# | distro.
 #. type: Content of: <p>
 #, fuzzy
 #| msgid ""
@@ -312,6 +321,8 @@ msgstr ""
 "\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
 "envio de traduções das páginas desse site."
 
+# | Copyright &copy; [-2011, 2012-] {+2014, 2015+} Free Software Foundation,
+# | Inc.
 #. type: Content of: <div><p>
 #, fuzzy
 #| msgid "Copyright &copy; 2011, 2012 Free Software Foundation, Inc."

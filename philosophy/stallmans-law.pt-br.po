@@ -24,6 +24,9 @@ msgstr "A Lei de Stallman - Projeto GNU - Free Software Foundation"
 msgid "Stallman's Law"
 msgstr "A Lei de Stallman"
 
+# | While corporations dominate society and write the laws, each advance {+or
+# | change+} in technology is an opening for them to further restrict {+or
+# | mistreat+} its users.
 #. type: Content of: <p>
 #, fuzzy
 #| msgid ""

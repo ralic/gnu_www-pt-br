@@ -734,6 +734,11 @@ msgstr ""
 "       return sqrt (xdist * xdist + ydist * ydist);\n"
 "     }\n"
 
+# | [-Here-]{+Precisely what that source code means+} is {+not+} the {+point;
+# | the point is that it looks like algebra, and a person who knows this
+# | programming language will find it meaningful and clear.  By contrast, here
+# | is+} same program in executable form, on the computer I normally used when
+# | I wrote this:
 #. type: Content of: <p>
 #, fuzzy
 #| msgid ""

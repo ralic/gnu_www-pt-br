@@ -32,6 +32,9 @@ msgstr ""
 msgid "Motives For Writing Free Software"
 msgstr "Motivos para Escrever Software Livre"
 
+# | [-These-]{+Don't make the mistake of supposing that all software
+# | development has one simple motive.  Here+} are some of the motives [-for
+# | writing-] {+we know influence many people to write+} free software.
 #. type: Content of: <p>
 #, fuzzy
 #| msgid "These are some of the motives for writing free software."
@@ -144,6 +147,18 @@ msgstr ""
 msgid "Hatred for Microsoft"
 msgstr "Ódio pela Microsoft"
 
+# | It is a mistake [-to-] {+<a href=\"/philosophy/microsoft.html\">to+} focus
+# | our criticism [-<a href=\"/philosophy/microsoft.html\">narrowly-]
+# | {+narrowly+} on Microsoft</a>.  Indeed, Microsoft is evil, since it makes
+# | non[---]free software.  Even worse, it [-implements-] {+is often+} <a
+# | [-href=\"http://DefectiveByDesign.org\">Digital Restrictions
+# | Management</a>-]
+# | {+href=\"/philosophy/proprietary/malware-microsoft.html\"> malware</a>+}
+# | in [-that software.  But-] {+various ways including <a
+# | href=\"http://DefectiveByDesign.org\">DRM</a>.  However,+} many other
+# | companies do [-one or both-] {+these things, and the nastiest enemy+} of
+# | [-these.-] {+our freedom nowadays is <a
+# | href=\"/philosophy/proprietary/malware-apple.html\">Apple</a>.+}
 #. type: Content of: <dl><dd>
 #, fuzzy
 #| msgid ""

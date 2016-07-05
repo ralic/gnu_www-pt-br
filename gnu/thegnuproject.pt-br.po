@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: thegnuproject.html\n"
-"POT-Creation-Date: 2014-05-14 21:55+0000\n"
+"POT-Creation-Date: 2015-12-01 06:25+0000\n"
 "PO-Revision-Date: 2015-09-11 21:29-0300\n"
 "Last-Translator: Bruno Félix Rezende Ribeiro <oitofelix@gnu.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -48,10 +48,19 @@ msgstr ""
 "do “código aberto”</a>, mas contribuiu com este artigo para que as ideias do "
 "movimento de software livre não fossem totalmente ausente daquele livro."
 
+# | Why it is even more important than ever <a
+# | [-href=\"/philosophy/free-software-even-more-important.html\">insist-]
+# | {+href=\"/philosophy/free-software-even-more-important.html\">to insist+}
+# | that the software we use be free</a>.
 #. type: Content of: <blockquote><p>
+#, fuzzy
+#| msgid ""
+#| "Why it is even more important than ever <a href=\"/philosophy/free-"
+#| "software-even-more-important.html\">insist that the software we use be "
+#| "free</a>."
 msgid ""
 "Why it is even more important than ever <a href=\"/philosophy/free-software-"
-"even-more-important.html\">insist that the software we use be free</a>."
+"even-more-important.html\">to insist that the software we use be free</a>."
 msgstr ""
 "Por que é mais importante do que nunca <a href=\"/philosophy/free-software-"
 "even-more-important.html\">insistir que o software que usamos seja livre</a>."
@@ -2258,23 +2267,35 @@ msgstr ""
 "\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
 "envio de traduções das páginas desse site."
 
+# | Copyright &copy; 1998, 2001, 2002, 2005, 2006, 2007, 2008, 2010, [-2014-]
+# | {+2014, 2015+} Richard Stallman
 #. type: Content of: <div><p>
+#, fuzzy
+#| msgid ""
+#| "Copyright &copy; 1998, 2001, 2002, 2005, 2006, 2007, 2008, 2010, 2014 "
+#| "Richard Stallman"
 msgid ""
-"Copyright &copy; 1998, 2001, 2002, 2005, 2006, 2007, 2008, 2010, 2014 "
+"Copyright &copy; 1998, 2001, 2002, 2005, 2006, 2007, 2008, 2010, 2014, 2015 "
 "Richard Stallman"
 msgstr ""
 "Copyright &copy; 1998, 2001, 2002, 2005, 2006, 2007, 2008, 2010, 2014 "
 "Richard Stallman"
 
+# || No change detected.  The change might only be in amounts of spaces.
 #. type: Content of: <div><p>
+#, fuzzy
+#| msgid ""
+#| "This page is licensed under a <a rel=\"license\" href=\"http://"
+#| "creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+#| "NoDerivatives 4.0 International License</a>."
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-"NoDerivs 3.0 United States License</a>."
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
 msgstr ""
 "Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/deed.pt_BR\">Creative Commons "
-"Atribuição-SemDerivações 3.0 Estados Unidos</a>."
+"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 4.0 Internacional</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>
@@ -2289,3 +2310,19 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização: "
+
+#~ msgid ""
+#~ "Why it is even more important than ever <a href=\"/philosophy/free-"
+#~ "software-even-more-important.html\">insist that the software we use be "
+#~ "free</a>."
+#~ msgstr ""
+#~ "Por que é mais importante do que nunca <a href=\"/philosophy/free-"
+#~ "software-even-more-important.html\">insistir que o software que usamos "
+#~ "seja livre</a>."
+
+#~ msgid ""
+#~ "Copyright &copy; 1998, 2001, 2002, 2005, 2006, 2007, 2008, 2010, 2014 "
+#~ "Richard Stallman"
+#~ msgstr ""
+#~ "Copyright &copy; 1998, 2001, 2002, 2005, 2006, 2007, 2008, 2010, 2014 "
+#~ "Richard Stallman"

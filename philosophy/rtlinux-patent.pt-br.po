@@ -74,6 +74,10 @@ msgid ""
 "contributions to the free software community."
 msgstr ""
 
+# | {+Here is the previous announcement, which was the subject of our+} <a
+# | [-href=\"/press/2001-09-18-RTLinux.html\">A-]
+# | {+href=\"/press/2001-09-18-RTLinux.html\">18 September+} press [-release
+# | on this matter is also available.</a>-] {+release</a>.+}
 #. type: Content of: <p>
 #, fuzzy
 #| msgid ""
