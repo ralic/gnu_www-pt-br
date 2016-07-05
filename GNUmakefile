@@ -1,5 +1,6 @@
 # This is -*-makefile-gmake-*-, because we adore GNU make.
-# Copyright (C) 2008, 2009, 2010, 2011, 2012 Free Software Foundation, Inc.
+# Copyright (C) 2008, 2009, 2010, 2011, 2012,
+#   2014 Free Software Foundation, Inc.
 
 # This file is part of GNUnited Nations.
 
@@ -151,14 +152,17 @@ $(SVN) $(CVSQUIET) update
 endef
 
 .PHONY: all
-all: sync format notify
+all:
+	$(MAKE) $(MAKEFLAGS) sync && $(MAKE) $(MAKEFLAGS) format \
+&& $(MAKE) $(MAKEFLAGS) notify
 
 # Update the master and the team repositories.
-.PHONY: update
-update:
-ifeq ($(VCS),yes)
+.PHONY: update update-team update-www
+update: update-team update-www
+update-www:
 	@echo Updating the repositories...
 	cd $(wwwdir) && $(cvs-update)
+update-team:
 ifeq ($(REPO),CVS)
 	$(cvs-update)
 else ifeq ($(REPO),SVN)
@@ -173,9 +177,6 @@ else ifeq ($(REPO),Hg)
 	$(HG) pull --update $(QUIET)
 else ifeq ($(REPO),Arch)
 	$(TLA) update
-endif
-else
-	$(info Repositories were not updated, you might want "make VCS=yes".)
 endif
 
 # Synchronize (update) the PO files from the master POTs.
@@ -650,16 +651,22 @@ ifneq (,$(HAVE-EMAIL-ALIASES))
   case ",$$$$flags," in \
     *,force,* ) ;; \
     * ) \
-      grep : $(1).note &> /dev/null || notify=no; \
+      grep : $(1).note &> /dev/null \
+      || { notify=no; echo "Note: No files to work on for \`$(1)'."; } \
       ;; \
   esac; \
   case $$$$notify in \
     yes ) \
       timestamp=`head -n1 $(1).note | grep '^#'`; \
       if test "x$$$$timestamp" != x; then \
-        if test $$$$((`date +%s` - $$$${timestamp#?})) -lt $$$$period; then \
+        dt=$$$$((`date +%s` - $$$${timestamp#?})); \
+        if test $$$$dt -lt $$$$period; then \
           notify=no; \
+	  echo "Note: Elapsed time ($$$$dt) is less than \
+period ($$$$period) for \`$(1)'.";\
         fi; \
+      else \
+       echo "Note: New notification for \`$(1)'."; \
       fi; \
       ;; \
   esac; \
