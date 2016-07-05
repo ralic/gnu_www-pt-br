@@ -1,4 +1,4 @@
-# Brazilian Portuguese translations for http://www.gnu.org/doc/other-free-books.html
+# Brazilian Portuguese translation for http://www.gnu.org/doc/other-free-books.html
 # Copyright (C) 2012 Free Software Foundation, Inc.
 # This file is distributed under the same license as the gnu.org article.
 # Rafael Beraldo <rberaldo@cabaladada.org>, 2012.
