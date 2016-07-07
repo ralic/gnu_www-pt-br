@@ -10,15 +10,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: free-sw.html\n"
 "POT-Creation-Date: 2016-01-01 10:25+0000\n"
-<<<<<<< HEAD
 "PO-Revision-Date: 2016-07-04 15:30-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
-"Language-Team: Brazilian Portuguese\n"
-=======
-"PO-Revision-Date: 2012-11-23 00:53-0200\n"
-"Last-Translator: Rafael Ferreira <rafael.f.f1@gmail.com>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
->>>>>>> 0482f9d20c528e821288684e769c5422edcc4d02
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -74,22 +68,7 @@ msgstr ""
 "Histórico</a> abaixo para uma lista de mudanças que afetam a definição de "
 "software livre."
 
-# | &ldquo;Free software&rdquo; means software that respects users' freedom
-# | and community.  Roughly, {+it means that+} <b>the users have the freedom
-# | to run, copy, distribute, study, change and improve the software</b>. 
-# | Thus, &ldquo;free software&rdquo; is a matter of liberty, not price.  To
-# | understand the concept, you should think of &ldquo;free&rdquo; as in
-# | &ldquo;free speech,&rdquo; not as in &ldquo;free beer&rdquo;.  {+We
-# | sometimes call it &ldquo;libre software&rdquo; to show we do not mean it
-# | is gratis.+}
 #. type: Content of: <p>
-#| msgid ""
-#| "&ldquo;Free software&rdquo; means software that respects users' freedom "
-#| "and community.  Roughly, <b>the users have the freedom to run, copy, "
-#| "distribute, study, change and improve the software</b>. Thus, &ldquo;free "
-#| "software&rdquo; is a matter of liberty, not price.  To understand the "
-#| "concept, you should think of &ldquo;free&rdquo; as in &ldquo;free speech,"
-#| "&rdquo; not as in &ldquo;free beer&rdquo;."
 msgid ""
 "&ldquo;Free software&rdquo; means software that respects users' freedom and "
 "community.  Roughly, it means that <b>the users have the freedom to run, "
@@ -100,38 +79,14 @@ msgid ""
 "libre software&rdquo; to show we do not mean it is gratis."
 msgstr ""
 "Por “software livre” devemos entender aquele software que respeita a "
-<<<<<<< HEAD
 "liberdade e senso de comunidade dos usuários. Grosso modo, isso significa "
 "que <b>os usuários possuem a liberdade de executar, copiar, distribuir, "
 "estudar, mudar e melhorar o software</b>. Assim sendo, “software livre” é "
 "uma questão de liberdade, não de preço. Para entender o conceito, pense em “"
 "liberdade de expressão”, não em “cerveja grátis”. Por vezes chamamos de “"
 "libre software” para mostrar que livre não significa a grátis."
-=======
-"liberdade e senso de comunidade dos usuários. Grosso modo, <b>os usuários "
-"possuem a liberdade de executar, copiar, distribuir, estudar, mudar e "
-"melhorar o software</b>. Assim sendo, “software livre” é uma questão de "
-"liberdade, não de preço. Para entender o conceito, pense em “liberdade de "
-"expressão”, não em “cerveja grátis”."
->>>>>>> 0482f9d20c528e821288684e769c5422edcc4d02
 
-# | {+We campaign for these freedoms because everyone deserves them.+}  With
-# | these freedoms, the users (both individually and collectively) control the
-# | program and what it does for them.  When users don't control the program,
-# | [-the-] {+we call it a &ldquo;nonfree&rdquo; or &ldquo;proprietary&rdquo;
-# | program.  The nonfree+} program controls the [-users.  The-] {+users, and
-# | the+} developer controls the [-program, and through it controls-]
-# | {+program; this makes+} the [-users.  This nonfree or
-# | &ldquo;proprietary&rdquo;-] program [-is therefore-] {+<a
-# | href=\"/philosophy/free-software-even-more-important.html\">+} an
-# | instrument of unjust [-power.-] {+power</a>.+}
 #. type: Content of: <p>
-#| msgid ""
-#| "With these freedoms, the users (both individually and collectively) "
-#| "control the program and what it does for them. When users don't control "
-#| "the program, the program controls the users.  The developer controls the "
-#| "program, and through it controls the users.  This nonfree or &ldquo;"
-#| "proprietary&rdquo; program is therefore an instrument of unjust power."
 msgid ""
 "We campaign for these freedoms because everyone deserves them.  With these "
 "freedoms, the users (both individually and collectively) control the program "
@@ -230,21 +185,7 @@ msgstr ""
 "O resto dessa página clarifica certos pontos sobre o que faz liberdades "
 "específicas adequadas ou não."
 
-# | [-A program is free software if users have all of these freedoms. 
-# | Thus,-]{+Freedom to distribute (freedoms 2 and 3) means+} you [-should
-# | be-] {+are+} free to redistribute copies, either with or without
-# | modifications, either gratis or charging a fee for distribution, to <a
-# | href=\"#exportcontrol\">anyone anywhere</a>.  Being free to do these
-# | things means (among other things) that you do not have to ask or pay for
-# | permission to do so.
 #. type: Content of: <p>
-#| msgid ""
-#| "A program is free software if users have all of these freedoms.  Thus, "
-#| "you should be free to redistribute copies, either with or without "
-#| "modifications, either gratis or charging a fee for distribution, to <a "
-#| "href=\"#exportcontrol\">anyone anywhere</a>.  Being free to do these "
-#| "things means (among other things) that you do not have to ask or pay for "
-#| "permission to do so."
 msgid ""
 "Freedom to distribute (freedoms 2 and 3) means you are free to redistribute "
 "copies, either with or without modifications, either gratis or charging a "
@@ -335,25 +276,7 @@ msgstr ""
 "necessária para o software livre. Código-fonte “obscurecido” não é código-"
 "fonte real e não conta como código-fonte."
 
-# | Freedom 1 includes the freedom to use your changed version in place of the
-# | original.  If the program is delivered in a product designed to run
-# | someone else's modified versions but refuse to run yours &mdash; a
-# | practice known as &ldquo;tivoization&rdquo; or &ldquo;lockdown&rdquo;, or
-# | (in its practitioners' perverse terminology) as &ldquo;secure boot&rdquo;
-# | &mdash; freedom 1 becomes [-a theoretical fiction-] {+an empty pretense+}
-# | rather than a practical [-freedom.  This is not sufficient.  In other
-# | words, these-] {+reality.  These+} binaries are not free software even if
-# | the source code they are compiled from is free.
 #. type: Content of: <p>
-#| msgid ""
-#| "Freedom 1 includes the freedom to use your changed version in place of "
-#| "the original.  If the program is delivered in a product designed to run "
-#| "someone else's modified versions but refuse to run yours &mdash; a "
-#| "practice known as &ldquo;tivoization&rdquo; or &ldquo;lockdown&rdquo;, or "
-#| "(in its practitioners' perverse terminology) as &ldquo;secure boot&rdquo; "
-#| "&mdash; freedom 1 becomes a theoretical fiction rather than a practical "
-#| "freedom.  This is not sufficient.  In other words, these binaries are not "
-#| "free software even if the source code they are compiled from is free."
 msgid ""
 "Freedom 1 includes the freedom to use your changed version in place of the "
 "original.  If the program is delivered in a product designed to run someone "
@@ -432,31 +355,7 @@ msgstr ""
 "centrais de outras pessoas. Essa regra não entra em conflito com as "
 "liberdade centrais; na verdade, ela as protege."
 
-# | In the GNU project, we use [-<a
-# | href=\"/copyleft/copyleft.html\">copyleft</a>-] {+copyleft+} to protect
-# | [-these-] {+the four+} freedoms legally for everyone.  [-But <a
-# | href=\"/philosophy/categories.html#Non-CopyleftedFreeSoftware\">noncopylefted
-# | free software</a> also exists.-]  We believe there are important reasons
-# | why <a href=\"/philosophy/pragmatic.html\">it is better to use
-# | [-copyleft</a>, but if your program is-] {+copyleft</a>.  However, <a
-# | href=\"/philosophy/categories.html#Non-CopyleftedFreeSoftware\">+}
-# | noncopylefted free [-software, it-] {+software</a>+} is [-still basically
-# | ethical. (See-] {+ethical too.  See+} <a
-# | href=\"/philosophy/categories.html\">Categories of Free Software</a> for a
-# | description of how &ldquo;free software,&rdquo; &ldquo;copylefted
-# | software&rdquo; and other categories of software relate to each other.[-)-]
 #. type: Content of: <p>
-#| msgid ""
-#| "In the GNU project, we use <a href=\"/copyleft/copyleft.html\">copyleft</"
-#| "a> to protect these freedoms legally for everyone.  But <a href=\"/"
-#| "philosophy/categories.html#Non-CopyleftedFreeSoftware\">noncopylefted "
-#| "free software</a> also exists.  We believe there are important reasons "
-#| "why <a href=\"/philosophy/pragmatic.html\">it is better to use copyleft</"
-#| "a>, but if your program is noncopylefted free software, it is still "
-#| "basically ethical. (See <a href=\"/philosophy/categories.html"
-#| "\">Categories of Free Software</a> for a description of how &ldquo;free "
-#| "software,&rdquo; &ldquo;copylefted software&rdquo; and other categories "
-#| "of software relate to each other.)"
 msgid ""
 "In the GNU project, we use copyleft to protect the four freedoms legally for "
 "everyone.  We believe there are important reasons why <a href=\"/philosophy/"
@@ -565,26 +464,7 @@ msgstr ""
 "requerimento é aceitável apenas quando existe uma maneira de especificar um "
 "nome substituto, de modo que o programa modificado possa ser invocado."
 
-# | Sometimes government <a id=\"exportcontrol\">export control
-# | regulations</a> and trade sanctions can constrain your freedom to
-# | distribute copies of programs internationally.  Software developers do not
-# | have the power to eliminate or override these restrictions, but what they
-# | can and must do is refuse to impose them as conditions of use of the
-# | program.  In this way, the restrictions will not affect activities and
-# | people outside the jurisdictions of these governments.  Thus, free
-# | software licenses must not require obedience to any {+nontrivial+} export
-# | regulations as a condition of {+exercising+} any of the essential freedoms.
 #. type: Content of: <p>
-#| msgid ""
-#| "Sometimes government <a id=\"exportcontrol\">export control regulations</"
-#| "a> and trade sanctions can constrain your freedom to distribute copies of "
-#| "programs internationally.  Software developers do not have the power to "
-#| "eliminate or override these restrictions, but what they can and must do "
-#| "is refuse to impose them as conditions of use of the program.  In this "
-#| "way, the restrictions will not affect activities and people outside the "
-#| "jurisdictions of these governments.  Thus, free software licenses must "
-#| "not require obedience to any export regulations as a condition of any of "
-#| "the essential freedoms."
 msgid ""
 "Sometimes government <a id=\"exportcontrol\">export control regulations</a> "
 "and trade sanctions can constrain your freedom to distribute copies of "
@@ -808,25 +688,7 @@ msgstr ""
 msgid "Open Source?"
 msgstr "Código Aberto?"
 
-# | Another group [-has started using-] {+uses+} the term &ldquo;open
-# | source&rdquo; to mean something close (but not identical) to &ldquo;free
-# | software&rdquo;.  We prefer the term &ldquo;free software&rdquo; because,
-# | once you have heard that it refers to freedom rather than price, it calls
-# | to mind freedom.  The word &ldquo;open&rdquo; <a
-# | href=\"/philosophy/open-source-misses-the-point.html\"> never refers to
-# | freedom</a>.
 #. type: Content of: <p>
-<<<<<<< HEAD
-=======
-#, fuzzy
->>>>>>> 0482f9d20c528e821288684e769c5422edcc4d02
-#| msgid ""
-#| "Another group has started using the term &ldquo;open source&rdquo; to "
-#| "mean something close (but not identical) to &ldquo;free software&rdquo;.  "
-#| "We prefer the term &ldquo;free software&rdquo; because, once you have "
-#| "heard that it refers to freedom rather than price, it calls to mind "
-#| "freedom.  The word &ldquo;open&rdquo; <a href=\"/philosophy/open-source-"
-#| "misses-the-point.html\"> never refers to freedom</a>."
 msgid ""
 "Another group uses the term &ldquo;open source&rdquo; to mean something "
 "close (but not identical) to &ldquo;free software&rdquo;.  We prefer the "
@@ -835,57 +697,27 @@ msgid ""
 "open&rdquo; <a href=\"/philosophy/open-source-misses-the-point.html\"> never "
 "refers to freedom</a>."
 msgstr ""
-<<<<<<< HEAD
 "Outro grupo usa o termo “código aberto” (do inglês <em>open source</em>) com "
 "um significado parecido (mas não idêntico) ao de “software livre”. Nós "
 "preferimos o termo “software livre” porque, uma vez que você tenha ouvido "
 "que ele se refere à liberdade ao invés do preço, ele traz à mente a "
 "liberdade. A palavra “aberto”  <a href=\"/philosophy/open-source-misses-the-"
 "point.html\">nunca se refere à liberdade</a>."
-=======
-"Outro grupo começou a usar o termo “código aberto” (do inglês <em>open "
-"source</em>) com um significado parecido (mas não idêntico) ao de “software "
-"livre”. Nós preferimos o termo “software livre” porque, uma vez que você "
-"tenha ouvido que ele se refere à liberdade ao invés do preço, ele traz à "
-"mente a liberdade. A palavra “aberto”  <a href=\"/philosophy/open-source-"
-"misses-the-point.html\">nunca se refere à liberdade</a>."
->>>>>>> 0482f9d20c528e821288684e769c5422edcc4d02
 
 #. type: Content of: <h3>
 msgid "History"
 msgstr "Histórico"
 
-# | From time to time we revise this Free Software Definition.  Here is the
-# | list of {+substantive+} changes, along with links to show exactly what was
-# | changed.
 #. type: Content of: <p>
-#| msgid ""
-#| "From time to time we revise this Free Software Definition.  Here is the "
-#| "list of changes, along with links to show exactly what was changed."
 msgid ""
 "From time to time we revise this Free Software Definition.  Here is the list "
 "of substantive changes, along with links to show exactly what was changed."
 msgstr ""
 "De tempos em tempos, revisamos essa Definição de Software Livre. Aqui está "
-<<<<<<< HEAD
 "uma lista de mudanças substanciais, juntamente com links para mostrar "
 "exatamente o que foi modificado."
-=======
-"uma lista de mudanças, juntamente com links para mostrar exatamente o que "
-"foi modificado."
->>>>>>> 0482f9d20c528e821288684e769c5422edcc4d02
 
-# | <a
-# | [-href=\"http://web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?root=www&amp;r1=1.40&amp;r2=1.41\">Version
-# | 1.41</a>:-]
-# | {+href=\"http://web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?root=www&amp;r1=1.140&amp;r2=1.141\">Version
-# | 1.141</a>:+} Clarify [-wording about contract-based licenses.-] {+which
-# | code needs to be free.+}
 #. type: Content of: <ul><li>
-#| msgid ""
-#| "<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw."
-#| "html?root=www&amp;r1=1.40&amp;r2=1.41\">Version 1.41</a>: Clarify wording "
-#| "about contract-based licenses."
 msgid ""
 "<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
 "root=www&amp;r1=1.140&amp;r2=1.141\">Version 1.141</a>: Clarify which code "
@@ -1178,34 +1010,12 @@ msgid ""
 "license may require you to send a copy of versions you distribute to the "
 "author."
 msgstr ""
-<<<<<<< HEAD
 "<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-"
 "sw.html?root=www&amp;r1=1.10&amp;r2=1.11\">Versão 1.11</a>: Nota que uma "
 "licença livre pode requerer que você mande uma cópia das versões que você "
 "distribui ao autor."
-=======
-"<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
-"root=www&amp;r1=1.10&amp;r2=1.11\">Versão 1.11</a>: Nota que uma licença "
-"livre pode requerer que você mande uma cópia das versões que você distribui "
-"ao autor."
->>>>>>> 0482f9d20c528e821288684e769c5422edcc4d02
 
-# | There are gaps in the version numbers shown above because there are other
-# | changes in this page that do not affect the definition [-as such.  These-]
-# | {+or its interpretations.  For instance, the list does not include+}
-# | changes [-are-] in {+asides, formatting, spelling, punctuation, or+} other
-# | parts of the page.  You can review the complete list of changes to the
-# | page through the <a
-# | href=\"http://web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?root=www&amp;view=log\">cvsweb
-# | interface</a>.
 #. type: Content of: <p>
-#| msgid ""
-#| "There are gaps in the version numbers shown above because there are other "
-#| "changes in this page that do not affect the definition as such.  These "
-#| "changes are in other parts of the page.  You can review the complete list "
-#| "of changes to the page through the <a href=\"http://web.cvs.savannah.gnu."
-#| "org/viewvc/www/philosophy/free-sw.html?root=www&amp;view=log\">cvsweb "
-#| "interface</a>."
 msgid ""
 "There are gaps in the version numbers shown above because there are other "
 "changes in this page that do not affect the definition or its "
@@ -1276,12 +1086,7 @@ msgstr ""
 "Guia para as traduções</a> para mais informações sobre a coordenação e o "
 "envio de traduções das páginas desse site."
 
-# | Copyright &copy; [-1996-2002,-] {+1996, 2002,+} 2004-2007, [-2009, 2010,
-# | 2012-] {+2009-2016+} Free Software Foundation, Inc.
 #. type: Content of: <div><p>
-#| msgid ""
-#| "Copyright &copy; 1996-2002, 2004-2007, 2009, 2010, 2012 Free Software "
-#| "Foundation, Inc."
 msgid ""
 "Copyright &copy; 1996, 2002, 2004-2007, 2009-2016 Free Software Foundation, "
 "Inc."
@@ -1289,16 +1094,7 @@ msgstr ""
 "Copyright &copy; 1996, 2002, 2004-2007, 2009-2016 Free Software Foundation, "
 "Inc."
 
-# | This page is licensed under a <a rel=\"license\"
-# | [-href=\"http://creativecommons.org/licenses/by-nd/3.0/us/\">Creative-]
-# | {+href=\"http://creativecommons.org/licenses/by-nd/4.0/\">Creative+}
-# | Commons [-Attribution-NoDerivs 3.0 United States-]
-# | {+Attribution-NoDerivatives 4.0 International+} License</a>.
 #. type: Content of: <div><p>
-#| msgid ""
-#| "This page is licensed under a <a rel=\"license\" href=\"http://"
-#| "creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-#| "NoDerivs 3.0 United States License</a>."
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
 "creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
@@ -1320,33 +1116,7 @@ msgstr ""
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
-msgstr "Última atualização:"
-
-#~ msgid ""
-#~ "Another group has started using the term &ldquo;open source&rdquo; to "
-#~ "mean something close (but not identical) to &ldquo;free software&rdquo;.  "
-#~ "We prefer the term &ldquo;free software&rdquo; because, once you have "
-#~ "heard that it refers to freedom rather than price, it calls to mind "
-#~ "freedom.  The word &ldquo;open&rdquo; <a href=\"/philosophy/open-source-"
-#~ "misses-the-point.html\"> never refers to freedom</a>."
-#~ msgstr ""
-#~ "Outro grupo começou a usar o termo “código aberto” (do inglês <em>open "
-#~ "source</em>) com um significado parecido (mas não idêntico) ao de "
-#~ "“software livre”. Nós preferimos o termo “software livre” porque, uma vez "
-#~ "que você tenha ouvido que ele se refere à liberdade ao invés do preço, "
-#~ "ele traz à mente a liberdade. A palavra “aberto”  <a href=\"/philosophy/"
-#~ "open-source-misses-the-point.html\">nunca se refere à liberdade</a>."
-
-#, fuzzy
-#~| msgid ""
-#~| "Copyright &copy; 1996-2002, 2004-2007, 2009, 2010, 2012 Free Software "
-#~| "Foundation, Inc."
-#~ msgid ""
-#~ "Copyright &copy; 1996-2002, 2004-2007, 2009, 2010, 2012, 2013, 2015 Free "
-#~ "Software Foundation, Inc."
-#~ msgstr ""
-#~ "Copyright &copy; 1996-2002, 2004-2007, 2009, 2010, 2012 Free Software "
-#~ "Foundation, Inc."
+msgstr "Última atualização: "
 
 #~ msgid ""
 #~ "Another group has started using the term &ldquo;open source&rdquo; to "
