@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: doc.html\n"
 "POT-Creation-Date: 2015-02-18 19:25+0000\n"
 "PO-Revision-Date: 2016-08-19 13:36-0300\n"
-"Last-Translator: Daniel Pimentel <d4n1@d4n1.org>\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
@@ -239,9 +239,10 @@ msgstr ""
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"<b>Tradução</b>: Daniel Pimentel\n"
-"<a href=\"mailto:d4n1@d4n1.org\">&lt;d4n1@d4n1.org&gt;</"
-"a>, 2016"
+"<b>Tradução</b>; Rafael Fontenelle"
+"<a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome.org&gt;</a><br/>"
+"<b>Revisão</b>: Daniel Pimentel\n"
+"<a href=\"mailto:d4n1@d4n1.org\">&lt;d4n1@d4n1.org&gt;</a>, 2016"
 
 # type: Content of: <div><p>
 #.  timestamp start 
