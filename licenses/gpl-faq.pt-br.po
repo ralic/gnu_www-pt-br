@@ -1,5 +1,5 @@
 # Brazilian Portuguese translation of http://www.gnu.org/licenses/gpl-faq.html
-# Copyright (C) 2000 Free Software Foundation, Inc.
+# Copyright (C) 2016 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # João S. O. Bueno, 2000.
 # Fernando Lozano, 2000.
@@ -7896,15 +7896,12 @@ msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "Traduzido por: Daniel Pimentel <a href=\"mailto:d4n1@d4n1.org\">&lt;"
 "d4n1@d4n1.org&gt;</a> <br/>"
-"João S. O. Bueno <a href=\"mailto:gwidion@mpc.com.br\">&lt;"
-"gwidion@mpc.com.br&gt;</a> <br/>Revisado por: Fernando Lozano <a href="
-"\"mailto:fernando@lozano.eti.br\">&lt;fernando@lozano.eti.br&gt;</a>"
 
 # type: Content of: <div><p>
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
-msgstr "Última atualização:"
+msgstr "Última atualização: 2016"
 
 #~ msgid ""
 #~ "This page contains answers to commonly-asked questions about the <a href="
