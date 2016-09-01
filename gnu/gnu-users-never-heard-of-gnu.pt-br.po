@@ -47,28 +47,6 @@ msgstr ""
 "gnu-linux.html\">Por que GNU/Linux?</a> e nossa página sobre <a href=\"/gnu/"
 "linux-and-gnu.html\">Linux e o Projeto GNU</a>."
 
-# | Most people have never heard of GNU.  Even most of the people who use the
-# | GNU system have never heard of GNU, [-thanks to-] {+since+} so many people
-# | and companies [-who-] teach them to call it &ldquo;Linux&rdquo;. 
-# | [-Nonetheless, the name-]  {+Indeed,+} GNU [-has certain associations,
-# | which people will discover once-] {+users often say+} they [-hear the
-# | name.  GNU is associated with the ideals of freedom of the free software
-# | movement.  That association-] {+are &ldquo;running Linux&rdquo;, which+}
-# | is [-no accident; the motive for developing GNU was specifically to make
-# | it possible to use a computer and have freedom.-] {+like saying you are
-# | &ldquo;driving your carburettor&rdquo; or &ldquo;driving your
-# | transmission&rdquo;.+}
-#. type: Content of: <p>
-#, fuzzy
-#| msgid ""
-#| "Most people have never heard of GNU.  Even most of the people who use the "
-#| "GNU system have never heard of GNU, thanks to so many people and "
-#| "companies who teach them to call it &ldquo;Linux&rdquo;.  Nonetheless, "
-#| "the name GNU has certain associations, which people will discover once "
-#| "they hear the name.  GNU is associated with the ideals of freedom of the "
-#| "free software movement.  That association is no accident; the motive for "
-#| "developing GNU was specifically to make it possible to use a computer and "
-#| "have freedom."
 msgid ""
 "Most people have never heard of GNU.  Even most of the people who use the "
 "GNU system have never heard of GNU, since so many people and companies teach "
@@ -84,26 +62,6 @@ msgstr ""
 "&ldquo;dirigindo seu carburador&rdquo; ou &ldquo;dirigindo sua "
 "transmissão&rdquo;."
 
-# | [-Most people have never heard of GNU.  Even most of the
-# | people-]{+Nonetheless, those+} who [-use the-] {+know about+} GNU [-system
-# | have never heard of GNU, thanks to so many people and companies who teach
-# | them to call-] {+associate+} it [-&ldquo;Linux&rdquo;.  Nonetheless, the
-# | name GNU has certain associations, which people will discover once they
-# | hear the name.  GNU is associated-] with the ideals of freedom of the free
-# | software movement.  That association is no accident; the motive for
-# | developing GNU was specifically to make it possible to use a computer and
-# | have freedom.
-#. type: Content of: <p>
-#, fuzzy
-#| msgid ""
-#| "Most people have never heard of GNU.  Even most of the people who use the "
-#| "GNU system have never heard of GNU, thanks to so many people and "
-#| "companies who teach them to call it &ldquo;Linux&rdquo;.  Nonetheless, "
-#| "the name GNU has certain associations, which people will discover once "
-#| "they hear the name.  GNU is associated with the ideals of freedom of the "
-#| "free software movement.  That association is no accident; the motive for "
-#| "developing GNU was specifically to make it possible to use a computer and "
-#| "have freedom."
 msgid ""
 "Nonetheless, those who know about GNU associate it with the ideals of "
 "freedom of the free software movement.  That association is no accident; the "
@@ -115,24 +73,6 @@ msgstr ""
 "motivo pela qual o desenvolvimento GNU foi especificamente feito para "
 "posibilitar o seu uso em um computador e ter liberdade."
 
-# | {+A person seeing the name &ldquo;GNU&rdquo; for the first time in
-# | &ldquo;GNU/Linux&rdquo; won't immediately know what it represents, has
-# | come one step closer to finding out.+}  The association between the name
-# | GNU and our goals of freedom and social solidarity exists in the minds of
-# | hundreds of thousands of GNU/Linux users that do know about GNU.  It
-# | exists in {+<a href=\"http://www.gnu.org\">gnu.org</a> and in+} Wikipedia.
-# |  [-And it-]  {+It+} exists around the web; if these users search for GNU,
-# | they will find [-<a href=\"http://www.gnu.org\">www.gnu.org</a>, which
-# | talks about free software and freedom.-] {+the ideas GNU stands for.+}
-#. type: Content of: <p>
-#, fuzzy
-#| msgid ""
-#| "The association between the name GNU and our goals of freedom and social "
-#| "solidarity exists in the minds of hundreds of thousands of GNU/Linux "
-#| "users that do know about GNU.  It exists in Wikipedia.  And it exists "
-#| "around the web; if these users search for GNU, they will find <a href="
-#| "\"http://www.gnu.org\">www.gnu.org</a>, which talks about free software "
-#| "and freedom."
 msgid ""
 "A person seeing the name &ldquo;GNU&rdquo; for the first time in &ldquo;GNU/"
 "Linux&rdquo; won't immediately know what it represents, has come one step "
@@ -151,26 +91,6 @@ msgstr ""
 "web; se esses usuários pesquisar por GNU, eles encontrarão as ideias "
 "que o GNU defende."
 
-# | If they don't [-look for it,-] {+search,+} they may encounter [-it-]
-# | {+them+} anyway.  The [-&ldquo;open source&rdquo;-] {+<a
-# | href=\"/philosophy/open-source-misses-the-point.html\">&ldquo;open
-# | source&rdquo;</a>+} rhetoric tends to lead people's attention away from
-# | issues of users' freedom, but not totally; there is still discussion of
-# | GNU and free software, and people have some chance of coming across it. 
-# | When that happens, [-the reader is-] {+they are+} more likely to pay
-# | attention to information about GNU (such as that it's the work of a
-# | campaign for freedom and community) if [-he knows he is a user-] {+they
-# | know they are users+} of the GNU system.
-#. type: Content of: <p>
-#, fuzzy
-#| msgid ""
-#| "If they don't look for it, they may encounter it anyway.  The &ldquo;open "
-#| "source&rdquo; rhetoric tends to lead people's attention away from issues "
-#| "of users' freedom, but not totally; there is still discussion of GNU and "
-#| "free software, and people have some chance of coming across it.  When "
-#| "that happens, the reader is more likely to pay attention to information "
-#| "about GNU (such as that it's the work of a campaign for freedom and "
-#| "community) if he knows he is a user of the GNU system."
 msgid ""
 "If they don't search, they may encounter them anyway.  The <a href=\"/"
 "philosophy/open-source-misses-the-point.html\">&ldquo;open source&rdquo;</a> "
@@ -191,26 +111,6 @@ msgstr ""
 "informações sobre o GNU (por exemplo, que ele é resultado de uma campanha "
 "por liberdade e comunidade) se eles sabem que são usuários do sistema GNU."
 
-# | Over time, calling the system &ldquo;GNU/Linux&rdquo; spreads awareness of
-# | the ideals of freedom for which we developed the GNU system.  It is also
-# | useful as a reminder for people in our community who know about these
-# | ideals, in a world where much of discussion of free software takes a
-# | totally practical (and thus amoral) approach.  When we ask you to call the
-# | system &ldquo;GNU/Linux&rdquo;, we [-do so because awareness of GNU slowly
-# | but surely brings with it awareness-] {+are asking you to help in making
-# | the public aware+} of the free software [-ideals of freedom and
-# | community.-] {+ideals.+}
-#. type: Content of: <p>
-#, fuzzy
-#| msgid ""
-#| "Over time, calling the system &ldquo;GNU/Linux&rdquo; spreads awareness "
-#| "of the ideals of freedom for which we developed the GNU system.  It is "
-#| "also useful as a reminder for people in our community who know about "
-#| "these ideals, in a world where much of discussion of free software takes "
-#| "a totally practical (and thus amoral) approach.  When we ask you to call "
-#| "the system &ldquo;GNU/Linux&rdquo;, we do so because awareness of GNU "
-#| "slowly but surely brings with it awareness of the free software ideals of "
-#| "freedom and community."
 msgid ""
 "Over time, calling the system &ldquo;GNU/Linux&rdquo; spreads awareness of "
 "the ideals of freedom for which we developed the GNU system.  It is also "
@@ -276,24 +176,11 @@ msgstr ""
 "\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
 "envio de traduções das páginas desse site."
 
-#. type: Content of: <div><p>
-#, fuzzy
 msgid ""
 "Copyright &copy; 2006, 2007, 2013, 2014, 2015 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2006, 2007, 2013, 2014, 2015 Free Software Foundation, "
-"Inc."
+msgstr ""
+"Copyright &copy; 2006, 2007, 2013, 2014, 2015 Free Software Foundation, Inc."
 
-# | This page is licensed under a <a rel=\"license\"
-# | [-href=\"http://creativecommons.org/licenses/by-nd/3.0/us/\">Creative-]
-# | {+href=\"http://creativecommons.org/licenses/by-nd/4.0/\">Creative+}
-# | Commons [-Attribution-NoDerivs 3.0 United States-]
-# | {+Attribution-NoDerivatives 4.0 International+} License</a>.
-#. type: Content of: <div><p>
-#, fuzzy
-#| msgid ""
-#| "This page is licensed under a <a rel=\"license\" href=\"http://"
-#| "creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-#| "NoDerivs 3.0 United States License</a>."
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
 "creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
@@ -315,16 +202,3 @@ msgstr "<b>Tradução:</b> Hudson Flávio Meneses Lacerda, 2014<br/>"
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização: "
-
-#~ msgid ""
-#~ "A person seeing the name &ldquo;GNU&rdquo; for the first time in &ldquo;"
-#~ "GNU/Linux&rdquo; won't immediately associate it with anything.  However, "
-#~ "when people know that the system is basically GNU, that brings them a "
-#~ "step closer to learning about our ideals.  For instance, they might "
-#~ "become curious and look for more information about GNU."
-#~ msgstr ""
-#~ "Quando alguém vê o nome “GNU” pela primeira vez em “GNU/Linux”, não o "
-#~ "associa imediatamente a nada.  Contudo, se essa pessoa sabe que aquele "
-#~ "sistema é basicamente o GNU, isso a deixa um passo mais perto de aprender "
-#~ "sobre nossos ideais.  Por exemplo, ela pode ficar curiosa e procurar por "
-#~ "mais informação sobre o GNU."
