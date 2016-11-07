@@ -177,7 +177,6 @@ msgstr ""
 "decidir rapidamente."
 
 #. type: Content of: <h3>
-#, fuzzy
 msgid "Common Resources for our Software Licenses"
 msgstr "Recursos Comuns para nossas Licenças de Software"
 
