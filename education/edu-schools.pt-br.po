@@ -10,7 +10,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: edu-schools.pt-br.html\n"
-"POT-Creation-Date: 2016-01-01 05:55+0000\n"
+"POT-Creation-Date: 2016-09-13 15:56+0000\n"
 "PO-Revision-Date: 2013-06-04 19:11-0300\n"
 "Last-Translator: Hudson Flávio Meneses Lacerda <hfmlacerda@yahoo.com.br>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -29,30 +29,6 @@ msgid ""
 msgstr ""
 "Por que escolas devem usar exclusivamente software Livre - Projeto GNU - "
 "Free Software Foundation"
-
-#. type: Content of: <div><ul><li>
-msgid "<a href=\"/education/edu-contents.html\">Education Contents</a>"
-msgstr "<a href=\"/education/edu-contents.html\">Índice da Seção</a>"
-
-#. type: Content of: <div><ul><li>
-msgid "<a href=\"/education/edu-cases.html\">Case Studies</a>"
-msgstr "<a href=\"/education/edu-cases.html\">Estudo de Casos</a>"
-
-#. type: Content of: <div><ul><li>
-msgid "<a href=\"/education/edu-resources.html\">Educational Resources</a>"
-msgstr "<a href=\"/education/edu-resources.html\">Recursos Educacionais</a>"
-
-#. type: Content of: <div><ul><li>
-msgid "<a href=\"/education/edu-projects.html\">Education Projects</a>"
-msgstr "<a href=\"/education/edu-projects.html\">Projetos Educativos</a>"
-
-#. type: Content of: <div><ul><li>
-msgid "<a href=\"/education/edu-faq.html\">FAQ</a>"
-msgstr "<a href=\"/education/edu-faq.html\">Perguntas mais Frequentes</a>"
-
-#. type: Content of: <div><ul><li>
-msgid "<a href=\"/education/edu-team.html\">The Education Team</a>"
-msgstr "<a href=\"/education/edu-team.html\">Equipe da Educação</a>"
 
 # , fuzzy
 #. type: Content of: <p>
@@ -74,10 +50,10 @@ msgstr "Por que escolas devem usar exclusivamente software livre"
 msgid "by <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
 msgstr "por <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
 
+#. type: Content of: <p>
 # | Educational [-activities (including schools)-] {+activities, including
 # | schools of all levels from kindergarten to university,+} have a moral duty
 # | to <a href=\"/education/education.html\">teach only free software.</a>
-#. type: Content of: <p>
 #, fuzzy
 #| msgid ""
 #| "Educational activities (including schools) have a moral duty to <a href="
@@ -90,6 +66,7 @@ msgstr ""
 "Atividades educacionais (incluindo escolas) têm o dever moral de <a href=\"/"
 "education/education.html\">ensinar apenas software livre</a>."
 
+#. type: Content of: <p>
 # | [-There are general reasons why all-]{+All+} computer users [-should-]
 # | {+ought to <a
 # | href=\"/philosophy/free-software-even-more-important.html\">+} insist on
@@ -101,7 +78,6 @@ msgstr ""
 # | life.  These reasons apply to schools as they do to everyone.  [-The-] 
 # | {+However, the+} purpose of this article is to [-state-] {+present the+}
 # | additional reasons that apply specifically to education.
-#. type: Content of: <p>
 #, fuzzy
 #| msgid ""
 #| "There are general reasons why all computer users should insist on free "
@@ -131,6 +107,7 @@ msgstr ""
 "pessoa. O propósito deste artigo é expor razões adicionais que se aplicam "
 "especificamente à educação."
 
+#. type: Content of: <p>
 # | [-First, free-]{+Free+} software can save schools [-money. Free-] {+money,
 # | but this is a secondary benefit.  Savings are possible because free+}
 # | software gives schools, like other users, the freedom to copy and
@@ -139,7 +116,6 @@ msgstr ""
 # | {+give a copy to every school, and each school+} can [-help close-]
 # | {+install+} the [-digital divide.-] {+program in all its computers, with
 # | no obligation to pay for doing so.+}
-#. type: Content of: <p>
 #, fuzzy
 #| msgid ""
 #| "First, free software can save schools money. Free software gives schools, "
@@ -159,6 +135,7 @@ msgstr ""
 "todos os computadores que possui. Em países pobres, isso pode ajudar a "
 "acabar com a exclusão digital."
 
+#. type: Content of: <p>
 # | This [-obvious reason, while important in practical terms,-] {+benefit+}
 # | is [-rather shallow. And proprietary software developers can eliminate
 # | this reason by donating copies-] {+useful, but we firmly refuse to give it
@@ -169,7 +146,6 @@ msgstr ""
 # | &ldquo;better&rdquo;: it is a matter of doing good education instead of
 # | bad education.+}  So let's [-look at-] {+consider+} the deeper
 # | [-reasons.-] {+issues.+}
-#. type: Content of: <p>
 #, fuzzy
 #| msgid ""
 #| "This obvious reason, while important in practical terms, is rather "
@@ -190,6 +166,7 @@ msgstr ""
 "que pagar para atualizar o software mais tarde.) Então vejamos as razões "
 "mais profundas."
 
+#. type: Content of: <p>
 # | Schools have a social mission: to teach students to be citizens of a
 # | strong, capable, independent, cooperating and free society.  They should
 # | promote the use of free software just as they promote [-recycling.  If
@@ -198,7 +175,6 @@ msgstr ""
 # | ready+} to [-use-] {+live in a+} free [-software after they graduate.-]
 # | {+digital society.+}  This will help society as a whole escape from being
 # | dominated [-(and gouged)-] by megacorporations.
-#. type: Content of: <p>
 #, fuzzy
 #| msgid ""
 #| "Schools have a social mission: to teach students to be citizens of a "
@@ -228,6 +204,7 @@ msgid ""
 "counter to the schools' social mission.  Schools should never do this."
 msgstr ""
 
+#. type: Content of: <p>
 # | [-What schools should refuse to-]{+Why, after all,+} do [-is teach
 # | dependence.  Those corporations-] {+some proprietary software developers+}
 # | offer [-free samples-] {+gratis copies<a href=\"#note1\">(1)</a> of their
@@ -240,7 +217,6 @@ msgstr ""
 # | copies+} to these students once they've [-grown up-] {+graduated, nor to
 # | the companies that they go to work for.  Once you're dependent, you're
 # | expected to pay,+} and [-graduated.-] {+future upgrades may be expensive.+}
-#. type: Content of: <p>
 #, fuzzy
 #| msgid ""
 #| "What schools should refuse to do is teach dependence.  Those corporations "
@@ -264,6 +240,7 @@ msgstr ""
 "crianças se viciem <a href=\"#note1\">(1)</a>. Eles não darão descontos a "
 "esses estudantes quando adultos e graduados."
 
+#. type: Content of: <p>
 # | Free software permits students to learn how software works.  Some
 # | students, {+natural-born programmers,+} on reaching their [-teens, want-]
 # | {+teens yearn+} to learn everything there is to know about their computer
@@ -272,7 +249,6 @@ msgstr ""
 # | students need to read lots of code and write lots of code.  They need to
 # | read and understand real programs that people really use.  Only free
 # | software permits this.-]
-#. type: Content of: <p>
 #, fuzzy
 #| msgid ""
 #| "Free software permits students to learn how software works.  Some "
@@ -304,15 +280,15 @@ msgid ""
 "not be tolerated in a school, except as an object for reverse engineering."
 msgstr ""
 
+#. type: Content of: <p>
 # | [-Proprietary software rejects their thirst for knowledge: it says,
 # | &ldquo;The knowledge you want is a secret&mdash;learning is
-# | forbidden!&rdquo;-]Free software encourages everyone to learn. The free
+# | forbidden!&rdquo;-] Free software encourages everyone to learn. The free
 # | software community rejects the &ldquo;priesthood of technology&rdquo;,
 # | which keeps the general public in ignorance of how technology works; we
 # | encourage students of any age and situation to read the source code and
 # | learn as much as they want to know. [-Schools that use free software will
 # | enable gifted programming students to advance.-]
-#. type: Content of: <p>
 #, fuzzy
 #| msgid ""
 #| "Proprietary software rejects their thirst for knowledge: it says, &ldquo;"
@@ -357,6 +333,7 @@ msgid ""
 "school."
 msgstr ""
 
+#. type: Content of: <p>
 # | The deepest reason for using free software in schools is for moral
 # | education. We expect schools to teach students basic facts and useful
 # | skills, but that is [-not-] {+only part of+} their [-whole-] job. The most
@@ -369,7 +346,6 @@ msgstr ""
 # | case someone wants to [-learn.&rdquo;-] {+learn.  Therefore bringing
 # | nonfree software to class is not permitted, unless it is for
 # | reverse-engineering work.&rdquo;+}
-#. type: Content of: <p>
 #, fuzzy
 #| msgid ""
 #| "The deepest reason for using free software in schools is for moral "
@@ -403,12 +379,12 @@ msgstr ""
 "a escola, você deve compartilhá-lo com seus colegas. E você deve mostrar o "
 "código fonte à turma, caso alguém queira aprender.”"
 
+#. type: Content of: <p>
 # | Of course, the school must practice what it preaches: [-all the software
 # | installed by the school-] {+it+} should [-be available-] {+bring only free
 # | software to class (except objects+} for {+reverse-engineering), and share
 # | copies including source code with the+} students [-to copy,-] {+so they
 # | can copy it,+} take {+it+} home, and redistribute {+it+} further.
-#. type: Content of: <p>
 #, fuzzy
 #| msgid ""
 #| "Of course, the school must practice what it preaches: all the software "
@@ -424,8 +400,8 @@ msgstr ""
 "instalado pela escola deve estar disponível para que os estudantes copiem, "
 "levem para casa e passem para frente."
 
-# || No change detected.  The change might only be in amounts of spaces.
 #. type: Content of: <p>
+# || No change detected.  The change might only be in amounts of spaces.
 #, fuzzy
 #| msgid ""
 #| "Teaching the students to use free software, and to participate in the "
@@ -459,13 +435,13 @@ msgid ""
 "find subsequent upgrades rather expensive.</cite>"
 msgstr ""
 
+#. type: Content of: <ol><li>
 # | <cite><a id=\"note[-1-]{+2+}\"></a>RJ Reynolds Tobacco Company was fined
 # | $15m in 2002 for handing out free samples of cigarettes at events attended
 # | by children.  See <a
 # | href=\"http://www.bbc.co.uk/worldservice/sci_tech/features/health/tobaccotrial/usa.htm\">{+
 # | +}http://www.bbc.co.uk/worldservice/sci_tech/features/health/tobaccotrial/u
 # | sa.htm</a>.</cite>
-#. type: Content of: <ol><li>
 #, fuzzy
 #| msgid ""
 #| "<cite><a id=\"note1\"></a>RJ Reynolds Tobacco Company was fined $15m in "
@@ -532,19 +508,19 @@ msgstr ""
 "\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
 "envio de traduções das páginas desse site."
 
-# | Copyright &copy; 2003, [-2009-] {+2009, 2014, 2015, 2016+} Richard Stallman
 #. type: Content of: <div><p>
+# | Copyright &copy; 2003, [-2009-] {+2009, 2014, 2015, 2016+} Richard Stallman
 #, fuzzy
 #| msgid "Copyright &copy; 2003, 2009 Richard Stallman"
 msgid "Copyright &copy; 2003, 2009, 2014, 2015, 2016 Richard Stallman"
 msgstr "Copyright &copy; 2003, 2009 Richard Stallman"
 
+#. type: Content of: <div><p>
 # | This page is licensed under a <a rel=\"license\"
 # | [-href=\"http://creativecommons.org/licenses/by-nd/3.0/us/\">Creative-]
 # | {+href=\"http://creativecommons.org/licenses/by-nd/4.0/\">Creative+}
 # | Commons [-Attribution-NoDerivs 3.0 United States-]
 # | {+Attribution-NoDerivatives 4.0 International+} License</a>.
-#. type: Content of: <div><p>
 #, fuzzy
 #| msgid ""
 #| "This page is licensed under a <a rel=\"license\" href=\"http://"
@@ -574,6 +550,24 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização: "
+
+#~ msgid "<a href=\"/education/edu-contents.html\">Education Contents</a>"
+#~ msgstr "<a href=\"/education/edu-contents.html\">Índice da Seção</a>"
+
+#~ msgid "<a href=\"/education/edu-cases.html\">Case Studies</a>"
+#~ msgstr "<a href=\"/education/edu-cases.html\">Estudo de Casos</a>"
+
+#~ msgid "<a href=\"/education/edu-resources.html\">Educational Resources</a>"
+#~ msgstr "<a href=\"/education/edu-resources.html\">Recursos Educacionais</a>"
+
+#~ msgid "<a href=\"/education/edu-projects.html\">Education Projects</a>"
+#~ msgstr "<a href=\"/education/edu-projects.html\">Projetos Educativos</a>"
+
+#~ msgid "<a href=\"/education/edu-faq.html\">FAQ</a>"
+#~ msgstr "<a href=\"/education/edu-faq.html\">Perguntas mais Frequentes</a>"
+
+#~ msgid "<a href=\"/education/edu-team.html\">The Education Team</a>"
+#~ msgstr "<a href=\"/education/edu-team.html\">Equipe da Educação</a>"
 
 #, fuzzy
 #~| msgid ""

@@ -124,6 +124,7 @@ msgstr ""
 "também."
 
 # type: Content of: <p>
+#. type: Content of: <p>
 # | Some of these alternative names would be an improvement, but it is a
 # | mistake to replace &ldquo;intellectual property&rdquo; with any other
 # | term.  A different name will not address the term's deeper problem:
@@ -131,7 +132,6 @@ msgstr ""
 # | property&rdquo;&mdash;it is a mirage.  The only reason people think it
 # | makes sense as a coherent category is that widespread use of the term has
 # | misled [-them.-] {+them about the laws in question.+}
-#. type: Content of: <p>
 #, fuzzy
 #| msgid ""
 #| "Some of these alternative names would be an improvement, but it is a "
@@ -184,12 +184,12 @@ msgstr ""
 "de políticas públicas."
 
 # type: Content of: <p>
+#. type: Content of: <p>
 # | [-Copyright-]{+For instance, copyright+} law was designed to promote
 # | authorship and art, and covers the details of expression of a work. 
 # | Patent law was intended to promote the publication of useful ideas, at the
 # | price of giving the one who publishes an idea a temporary monopoly over
 # | it&mdash;a price that may be worth paying in some fields and not in others.
-#. type: Content of: <p>
 #, fuzzy
 #| msgid ""
 #| "Copyright law was designed to promote authorship and art, and covers the "
@@ -211,13 +211,13 @@ msgstr ""
 "alguns campos, mas não em outros."
 
 # type: Content of: <p>
+#. type: Content of: <p>
 # | Trademark law, by contrast, was not intended to promote any particular way
 # | of acting, but simply to enable buyers to know what they are buying. 
 # | Legislators under the influence of the term &ldquo;intellectual
 # | property&rdquo;, however, have turned it into a scheme that provides
 # | incentives for advertising.  {+And these are just three out of many laws
 # | that the term refers to.+}
-#. type: Content of: <p>
 #, fuzzy
 #| msgid ""
 #| "Trademark law, by contrast, was not intended to promote any particular "
@@ -279,6 +279,7 @@ msgid ""
 msgstr ""
 
 # type: Content of: <p>
+#. type: Content of: <p>
 # | People often say &ldquo;intellectual property&rdquo; when they really mean
 # | some larger or smaller [-category.-] {+set of laws.+}  For instance, rich
 # | countries often impose unjust laws on poor countries to squeeze money out
@@ -288,7 +289,6 @@ msgstr ""
 # | familiar to them.  By using it, they misrepresent the nature of the issue.
 # |  It would be better to use an accurate term, such as &ldquo;legislative
 # | colonization&rdquo;, that gets to the heart of the matter.
-#. type: Content of: <p>
 #, fuzzy
 #| msgid ""
 #| "People often say &ldquo;intellectual property&rdquo; when they really "
@@ -349,12 +349,12 @@ msgstr ""
 "restringindo seu poder de várias maneiras."
 
 # type: Content of: <p>
+#. type: Content of: <p>
 # | That statement refers to Article 1, Section 8, Clause 8 of the US
 # | Constitution, which authorizes copyright law and patent law.  That clause,
 # | though, has nothing to do with trademark [-law-] {+law, trade secret
 # | law,+} or various others.  The term &ldquo;intellectual property&rdquo;
 # | led that professor to make {+a+} false generalization.
-#. type: Content of: <p>
 #, fuzzy
 #| msgid ""
 #| "That statement refers to Article 1, Section 8, Clause 8 of the US "
@@ -561,9 +561,9 @@ msgstr ""
 "\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
 "envio de traduções das páginas desse site."
 
+#. type: Content of: <div><p>
 # | Copyright &copy; 2004, 2006, [-2010-] {+2010, 2013, 2015+} Richard M.
 # | Stallman
-#. type: Content of: <div><p>
 #, fuzzy
 #| msgid "Copyright &copy; 2004, 2006, 2010 Richard M. Stallman"
 msgid "Copyright &copy; 2004, 2006, 2010, 2013, 2015 Richard M. Stallman"

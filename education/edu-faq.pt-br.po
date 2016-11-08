@@ -5,6 +5,7 @@
 # Aslan Carlos <aslancarlos@gmail.com>, 2012.
 # Dec 2014: trivial update of a few strings (T. Godefroy).
 # Rafael Fontenelle <rafaelff@gnome.org>, 2016.
+# Cassiano dos Santos <caco@member.fsf.org> (proofread), 2016.
 msgid ""
 msgstr ""
 "Project-Id-Version: edu-faq.html\n"
@@ -119,9 +120,9 @@ msgid ""
 "discouraging for us too. We started from zero, and today millions of people "
 "around the world use Free Libre Software."
 msgstr ""
-"Quando nós começamos o projeto GNU, em 1983, a situação era "
-"desencorajante para nós também. Nós começamos do zero e, hoje, milhões de "
-"pessoas ao redor do mundo usam Software Livre."
+"Quando nós começamos o projeto GNU, em 1983, a situação era desencorajante "
+"para nós também. Nós começamos do zero e, hoje, milhões de pessoas ao redor "
+"do mundo usam Software Livre."
 
 #. type: Content of: <dl><dt>
 msgid ""
@@ -143,8 +144,8 @@ msgid ""
 "possible so that you can move on to freedom-respecting software."
 msgstr ""
 "Se você é literalmente forçado a ensinar software não-livre, você deve dizer "
-"aos estudantes que considera este software antiético e que está fazendo isso apenas "
-"porque é forçado e fará o mínimo possível, de modo que possa passar a "
+"aos estudantes que considera este software antiético e que está fazendo isso "
+"apenas porque é forçado e fará o mínimo possível, de modo que possa passar a "
 "discutir software que respeita a liberdade."
 
 #. type: Content of: <dl><dd><p>
@@ -160,14 +161,15 @@ msgid ""
 "activities."
 msgstr ""
 "Não devemos nos esquecer que as escolas possuem uma grande influência na "
-"sociedade, por isso conscientizar os estudantes das vantagens do software livre "
-"é uma maneira de fazer pressão em quem está tomando as decisões. Você pode "
-"começar a ensinar aos seus alunos sobre o Software Livre e seus valores "
-"éticos, uma vez que eles podem nunca ter ouvido falar sobre. Com o seu aval e "
-"apoio, isso pode levar à criação de um <a href=\"http://libreplanet.org/wiki/"
-"Group_list\">Grupo de Software Livre</a> em sua escola. Então o grupo pode "
-"começar a se fazer ouvir, escrevendo cartas para o Ministério, realizando "
-"eventos para promover o Software Livre e outras atividades similares."
+"sociedade, por isso conscientizar os estudantes das vantagens do software "
+"livre é uma maneira de fazer pressão em quem está tomando as decisões. Você "
+"pode começar a ensinar aos seus alunos sobre o Software Livre e seus valores "
+"éticos, uma vez que eles podem nunca ter ouvido falar sobre. Com o seu aval "
+"e apoio, isso pode levar à criação de um <a href=\"http://libreplanet.org/"
+"wiki/Group_list\">Grupo de Software Livre</a> em sua escola. Então o grupo "
+"pode começar a se fazer ouvir, escrevendo cartas para o Ministério, "
+"realizando eventos para promover o Software Livre e outras atividades "
+"similares."
 
 #. type: Content of: <dl><dd><p>
 msgid ""

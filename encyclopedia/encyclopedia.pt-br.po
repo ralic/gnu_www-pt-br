@@ -100,15 +100,15 @@ msgstr ""
 "\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
 "envio de traduções das páginas desse site."
 
-# | Copyright &copy; 1999, [-2014-] {+2014, 2016+} Richard M. Stallman
 #. type: Content of: <div><p>
+# | Copyright &copy; 1999, [-2014-] {+2014, 2016+} Richard M. Stallman
 #, fuzzy
 #| msgid "Copyright &copy; 1999, 2014 Richard M. Stallman"
 msgid "Copyright &copy; 1999, 2014, 2016 Richard M. Stallman"
 msgstr "Copyright &copy; 1999, 2014 Richard M. Stallman"
 
-# || No change detected.  The change might only be in amounts of spaces.
 #. type: Content of: <div><p>
+# || No change detected.  The change might only be in amounts of spaces.
 #, fuzzy
 #| msgid ""
 #| "This page is licensed under a <a rel=\"license\" href=\"http://"

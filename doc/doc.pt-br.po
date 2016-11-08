@@ -198,7 +198,7 @@ msgid ""
 msgstr ""
 "Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
 "creativecommons.org/licenses/by-nd/3.0/us/deed.pt_BR\">Creative Commons "
-"Atribuição-Sem-Derivações 3.0 Estados Unidos</a>."
+"Atribuição-SemDerivações 3.0 Estados Unidos</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>

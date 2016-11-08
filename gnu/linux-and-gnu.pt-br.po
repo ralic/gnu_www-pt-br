@@ -27,8 +27,8 @@ msgid ""
 "Operating System, GNU Kernel, HURD, GNU HURD, Hurd"
 msgstr "GNU, FSF, Free Software Foundation, Linux, Emacs, GCC, Unix"
 
-# || No change detected.  The change might only be in amounts of spaces.
 #. type: Attribute 'content' of: <meta>
+# || No change detected.  The change might only be in amounts of spaces.
 #, fuzzy
 #| msgid ""
 #| "Since 1983, developing the free Unix style operating system GNU, so that "
@@ -60,6 +60,7 @@ msgid ""
 "Linux FAQ</a>, and <a href=\"/gnu/why-gnu-linux.html\">Why GNU/Linux?</a>"
 msgstr ""
 
+#. type: Content of: <p>
 # | Many computer users run a modified version of <a
 # | href=\"/philosophy/categories.html#TheGNUsystem\">the GNU [-system (18k
 # | characters)</a>-] {+system</a>+} every day, without realizing it.  Through
@@ -70,7 +71,6 @@ msgstr ""
 # | {+aware</a> that it is basically+} the [-extent of its connection with-]
 # | {+GNU system, developed by+} the <a href=\"/gnu/gnu-history.html\">GNU
 # | Project</a>.
-#. type: Content of: <p>
 #, fuzzy
 #| msgid ""
 #| "Many computer users run a modified version of <a href=\"/philosophy/"
@@ -95,6 +95,7 @@ msgstr ""
 "usuários <a href=\"/gnu/gnu-users-never-heard-of-gnu.html\">não estão a par</"
 "a> de sua conexão com o <a href=\"/gnu/gnu-history.html\">Projeto GNU</a>."
 
+#. type: Content of: <p>
 # | There really is a [-Linux; it is a kernel,-] {+Linux,+} and these people
 # | are using [-it.  But you can't use-] {+it, but it is just+} a {+part of
 # | the system they use.  Linux is the kernel: the program in the system that
@@ -106,7 +107,6 @@ msgstr ""
 # | {+whole+} system is basically GNU[-,-] with Linux [-functioning as-]
 # | {+added, or GNU/Linux.  All+} the [-kernel.-] {+so-called
 # | &ldquo;Linux&rdquo; distributions are really distributions of GNU/Linux.+}
-#. type: Content of: <p>
 #, fuzzy
 #| msgid ""
 #| "There really is a Linux; it is a kernel, and these people are using it.  "
@@ -131,13 +131,13 @@ msgstr ""
 "com o sistema operacional GNU: o sistema é basicamente GNU, com Linux "
 "funcionando como núcleo."
 
+#. type: Content of: <p>
 # | Many users [-are-] {+do+} not [-fully aware of-] {+understand+} the
 # | [-distinction-] {+difference+} between the kernel, which is Linux, and the
 # | whole system, which they also call [-``Linux''.-] {+&ldquo;Linux&rdquo;.+}
 # |  The ambiguous use of the name doesn't [-promote understanding.-] {+help
 # | people understand.  These users often think that Linus Torvalds developed
 # | the whole operating system in 1991, with a bit of help.+}
-#. type: Content of: <p>
 #, fuzzy
 #| msgid ""
 #| "Many users are not fully aware of the distinction between the kernel, "
@@ -154,6 +154,7 @@ msgstr ""
 "é o Linux, e todo o sistema operacional, que eles também chamam “Linux”. O "
 "uso ambíguo desse nome não promove o entendimento."
 
+#. type: Content of: <p>
 # | Programmers generally know that Linux is a kernel.  But since they have
 # | generally heard the whole system called [-``Linux''-]
 # | {+&ldquo;Linux&rdquo;+} as well, they often envisage a history [-which
@@ -163,7 +164,6 @@ msgstr ""
 # | for other free [-software,-] {+software to go with it,+} and [-for-]
 # | {+found that (for+} no particular reason{+)+}  most everything necessary
 # | to make a Unix-like system was already available.
-#. type: Content of: <p>
 #, fuzzy
 #| msgid ""
 #| "Programmers generally know that Linux is a kernel.  But since they have "
@@ -189,6 +189,7 @@ msgstr ""
 "particular, praticamente tudo necessário para criar um sistema similar ao "
 "Unix já estava disponível."
 
+#. type: Content of: <p>
 # | What they found was no [-accident--it-] {+accident&mdash;it+} was the
 # | {+not-quite-complete+} GNU system.  The available [-<A
 # | HREF=\"/philosophy/free-sw.html\">free software</A>-] {+<a
@@ -203,7 +204,6 @@ msgstr ""
 # | GNU Project also outlines some of the original plans for the GNU system.
 # | By the time Linux was [-written, the system-] {+started, GNU+} was almost
 # | finished.
-#. type: Content of: <p>
 #, fuzzy
 #| msgid ""
 #| "What they found was no accident--it was the GNU system.  The available <A "
@@ -250,6 +250,7 @@ msgstr ""
 "(o X Window System). É natural medir a contribuição deste tipo de projeto "
 "pelos programas específicos que vieram daquele projeto."
 
+#. type: Content of: <p>
 # | If we tried to measure the GNU Project's contribution in this way, what
 # | would we conclude? One CD-ROM vendor found that in their [-``Linux
 # | distribution'', <A HREF=\"/philosophy/categories.html#GNUsoftware\">GNU
@@ -262,7 +263,6 @@ msgstr ""
 # | is 1.5% and GNU packages are 15%.)+}  So if you were going to pick a name
 # | for the system based on who wrote the programs in the system, the most
 # | appropriate single choice would be [-``GNU''.-] {+&ldquo;GNU&rdquo;.+}
-#. type: Content of: <p>
 #, fuzzy
 #| msgid ""
 #| "If we tried to measure the GNU Project's contribution in this way, what "
@@ -295,6 +295,7 @@ msgstr ""
 "escolher um nome para o sistema baseado em quem escreveu os programas no "
 "sistema, a escolha simples mais apropriada seria “GNU”."
 
+#. type: Content of: <p>
 # | But [-we don't think-] that is {+not+} the [-right-] {+deepest+} way to
 # | consider the question.  The GNU Project was not, is not, a project to
 # | develop specific software packages.  It was not a project {+<a
@@ -304,7 +305,6 @@ msgstr ""
 # | editor, although we developed one.  The GNU [-Project's aim was-]
 # | {+Project set out+} to develop [-<EM>a-] {+<em>a+} complete free Unix-like
 # | [-system</EM>.-] {+system</em>: GNU.+}
-#. type: Content of: <p>
 #, fuzzy
 #| msgid ""
 #| "But we don't think that is the right way to consider the question. The "
@@ -329,6 +329,7 @@ msgstr ""
 "um. O objetivo do Projeto GNU era desenvolver um <em>sistema operacional "
 "livre similar ao Unix</em>."
 
+#. type: Content of: <p>
 # | Many people have made major contributions to the free software in the
 # | system, and they all deserve [-credit.-] {+credit for their software.+} 
 # | But the reason it is [-<EM>a system</EM>--and-] {+<em>an integrated
@@ -339,15 +340,15 @@ msgstr ""
 # | found people to write everything on the list.  We wrote essential but
 # | unexciting [-major components, such as the assembler and linker,-] {+<a
 # | href=\"#unexciting\">(1)</a> components+} because you can't have a system
-# | without them.  [-A complete-]  {+Some of our+} system [-needs more than
-# | just programming tools; the Bourne Again SHell, the PostScript interpreter
-# | <A HREF=\"/software/ghostscript/ghostscript.html\">Ghostscript</A>, and-]
-# | {+components,+} the [-<A HREF=\"/software/libc/libc.html\">GNU C
-# | library</A>-] {+programming tools, became popular on their own among
-# | programmers, but we wrote many components that+} are [-just as
-# | important.-] {+not tools <a href=\"#nottools\">(2)</a>.  We even developed
-# | a chess game, GNU Chess, because a complete system needs games too.+}
-#. type: Content of: <p>
+# | without them.  [-A-]  {+Some of our system components, the programming
+# | tools, became popular on their own among programmers, but we wrote many
+# | components that are not tools <a href=\"#nottools\">(2)</a>.  We even
+# | developed a chess game, GNU Chess, because a+} complete system needs
+# | [-more than just programming tools; the Bourne Again SHell, the PostScript
+# | interpreter <A
+# | HREF=\"/software/ghostscript/ghostscript.html\">Ghostscript</A>, and the
+# | <A HREF=\"/software/libc/libc.html\">GNU C library</A> are just as
+# | important.-] {+games too.+}
 #, fuzzy
 #| msgid ""
 #| "Many people have made major contributions to the free software in the "
@@ -390,6 +391,7 @@ msgstr ""
 "\">Ghostscript</a>, e a <a href=\"/software/libc/libc.html\">biblioteca GNU "
 "C</a> são igualmente importantes."
 
+#. type: Content of: <p>
 # | By the early 90s we had put together the whole system aside from the
 # | [-kernel (and we were-] {+kernel.  We had+} also [-working on-]
 # | {+started+} a kernel, the [-<A HREF=\"/software/hurd/hurd.html\">GNU
@@ -400,7 +402,6 @@ msgstr ""
 # | {+expected; <a href=\"/software/hurd/hurd-and-linux.html\">the GNU Hurd
 # | started working reliably in 2001</a>, but it is a long way from being
 # | ready for people to use in general.+}
-#. type: Content of: <p>
 #, fuzzy
 #| msgid ""
 #| "By the early 90s we had put together the whole system aside from the "
@@ -423,6 +424,7 @@ msgstr ""
 "estamos  <a href=\"/software/hurd/hurd-and-linux.html\">trabalhando em sua "
 "finalização.</a>."
 
+#. type: Content of: <p>
 # | Fortunately, [-you don't-] {+we didn't+} have to wait for [-it,-] {+the
 # | Hurd,+} because [-Linux is working now.  When Linus-] {+of Linux.  Once+}
 # | Torvalds [-wrote Linux, he filled-] {+freed Linux in 1992, it fit into+}
@@ -433,7 +435,6 @@ msgstr ""
 # | make a complete free [-system:-] {+system &mdash;+} a [-Linux-based-]
 # | {+version of the+} GNU system [-(or-] {+which also contained Linux.  The+}
 # | GNU/Linux system, [-for short).-] {+in other words.+}
-#. type: Content of: <p>
 #, fuzzy
 #| msgid ""
 #| "Fortunately, you don't have to wait for it, because Linux is working "
@@ -456,6 +457,7 @@ msgstr ""
 "junto com o sistema GNU</a> para compor um sistema livre completo: um "
 "sistema GNU baseado em Linux (ou sistema GNU/Linux, para simplificar)."
 
+#. type: Content of: <p>
 # | [-Putting-]{+Making+} them {+work well+} together [-sounds simple, but
 # | it-] was not a trivial job. [-The <A HREF=\"/software/libc/libc.html\">GNU
 # | C library</A> (called glibc for short)-]  {+Some GNU components<a
@@ -469,7 +471,6 @@ msgstr ""
 # | [-made-] {+did+} a [-substantial contribution.-] {+lot of essential work. 
 # | But it was work that, in the nature of things, was surely going to be done
 # | by someone.+}
-#. type: Content of: <p>
 #, fuzzy
 #| msgid ""
 #| "Putting them together sounds simple, but it was not a trivial job. The <A "
@@ -500,6 +501,7 @@ msgstr ""
 "ainda não atingimos esse ponto. As pessoas que desenvolveram as várias "
 "distribuições de sistema deram uma contribuição substancial."
 
+#. type: Content of: <p>
 # | The GNU Project supports GNU/Linux systems as well as <em>the</em> GNU
 # | [-system--even with funds.  We-] {+system.  The <a
 # | href=\"http://fsf.org/\">FSF</a>+} funded the rewriting of the
@@ -508,7 +510,6 @@ msgstr ""
 # | release with no changes.  [-We-]  {+The FSF+} also funded an early stage
 # | of the development of [-<A HREF=\"http://www.debian.org/\">Debian
 # | GNU/Linux</A>.-] {+Debian GNU/Linux.+}
-#. type: Content of: <p>
 #, fuzzy
 #| msgid ""
 #| "The GNU Project supports GNU/Linux systems as well as <em>the</em> GNU "
@@ -553,6 +554,7 @@ msgid ""
 "project/linux\"> free version of Linux</a> too."
 msgstr ""
 
+#. type: Content of: <p>
 # | [-We use Linux-based GNU systems today for most of our work, and we
 # | hope-]{+Whether+} you use [-them too.  But-] {+GNU/Linux or not,+} please
 # | don't confuse the public by using the name [-``Linux''-]
@@ -561,7 +563,6 @@ msgstr ""
 # | or less-] {+basically+} the GNU [-system.-] {+system, with Linux added. 
 # | When you're talking about this combination, please call it
 # | &ldquo;GNU/Linux&rdquo;.+}
-#. type: Content of: <p>
 #, fuzzy
 #| msgid ""
 #| "We use Linux-based GNU systems today for most of our work, and we hope "
@@ -595,6 +596,7 @@ msgstr ""
 msgid "Postscripts"
 msgstr ""
 
+#. type: Content of: <p>
 # | Aside from GNU, one other project has independently produced a free
 # | Unix-like operating system.  This system is known as [-<A
 # | HREF=\"/links/links.html#OtherFreeSoftware\">BSD</A>,-] {+BSD,+} and it
@@ -608,7 +610,6 @@ msgstr ""
 # | operating system that exists [-today-] {+today<a
 # | href=\"#newersystems\">(4)</a>+} is almost certainly either a variant of
 # | the GNU system, or a kind of BSD system.
-#. type: Content of: <p>
 #, fuzzy
 #| msgid ""
 #| "Aside from GNU, one other project has independently produced a free Unix-"
@@ -748,9 +749,9 @@ msgstr ""
 "\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
 "envio de traduções das páginas desse site."
 
+#. type: Content of: <div><p>
 # | Copyright &copy; 1997, 1998, 1999, 2000, 2001, 2002, 2007, [-2014-]
 # | {+2014, 2015, 2016+} Richard M. Stallman
-#. type: Content of: <div><p>
 #, fuzzy
 #| msgid ""
 #| "Copyright &copy; 1997, 1998, 1999, 2000, 2001, 2002, 2007, 2014 Richard "
@@ -760,8 +761,8 @@ msgid ""
 "Richard M. Stallman"
 msgstr "Copyright &copy; 1997, 1998 Richard Stallman"
 
-# || No change detected.  The change might only be in amounts of spaces.
 #. type: Content of: <div><p>
+# || No change detected.  The change might only be in amounts of spaces.
 #, fuzzy
 #| msgid ""
 #| "This page is licensed under a <a rel=\"license\" href=\"http://"

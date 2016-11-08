@@ -123,6 +123,7 @@ msgstr ""
 "documento do Word, este constante e persistente prejuízo à nossa comunidade "
 "não é observado. Mas está acontecendo o tempo todo."
 
+#. type: Content of: <p>
 # | Many GNU users who receive Word documents try to find ways to handle
 # | [-with-] them.  You can manage to find the somewhat obfuscated ASCII text
 # | in the file by skimming through it.  [-There is free-]  {+Free+} software
@@ -131,7 +132,6 @@ msgstr ""
 # | and has not been entirely [-decoded; as long as-] {+decoded.  Even
 # | worse,+} Microsoft [-keeps changing the format, we can't expect these
 # | programs to be perfect.-] {+can change it at any time.+}
-#. type: Content of: <p>
 #, fuzzy
 #| msgid ""
 #| "Many GNU users who receive Word documents try to find ways to handle with "
@@ -166,6 +166,7 @@ msgid ""
 "that free programs are not even allowed to read."
 msgstr ""
 
+#. type: Content of: <p>
 # | [-If-]{+When you receive a Word file, if+} you think of [-the document you
 # | received-] {+that+} as an isolated event, it is natural to try to cope
 # | [-with it on your own.  But when you recognize it-] {+by finding a way to
@@ -174,7 +175,6 @@ msgstr ""
 # | a symptom of [-a chronic illness.  To cure-] {+an epidemic disease; what
 # | we really want to do is stop+} the [-illness,-] {+disease from spreading. 
 # | That means+} we must convince people not to send or post Word documents.
-#. type: Content of: <p>
 #, fuzzy
 #| msgid ""
 #| "If you think of the document you received as an isolated event, it is "
@@ -231,12 +231,12 @@ msgstr ""
 "“netiqueta”, se nós começarmos a sistematicamente levantar a questão com "
 "todos os que nos enviarem arquivos do Word."
 
+#. type: Content of: <p>
 # | To make this effort efficient, you will probably want to develop a canned
 # | reply that you can quickly send each time it is necessary.  I've included
 # | two examples: the version I have been using recently, followed by a new
 # | version that teaches a Word user how to convert to other useful formats. 
 # | {+They are followed by several suggestions sent by other people.+}
-#. type: Content of: <p>
 #, fuzzy
 #| msgid ""
 #| "To make this effort efficient, you will probably want to develop a canned "

@@ -123,6 +123,7 @@ msgstr ""
 "criticar uma pessoa pública, mas com o tratado de Haya, elas não mais "
 "necessariamente lhe protegerão."
 
+#. type: Content of: <p>
 # | Or suppose you publish a statement comparing your prices with your
 # | competitors' prices.  If this is read in Germany, where comparative
 # | advertising is illegal, you could be sued in Germany and the judgment
@@ -130,7 +131,6 @@ msgstr ""
 # | word that this law may have been changed in Germany.  The point is the
 # | same, though&mdash;any country could have such a law, and some other
 # | European countries may still have one.)+}
-#. type: Content of: <p>
 #, fuzzy
 #| msgid ""
 #| "Or suppose you publish a statement comparing your prices with your "
@@ -151,11 +151,11 @@ msgstr ""
 "ilegal, você poderia ser processado na Alemanha e o julgamento trazido de "
 "volta para você onde quer que você esteja."
 
+#. type: Content of: <p>
 # | Or suppose you publish a parody.  If it is read in Korea, you could be
 # | sued there, since Korea does not recognize a right to parody.  {+(Since
 # | the publication of this article, the Korean Supreme Court affirmed the
 # | right to parody, but the general point remains.)+}
-#. type: Content of: <p>
 #, fuzzy
 #| msgid ""
 #| "Or suppose you publish a parody.  If it is read in Korea, you could be "
@@ -512,9 +512,9 @@ msgstr ""
 "\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
 "envio de traduções das páginas desse site."
 
+#. type: Content of: <div><p>
 # | Copyright &copy; 2001 [-Free Software Foundation, Inc.-] {+Richard
 # | Stallman+}
-#. type: Content of: <div><p>
 #, fuzzy
 #| msgid "Copyright &copy; 2001 Free Software Foundation, Inc."
 msgid "Copyright &copy; 2001 Richard Stallman"

@@ -169,6 +169,7 @@ msgstr ""
 "anunciam escandalosamente sistemas “Linux” que são licenciados "
 "individualmente, dando ao usuário tanta liberdade quanto o Microsoft Windows."
 
+#. type: Content of: <p>
 # | People try to justify adding nonfree software in the name of the
 # | &ldquo;popularity of Linux&rdquo;&mdash;in effect, valuing popularity
 # | above freedom.  Sometimes this is openly admitted.  For instance, Wired
@@ -183,7 +184,6 @@ msgstr ""
 # | href=\"http://www.zdnet.com/stallman-love-is-not-free-3002091004/\">
 # | (http://www.zdnet.com/stallman-love-is-not-free-3002091004/)  </a>-]
 # | {+Linux&rdquo;</a>.+}
-#. type: Content of: <p>
 #, fuzzy
 #| msgid ""
 #| "People try to justify adding nonfree software in the name of the &ldquo;"
@@ -459,20 +459,20 @@ msgstr ""
 "\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
 "envio de traduções das páginas desse site."
 
+#. type: Content of: <div><p>
 # | Copyright &copy; 2000, 2006, 2007, [-2014-] {+2014, 2015, 2016+} Richard
 # | Stallman
-#. type: Content of: <div><p>
 #, fuzzy
 #| msgid "Copyright &copy; 2000, 2006, 2007, 2014 Richard Stallman"
 msgid "Copyright &copy; 2000, 2006, 2007, 2014, 2015, 2016 Richard Stallman"
 msgstr "Copyright &copy; 2000, 2006, 2007, 2014 Richard Stallman"
 
+#. type: Content of: <div><p>
 # | This page is licensed under a <a rel=\"license\"
 # | [-href=\"http://creativecommons.org/licenses/by-nd/3.0/us/\">Creative-]
 # | {+href=\"http://creativecommons.org/licenses/by-nd/4.0/\">Creative+}
 # | Commons [-Attribution-NoDerivs 3.0 United States-]
 # | {+Attribution-NoDerivatives 4.0 International+} License</a>.
-#. type: Content of: <div><p>
 #, fuzzy
 #| msgid ""
 #| "This page is licensed under a <a rel=\"license\" href=\"http://"

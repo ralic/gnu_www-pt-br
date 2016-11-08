@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnu.html\n"
-"POT-Creation-Date: 2016-05-04 15:58+0000\n"
+"POT-Creation-Date: 2016-09-29 14:55+0000\n"
 "PO-Revision-Date: 2014-12-23 12:41-0200\n"
 "Last-Translator: Yuri da Silva <yuri.silva.31.charles AT gmail.com>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -23,27 +23,27 @@ msgstr "O Sistema Operacional GNU - Projeto GNU - Free Software Foundation"
 msgid "The GNU Operating System"
 msgstr "O Sistema Operacional GNU"
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><p>
 msgid "<strong>Download distributions</strong>"
 msgstr "<strong>Baixe distribuições</strong>"
 
-#. type: Content of: <blockquote><p><a>
+#. type: Content of: <div><p><a>
 msgid "<a href=\"/distros/free-distros.html\">"
 msgstr "<a href=\"/distros/free-distros.html\">"
 
-#. type: Attribute 'alt' of: <blockquote><p><a><img>
+#. type: Attribute 'alt' of: <div><p><a><img>
 msgid "GNU and Linux"
 msgstr "GNU e Linux"
 
 # type: Content of: <div><p>
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><p>
 msgid "</a>"
 msgstr "</a>"
 
+#. type: Content of: <div><p>
 # | [-If-]{+<em>If+} you're looking for a whole system to install, see our <a
 # | href=\"/distros/free-distros.html\">list of GNU/Linux distributions which
 # | are entirely free [-software</a>.-] {+software</a>.</em>+}
-#. type: Content of: <blockquote><p>
 #, fuzzy
 #| msgid ""
 #| "If you're looking for a whole system to install, see our <a href=\"/"
@@ -150,10 +150,10 @@ msgid ""
 "Shared</a> (1983)"
 msgstr ""
 
+#. type: Content of: <ul><li>
 # | <a [-href=\"/gnu/byte-interview.html\">BYTE interview with Richard
 # | Stallman</a> (1986)-] {+href=\"/gnu/yes-give-it-away.html\">Yes, Give It
 # | Away</a> (1983)+}
-#. type: Content of: <ul><li>
 #, fuzzy
 #| msgid ""
 #| "<a href=\"/gnu/byte-interview.html\">BYTE interview with Richard "
@@ -252,16 +252,16 @@ msgstr ""
 "\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
 "envio de traduções das páginas desse site."
 
+#. type: Content of: <div><p>
 # | Copyright &copy; 2014, [-2015-] {+2015, 2016+} Free Software Foundation,
 # | Inc.
-#. type: Content of: <div><p>
 #, fuzzy
 #| msgid "Copyright &copy; 2014, 2015 Free Software Foundation, Inc."
 msgid "Copyright &copy; 2014, 2015, 2016 Free Software Foundation, Inc."
 msgstr "Copyright &copy; 2014, 2015 Free Software Foundation, Inc."
 
-# || No change detected.  The change might only be in amounts of spaces.
 #. type: Content of: <div><p>
+# || No change detected.  The change might only be in amounts of spaces.
 #, fuzzy
 #| msgid ""
 #| "This page is licensed under a <a rel=\"license\" href=\"http://"

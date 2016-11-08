@@ -152,11 +152,11 @@ msgstr ""
 "<a href=\"/philosophy/open-source-misses-the-point.html\">Por que o “Código "
 "Aberto” não entende a importância do Software Livre</a>"
 
+#. type: Content of: <ul><li>
 # | <a
 # | [-href=\"/philosophy/when_free_software_isnt_practically_better.html\">When-]
 # | {+href=\"/philosophy/when-free-software-isnt-practically-superior.html\">When+}
 # | Free Software Isn't (Practically) [-Better</a>-] {+Superior</a>+}
-#. type: Content of: <ul><li>
 #, fuzzy
 #| msgid ""
 #| "<a href=\"/philosophy/when_free_software_isnt_practically_better.html"
@@ -243,16 +243,16 @@ msgstr ""
 "\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
 "envio de traduções das páginas desse site."
 
+#. type: Content of: <div><p>
 # | Copyright &copy; [-2014, 2015-] {+2013, 2015, 2016+} Free Software
 # | Foundation, Inc.
-#. type: Content of: <div><p>
 #, fuzzy
 #| msgid "Copyright &copy; 2014, 2015 Free Software Foundation, Inc."
 msgid "Copyright &copy; 2013, 2015, 2016 Free Software Foundation, Inc."
 msgstr "Copyright &copy; 2014, 2015 Free Software Foundation, Inc."
 
-# || No change detected.  The change might only be in amounts of spaces.
 #. type: Content of: <div><p>
+# || No change detected.  The change might only be in amounts of spaces.
 #, fuzzy
 #| msgid ""
 #| "This page is licensed under a <a rel=\"license\" href=\"http://"

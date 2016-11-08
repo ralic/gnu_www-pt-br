@@ -10,7 +10,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: free-distros.html\n"
-"POT-Creation-Date: 2016-05-12 18:25+0000\n"
+"POT-Creation-Date: 2016-08-19 08:25+0000\n"
 "PO-Revision-Date: 2014-12-20 17:12-0200\n"
 "Last-Translator: Yuri da Silva <yuri.silva.31.charles AT gmail.com>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -54,13 +54,13 @@ msgstr ""
 "a> como em liberdade. Todas as distribuições a seguir são instaláveis ao "
 "disco rígido; a maioria suporta “Live CD”."
 
+#. type: Content of: <p>
 # | [-We-]{+The Free Software Foundation recommends and endorses these
 # | GNU/Linux distros, although we+} do not try to judge or compare [-these
 # | distros-] {+them+} based on any criterion other than freedom; therefore,
 # | we list them in alphabetical order.  We encourage you to read these brief
 # | descriptions and to consult their respective web sites and other
 # | information to choose the one best for you.
-#. type: Content of: <p>
 #, fuzzy
 #| msgid ""
 #| "We do not try to judge or compare these distros based on any criterion "
@@ -133,12 +133,12 @@ msgid ""
 "than starting a new one."
 msgstr ""
 
+#. type: Content of: <p>
 # | <strong>All of the distributions that follow are installable to a
 # | computer's hard [-drive and-] {+drive;+} most can be run [-live.</strong>
 # | They are listed-] {+live.  Not all hardware works+} in [-alphabetical
 # | order.-] {+the free world; each distro's site should say which hardware it
 # | supports.</strong>+}
-#. type: Content of: <p>
 #, fuzzy
 #| msgid ""
 #| "<strong>All of the distributions that follow are installable to a "
@@ -153,13 +153,13 @@ msgstr ""
 "disco rígido e muitas delas operam sem a necessidade de instalação.</strong> "
 "Elas estão organizadas em ordem alfabética."
 
+#. type: Content of: <p>
 # | We {+endorse these distros only for freedom.  We+} do not try to judge or
 # | compare these distros based on any [-criterion-] other [-than freedom;-]
 # | {+criterion;+} therefore, we list them in alphabetical order.  We
 # | [-encourage-] {+suggest+} you [-to read these brief descriptions and to-]
 # | consult their respective web sites and other information to [-choose the-]
 # | {+judge which+} one [-best-] {+is most convenient+} for you.
-#. type: Content of: <p>
 #, fuzzy
 #| msgid ""
 #| "We do not try to judge or compare these distros based on any criterion "
@@ -202,8 +202,8 @@ msgstr "</a>"
 msgid "BLAG Linux and GNU, a GNU/Linux distribution based on Fedora."
 msgstr "BLAG Linux e GNU, uma distribuição de GNU/Linux baseada no Fedora."
 
-# | <a [-href=\"http://librewrt.org/\">-] {+href=\"http://dragora.org\">+}
 #. type: Content of: <table><tr><td><a>
+# | <a [-href=\"http://librewrt.org/\">-] {+href=\"http://dragora.org\">+}
 #, fuzzy
 #| msgid "<a href=\"http://librewrt.org/\">"
 msgid "<a href=\"http://dragora.org\">"
@@ -237,25 +237,6 @@ msgstr ""
 "Dynebolic, uma distribuição de GNU/Linux com ênfase especial na edição de "
 "áudio e vídeo."
 
-# | <a [-href=\"http://www.gnewsense.org/\">-]
-# | {+href=\"http://www.gnu.org/software/guix/\">+}
-#. type: Content of: <table><tr><td><a>
-#, fuzzy
-#| msgid "<a href=\"http://www.gnewsense.org/\">"
-msgid "<a href=\"http://www.gnu.org/software/guix/\">"
-msgstr "<a href=\"http://www.gnewsense.org/\">"
-
-#. type: Attribute 'alt' of: <table><tr><td><a><img>
-msgid "guix"
-msgstr ""
-
-#. type: Content of: <table><tr><td>
-msgid ""
-"Guix System Distribution is an advanced GNU/Linux distro built on top of GNU "
-"Guix (pronounced &ldquo;geeks&rdquo;), a purely functional package manager "
-"for the GNU system."
-msgstr ""
-
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"http://www.gnewsense.org/\">"
 msgstr "<a href=\"http://www.gnewsense.org/\">"
@@ -271,6 +252,25 @@ msgid ""
 msgstr ""
 "gNewSense, uma distribuição de GNU/Linux baseada no Debian, patrocinada pela "
 "FSF."
+
+#. type: Content of: <table><tr><td><a>
+# | <a [-href=\"http://www.gnewsense.org/\">-]
+# | {+href=\"http://www.gnu.org/software/guix/\">+}
+#, fuzzy
+#| msgid "<a href=\"http://www.gnewsense.org/\">"
+msgid "<a href=\"http://www.gnu.org/software/guix/\">"
+msgstr "<a href=\"http://www.gnewsense.org/\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "guix"
+msgstr ""
+
+#. type: Content of: <table><tr><td>
+msgid ""
+"Guix System Distribution is an advanced GNU/Linux distro built on top of GNU "
+"Guix (pronounced &ldquo;geeks&rdquo;), a purely functional package manager "
+"for the GNU system."
+msgstr ""
 
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"https://musixdistro.wordpress.com/\">"
@@ -360,10 +360,10 @@ msgstr "<a href=\"http://librecmc.org/\">"
 msgid "libreCMC"
 msgstr "libreCMC"
 
+#. type: Content of: <table><tr><td>
 # | libreCMC is an embedded GNU/Linux distro for devices with very limited
 # | resources. While primarily targeting routers, it offers support for a wide
 # | range of devices and use cases. {+In 2015, LibreWRT merged with libreCMC.+}
-#. type: Content of: <table><tr><td>
 #, fuzzy
 #| msgid ""
 #| "libreCMC is an embedded GNU/Linux distro for devices with very limited "
@@ -378,8 +378,8 @@ msgstr ""
 "recursos bastante limitados. Mesmo que seja designado para roteadores, ela "
 "oferece suporte a vários dispositivos e usos."
 
-# | <a [-href=\"http://librecmc.org/\">-] {+href=\"http://proteanos.com/\">+}
 #. type: Content of: <table><tr><td><a>
+# | <a [-href=\"http://librecmc.org/\">-] {+href=\"http://proteanos.com/\">+}
 #, fuzzy
 #| msgid "<a href=\"http://librecmc.org/\">"
 msgid "<a href=\"http://proteanos.com/\">"
@@ -463,6 +463,7 @@ msgstr ""
 "favor, fale aos mantenedores da distribuição sobre essa página e encoraje-os "
 "a nos contatar — nós gostaríamos de ouvi-los."
 
+#. type: Content of: <p>
 # | If you maintain a distribution that follows the <a
 # | href=\"/distros/free-system-distribution-guidelines.html\">Free System
 # | Distribution Guidelines</a> and would like to be listed here, please write
@@ -471,7 +472,6 @@ msgstr ""
 # | introduction and a link to the project Web site.  When you do, we'll
 # | explain more about our evaluation process to you, and get started on it
 # | quickly.  We look forward to hearing from you!
-#. type: Content of: <p>
 #, fuzzy
 #| msgid ""
 #| "If you maintain a distribution that follows the <a href=\"/distros/free-"
@@ -542,20 +542,20 @@ msgstr ""
 "\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
 "envio de traduções das páginas desse site."
 
+#. type: Content of: <div><p>
 # | Copyright &copy; 2014, [-2015-] {+2015, 2016+} Free Software Foundation,
 # | Inc.
-#. type: Content of: <div><p>
 #, fuzzy
 #| msgid "Copyright &copy; 2014, 2015 Free Software Foundation, Inc."
 msgid "Copyright &copy; 2014, 2015, 2016 Free Software Foundation, Inc."
 msgstr "Copyright &copy; 2014, 2015 Free Software Foundation, Inc."
 
+#. type: Content of: <div><p>
 # | This page is licensed under a <a rel=\"license\"
 # | [-href=\"http://creativecommons.org/licenses/by-nd/3.0/us/\">Creative-]
 # | {+href=\"http://creativecommons.org/licenses/by-nd/4.0/\">Creative+}
 # | Commons [-Attribution-NoDerivs 3.0 United States-]
 # | {+Attribution-NoDerivatives 4.0 International+} License</a>.
-#. type: Content of: <div><p>
 #, fuzzy
 #| msgid ""
 #| "This page is licensed under a <a rel=\"license\" href=\"http://"

@@ -85,6 +85,11 @@ msgid "<span class=\"outdated-html-dummy-span\">.</span>"
 msgstr "<span class=\"outdated-html-dummy-span\">.</span>"
 
 # type: Content of: <div><p>
+# | [-Please send broken links and other corrections or suggestions-]{+If you
+# | wish+} to {+help us maintain this page, please contact+} <a
+# | [-href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a>.-]
+# | {+href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</
+# | a>.+}
 #. #endif 
 #. #if expr='${LANGUAGE_SUFFIX} = /^[.](de|es|fr)$/' 
 #. TRANSLATORS: Please replace web-translators@gnu.org with the email address
@@ -97,6 +102,11 @@ msgstr ""
 "Se você quiser nos ajudar a manter esta página, por favor contate <a href="
 "\"mailto:www-pt-br-general@gnu.org\">&lt;www-pt-br-general@gnu.org&gt;</a>."
 
+# | Please see the <a
+# | href=\"/server/standards/README.translations.html\">Translations
+# | README</a> [-to find out how you can help with updating-] {+for
+# | information on maintaining translations of+} this [-translation.-]
+# | {+article.+}
 #. #else 
 #. type: Content of: outside any tag (error?)
 msgid ""

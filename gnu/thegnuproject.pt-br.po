@@ -48,11 +48,11 @@ msgstr ""
 "do “código aberto”</a>, mas contribuiu com este artigo para que as ideias do "
 "movimento de software livre não fossem totalmente ausente daquele livro."
 
+#. type: Content of: <blockquote><p>
 # | Why it is even more important than ever <a
 # | [-href=\"/philosophy/free-software-even-more-important.html\">insist-]
 # | {+href=\"/philosophy/free-software-even-more-important.html\">to insist+}
 # | that the software we use be free</a>.
-#. type: Content of: <blockquote><p>
 #, fuzzy
 #| msgid ""
 #| "Why it is even more important than ever <a href=\"/philosophy/free-"
@@ -2267,9 +2267,9 @@ msgstr ""
 "\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
 "envio de traduções das páginas desse site."
 
+#. type: Content of: <div><p>
 # | Copyright &copy; 1998, 2001, 2002, 2005, 2006, 2007, 2008, 2010, [-2014-]
 # | {+2014, 2015+} Richard Stallman
-#. type: Content of: <div><p>
 #, fuzzy
 #| msgid ""
 #| "Copyright &copy; 1998, 2001, 2002, 2005, 2006, 2007, 2008, 2010, 2014 "
@@ -2281,8 +2281,8 @@ msgstr ""
 "Copyright &copy; 1998, 2001, 2002, 2005, 2006, 2007, 2008, 2010, 2014 "
 "Richard Stallman"
 
-# || No change detected.  The change might only be in amounts of spaces.
 #. type: Content of: <div><p>
+# || No change detected.  The change might only be in amounts of spaces.
 #, fuzzy
 #| msgid ""
 #| "This page is licensed under a <a rel=\"license\" href=\"http://"

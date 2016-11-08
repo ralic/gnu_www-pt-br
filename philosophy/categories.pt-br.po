@@ -38,13 +38,14 @@ msgstr ""
 "Veja também <a href=\"/philosophy/words-to-avoid.html\">Palavras confusas "
 "que você poderia evitar</a>."
 
-# | {+[+}Categories of [-free and nonfree software-] {+software]+}
 #. type: Attribute 'alt' of: <p><img>
+# | {+[+}Categories of [-free and nonfree software-] {+software]+}
 #, fuzzy
 #| msgid "Categories of free and nonfree software"
 msgid "[Categories of software]"
 msgstr "Categorias de softwares livres e não-livres"
 
+#. type: Content of: <p>
 # | This [-diagram-] {+diagram, originally+} by Chao-Kuei {+and updated by
 # | several others since,+} explains the different categories of software.
 # | It's available as a <a href=\"/philosophy/category.svg\">Scalable Vector
@@ -52,7 +53,6 @@ msgstr "Categorias de softwares livres e não-livres"
 # | document</a>, under the terms of any of the GNU GPL v2 or later, the GNU
 # | FDL v1.2 or later, or the Creative Commons Attribution-Share Alike v2.0 or
 # | later.
-#. type: Content of: <p>
 #, fuzzy
 #| msgid ""
 #| "This diagram by Chao-Kuei explains the different categories of software. "
@@ -103,13 +103,13 @@ msgstr ""
 "operacional livre, como o GNU, ou versões livres como o sistema <a href=\"/"
 "gnu/linux-and-gnu.html\">GNU/Linux</a>."
 
+#. type: Content of: <p>
 # | There are many different ways to make a program [-free---many-]
 # | {+free&mdash;many+} questions of detail, which could be decided in more
 # | than one way and still make the program free. Some of the possible
 # | variations are described below. {+For information on specific free
 # | software licenses, see the <a href=\"/licenses/license-list.html\">license
 # | list</a> page.+}
-#. type: Content of: <p>
 #, fuzzy
 #| msgid ""
 #| "There are many different ways to make a program free---many questions of "
@@ -127,6 +127,7 @@ msgstr ""
 "tornariam o programa livre. Algumas das possíveis variações são descritas "
 "abaixo."
 
+#. type: Content of: <p>
 # | Free software is a matter of freedom, not price. But proprietary software
 # | companies [-sometimes-] {+typically+} use the term [-``free software''-]
 # | {+&ldquo;free software&rdquo;+} to refer to price. Sometimes they mean
@@ -134,7 +135,6 @@ msgstr ""
 # | copy is [-included on-] {+bundled with+} a computer that you are [-buying.
 # |  This-] {+buying, and the price includes both.  Either way, it+} has
 # | nothing to do with what we mean by free software in the GNU project.
-#. type: Content of: <p>
 #, fuzzy
 #| msgid ""
 #| "Free software is a matter of freedom, not price.  But proprietary "
@@ -172,6 +172,7 @@ msgstr ""
 "para ver se os usuários realmente possuem todas as liberdades que o software "
 "livre implica. Às vezes o software é mesmo livre; às vezes, não é."
 
+#. type: Content of: <p>
 # | Many languages have two separate words for [-``free''-]
 # | {+&ldquo;free&rdquo;+} as in freedom and [-``free''-]
 # | {+&ldquo;free&rdquo;+} as in zero price. For example, French has
@@ -186,7 +187,6 @@ msgstr ""
 # | \"/philosophy/fs-translations.html\"> translations+} of the term [-\"free
 # | software\"</a>-] {+&ldquo;free software&rdquo;</a>+} into various other
 # | languages.
-#. type: Content of: <p>
 #, fuzzy
 #| msgid ""
 #| "Many languages have two separate words for ``free'' as in freedom and "
@@ -229,6 +229,7 @@ msgstr ""
 msgid "Open source software"
 msgstr "Código aberto (open source)"
 
+#. type: Content of: <p>
 # | The term [-``open source''-] {+&ldquo;open source&rdquo;+} software is
 # | used by some people to mean more or less the same [-thing-] {+category+}
 # | as free software. [-We prefer-] {+It is not exactly+} the [-term ``<a
@@ -239,7 +240,6 @@ msgstr "Código aberto (open source)"
 # | [-reasons.-] {+differences in extension of the category are small: nearly
 # | all free software is open source, and nearly all open source software is
 # | free.+}
-#. type: Content of: <p>
 #, fuzzy
 #| msgid ""
 #| "The term ``open source'' software is used by some people to mean more or "
@@ -270,11 +270,11 @@ msgstr ""
 msgid "Public domain software"
 msgstr "Domínio público"
 
+#. type: Content of: <p>
 # | Public domain software is software that is not copyrighted. [-It-] {+If
 # | the source code is in the public domain, that+} is a special case of <a
 # | href=\"#Non-CopyleftedFreeSoftware\">non[---]copylefted free software</a>,
 # | which means that some copies or modified versions may not be free at all.
-#. type: Content of: <p>
 #, fuzzy
 #| msgid ""
 #| "Public domain software is software that is not copyrighted. It is a "
@@ -331,6 +331,7 @@ msgstr ""
 msgid "Copylefted software"
 msgstr "Software com copyleft"
 
+#. type: Content of: <p>
 # | Copylefted software is free software whose distribution terms [-do notlet
 # | redistributors add any additional restrictions when they redistribute-]
 # | {+ensure that all copies of all versions carry more+} or [-modify-]
@@ -342,7 +343,6 @@ msgstr "Software com copyleft"
 # | {+allowed) and require making source code available.  This shields the
 # | program, and its modified versions, from some of the common ways of making
 # | a program proprietary.+}
-#. type: Content of: <p>
 #, fuzzy
 #| msgid ""
 #| "Copylefted software is free software whose distribution terms do notlet "
@@ -432,6 +432,7 @@ msgstr ""
 "executável na forma de um produto <a href=\"#ProprietarySoftware"
 "\">proprietário</a>."
 
+#. type: Content of: <p>
 # | The <a href=\"http://www.x.org\">X Window System</a> illustrates this. 
 # | The X Consortium release[-s-]{+d+} X11 with distribution terms that
 # | ma[-k-]{+d+}e it non[---]copylefted free [-software.  If you wish, you can
@@ -444,7 +445,6 @@ msgstr ""
 # | {+<a href=\"/philosophy/x.html\">The developers of X11 even made X11
 # | nonfree</a> for a while; they were able to do this because others had
 # | contributed their code under the same noncopyleft license.+}
-#. type: Content of: <p>
 #, fuzzy
 #| msgid ""
 #| "The <a href=\"http://www.x.org\">X Window System</a> illustrates this.  "
@@ -510,11 +510,11 @@ msgstr ""
 msgid "The GNU operating system"
 msgstr "O sistema GNU"
 
+#. type: Content of: <p>
 # | The <a href=\"/gnu/gnu-history.html\">GNU {+operating+} system</a> is [-a
 # | complete free-] {+the+} Unix-like operating [-system.-] {+system, which is
 # | entirely free software, that we in the GNU Project have developed since
 # | 1984.+}
-#. type: Content of: <p>
 #, fuzzy
 #| msgid ""
 #| "The <a href=\"/gnu/gnu-history.html\">GNU system</a> is a complete free "
@@ -527,12 +527,12 @@ msgstr ""
 "O <a href=\"/gnu/gnu-history.html\">sistema GNU</a> é um sistema operacional "
 "livre completo, estilo Unix."
 
+#. type: Content of: <p>
 # | A Unix-like operating system consists of many programs. The GNU system
 # | includes all {+of+} the {+<a href=\"#GNUsoftware\">official+} GNU
 # | [-software, as well as-] {+packages</a>.  It also includes+} many other
 # | packages{+,+} such as the X Window System and TeX{+,+} which are not GNU
 # | software.
-#. type: Content of: <p>
 #, fuzzy
 #| msgid ""
 #| "A Unix-like operating system consists of many programs.  The GNU system "
@@ -548,6 +548,7 @@ msgstr ""
 "GNUinclui todo o <a href=\"#GNUsoftware\">software GNU</a>, bem como muitos "
 "outros pacotes como o X Window System e TeX, que não são software GNU."
 
+#. type: Content of: <p>
 # | [-We have been developing and accumulating components for the GNU system
 # | since 1984; the-]{+The+} first test release of [-a ``complete-] {+the
 # | complete+} GNU [-system''-] {+system+} was in 1996.  [-Today, in 2001,-] 
@@ -563,7 +564,6 @@ msgstr ""
 # | static set of programs; users and distributors may select different
 # | packages according to their needs and desires.  The result is still a
 # | variant of the GNU system.+}
-#. type: Content of: <p>
 #, fuzzy
 #| msgid ""
 #| "We have been developing and accumulating components for the GNU system "
@@ -607,10 +607,10 @@ msgstr ""
 msgid "GNU programs"
 msgstr "Programas GNU"
 
+#. type: Content of: <p>
 # | &ldquo;GNU programs&rdquo; is equivalent to <a href=\"#GNUsoftware\">GNU
 # | software.</a> A program Foo is a GNU program if it is GNU software.  {+We
 # | also sometimes say it is a &ldquo;GNU package&rdquo;.+}
-#. type: Content of: <p>
 #, fuzzy
 #| msgid ""
 #| "&ldquo;GNU programs&rdquo; is equivalent to <a href=\"#GNUsoftware\">GNU "
@@ -627,6 +627,7 @@ msgstr ""
 msgid "GNU software"
 msgstr "Software GNU"
 
+#. type: Content of: <p>
 # | <a href=\"/software/software.html\">GNU software</a> is software that is
 # | released under the auspices of the <a href={+
 # | +}\"/gnu/gnu-history.html\">GNU Project</a>. If a program is GNU software,
@@ -634,7 +635,6 @@ msgstr "Software GNU"
 # | README or manual of a GNU package should say it is one; also, the <a
 # | href=\"/directory\">Free Software Directory</a> identifies all GNU
 # | packages.+}
-#. type: Content of: <p>
 #, fuzzy
 #| msgid ""
 #| "<a href=\"/software/software.html\">GNU software</a> is software that is "
@@ -664,6 +664,7 @@ msgstr ""
 "\">distribuído sob copyleft</a>, mas nem todo; contudo, todo software GNU "
 "deve ser <a href=\"/philosophy/free-sw.html\">software livre</a>."
 
+#. type: Content of: <p>
 # | Some GNU software was written by <a href={+
 # | +}\"http://www.fsf.org/about/staff/\">staff</a> of the <a
 # | [-href=\"/fsf/fsf.html\">Free-] {+href=\"http://www.fsf.org/\">Free+}
@@ -673,7 +674,6 @@ msgstr ""
 # | they are volunteers for us.)+}  Some contributed software is copyrighted
 # | by the Free Software Foundation; some is copyrighted by the contributors
 # | who wrote it.
-#. type: Content of: <p>
 #, fuzzy
 #| msgid ""
 #| "Some GNU software was written by <a href=\"http://www.fsf.org/about/staff/"
@@ -777,10 +777,10 @@ msgstr ""
 "operacionais não-livres, e qualquer novo computador que instalamos precisa "
 "rodar um sistema operacional completamente livre."
 
+#. type: Content of: <p>
 # | We don't insist that users of GNU, or contributors to GNU, have to live by
 # | this rule. It is a rule we made for ourselves. But we hope you will
 # | [-decide to-] follow it [-too.-] {+too, for your freedom's sake.+}
-#. type: Content of: <p>
 #, fuzzy
 #| msgid ""
 #| "We don't insist that users of GNU, or contributors to GNU, have to live "
@@ -912,6 +912,7 @@ msgstr ""
 "\"#ProprietarySoftware\">proprietária</a>, mas existem softwares livres "
 "comerciais, e softwares não-comerciais e não-livres."
 
+#. type: Content of: <p>
 # | For example, GNU Ada is {+developed by a company.  It is+} always
 # | distributed under the terms of the GNU GPL, and every copy is free
 # | software; but its developers sell support contracts. When their salesmen
@@ -920,7 +921,6 @@ msgstr ""
 # | {+compiler.&rdquo;+} The salesmen reply, [-``GNU-] {+&ldquo;GNU+} Ada
 # | <em>is</em> a commercial compiler; it happens to be free [-software.''-]
 # | {+software.&rdquo;+}
-#. type: Content of: <p>
 #, fuzzy
 #| msgid ""
 #| "For example, GNU Ada is always distributed under the terms of the GNU "
@@ -944,12 +944,12 @@ msgstr ""
 "comercial”. Os vendedores respondem, “GNU Ada <em>é</em> um compilador "
 "comercial, apenas acontece de ser um software livre”."
 
+#. type: Content of: <p>
 # | For the GNU Project, the [-emphasis is-] {+priorities are+} in the other
 # | order: the important thing is that GNU Ada is free software; [-whether-]
 # | {+that+} it is commercial is [-not-] {+just+} a [-crucial question.-]
 # | {+detail.+} However, the additional development of GNU Ada that results
 # | from its being commercial {+is definitely beneficial.+}
-#. type: Content of: <p>
 #, fuzzy
 #| msgid ""
 #| "For the GNU Project, the emphasis is in the other order: the important "
@@ -1030,12 +1030,12 @@ msgid ""
 "2016 Free Software Foundation, Inc."
 msgstr "Copyright &copy; 1996, 1997, 1998, 2001 Free Software Foundation, Inc."
 
+#. type: Content of: <div><p>
 # | This page is licensed under a <a rel=\"license\"
 # | [-href=\"http://creativecommons.org/licenses/by-nd/3.0/us/\">Creative-]
 # | {+href=\"http://creativecommons.org/licenses/by-nd/4.0/\">Creative+}
 # | Commons [-Attribution-NoDerivs 3.0 United States-]
 # | {+Attribution-NoDerivatives 4.0 International+} License</a>.
-#. type: Content of: <div><p>
 #, fuzzy
 #| msgid ""
 #| "This page is licensed under a <a rel=\"license\" href=\"http://"

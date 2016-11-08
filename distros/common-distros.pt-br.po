@@ -183,6 +183,7 @@ msgstr ""
 msgid "Debian GNU/Linux"
 msgstr "Debian GNU/Linux"
 
+#. type: Content of: <p>
 # | Debian's Social Contract states the goal of making Debian entirely free
 # | software, and Debian conscientiously keeps nonfree software out of the
 # | official Debian system.  However, Debian also provides a repository of
@@ -191,7 +192,6 @@ msgstr "Debian GNU/Linux"
 # | the project's main servers, and people can readily [-learn about-]
 # | {+find+} these nonfree packages by browsing Debian's online package
 # | [-database.-] {+database and its wiki.+}
-#. type: Content of: <p>
 #, fuzzy
 #| msgid ""
 #| "Debian's Social Contract states the goal of making Debian entirely free "
@@ -271,9 +271,9 @@ msgstr ""
 msgid "Gentoo GNU/Linux"
 msgstr "Gentoo GNU/Linux"
 
+#. type: Content of: <p>
 # | Gentoo [-makes it easy to install-] {+includes installation recipes for+}
 # | a number of nonfree programs [-through-] {+in+} its primary package system.
-#. type: Content of: <p>
 #, fuzzy
 #| msgid ""
 #| "Gentoo makes it easy to install a number of nonfree programs through its "
@@ -324,11 +324,11 @@ msgstr ""
 msgid "openSUSE"
 msgstr "openSUSE"
 
+#. type: Content of: <p>
 # | openSUSE offers [-its users access to-] a repository of nonfree software. 
 # | This is an instance of how <a
 # | href=\"/philosophy/open-source-misses-the-point.html\"> &ldquo;open&rdquo;
 # | is weaker than &ldquo;free&rdquo;</a>.
-#. type: Content of: <p>
 #, fuzzy
 #| msgid ""
 #| "openSUSE offers its users access to a repository of nonfree software.  "
@@ -366,6 +366,7 @@ msgstr ""
 msgid "Slackware"
 msgstr "Slackware"
 
+#. type: Content of: <p>
 # | Slackware has the two usual problems: there's no clear policy about what
 # | software can be included, and nonfree blobs are included in Linux, the
 # | kernel.  It also ships with the nonfree image-viewing program xv.  Of
@@ -373,7 +374,6 @@ msgstr "Slackware"
 # | get+} in [-place, there might be other-] {+at any time.  There is an <a
 # | href=\"http://freeslack.net/\">unofficial list</a> of+} nonfree software
 # | [-included that we missed.-] {+in Slackware.+}
-#. type: Content of: <p>
 #, fuzzy
 #| msgid ""
 #| "Slackware has the two usual problems: there's no clear policy about what "
@@ -632,20 +632,20 @@ msgstr ""
 "\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
 "envio de traduções das páginas desse site."
 
+#. type: Content of: <div><p>
 # | Copyright &copy; 2014, [-2015-] {+2015, 2016+} Free Software Foundation,
 # | Inc.
-#. type: Content of: <div><p>
 #, fuzzy
 #| msgid "Copyright &copy; 2014, 2015 Free Software Foundation, Inc."
 msgid "Copyright &copy; 2014, 2015, 2016 Free Software Foundation, Inc."
 msgstr "Copyright &copy; 2014, 2015 Free Software Foundation, Inc."
 
+#. type: Content of: <div><p>
 # | This page is licensed under a <a rel=\"license\"
 # | [-href=\"http://creativecommons.org/licenses/by-nd/3.0/us/\">Creative-]
 # | {+href=\"http://creativecommons.org/licenses/by-nd/4.0/\">Creative+}
 # | Commons [-Attribution-NoDerivs 3.0 United States-]
 # | {+Attribution-NoDerivatives 4.0 International+} License</a>.
-#. type: Content of: <div><p>
 #, fuzzy
 #| msgid ""
 #| "This page is licensed under a <a rel=\"license\" href=\"http://"

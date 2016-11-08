@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: copyleft.html\n"
-"POT-Creation-Date: 2014-04-04 23:58+0000\n"
+"POT-Creation-Date: 2016-11-01 17:55+0000\n"
 "PO-Revision-Date: 2015-01-20 21:20+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -33,9 +33,10 @@ msgstr "O Que é “Esquerdo de Cópia” (Copyleft)?"
 
 #. type: Content of: <p>
 msgid ""
-"Copyleft is a general method for making a program (or other work) free, and "
-"requiring all modified and extended versions of the program to be free as "
-"well."
+"Copyleft is a general method for making a program (or other work) free (<a "
+"href=\"/philosophy/free-sw.html\">in the sense of freedom, not &ldquo;zero "
+"price&rdquo;</a>), and requiring all modified and extended versions of the "
+"program to be free as well."
 msgstr ""
 
 #. type: Content of: <p>
@@ -62,15 +63,35 @@ msgstr ""
 "intermediário eliminou estas liberdades."
 
 #. type: Content of: <p>
+# | In the <a href=\"/gnu/thegnuproject.html\">GNU project</a>, our aim is to
+# | give <em>all</em> users the freedom to redistribute and change GNU
+# | software.  If middlemen could strip off the freedom, [-we-] {+our code+}
+# | might [-have-] {+&ldquo;have+} many [-users,-] {+users,&rdquo;+} but
+# | [-those users-] {+it+} would not [-have-] {+give them+} freedom.  So
+# | instead of putting GNU software in the public domain, we
+# | &ldquo;copyleft&rdquo; it.  Copyleft says that anyone who redistributes
+# | the software, with or without changes, must pass along the freedom to
+# | further copy and change it.  Copyleft guarantees that every user has
+# | freedom.
+#, fuzzy
+#| msgid ""
+#| "In the <a href=\"/gnu/thegnuproject.html\">GNU project</a>, our aim is to "
+#| "give <em>all</em> users the freedom to redistribute and change GNU "
+#| "software.  If middlemen could strip off the freedom, we might have many "
+#| "users, but those users would not have freedom.  So instead of putting GNU "
+#| "software in the public domain, we &ldquo;copyleft&rdquo; it.  Copyleft "
+#| "says that anyone who redistributes the software, with or without changes, "
+#| "must pass along the freedom to further copy and change it.  Copyleft "
+#| "guarantees that every user has freedom."
 msgid ""
 "In the <a href=\"/gnu/thegnuproject.html\">GNU project</a>, our aim is to "
 "give <em>all</em> users the freedom to redistribute and change GNU "
-"software.  If middlemen could strip off the freedom, we might have many "
-"users, but those users would not have freedom.  So instead of putting GNU "
-"software in the public domain, we &ldquo;copyleft&rdquo; it.  Copyleft says "
-"that anyone who redistributes the software, with or without changes, must "
-"pass along the freedom to further copy and change it.  Copyleft guarantees "
-"that every user has freedom."
+"software.  If middlemen could strip off the freedom, our code might &ldquo;"
+"have many users,&rdquo; but it would not give them freedom.  So instead of "
+"putting GNU software in the public domain, we &ldquo;copyleft&rdquo; it.  "
+"Copyleft says that anyone who redistributes the software, with or without "
+"changes, must pass along the freedom to further copy and change it.  "
+"Copyleft guarantees that every user has freedom."
 msgstr ""
 "No <a href=\"/gnu/thegnuproject.html\">Projeto GNU</a>, nosso objetivo é dar "
 "a <em>todos</em> os usuários a liberdade de redistribuir e modificar o "
@@ -121,6 +142,12 @@ msgstr ""
 "software livre em vez de jogá-lo fora."
 
 #. type: Content of: <p>
+# | To copyleft a program, [-first-] we [-copyright it;-] {+first state that
+# | it is copyrighted;+} then we add distribution terms, which are a legal
+# | instrument that gives everyone the rights to use, modify, and redistribute
+# | the program's code{+,+} <em>or any program derived from it</em>{+,+} but
+# | only if the distribution terms are unchanged.  Thus, the code and the
+# | freedoms become legally inseparable.
 #, fuzzy
 #| msgid ""
 #| "To copyleft a program, first we copyright it; then we add distribution "
@@ -158,11 +185,23 @@ msgid ""
 "Copyleft is a way of using of the copyright on the program.  It doesn't mean "
 "abandoning the copyright; in fact, doing so would make copyleft impossible.  "
 "The &ldquo;left&rdquo; in &ldquo;copyleft&rdquo; is not a reference to the "
-"verb &ldquo;to leave&rdquo;&mdash;only to the direction which is the inverse "
-"of &ldquo;right&rdquo;."
+"verb &ldquo;to leave&rdquo;&mdash;only to the direction which is the mirror "
+"image of &ldquo;right&rdquo;."
 msgstr ""
 
 #. type: Content of: <p>
+# | Copyleft is a general [-concept; there are many ways to fill in-]
+# | {+concept, and you can't use a general concept directly; you can only use
+# | a specific implementation of+} the [-details.-] {+concept.+}  In the GNU
+# | Project, the specific distribution terms that we use {+for most software+}
+# | are contained in the <a href=\"/copyleft/gpl.html\">GNU General Public
+# | License (available in HTML</a>, <a href=\"/copyleft/gpl.txt\">text</a>,
+# | and <a href=\"/copyleft/gpl.texi\">Texinfo</a> format).  The GNU General
+# | Public License is often called the GNU GPL for short. {+There is also a <a
+# | href=\"/copyleft/gpl-faq.html\">Frequently Asked Questions</a> page about
+# | the GNU GPL.  You can also read about <a
+# | href=\"/copyleft/why-assign.html\">why the FSF gets copyright assignments
+# | from contributors</a>.+}
 #, fuzzy
 #| msgid ""
 #| "Copyleft is a general concept; there are many ways to fill in the "
@@ -201,6 +240,20 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <p>
+# | [-An alternate-]{+A compromise+} form of copyleft, the <a
+# | [-href=\"/copyleft/lesser.html\">GNU-]
+# | {+href=\"/licenses/lgpl.html\">GNU+} Lesser General Public License (LGPL)
+# | (available in HTML</a>, <a [-href=\"/copyleft/lesser.txt\">text</a>,-]
+# | {+href=\"/licenses/lgpl.txt\">text</a>,+} and <a
+# | [-href=\"/copyleft/lesser.texi\">Texinfo</a>-]
+# | {+href=\"/licenses/lgpl.texi\">Texinfo</a>+} format), applies to a few
+# | (but not all) GNU libraries. [-This license was formerly called the
+# | Library GPL, but we changed the name, because the old name encouraged to
+# | use this license-] {+To learn+} more [-often than it should be used. For
+# | an explanation of why this change was necessary,-] {+about properly using
+# | the LGPL, please+} read the article <a
+# | href=\"/philosophy/why-not-lgpl.html\"><cite>Why you shouldn't use the
+# | [-Library-] {+Lesser+} GPL for your next library</cite></a>.
 #, fuzzy
 #| msgid ""
 #| "An alternate form of copyleft, the  <a href=\"/copyleft/lesser.html\">GNU "
@@ -271,6 +324,14 @@ msgstr ""
 "façam referências adequadas à licença."
 
 #. type: Content of: <p>
+# | Using the same distribution terms for many different programs makes it
+# | easy to copy code between various different programs.  [-Since-]  {+When+}
+# | they all have the same distribution terms, there is no [-need to think
+# | about whether the terms are compatible.-] {+problem.+}  The Lesser GPL,
+# | version 2, includes a provision that lets you alter the distribution terms
+# | to the ordinary GPL, so that you can copy code into another program
+# | covered by the GPL.  {+Version 3 of the Lesser GPL is built as an
+# | exception added to GPL version 3, making the compatibility automatic.+}
 #, fuzzy
 #| msgid ""
 #| "Using the same distribution terms for many different programs makes it "
@@ -297,6 +358,11 @@ msgstr ""
 "programa coberto pela GPL."
 
 #. type: Content of: <p>
+# | If you would like to copyleft your program with the GNU GPL or the GNU
+# | LGPL, please see the <a href=\"/copyleft/gpl-howto.html\">license
+# | instructions [-page</a>.-] {+page</a> for advice.  Please note that you
+# | must use the entire text of the license you choose.  Each is an integral
+# | whole, and partial copies are not permitted.+}
 #, fuzzy
 #| msgid ""
 #| "If you would like to copyleft your program with the GNU GPL or the GNU "
@@ -314,6 +380,10 @@ msgstr ""
 "\">instruções para usar essas licenças</a>."
 
 #. type: Content of: <p>
+# | If you would like to copyleft your manual with the GNU FDL, please see the
+# | instructions at the <a href=\"/copyleft/fdl.html#addendum\">end</a> of the
+# | FDL text, and the <a href=\"/copyleft/fdl-howto.html\">GFDL instructions
+# | page</a>.  {+Again, partial copies are not permitted.+}
 #, fuzzy
 #| msgid ""
 #| "If you would like to copyleft your manual with the GNU FDL, please see "
@@ -394,17 +464,34 @@ msgstr ""
 "envio de traduções das páginas desse site."
 
 #. type: Content of: <div><p>
+# | Copyright &copy; 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004,
+# | 2005, 2006, 2007, 2008, 2009, [-2014-] {+2014, 2015, 2016+} Free Software
+# | Foundation, Inc.
+#, fuzzy
+#| msgid ""
+#| "Copyright &copy; 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, "
+#| "2005, 2006, 2007, 2008, 2009, 2014 Free Software Foundation, Inc."
 msgid ""
 "Copyright &copy; 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, "
-"2006, 2007, 2008, 2009, 2014 Free Software Foundation, Inc."
+"2006, 2007, 2008, 2009, 2014, 2015, 2016 Free Software Foundation, Inc."
 msgstr ""
 "Copyright &copy; 1996, 1997, 1998, 1999, 2000 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
+# | This page is licensed under a <a rel=\"license\"
+# | [-href=\"http://creativecommons.org/licenses/by-nd/3.0/us/\">Creative-]
+# | {+href=\"http://creativecommons.org/licenses/by-nd/4.0/\">Creative+}
+# | Commons [-Attribution-NoDerivs 3.0 United States-]
+# | {+Attribution-NoDerivatives 4.0 International+} License</a>.
+#, fuzzy
+#| msgid ""
+#| "This page is licensed under a <a rel=\"license\" href=\"http://"
+#| "creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
+#| "NoDerivs 3.0 United States License</a>."
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-"NoDerivs 3.0 United States License</a>."
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
 msgstr ""
 "Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
 "creativecommons.org/licenses/by-nd/3.0/us/deed.pt_BR\">Creative Commons "

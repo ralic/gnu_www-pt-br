@@ -176,12 +176,12 @@ msgstr ""
 "que não requeiram reduzir nossa liberdade e podem até mesmo mesmo legalizar "
 "o compartilhamento. Dois métodos que tenho sugerido são:"
 
+#. type: Content of: <ul><li>
 # | To distribute tax funds to authors based on the cube root of each author's
 # | [-popularity. See <a
 # | href=\"http://stallman.org/articles/internet-sharing-license.en.html\">
 # | http://stallman.org/articles/internet-sharing-license.en.html</a>.-]
 # | {+popularity.<a href=\"#footnote1\">[1]</a>+}
-#. type: Content of: <ul><li>
 #, fuzzy
 #| msgid ""
 #| "To distribute tax funds to authors based on the cube root of each "
@@ -221,8 +221,8 @@ msgstr ""
 "Junte-se à luta: subscreva-se em <a href=\"http://DefectiveByDesign.org/"
 "ebooks.html\">http://DefectiveByDesign.org/ebooks.html</a>."
 
-# || No change detected.  The change might only be in amounts of spaces.
 #. type: Content of: <h4>
+# || No change detected.  The change might only be in amounts of spaces.
 #, fuzzy
 #| msgid "Footnotes"
 msgid "Footnotes"
@@ -289,15 +289,15 @@ msgstr ""
 "\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
 "envio de traduções das páginas desse site."
 
-# | Copyright &copy; [-2011-] {+2011, 2014, 2015, 2016+} Richard Stallman
 #. type: Content of: <div><p>
+# | Copyright &copy; [-2011-] {+2011, 2014, 2015, 2016+} Richard Stallman
 #, fuzzy
 #| msgid "Copyright &copy; 2011 Richard Stallman"
 msgid "Copyright &copy; 2011, 2014, 2015, 2016 Richard Stallman"
 msgstr "Copyright &copy; 2011 Richard Stallman"
 
-# || No change detected.  The change might only be in amounts of spaces.
 #. type: Content of: <div><p>
+# || No change detected.  The change might only be in amounts of spaces.
 #, fuzzy
 #| msgid ""
 #| "This page is licensed under a <a rel=\"license\" href=\"http://"

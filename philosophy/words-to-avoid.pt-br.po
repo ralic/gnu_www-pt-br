@@ -9,7 +9,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: words-to-avoid.html\n"
-"POT-Creation-Date: 2016-10-18 22:30-0200\n"
+"POT-Creation-Date: 2016-10-04 05:56+0000\n"
 "PO-Revision-Date: 2016-10-18 23:57-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -56,67 +56,67 @@ msgstr ""
 "Software Livre</a>, <a href=\"/philosophy/why-call-it-the-swindle.html\">Por "
 "Que Chamá-lo de Swindle?</a>"
 
-#. GNUN-SORT-START
+#.  GNUN-SORT-START 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#Ad-blocker\">Ad-blocker</a>&rdquo; |"
 msgstr "“<a href=\"#Ad-blocker\">Ad-blocker</a>” |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#Access\">Access</a>&rdquo; |"
 msgstr "“<a href=\"#Access\">Acesso</a>” |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#Alternative\">Alternative</a>&rdquo; |"
 msgstr "“<a href=\"#Alternative\">Alternativa</a>” |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#Assets\">Assets</a>&rdquo; |"
 msgstr "“<a href=\"#Assets\">Ativos</a>” |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#BSD-style\">BSD-style</a>&rdquo; |"
 msgstr "“<a href=\"#BSD-style\">do tipo BSD</a>” |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#Closed\">Closed</a>&rdquo; |"
 msgstr "“<a href=\"#Closed\">Fechado</a>” |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#CloudComputing\">Cloud Computing</a>&rdquo; |"
 msgstr "“<a href=\"#CloudComputing\">Computação em Nuvem</a>” |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#Commercial\">Commercial</a>&rdquo; |"
 msgstr "“<a href=\"#Commercial\">Comercial</a>” |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#Compensation\">Compensation</a>&rdquo; |"
 msgstr "“<a href=\"#Compensation\">Compensação</a>” |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#Consume\">Consume</a>&rdquo; |"
 msgstr "“<a href=\"#Consume\">Consumo</a>” |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#Consumer\">Consumer</a>&rdquo; |"
 msgstr "“<a href=\"#Consumer\">Consumidor</a>” |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#Content\">Content</a>&rdquo; |"
 msgstr "“<a href=\"#Content\">Conteúdo</a>” |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid ""
 "&ldquo;<a href=\"#CreativeCommonsLicensed\">Creative Commons licensed</"
@@ -124,22 +124,22 @@ msgid ""
 msgstr ""
 "“<a href=\"#CreativeCommonsLicensed\">licenciado em Creative Commons</a>” |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#Creator\">Creator</a>&rdquo; |"
 msgstr "“<a href=\"#Creator\">Criador</a>” |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#DigitalGoods\">Digital Goods</a>&rdquo; |"
 msgstr "“<a href=\"#DigitalGoods\">Bens Digitais</a>” |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#DigitalLocks\">Digital Locks</a>&rdquo; |"
 msgstr "“<a href=\"#DigitalLocks\">Cadeados Digitais</a>” |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid ""
 "&ldquo;<a href=\"#DigitalRightsManagement\">Digital Rights Management</"
@@ -147,174 +147,174 @@ msgid ""
 msgstr ""
 "“<a href=\"#DigitalRightsManagement\">Gestão de Direitos Digitais</a>” |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#Ecosystem\">Ecosystem</a>&rdquo; |"
 msgstr "“<a href=\"#Ecosystem\">Ecossistema</a>” |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#FLOSS\">FLOSS</a>&rdquo; |"
 msgstr "“<a href=\"#FLOSS\">FLOSS</a>” |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#ForFree\">For free</a>&rdquo; |"
 msgstr "“<a href=\"#ForFree\">De graça</a>” |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#FOSS\">FOSS</a>&rdquo; |"
 msgstr "“<a href=\"#FOSS\">FOSS</a>” |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#FreelyAvailable\">Freely available</a>&rdquo; |"
 msgstr "“<a href=\"#FreelyAvailable\">Disponível livremente</a>” |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#Freeware\">Freeware</a>&rdquo; |"
 msgstr "“<a href=\"#Freeware\">Freeware</a>” |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#GiveAwaySoftware\">Give away software</a>&rdquo; |"
 msgstr "“<a href=\"#GiveAwaySoftware\">Dar software</a>” |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#Google\">Google</a>&rdquo; |"
 msgstr "“<a href=\"#Google\">Google</a>” |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#Hacker\">Hacker</a>&rdquo; |"
 msgstr "“<a href=\"#Hacker\">Hacker</a>” |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid ""
 "&ldquo;<a href=\"#IntellectualProperty\">Intellectual property</a>&rdquo; |"
 msgstr "“<a href=\"#IntellectualProperty\">Propriedade intelectual</a>” |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#LAMP\">LAMP system</a>&rdquo; |"
 msgstr "“<a href=\"#LAMP\">sistema LAMP</a>” |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#Linux\">Linux system</a>&rdquo; |"
 msgstr "“<a href=\"#Linux\">sistema Linux</a>” |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#Market\">Market</a>&rdquo; |"
 msgstr "“<a href=\"#Market\">Mercado</a>” |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#Monetize\">Monetize</a>&rdquo; |"
 msgstr "“<a href=\"#Monetize\">Monetizar</a>” |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#MP3Player\">MP3 player</a>&rdquo; |"
 msgstr "“<a href=\"#MP3Player\">MP3 player</a>” |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#Open\">Open</a>&rdquo; |"
 msgstr "“<a href=\"#Open\">Aberto</a>” |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#PC\">PC</a>&rdquo; |"
 msgstr "“<a href=\"#PC\">PC</a>” |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#Photoshop\">Photoshop</a>&rdquo; |"
 msgstr "“<a href=\"#Photoshop\">Photoshop</a>” |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#Piracy\">Piracy</a>&rdquo; |"
 msgstr "“<a href=\"#Piracy\">Pirataria</a>” |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#PowerPoint\">PowerPoint</a>&rdquo; |"
 msgstr "“<a href=\"#PowerPoint\">PowerPoint</a>” |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#Protection\">Protection</a>&rdquo; |"
 msgstr "“<a href=\"#Protection\">Proteção</a>” |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#RAND\">RAND</a>&rdquo; |"
 msgstr "“<a href=\"#RAND\">RAND</a>” |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#SaaS\">SaaS</a>&rdquo; |"
 msgstr "“<a href=\"#SaaS\">SaaS</a>” |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#SellSoftware\">Sell software</a>&rdquo; |"
-msgstr "“<a href=\"#SellSoftware\">Vender software</a>” |"
+msgstr "“<a href=\"#SellSoftware\">Vender software</a>”"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#SharingEconomy\">Sharing economy</a>&rdquo; |"
 msgstr "“<a href=\"#SharingEconomy\">Sharing economy</a>” |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#Skype\">Skype</a>&rdquo; |"
 msgstr "“<a href=\"#Skype\">Skype</a>” |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#SoftwareIndustry\">Software Industry</a>&rdquo; |"
 msgstr "“<a href=\"#SoftwareIndustry\">Indústria do Software</a>” |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#SourceModel\">Source model</a>&rdquo; |"
 msgstr "“<a href=\"#SourceModel\">Modelo da fonte</a>” |"
 
-#. GNUN-SORT-NEXT-ITEM
-#. #if expr="$LANGUAGE_SUFFIX	= /^.(es)$/"
-#. TRANSLATORS: translate if this word is used often in your
-#. language to refer to mobile computers; otherwise,
-#. fill the translation with a space.
-#. GNUN-SORT-BEGIN-KEY
+#.  GNUN-SORT-NEXT-ITEM 
+#. #if expr="$LANGUAGE_SUFFIX	= /^.(es)$/" 
+#.  TRANSLATORS: translate if this word is used often in your
+#.      language to refer to mobile computers; otherwise,
+#.      fill the translation with a space. 
+#.  GNUN-SORT-BEGIN-KEY 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#Terminal\">Terminal</a>&rdquo; |"
 msgstr "“<a href=\"#Terminal\">Terminal</a>” |"
 
-#. GNUN-SORT-END-KEY
+#.  GNUN-SORT-END-KEY 
 #. #endif
-#.
-#. GNUN-SORT-NEXT-ITEM
+#.  
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#Theft\">Theft</a>&rdquo; |"
 msgstr "“<a href=\"#Theft\">Roubo</a>” |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#TrustedComputing\">Trusted Computing</a>&rdquo; |"
 msgstr "“<a href=\"#TrustedComputing\">Computação Confiável</a>” |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#Vendor\">Vendor</a>&rdquo;"
-msgstr "“<a href=\"#Vendor\">Vendedor</a>”"
+msgstr "“<a href=\"#Vendor\">Vendedor</a>” |"
 
 #. type: Content of: <h3>
 msgid "&ldquo;Ad-blocker&rdquo;"
@@ -696,8 +696,8 @@ msgid ""
 "philosophy/misinterpreting-copyright.html\">false</a>, and the second is "
 "outrageous."
 msgstr ""
-"Falar da “compensação do autor” em conexão com o copyright presume que "
-"(1)&nbsp;o copyright existe pelo bem dos autores e (2)&nbsp;sempre que lemos "
+"Falar da “compensação do autor” em conexão com o copyright presume que (1)"
+"&nbsp;o copyright existe pelo bem dos autores e (2)&nbsp;sempre que lemos "
 "algo, estamos em débito com o autor e devemos reembolsá-lo. A primeira "
 "suposição é simplesmente <a href=\"/philosophy/misinterpreting-copyright.html"
 "\">falsa</a> e a segunda é ultrajante."
@@ -2223,7 +2223,7 @@ msgstr ""
 "<li id=\"TransNote5\">Em inglês, “WC” é uma abreviação cujo significado "
 "varia conforme contexto. Neste contexto, poderia ser “Windows Computer” ou, "
 "quem sabe, “water closet”, que significa privada, lavatório, sanitário.</"
-"li><li id=\"TransNote6\">Do inglês “economy sharing”,</li>\n"
+"li><li id=\"TransNote6\">Do inglês “economy sharing”.</li>\n"
 "</ol>"
 
 # type: Content of: <div><p>
@@ -2242,17 +2242,17 @@ msgstr ""
 "webmasters@gnu.org&gt;</a>."
 
 #
-#. TRANSLATORS: Ignore the original text in this paragraph,
-#. replace it with the translation of these two:
-#. We work hard and do our best to provide accurate, good quality
-#. translations.  However, we are not exempt from imperfection.
-#. Please send your comments and general suggestions in this regard
-#. to <a href="mailto:web-translators@gnu.org">
-#. &lt;web-translators@gnu.org&gt;</a>.</p>
-#. <p>For information on coordinating and submitting translations of
-#. our web pages, see <a
-#. href="/server/standards/README.translations.html">Translations
-#. README</a>.
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
@@ -2296,358 +2296,7 @@ msgstr ""
 "href=\"mailto:oitofelix@gnu.org\">&lt;oitofelix@gnu.org&gt;</a> (2015)"
 
 # type: Content of: <div><p>
-#. timestamp start
+#.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização: "
-
-#~ msgid ""
-#~ "The <a href=\"/philosophy/free-sw.html\">criterion for free software</a> "
-#~ "is not about who has &ldquo;access&rdquo; to the program; the four "
-#~ "essential freedoms concern what a user that has a copy of the program can "
-#~ "do with it.  For instance, freedom 2 says that that user is free to make "
-#~ "another copy and give or sell it to you.  But no user is <em>obligated</"
-#~ "em> to do that for you; you do not have a <em>right</em> to demand a copy "
-#~ "of that program from any user."
-#~ msgstr ""
-#~ "O <a href=\"/philosophy/free-sw.html\">critério do software livre</a> não "
-#~ "é sobre quem tem “acesso” ao programa; as quatro liberdades essenciais "
-#~ "dizem respeito ao que um usuário que tem uma cópia do programa pode fazer "
-#~ "com ela. Por exemplo, a liberdade 2 diz que esse usuário é livre para "
-#~ "fazer outra cópia e dar ou vendê-la a você. Mas nenhum usuário é "
-#~ "<em>obrigado</em> a fazer isso por você; você não tem o <em>direito</em> "
-#~ "de exigir uma cópia desse programa de nenhum usuário."
-
-#~ msgid ""
-#~ "In particular, if you write a program yourself and never offer a copy to "
-#~ "anyone else, that program is free software (in a trivial way)  because "
-#~ "you (the sole user that has it) have the four essential freedoms."
-#~ msgstr ""
-#~ "Em particular, se você mesmo escrever um programa e nunca oferecer uma "
-#~ "cópia a qualquer outra pessoa, tal programa é software livre (de uma "
-#~ "maneira trivial) porque você (o único usuário que o possui) tem as quatro "
-#~ "liberdades essenciais."
-
-#~ msgid ""
-#~ "In practice, when many users have copies of a program, someone is sure to "
-#~ "post it on the internet, giving everyone access to it.  We think people "
-#~ "ought to do that, if the program is useful.  But this isn't a requirement "
-#~ "of free software."
-#~ msgstr ""
-#~ "Na prática, quando muitos usuários têm cópias de um programa, certamente "
-#~ "alguém o colocará na internet, dando a todos o acesso a ele. Nós achamos "
-#~ "que as pessoas deveriam fazer isso, se o programa é útil. Mas este não é "
-#~ "um requisito do software livre."
-
-#~ msgid ""
-#~ "The narrow thinking associated with the idea that we &ldquo;consume "
-#~ "content&rdquo; paves the way for laws such as the DMCA that forbid users "
-#~ "to break the <a href=\"http://DefectiveByDesign.org/\">Digital "
-#~ "Restrictions Management</a> (DRM) facilities in digital devices.  If "
-#~ "users think what they do with these devices is &ldquo;consume&rdquo;, "
-#~ "they may see such restrictions as natural."
-#~ msgstr ""
-#~ "O pensamento limitado associado com a ideia que nós “consumimos conteúdo” "
-#~ "abre caminho para leis como o DMCA que proíbe que usuários se livrem dos "
-#~ "mecanismos de <a href=\"http://DefectiveByDesign.org/\">Gestão Digital de "
-#~ "Restrições</a> (DRM<sup><a href=\"#TransNote1\">1</a></sup>) nos "
-#~ "dispositivos digitais.  Se os usuários pensarem que o que eles fazem com "
-#~ "esses dispositivos é “consumo”, eles podem considerar tais restrições "
-#~ "naturais."
-
-#~ msgid ""
-#~ "Those who use the term &ldquo;content&rdquo; are often the publishers "
-#~ "that push for increased copyright power in the name of the authors "
-#~ "(&ldquo;creators,&rdquo; as they say) of the works.  The term &ldquo;"
-#~ "content&rdquo; reveals their real attitude towards these works and their "
-#~ "authors.  (See <a href=\"http://www.salon.com/2000/06/14/love_7/"
-#~ "\">Courtney Love's open letter to Steve Case</a> and search for &ldquo;"
-#~ "content provider&rdquo; in that page.  Alas, Ms. Love is unaware that the "
-#~ "term &ldquo;intellectual property&rdquo; is also <a href="
-#~ "\"#IntellectualProperty\"> biased and confusing</a>.)"
-#~ msgstr ""
-#~ "Aqueles que usam o termo “conteúdo” são frequentemente as editoras que "
-#~ "pressionam por maior poder de copyright em nome dos autores (“criadores”, "
-#~ "como eles dizem) das obras. O termo “conteúdo” revela sua verdadeira "
-#~ "atitude perante esses trabalhos e seus autores. (Veja <a href=\"http://"
-#~ "www.salon.com/2000/06/14/love_7/\">a carta aberta de Courtney Love para "
-#~ "Steve Case</a> e busque na página por “content provider” (provedor de "
-#~ "conteúdo, em inglês. É uma pena que a senhora Love não saiba que o termo "
-#~ "“propriedade intelectual” também é <a href=\"#IntellectualProperty"
-#~ "\">enviesado e confuso</a>.)"
-
-#~ msgid ""
-#~ "Under the US legal system, copyright infringement is not theft.  Laws "
-#~ "about theft are not applicable to copyright infringement.  The supporters "
-#~ "of repressive copyright are making an appeal to authority&mdash;and "
-#~ "misrepresenting what authority says."
-#~ msgstr ""
-#~ "No sistema legal estadunidense, a violação de copyright não é roubo. As "
-#~ "leis sobre roubo não são aplicáveis a casos de violação de copyright. Os "
-#~ "apoiadores do copyright repressivo estão recorrendo à autoridade &mdash; "
-#~ "e deturpando o que ela diz."
-
-#~ msgid "<a href=\"/philosophy/philosophy.html\">Other Texts to Read</a> |"
-#~ msgstr ""
-#~ "<a href=\"/philosophy/philosophy.html\">Outros Textos para Ler</a> |"
-
-#~ msgid ""
-#~ "The expression &ldquo;BSD-style license&rdquo; leads to confusion because "
-#~ "it <a href=\"/philosophy/bsd.html\">lumps together licenses that have "
-#~ "important differences</a>.  For instance, the original BSD license with "
-#~ "the advertising clause is incompatible with the GNU General Public "
-#~ "License, but the revised BSD license is compatible with the GPL."
-#~ msgstr ""
-#~ "A expressão “do tipo BSD” (do inglês “BSD-style”) leva à confusão, pois "
-#~ "ela <a href=\"/philosophy/bsd.html\">aglomera licenças que têm diferenças "
-#~ "importantes</a>. Por exemplo, a licença BSD original possui uma cláusula "
-#~ "advertindo que é incompatível com a GNU General Public License, mas a "
-#~ "licença BSD revisada é compatível com a GPL."
-
-#~ msgid ""
-#~ "The term &ldquo;cloud computing&rdquo; (or just <a name=\"Cloud\">&ldquo;"
-#~ "cloud&rdquo;</a>, in the context of computing) is a marketing buzzword "
-#~ "with no coherent meaning.  It is used for a range of different activities "
-#~ "whose only common characteristic is that they use the Internet for "
-#~ "something beyond transmitting files.  Thus, the term spreads confusion.  "
-#~ "If you base your thinking on it, your thinking will be confused."
-#~ msgstr ""
-#~ "O termo “computação em nuvem” (ou simplesmente <a name=\"Cloud\">“nuvem”</"
-#~ "a>, no contexto da computação) é uma palavra da moda sem qualquer sentido "
-#~ "coerente. Ela é usada para designar uma série de atividades diferentes "
-#~ "cuja única característica comum é usar a  Internet para algo além da "
-#~ "transmissão de arquivos. Portanto, o termo promove a confusão. Se você "
-#~ "pensar baseando-se nela, seu pensamento será confundido."
-
-#~ msgid ""
-#~ "When thinking about or responding to a statement someone else has made "
-#~ "using this term, the first step is to clarify the topic.  What scenario "
-#~ "is the statement about? What is a good, clear term for that scenario? "
-#~ "Once the topic is clearly formulated, coherent discussion is possible."
-#~ msgstr ""
-#~ "Quando estiver respondendo a alguém que usou esse termo, o primeiro passo "
-#~ "é esclarecer o assunto. Sobre qual cenário ela estava falando? Qual é um "
-#~ "termo bom e claro para esse cenário? Uma vez que o tópico esteja "
-#~ "claramente formulado, uma discussão coerente é possível."
-
-#~ msgid ""
-#~ "Curiously, Larry Ellison, a proprietary software developer, also <a href="
-#~ "\"http://news.cnet.com/8301-13953_3-10052188-80.html\"> noted the vacuity "
-#~ "of the term &ldquo;cloud computing.&rdquo;</a> He decided to use the term "
-#~ "anyway because, as a proprietary software developer, he isn't motivated "
-#~ "by the same ideals as we are."
-#~ msgstr ""
-#~ "Curiosamente, Larry Ellison, um desenvolvedor de software proprietário, "
-#~ "também <a href=\"http://news.cnet.com/8301-13953_3-10052188-80.html"
-#~ "\">notou a vacuidade do termo “computação em nuvem.”</a> Ele decidiu usar "
-#~ "o termo mesmo assim, pois, como um desenvolvedor de software "
-#~ "proprietário, ele não é motivado pelos mesmos ideais que nós."
-
-#~ msgid ""
-#~ "The term &ldquo;consume&rdquo; is associated with the economics of "
-#~ "uncopiable material products, and leads people to transfer its "
-#~ "conclusions unconsciously to copiable digital works &mdash; an error that "
-#~ "proprietary software developers (and other publishers) dearly wish to "
-#~ "encourage.  Their twisted viewpoint comes through clearly in <a href="
-#~ "\"http://www.businessinsider.com/former-google-exec-launches-sourcepoint-"
-#~ "with-10-million-series-a-funding-2015-6\">this article</a>, which also "
-#~ "refers to publications as &ldquo;<a href=\"#Content\">content</a>.&rdquo;"
-#~ msgstr ""
-#~ "O termo “consumo” está associado com a economia de produtos materiais não-"
-#~ "copiáveis, e leva as pessoas a transferir inconscientemente as suas "
-#~ "conclusões para as obras digitais copiáveis — um erro que desenvolvedores "
-#~ "de software privativo (e outros editores) encarecidamente desejam "
-#~ "encorajar.  Este ponto de vista distorcido aparece claramente <a href="
-#~ "\"http://www.businessinsider.com/former-google-exec-launches-sourcepoint-"
-#~ "with-10-million-series-a-funding-2015-6\">neste artigo</a>, que também se "
-#~ "refere a publicações como “<a href=\"#Content\">conteúdo</a>”."
-
-#~ msgid ""
-#~ "Those who use the term &ldquo;content&rdquo; are often the publishers "
-#~ "that push for increased copyright power in the name of the authors "
-#~ "(&ldquo;creators,&rdquo; as they say) of the works.  The term &ldquo;"
-#~ "content&rdquo; reveals their real attitude towards these works and their "
-#~ "authors.  (See <a href=\"http://archive.salon.com/tech/feature/2000/06/14/"
-#~ "love/print.html\">Courtney Love's open letter to Steve Case</a> and "
-#~ "search for &ldquo;content provider&rdquo; in that page.  Alas, Ms. Love "
-#~ "is unaware that the term &ldquo;intellectual property&rdquo; is also <a "
-#~ "href=\"#IntellectualProperty\"> biased and confusing</a>.)"
-#~ msgstr ""
-#~ "Aqueles que usam o termo “conteúdo” são frequentemente as editoras que "
-#~ "pressionam por maior poder de copyright em nome dos autores (“criadores,” "
-#~ "como eles dizem) das obras. O termo “conteúdo” revela sua verdadeira "
-#~ "atitude perante esses trabalhos e seus autores. (Veja <a href=\"http://"
-#~ "archive.salon.com/tech/feature/2000/06/14/love/print.html\">a carta "
-#~ "aberta de Courtney Love para Steve Case</a> e busque por “content "
-#~ "provider” na página. É uma pena que a senhora Love não saiba que o termo "
-#~ "“propriedade intelectual” também é <a href=\"#IntellectualProperty"
-#~ "\">enviesado e confuso</a>.)"
-
-#~ msgid ""
-#~ "Please avoid using the term &ldquo;google&rdquo; as a verb, meaning to "
-#~ "search for something on the internet. &ldquo;Google&rdquo; is just the "
-#~ "name of one particular search engine among others. We suggest to use the "
-#~ "term &ldquo;web search&rdquo; instead. Try to use a search engine that "
-#~ "respects your privacy; <a href=\"https://duckduckgo.com/\">DuckDuckGo</a> "
-#~ "claims not to track its users, although we cannot confirm."
-#~ msgstr ""
-#~ "Por favor, evite usar o termo “google” como um verbo, com o significado "
-#~ "de procurar algo na internet.  “Google” é apenas o nome de um determinado "
-#~ "mecanismo de pesquisa dentre outros.  Em vez disso, sugerimos usar o "
-#~ "termo “pesquisa na web”.  Tente usar um motor de busca que respeite sua "
-#~ "privacidade; <a href=\"https://duckduckgo.com/\">DuckDuckGo</a> alega não "
-#~ "rastrear seus usuários, embora não possamos confirmar."
-
-#~ msgid ""
-#~ "But the free software movement is a social movement, not a business, and "
-#~ "the success it aims for is not a market success.  We are trying to serve "
-#~ "the public by giving it freedom&mdash;not competing to draw business away "
-#~ "from a rival.  To equate this campaign for freedom to a business' efforts "
-#~ "for mere success is to deny the importance of freedom and legitimize "
-#~ "proprietary software."
-#~ msgstr ""
-#~ "Mas o movimento do software livre é um movimento social, não um negócio, "
-#~ "e o sucesso que ele busca não é um sucesso de mercado. Estamos tentando "
-#~ "servir o público dando liberdade a ele &mdash; não competindo para tirar "
-#~ "negócios de um rival. Equiparar essa campanha pelo software livre com "
-#~ "esforços de uma empresa para atingir mero sucesso é negar a importância "
-#~ "da liberdade e legitimar o software proprietário."
-
-#~ msgid ""
-#~ "Please avoid using the term &ldquo;open&rdquo; or &ldquo;open "
-#~ "source&rdquo; as a substitute for &ldquo;free software.&rdquo; Those "
-#~ "terms refer to a <a href=\"/philosophy/open-source-misses-the-point.html"
-#~ "\"> different position</a> based on different values.  Free software is a "
-#~ "political movement; open source is a development model.  When referring "
-#~ "to the open source position, using its name is appropriate; but please do "
-#~ "not use it to label us or our work&mdash;that leads people to think we "
-#~ "share those views."
-#~ msgstr ""
-#~ "Por favor, evite usar o termo “aberto” ou “código aberto” como "
-#~ "substitutos para “software livre.” Esses termos referem a uma <a href=\"/"
-#~ "philosophy/open-source-misses-the-point.html\">opinião diferente</a>, "
-#~ "baseada em valores diferentes. O software livre é um movimento político; "
-#~ "o código aberto é um modelo de desenvolvimento. Quando estiver referindo "
-#~ "à posicionamento do código aberto, o uso de seu nome é apropriado; mas, "
-#~ "por favor, não o use para classificar a nós ou ao nosso trabalho &mdash; "
-#~ "isso leva as pessoas a pensarem que compartilhamos daqueles pontos de "
-#~ "vista."
-
-#~ msgid ""
-#~ "In Spanish we continue to use the term &ldquo;software como "
-#~ "servicio&rdquo; because the joke of &ldquo;software como ser vicio&rdquo; "
-#~ "is too good to give up."
-#~ msgstr ""
-#~ "Em espanhol, continuamos a usar o termo “software como servicio,” porque "
-#~ "a piada “software como ser vicio” é boa demais para ser perdida."
-
-#~ msgid ""
-#~ "Please avoid using the term &ldquo;Skype&rdquo; as a verb, meaning any "
-#~ "kind of video communication or telephony over the Internet in general.  "
-#~ "&ldquo;Skype&rdquo; is just the name of one particular proprietary "
-#~ "program, one that <a href=\"/philosophy/proprietary/proprietary-"
-#~ "surveillance.html#SpywareInSkype\"> spies on its users</a>. If you want "
-#~ "to make video and voice calls over the Internet in a way that respects "
-#~ "both your freedom and your privacy, try one of the <a href=\"https://"
-#~ "libreplanet.org/wiki/Group:Skype_Replacement\"> numerous free Skype "
-#~ "replacements</a>."
-#~ msgstr ""
-#~ "Por favor, evite usar o termo “Skype” como um verbo que significa fazer "
-#~ "qualquer tipo de chamada telefônica ou de vídeo pela Internet.  “Skype” é "
-#~ "apenas o nome de um programa privativo em particular, um que <a href=\"/"
-#~ "philosophy/proprietary/proprietary-surveillance.html#SpywareInSkype"
-#~ "\">espiona seus usuários</a>.  Se você quiser fazer chamadas de voz e "
-#~ "vídeo através da Internet de uma forma que respeite tanto sua liberdade "
-#~ "quanto sua privacidade, experimente um dos <a href=\"https://libreplanet."
-#~ "org/wiki/Group:Skype_Replacement\">inúmeros substitutos livres do Skype</"
-#~ "a>."
-
-#~ msgid ""
-#~ "The term &ldquo;industry&rdquo; is being used as propaganda by advocates "
-#~ "of software patents.  They call software development &ldquo;"
-#~ "industry&rdquo; and then try to argue that this means it should be "
-#~ "subject to patent monopolies.  <a href=\"http://web.archive.org/"
-#~ "web/20071222001014/http://www.swpat.ffii.org/papers/europarl0309/\" title="
-#~ "\"archived version of http://swpat.ffii.org/papers/europarl0309/\"> The "
-#~ "European Parliament, rejecting software patents in 2003, voted to define "
-#~ "&ldquo;industry&rdquo; as &ldquo;automated production of material goods."
-#~ "&rdquo;</a>"
-#~ msgstr ""
-#~ "O termo “indústria” está sendo usado como propaganda pelos defensores das "
-#~ "patentes de software. Eles chamam o desenvolvimento de software de uma "
-#~ "“indústria” e então tentam argumentar que isso significa que ele deveria "
-#~ "estar sujeito aos monopólios de patentes. <a href=\"http://web.archive."
-#~ "org/web/20071222001014/http://www.swpat.ffii.org/papers/europarl0309/\" "
-#~ "title=\"versão arquivada de http://swpat.ffii.org/papers/europarl0309/"
-#~ "\">O Parlamento Europeu, ao rejeitar as patentes de software em 2003, "
-#~ "votou a definição de “indústria” como “produção automatizada de bens "
-#~ "materiais.”</a>"
-
-#~ msgid ""
-#~ "Copyright &copy; 1996, 1997, 1998, 1999, 2001, 2002, 2003, 2004, 2007, "
-#~ "2008, 2009, 2010, 2011, 2012, 2015 Free Software Foundation, Inc."
-#~ msgstr ""
-#~ "Copyright &copy; 1996, 1997, 1998, 1999, 2001, 2002, 2003, 2004, 2007, "
-#~ "2008, 2009, 2010, 2011, 2012, 2015 Free Software Foundation, Inc."
-
-#~ msgid ""
-#~ "&ldquo;Consume&rdquo; refers to what we do with food: we ingest it, and "
-#~ "use it in a way that uses it up.  By analogy, we employ the same word to "
-#~ "describe using other things in a way that uses them up.  However, it is "
-#~ "erroneous to speak of &ldquo;consuming&rdquo; information, music, books, "
-#~ "software, etc., since using them does not use them up."
-#~ msgstr ""
-#~ "“Consumo” refere-se ao que fazemos com a comida: nós a ingerimos e usamos "
-#~ "de maneira que ela acaba. Por analogia, empregamos a mesma palavra para "
-#~ "descrever o uso de outras coisas de maneira que elas acabam. No entanto, "
-#~ "é errôneo falar do “consumo” de informação, música, livros, software "
-#~ "etc., uma vez que elas não acabam quando as usamos."
-
-#~ msgid ""
-#~ "Why is this perverse usage spreading? Some may feel that they sound "
-#~ "sophisticated using a fashionable term from economics.  However, the "
-#~ "economics they implicitly refer to is inappropriate for the activity in "
-#~ "question.  Others may intend to limit discussion to an economic "
-#~ "perspective, rejecting other perspectives such as ethical or social "
-#~ "&mdash; which is narrowminded."
-#~ msgstr ""
-#~ "Mas por que esse uso perverso da palavra está se espalhando? Algumas "
-#~ "pessoas talvez se sintam sofisticadas ao usar um jargão elegante da "
-#~ "economia. No entanto, o conceito econômico a que eles implicitamente se "
-#~ "referem é inapropriado para a atividade em questão. Outras pessoas talvez "
-#~ "busquem limitar a discussão à perspectiva econômica, rejeitando outras "
-#~ "perspectivas como a ética ou a social &mdash; um pensamento bastante "
-#~ "limitado."
-
-#~ msgid ""
-#~ "The term &ldquo;consumer,&rdquo; when used to refer to the users of "
-#~ "computing, is loaded with assumptions we should reject.  Playing a "
-#~ "recording, or running a program, does not consume it."
-#~ msgstr ""
-#~ "O termo “consumidor,” quando usado para se referir aos usuários da "
-#~ "computação, é carregado de suposições que devemos rejeitar. Tocar uma "
-#~ "música ou rodar um programa não o consomem."
-
-#~ msgid ""
-#~ "The terms &ldquo;producer&rdquo; and &ldquo;consumer&rdquo; come from "
-#~ "economics and its treatment of material products.  Thus, using them leads "
-#~ "people to mistakenly apply to copiable digital data all that they know "
-#~ "about the economics of uncopiable material products.  Of course, this "
-#~ "error is exactly the one proprietary software developers want people to "
-#~ "make."
-#~ msgstr ""
-#~ "Os termos “produtor” e “consumidor” vem da economia e de como ela trata "
-#~ "produtos materiais. Assim, as pessoas são levadas a equivocadamente "
-#~ "empregar a dados digitais e copiáveis tudo o que sabem sobre a economia "
-#~ "de produtos materiais não copiáveis. É claro, esse erro é exatamente o "
-#~ "que os desenvolvedores de software proprietário querem que as pessoas "
-#~ "cometam."
-
-#~ msgid ""
-#~ "The shallow economic conception of users as &ldquo;consumers&rdquo; tends "
-#~ "to go hand in hand with the idea that published works are mere <a href="
-#~ "\"#Content\">&ldquo;content.&rdquo;</a>"
-#~ msgstr ""
-#~ "O conceito superficial de considerar usuários como “consumidores” tende a "
-#~ "andar de mãos dadas com a ideia de que trabalhos publicados são meramente "
-#~ "<a href=\"#Content\">“conteúdo.”</a>"

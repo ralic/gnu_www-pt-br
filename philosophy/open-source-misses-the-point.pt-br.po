@@ -8,7 +8,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: open-source-misses-the-point.html\n"
-"POT-Creation-Date: 2016-06-07 05:25+0000\n"
+"POT-Creation-Date: 2016-07-27 04:55+0000\n"
 "PO-Revision-Date: 2012-05-29 15:01-0300\n"
 "Last-Translator: Rafael Beraldo <rberaldo@cabaladada.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -150,6 +150,7 @@ msgstr ""
 "confiável. A maioria dos partidários do código aberto tem feito isso desde "
 "então, e fazem a mesma associação."
 
+#. type: Content of: <p>
 # | The two terms describe almost the same category of software, but they
 # | stand for views based on fundamentally different values.  Open source is a
 # | development methodology; free software is a social movement.  For the free
@@ -162,7 +163,6 @@ msgstr ""
 # | attention to right and wrong, only to popularity and success; here's a <a
 # | href=\"http://www.linuxinsider.com/story/Open-Source-Is-Woven-Into-the-Latest-Hottest-Trends-78937.html\">
 # | typical example</a>.+}
-#. type: Content of: <p>
 #, fuzzy
 #| msgid ""
 #| "The two terms describe almost the same category of software, but they "
@@ -316,14 +316,14 @@ msgstr ""
 "Todas as substituições propostas para “software livre” trazem algum tipo de "
 "problema semântico &mdash; e isso inclui “software de código aberto”."
 
-# | The <a [-href=\"http://opensource.org/docs/osd\">official-]
-# | {+href=\"https://opensource.org/definition/\">official+} definition of
-# | &ldquo;open source software&rdquo;</a> (which is published by the Open
-# | Source Initiative and is too long to include here) was derived indirectly
-# | from our criteria for free software.  It is not the same; it is a little
-# | looser in some respects.  Nonetheless, their definition agrees with our
-# | definition in most cases.
 #. type: Content of: <p>
+# | The <a [-href=\"http://opensource.org/docs/osd\">official-]
+# | {+href=\"https://opensource.org/osd\">official+} definition of &ldquo;open
+# | source software&rdquo;</a> (which is published by the Open Source
+# | Initiative and is too long to include here) was derived indirectly from
+# | our criteria for free software.  It is not the same; it is a little looser
+# | in some respects.  Nonetheless, their definition agrees with our
+# | definition in most cases.
 #, fuzzy
 #| msgid ""
 #| "The <a href=\"http://opensource.org/docs/osd\">official definition of "
@@ -333,12 +333,12 @@ msgstr ""
 #| "looser in some respects.  Nonetheless, their definition agrees with our "
 #| "definition in most cases."
 msgid ""
-"The <a href=\"https://opensource.org/definition/\">official definition of "
-"&ldquo;open source software&rdquo;</a> (which is published by the Open "
-"Source Initiative and is too long to include here) was derived indirectly "
-"from our criteria for free software.  It is not the same; it is a little "
-"looser in some respects.  Nonetheless, their definition agrees with our "
-"definition in most cases."
+"The <a href=\"https://opensource.org/osd\">official definition of &ldquo;"
+"open source software&rdquo;</a> (which is published by the Open Source "
+"Initiative and is too long to include here) was derived indirectly from our "
+"criteria for free software.  It is not the same; it is a little looser in "
+"some respects.  Nonetheless, their definition agrees with our definition in "
+"most cases."
 msgstr ""
 "A <a href=\"http://opensource.org/docs/osd\">definição oficial de “software "
 "de código aberto”</a> (que foi publicada pela Open Source Initiative e é "
@@ -363,6 +363,7 @@ msgstr ""
 "oficial de código aberto, pois isso inclui muitos programas que não são nem "
 "livres nem código aberto."
 
+#. type: Content of: <p>
 # | Since the obvious meaning for &ldquo;open source&rdquo; is not the meaning
 # | that its advocates intend, the result is that most people misunderstand
 # | the term.  According to writer Neal Stephenson, &ldquo;Linux is
@@ -376,7 +377,6 @@ msgstr ""
 # | use of open-source software (OSS).  OSS is software for which the source
 # | code is freely and publicly available, though the specific licensing
 # | agreements vary as to what one is allowed to do with that code.&rdquo;
-#. type: Content of: <p>
 #, fuzzy
 #| msgid ""
 #| "Since the obvious meaning for &ldquo;open source&rdquo; is not the "
@@ -419,13 +419,13 @@ msgstr ""
 "acordos de licenciamento específicos variam quanto ao que é permitido se "
 "fazer com o código”."
 
+#. type: Content of: <p>
 # | The <i>New York Times</i> [-has-] <a
 # | href=\"http://www.nytimes.com/external/gigaom/2009/02/07/07gigaom-the-brave-new-world-of-open-source-game-design-37415.html\">
 # | r[-u-]{+a+}n an article that stretche[-s-]{+d+} the meaning of the
 # | term</a> to refer to user beta testing&mdash;letting a few users try an
 # | early version and give confidential feedback&mdash;which proprietary
 # | software developers have practiced for decades.
-#. type: Content of: <p>
 #, fuzzy
 #| msgid ""
 #| "The <i>New York Times</i> has <a href=\"http://www.nytimes.com/external/"
@@ -480,6 +480,7 @@ msgstr ""
 "modo sucinto de explicar e justificar sua definição oficial &mdash; o que "
 "torna a confusão pior."
 
+#. type: Content of: <p>
 # | Another misunderstanding of &ldquo;open source&rdquo; is the idea that it
 # | means &ldquo;not using the GNU GPL.&rdquo; This tends to accompany another
 # | misunderstanding that &ldquo;free software&rdquo; means &ldquo;GPL-covered
@@ -488,7 +489,6 @@ msgstr ""
 # | free software licenses.  {+There are <a
 # | href=\"/licenses/license-list.html\"> many free software licenses</a>
 # | aside from the GNU GPL.+}
-#. type: Content of: <p>
 #, fuzzy
 #| msgid ""
 #| "Another misunderstanding of &ldquo;open source&rdquo; is the idea that it "
@@ -512,6 +512,7 @@ msgstr ""
 "a GNU GPL qualifica-se como uma licença código aberto e a maioria das "
 "licenças de código aberto qualificam-se como licenças de software livre."
 
+#. type: Content of: <p>
 # | The term &ldquo;open source&rdquo; has been further stretched by its
 # | application to other activities, such as government, education, and
 # | science, where there is no such thing as source code, and where criteria
@@ -522,7 +523,6 @@ msgstr ""
 # | &ldquo;transparent&rdquo;, or less than that.  At worst, it has <a
 # | href=\"http://www.nytimes.com/2013/03/17/opinion/sunday/morozov-open-and-closed.html\">
 # | become a vacuous buzzword</a>.+}
-#. type: Content of: <p>
 #, fuzzy
 #| msgid ""
 #| "The term &ldquo;open source&rdquo; has been further stretched by its "
@@ -631,12 +631,12 @@ msgstr ""
 "desenvolvimento, mas você conseguiu. Como obtenho uma cópia?”. Essa atitude "
 "recompensará esquemas que tiram nossa liberdade, levando à sua perda."
 
+#. type: Content of: <p>
 # | The free software activist will say, &ldquo;Your program is very
 # | attractive, but I value my freedom more.  So I reject your program. 
-# | [-Instead-]  I will {+get my work done some other way, and+} support a
+# | [-Instead-] I will {+get my work done some other way, and+} support a
 # | project to develop a free replacement.&rdquo; If we value our freedom, we
 # | can act to maintain and defend it.
-#. type: Content of: <p>
 #, fuzzy
 #| msgid ""
 #| "The free software activist will say, &ldquo;Your program is very "
@@ -917,13 +917,13 @@ msgstr ""
 msgid "Conclusion"
 msgstr "Conclusão"
 
+#. type: Content of: <p>
 # | As the advocates of open source draw new users into our community, we free
 # | software activists must shoulder the task of bringing the issue of freedom
 # | to their attention.  We have to say, &ldquo;It's free software and it
 # | gives you freedom!&rdquo;&mdash;more and louder than ever.  Every time you
 # | say &ldquo;free software&rdquo; rather than &ldquo;open source,&rdquo; you
 # | help our [-campaign.-] {+cause.+}
-#. type: Content of: <p>
 #, fuzzy
 #| msgid ""
 #| "As the advocates of open source draw new users into our community, we "
@@ -1015,19 +1015,19 @@ msgstr ""
 "\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
 "envio de traduções das páginas desse site."
 
-# | Copyright &copy; 2007, [-2010-] {+2010, 2012, 2015, 2016+} Richard Stallman
 #. type: Content of: <div><p>
+# | Copyright &copy; 2007, [-2010-] {+2010, 2012, 2015, 2016+} Richard Stallman
 #, fuzzy
 #| msgid "Copyright &copy; 2007, 2010 Richard Stallman"
 msgid "Copyright &copy; 2007, 2010, 2012, 2015, 2016 Richard Stallman"
 msgstr "Copyright &copy; 2007, 2010 Richard Stallman"
 
+#. type: Content of: <div><p>
 # | This page is licensed under a <a rel=\"license\"
 # | [-href=\"http://creativecommons.org/licenses/by-nd/3.0/us/\">Creative-]
 # | {+href=\"http://creativecommons.org/licenses/by-nd/4.0/\">Creative+}
 # | Commons [-Attribution-NoDerivs 3.0 United States-]
 # | {+Attribution-NoDerivatives 4.0 International+} License</a>.
-#. type: Content of: <div><p>
 #, fuzzy
 #| msgid ""
 #| "This page is licensed under a <a rel=\"license\" href=\"http://"
@@ -1055,8 +1055,16 @@ msgstr ""
 msgid "Updated:"
 msgstr "Última atualização: "
 
+#, fuzzy
+#~| msgid ""
+#~| "The <a href=\"http://opensource.org/docs/osd\">official definition of "
+#~| "&ldquo;open source software&rdquo;</a> (which is published by the Open "
+#~| "Source Initiative and is too long to include here) was derived "
+#~| "indirectly from our criteria for free software.  It is not the same; it "
+#~| "is a little looser in some respects.  Nonetheless, their definition "
+#~| "agrees with our definition in most cases."
 #~ msgid ""
-#~ "The <a href=\"http://opensource.org/docs/osd\">official definition of "
+#~ "The <a href=\"https://opensource.org/definition/\">official definition of "
 #~ "&ldquo;open source software&rdquo;</a> (which is published by the Open "
 #~ "Source Initiative and is too long to include here) was derived indirectly "
 #~ "from our criteria for free software.  It is not the same; it is a little "
