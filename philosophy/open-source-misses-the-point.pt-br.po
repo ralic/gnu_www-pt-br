@@ -8,6 +8,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: open-source-misses-the-point.html\n"
+"Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-07-27 04:55+0000\n"
 "PO-Revision-Date: 2012-05-29 15:01-0300\n"
 "Last-Translator: Rafael Beraldo <rberaldo@cabaladada.org>\n"
