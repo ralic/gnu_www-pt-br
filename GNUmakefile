@@ -1,6 +1,6 @@
 # This is -*-makefile-gmake-*-, because we adore GNU make.
 # Copyright (C) 2008, 2009, 2010, 2011, 2012,
-#   2014 Free Software Foundation, Inc.
+#   2014, 2016 Free Software Foundation, Inc.
 
 # This file is part of GNUnited Nations.
 
@@ -15,7 +15,7 @@
 # GNU General Public License for more details.
 
 # You should have received a copy of the GNU General Public License
-# along with GNUnited Nations.  If not, see <http://www.gnu.org/licenses/>.
+# along with GNUnited Nations.  If not, see <https://www.gnu.org/licenses/>.
 
 ########################################################################
 ### TRANSLATORS: Rename this file as GNUmakefile and install it in the #
@@ -63,7 +63,7 @@ TLA := tla
 NOTIFICATION_PERIOD := 7
 # URL specifications; used in notifications to generate URLs of items.
 # Root URL for "www" files.
-WWW_URL := http://www.gnu.org/
+WWW_URL := https://www.gnu.org/
 # Prefix and postfix of URLs of team's files.
 TEAM_URL_PREFIX := http://cvs.savannah.gnu.org/viewvc/*checkout*/www-bg/
 TEAM_URL_POSTFIX := ?root=www-bg
