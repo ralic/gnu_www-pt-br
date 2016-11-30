@@ -1,4 +1,5 @@
-# Brazilian Portuguese translation of http://www.gnu.org/gnu/gnu-users-never-heard-of-gnu.html
+# Brazilian Portuguese translation of
+# http://www.gnu.org/gnu/gnu-users-never-heard-of-gnu.html
 # Copyright (C) 2014, 2016 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Hudson Flavio Meneses Lacerda <hfmlacerda@yahoo.com.br>, 2014
@@ -30,18 +31,17 @@ msgstr "Usuários do GNU que nunca ouviram falar do GNU"
 
 #. type: Content of: <p>
 msgid ""
-"<strong>by <a href=\"http://www.stallman.org/\">Richard "
-"Stallman</a></strong>"
+"<strong>by <a href=\"http://www.stallman.org/\">Richard Stallman</a></strong>"
 msgstr ""
 "<strong>por <a href=\"http://www.stallman.org/\">Richard Stallman</a></"
 "strong>"
 
 #. type: Content of: <div><blockquote><p>
 msgid ""
-"To learn more about this issue, you can also read our <a "
-"href=\"/gnu/gnu-linux-faq.html\">GNU/Linux FAQ</a>, our page on <a "
-"href=\"/gnu/why-gnu-linux.html\">Why GNU/Linux?</a> and our page on <a "
-"href=\"/gnu/linux-and-gnu.html\">Linux and the GNU Project</a>."
+"To learn more about this issue, you can also read our <a href=\"/gnu/gnu-"
+"linux-faq.html\">GNU/Linux FAQ</a>, our page on <a href=\"/gnu/why-gnu-linux."
+"html\">Why GNU/Linux?</a> and our page on <a href=\"/gnu/linux-and-gnu.html"
+"\">Linux and the GNU Project</a>."
 msgstr ""
 "Para saber mais sobre esse assunto, leia também nosso <a href=\"/gnu/gnu-"
 "linux-faq.html\">GNU/Linux FAQ</a>, nossa página sobre <a href=\"/gnu/why-"
@@ -59,10 +59,9 @@ msgstr ""
 "A maioria das pessoas nunca ouviu falar do GNU.  Até mesmo a maioria das "
 "pessoas que usam o sistema GNU nunca ouviram falar do GNU, graças a tantas "
 "pessoas e empresas que as ensinam a chamá-lo de &ldquo;Linux&rdquo;. "
-"Todavia, os usuários GNU frequentemente dizem que estão "
-"&ldquo;rodando Linux&rdquo;, que é o mesmo que dizer que você está "
-"&ldquo;dirigindo seu carburador&rdquo; ou &ldquo;dirigindo sua "
-"transmissão&rdquo;."
+"Todavia, os usuários GNU frequentemente dizem que estão &ldquo;rodando "
+"Linux&rdquo;, que é o mesmo que dizer que você está &ldquo;dirigindo seu "
+"carburador&rdquo; ou &ldquo;dirigindo sua transmissão&rdquo;."
 
 #. type: Content of: <p>
 msgid ""
@@ -72,50 +71,48 @@ msgid ""
 "computer and have freedom."
 msgstr ""
 "Logo, aqueles que conhecem sobre GNU associa-o com as ideias de liberdade do "
-"movimento de software livre. Aqueça associação não é um acidente; o "
-"motivo pela qual o desenvolvimento GNU foi especificamente feito para "
-"posibilitar o seu uso em um computador e ter liberdade."
+"movimento de software livre. Aqueça associação não é um acidente; o motivo "
+"pela qual o desenvolvimento GNU foi especificamente feito para posibilitar o "
+"seu uso em um computador e ter liberdade."
 
 #. type: Content of: <p>
 msgid ""
-"A person seeing the name &ldquo;GNU&rdquo; for the first time in "
-"&ldquo;GNU/Linux&rdquo; won't immediately know what it represents, has come "
-"one step closer to finding out.  The association between the name GNU and "
-"our goals of freedom and social solidarity exists in the minds of hundreds "
-"of thousands of GNU/Linux users that do know about GNU.  It exists in <a "
-"href=\"http://www.gnu.org\">gnu.org</a> and in Wikipedia.  It exists around "
-"the web; if these users search for GNU, they will find the ideas GNU stands "
-"for."
+"A person seeing the name &ldquo;GNU&rdquo; for the first time in &ldquo;GNU/"
+"Linux&rdquo; won't immediately know what it represents, has come one step "
+"closer to finding out.  The association between the name GNU and our goals "
+"of freedom and social solidarity exists in the minds of hundreds of "
+"thousands of GNU/Linux users that do know about GNU.  It exists in <a href="
+"\"http://www.gnu.org\">gnu.org</a> and in Wikipedia.  It exists around the "
+"web; if these users search for GNU, they will find the ideas GNU stands for."
 msgstr ""
 "Uma pessoa vendo o nome &ldquo;GNU&rdquo; pela primeira vez em &ldquo;GNU/"
 "Linux&rdquo; imediatamente não vai conhecer o que ele representa, chegou a "
-"um passo de descobrir. A associação entre o nome GNU e nossos objetivos "
-"de liberdade e solidariedade social existem na mente de centenas de milhares "
-"de usuários GNU/Linux que conhece o GNU. Isso existe em <a href="
-"\"http://www.gnu.org\">gnu.org</a> e na Wikipedia. Isso existe ao redor da "
-"web; se esses usuários pesquisar por GNU, eles encontrarão as ideias "
-"que o GNU defende."
+"um passo de descobrir. A associação entre o nome GNU e nossos objetivos de "
+"liberdade e solidariedade social existem na mente de centenas de milhares de "
+"usuários GNU/Linux que conhece o GNU. Isso existe em <a href=\"http://www."
+"gnu.org\">gnu.org</a> e na Wikipedia. Isso existe ao redor da web; se esses "
+"usuários pesquisar por GNU, eles encontrarão as ideias que o GNU defende."
 
 #. type: Content of: <p>
 msgid ""
-"If they don't search, they may encounter them anyway.  The <a "
-"href=\"/philosophy/open-source-misses-the-point.html\">&ldquo;open "
-"source&rdquo;</a> rhetoric tends to lead people's attention away from issues "
-"of users' freedom, but not totally; there is still discussion of GNU and "
-"free software, and people have some chance of coming across it.  When that "
+"If they don't search, they may encounter them anyway.  The <a href=\"/"
+"philosophy/open-source-misses-the-point.html\">&ldquo;open source&rdquo;</a> "
+"rhetoric tends to lead people's attention away from issues of users' "
+"freedom, but not totally; there is still discussion of GNU and free "
+"software, and people have some chance of coming across it.  When that "
 "happens, they are more likely to pay attention to information about GNU "
 "(such as that it's the work of a campaign for freedom and community) if they "
 "know they are users of the GNU system."
 msgstr ""
-"Se eles não pesquisarem, eles poderão encontrar de alguma maneira.  "
-"A retórica do <a href=\"/"
-"philosophy/open-source-misses-the-point.html\">&ldquo;código aberto&rdquo;</a> "
-"tende a desviar a atenção das pessoas para longe de questões sobre a "
-"liberdade dos usuários, mas não totalmente; ainda existe discussão sobre "
-"GNU e software livre, e as pessoas têm alguma chance de topar com ela. "
-"Quando isso acontece, é mais provável que os leitores prestem atenção a "
-"informações sobre o GNU (por exemplo, que ele é resultado de uma campanha "
-"por liberdade e comunidade) se eles sabem que são usuários do sistema GNU."
+"Se eles não pesquisarem, eles poderão encontrar de alguma maneira.  A "
+"retórica do <a href=\"/philosophy/open-source-misses-the-point.html\">&ldquo;"
+"código aberto&rdquo;</a> tende a desviar a atenção das pessoas para longe de "
+"questões sobre a liberdade dos usuários, mas não totalmente; ainda existe "
+"discussão sobre GNU e software livre, e as pessoas têm alguma chance de "
+"topar com ela. Quando isso acontece, é mais provável que os leitores prestem "
+"atenção a informações sobre o GNU (por exemplo, que ele é resultado de uma "
+"campanha por liberdade e comunidade) se eles sabem que são usuários do "
+"sistema GNU."
 
 #. type: Content of: <p>
 msgid ""
@@ -128,27 +125,28 @@ msgid ""
 "aware of the free software ideals."
 msgstr ""
 "Ao longo do tempo, chamar o sistema de &ldquo;GNU/Linux&rdquo; dissemina "
-"consciência sobre os ideais de liberdade pelos quais nós desenvolvemos "
-"o sistema GNU. Também é útil como um lembrete para as pessoas de nossa "
+"consciência sobre os ideais de liberdade pelos quais nós desenvolvemos o "
+"sistema GNU. Também é útil como um lembrete para as pessoas de nossa "
 "comunidade que conhecem esses ideais, em um mundo onde grande parte da "
-"discussão sobre software livre tem uma abordagem totalmente prática "
-"(e portanto amoral). Quando pedimos a você que chame o sistema de "
-"&ldquo;GNU/Linux&rdquo;, o fazemos porque a consciência sobre o GNU "
-"conduz, lentamente mas certamente, à consciência sobre os ideais de "
-"liberdade e comunidade do software livre."
+"discussão sobre software livre tem uma abordagem totalmente prática (e "
+"portanto amoral). Quando pedimos a você que chame o sistema de &ldquo;GNU/"
+"Linux&rdquo;, o fazemos porque a consciência sobre o GNU conduz, lentamente "
+"mas certamente, à consciência sobre os ideais de liberdade e comunidade do "
+"software livre."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
-msgstr ""
+msgstr " "
 
+# type: Content of: <div><p>
 #. type: Content of: <div><div><p>
 msgid ""
-"Please send general FSF &amp; GNU inquiries to <a "
-"href=\"mailto:gnu@gnu.org\">&lt;gnu@gnu.org&gt;</a>.  There are also <a "
-"href=\"/contact/\">other ways to contact</a> the FSF.  Broken links and "
-"other corrections or suggestions can be sent to <a "
-"href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a>."
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
 msgstr ""
 "Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
 "org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
@@ -156,25 +154,23 @@ msgstr ""
 "sugestões podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
 "webmasters@gnu.org&gt;</a>."
 
+#
 #.  TRANSLATORS: Ignore the original text in this paragraph,
 #.         replace it with the translation of these two:
-#
 #.         We work hard and do our best to provide accurate, good quality
 #.         translations.  However, we are not exempt from imperfection.
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
-#
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#
 #.         <p>For information on coordinating and submitting translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
-"Please see the <a "
-"href=\"/server/standards/README.translations.html\">Translations README</a> "
-"for information on coordinating and submitting translations of this article."
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
 msgstr ""
 "A equipe de traduções para o português brasileiro se esforça para oferecer "
 "traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
@@ -185,17 +181,16 @@ msgstr ""
 "envio de traduções das páginas desse site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2006, 2007, 2013, 2014, 2015 Free Software Foundation, "
-"Inc."
-msgstr "Copyright &copy; 2006, 2007, 2013, 2014, 2015 Free Software Foundation, "
-"Inc."
-
+msgid ""
+"Copyright &copy; 2006, 2007, 2013, 2014, 2015 Free Software Foundation, Inc."
+msgstr ""
+"Copyright &copy; 2006, 2007, 2013, 2014, 2015 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
-"This page is licensed under a <a rel=\"license\" "
-"href=\"http://creativecommons.org/licenses/by-nd/4.0/\">Creative Commons "
-"Attribution-NoDerivatives 4.0 International License</a>."
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
 msgstr ""
 "Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
 "creativecommons.org/licenses/by-nd/4.0/us/deed.pt_BR\">Creative Commons "
@@ -205,11 +200,12 @@ msgstr ""
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"<b>Tradução:</b> Hudson Flávio Meneses Lacerda, 2014<br/>"
-"<b>Tradução e Revisão</b>: Daniel Pimentel\n"
+"<b>Tradução:</b> Hudson Flávio Meneses Lacerda, 2014<br/><b>Tradução e "
+"Revisão</b>: Daniel Pimentel\n"
 "<a href=\"mailto:d4n1@d4n1.org\">&lt;d4n1@d4n1.org&gt;</a>, 2016"
 
+# type: Content of: <div><p>
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
-msgstr "Última atualização:"
+msgstr "Última atualização: "
