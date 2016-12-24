@@ -233,9 +233,9 @@ msgstr ""
 "excitantes<a href=\"#unexciting\">(1)</a>, porque você não pode ter um "
 "sistema sem eles. Alguns de nossos componentes, as ferramentas de sistema, "
 "se tornaram populares por conta própria entre os programadores, mas nós "
-"escrevemos muitos componentes que não são ferramentas<a href=\"#nottools"
-"\">(2)</a>. Nós desenvolvemos um jogo de xadrez, o GNU Chess, porque um "
-"sistema completo precisa de jogos também."
+"escrevemos muitos componentes que não são ferramentas<a href=\"#nottools\">"
+"(2)</a>. Nós desenvolvemos um jogo de xadrez, o GNU Chess, porque um sistema "
+"completo precisa de jogos também."
 
 #. type: Content of: <p>
 msgid ""
@@ -251,7 +251,7 @@ msgstr ""
 "hurd/hurd.html\">GNU Hurd</a>, que funciona em cima do Mach. Desenvolver "
 "esse núcleo tem sido bem mais difícil do que esperávamos; <a href=\"/"
 "software/hurd/hurd-and-linux.html\">o GNU Hurd começou a funcionar de forma "
-"seguran em 2001</a>, mas está longe de estar pronto para as pessoas usarem, "
+"segura em 2001</a>, mas está longe de estar pronto para as pessoas usarem, "
 "de forma geral."
 
 #. type: Content of: <p>
@@ -411,8 +411,8 @@ msgstr ""
 "o sistema GNU e suas variantes usam alguns programas BSD; porém, como um "
 "todo, eles são dois sistemas diferentes que evoluíram separadamente. Os "
 "desenvolvedores do BSD não escreveram um núcleo e o adicionaram ao sistema "
-"GNU, e um nome como GNU/BSD não se adequaria à situação.<a href=\"#gnubsd"
-"\">(5)</a>"
+"GNU, e um nome como GNU/BSD não se adequaria à situação.<a href=\"#gnubsd\">"
+"(5)</a>"
 
 #. type: Content of: <h3>
 msgid "Notes:"

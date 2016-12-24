@@ -436,3 +436,21 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização: "
+
+#~ msgid "<a href=\"/education/edu-contents.html\">Education Contents</a>"
+#~ msgstr "<a href=\"/education/edu-contents.html\">Índice da Seção</a>"
+
+#~ msgid "<a href=\"/education/edu-cases.html\">Case Studies</a>"
+#~ msgstr "<a href=\"/education/edu-cases.html\">Estudo de Casos</a>"
+
+#~ msgid "<a href=\"/education/edu-resources.html\">Educational Resources</a>"
+#~ msgstr "<a href=\"/education/edu-resources.html\">Recursos Educacionais</a>"
+
+#~ msgid "<a href=\"/education/edu-projects.html\">Education Projects</a>"
+#~ msgstr "<a href=\"/education/edu-projects.html\">Projetos Educativos</a>"
+
+#~ msgid "<a href=\"/education/edu-faq.html\">FAQ</a>"
+#~ msgstr "<a href=\"/education/edu-faq.html\">Perguntas mais Frequentes</a>"
+
+#~ msgid "<a href=\"/education/edu-team.html\">The Education Team</a>"
+#~ msgstr "<a href=\"/education/edu-team.html\">A Equipe da Educação</a>"

@@ -18,6 +18,8 @@ msgstr ""
 "Outdated-Since: 2002-06-12 12:31+0000\n"
 
 #. type: Content of: <title>
+# | How to use [-the GPL or LGPL-] {+GNU licenses for your own software+} -
+# | GNU Project - Free Software Foundation
 #, fuzzy
 #| msgid "How to use the GPL or LGPL - GNU Project - Free Software Foundation"
 msgid ""
@@ -27,12 +29,21 @@ msgstr ""
 "Como usar as licenças GPL ou LGPL - Projeto GNU - Free Software Foundation"
 
 #. type: Content of: <h2>
+# | How to use [-the GPL or LGPL-] {+GNU licenses for your own software+}
 #, fuzzy
 #| msgid "How to use the GPL or LGPL"
 msgid "How to use GNU licenses for your own software"
 msgstr "Como usar as licenças GPL ou LGPL"
 
 #. type: Content of: <p>
+# | This is a brief explanation of how to place a program under the <a
+# | href=\"/licenses/gpl.html\">GNU General Public [-License</a> or the-]
+# | {+License</a>,+} <a href=\"/licenses/lgpl.html\">Lesser General Public
+# | {+License</a>, or <a href=\"/licenses/agpl.html\">Affero General Public+}
+# | License</a>.  [-(The Lesser GPL, also called-]  {+For+} the [-LGPL, has
+# | superseded the Library GPL, which was also called the LGPL.)-] {+<a
+# | href=\"/licenses/fdl.html\">GNU Free Documentation License</a>, we have a
+# | <a href=\"/licenses/fdl-howto.html\">separate page</a>.+}
 #, fuzzy
 #| msgid ""
 #| "This is a brief explanation of how to place a program under the <a href="
@@ -126,6 +137,14 @@ msgid ""
 msgstr ""
 
 #. type: Content of: <p>
+# | You should also include a copy of the license itself somewhere in the
+# | distribution of your program.  {+All programs, whether they are released
+# | under the GPL or LGPL, should include <a href=\"/licenses/gpl.txt\">the
+# | text version of the GPL</a>.+}  In GNU programs the license is usually in
+# | a file called [-COPYING; it should be the plain ASCII text version of the
+# | license.  Use either <a href=\"/licenses/gpl.txt\"> the text version of
+# | the GPL </a> or <a href=\"/licenses/lgpl.txt\"> the text version Lesser
+# | GPL </a>.-] {+COPYING.+}
 #, fuzzy
 #| msgid ""
 #| "You should also include a copy of the license itself somewhere in the "
@@ -301,6 +320,12 @@ msgstr ""
 "\n"
 
 #. type: Content of: <p>
+# | This statement should go near the beginning of every source file, close to
+# | the copyright notices.  [-For-]  {+When+} using the Lesser GPL, insert the
+# | word &ldquo;Lesser&rdquo; before [-&ldquo:General&rdquo;-]
+# | {+&ldquo;General&rdquo; in <em>all three</em> places.  When using the GNU
+# | AGPL, insert the word &ldquo;Affero&rdquo; before &ldquo;General&rdquo;+}
+# | in <em>all three</em> places.
 #, fuzzy
 #| msgid ""
 #| "This statement should go near the beginning of every source file, close "
@@ -410,6 +435,13 @@ msgstr ""
 "questionário."
 
 #. type: Content of: <p>
+# | But you [-can-] {+are welcome to+} use [-the GPL or the Lesser GPL-] {+any
+# | of our licenses+} even if your program is not a GNU [-package.  Anyone
+# | can-] {+package; indeed, we hope you will.  They're available to everyone.
+# |  If you'd like to advertise your+} use [-these licenses.-] {+of a
+# | particular license, feel free to use <a
+# | href=\"/graphics/license-logos.html\" title=\"GNU License Logos\">one of
+# | our logos</a>.+}
 #, fuzzy
 #| msgid ""
 #| "But you can use the GPL or the Lesser GPL even if your program is not a "
