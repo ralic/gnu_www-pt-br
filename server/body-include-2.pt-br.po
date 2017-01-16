@@ -9,7 +9,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: body-include-2.html\n"
-"POT-Creation-Date: 2016-12-20 06:26+0000\n"
+"POT-Creation-Date: 2017-01-12 15:26+0000\n"
 "PO-Revision-Date: 2015-09-01 14:09-0300\n"
 "Last-Translator: Bruno Félix Rezende Ribeiro <oitofelix@gnu.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -17,7 +17,41 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Outdated-Since: 2013-03-21 23:55-0300\n"
+
+# type: Content of: <body><div><div><div><ul><li>
+#. type: Content of: <div><div><p>
+msgid ""
+"<a href=\"https://www.fsf.org/associate/support_freedom?"
+"referrer=4052\">JOIN&nbsp;THE&nbsp;FSF</a>"
+msgstr ""
+"<a href=\"https://www.fsf.org/associate/support_freedom?"
+"referrer=4052\">JUNTE-SE&nbsp;À&nbsp;FSF!</a>"
+
+#. type: Content of: <div><div><div><p>
+msgid "<a href=\"http://www.fsf.org/fss\">Free Software Supporter</a>"
+msgstr "<a href=\"http://www.fsf.org/fss\">Free Software Supporter</a>"
+
+#. type: Content of: <div><div><div><form><div>
+msgid ""
+"<input name=\"postURL\" type=\"hidden\" value=\"\" /> <input type=\"hidden\" "
+"name=\"group[25]\" value=\"1\" /> <input name=\"cancelURL\" type=\"hidden\" "
+"value=\"https://crm.fsf.org/civicrm/profile?reset=1&amp;gid=31\" /> <input "
+"name=\"_qf_default\" type=\"hidden\" value=\"Edit:cancel\" />"
+msgstr ""
+"<input name=\"postURL\" type=\"hidden\" value=\"\" /> <input type=\"hidden\" "
+"name=\"group[25]\" value=\"1\" /> <input name=\"cancelURL\" type=\"hidden\" "
+"value=\"https://crm.fsf.org/civicrm/profile?reset=1&amp;gid=31\" /> <input "
+"name=\"_qf_default\" type=\"hidden\" value=\"Edit:cancel\" />"
+
+#. type: Content of: <div><div><div><form><p>
+msgid ""
+"<input type=\"text\" id=\"frmEmail\" name=\"email-Primary\" size=\"18\" "
+"maxlength=\"80\" value=\"email address\" onfocus=\"this.value=''\"/> <input "
+"type=\"submit\" name=\"_qf_Edit_next\" value=\"Sign up\" />"
+msgstr ""
+"<input type=\"text\" id=\"frmEmail\" name=\"email-Primary\" size=\"18\" "
+"maxlength=\"80\" value=\"Endereço de e-mail\" onfocus=\"this.value=''\"/> "
+"<input type=\"submit\" name=\"_qf_Edit_next\" value=\"Inscreva-se\" />"
 
 #. type: Content of: <div><div><a>
 msgid "<a href=\"/\">"
@@ -38,202 +72,37 @@ msgid ""
 msgstr ""
 "Patrocinado pela <a href=\"#mission-statement\">Free Software Foundation</a>"
 
-#. type: Content of: <div><div><p>
-msgid ""
-"The Free Software Foundation has <a href=\"https://www.fsf.org/appeal?"
-"pk_campaign=2016_Fundraiser_Banner&amp;pk_kwd=Appeal\">planted the seeds of "
-"computer user freedom</a> for more than three decades. Associate Members are "
-"the roots sustaining this work.  Join now for $10/month and help freedom "
-"thrive."
-msgstr ""
-
-#. type: Content of: <div><div><p>
-msgid ""
-"<a href=\"http://fsf.org/jfb?pk_campaign=2016_Fundraiser_Banner&amp;"
-"pk_kwd=Join\">JOIN<span class=\"normal\">&nbsp;THE&nbsp;FSF</span></a>"
-msgstr ""
-
-#. type: Content of: <div><div><div><span>
-msgid "<span class=\"percentage\">"
-msgstr ""
-
-#. #echo encoding="none" var="d_value" 
-#. type: Content of: <div><div><div>
-msgid "</span>"
-msgstr ""
-
-#. type: Content of: <div><div><div>
-msgid "<span class=\"goal\">$450,000</span>"
-msgstr ""
-
 # type: Content of: <body><div><div><div><ul><li>
 #. type: Content of: <div><ul><li>
-# | <a [-href=\"/gnu/gnu.html\">About&nbsp;GNU</a>-]
-# | {+href=\"/gnu/gnu.html\">ABOUT&nbsp;GNU</a>+}
-#, fuzzy
-#| msgid "<a href=\"/gnu/gnu.html\">About&nbsp;GNU</a>"
 msgid "<a href=\"/gnu/gnu.html\">ABOUT&nbsp;GNU</a>"
-msgstr "<a href=\"/gnu/gnu.html\">Sobre o GNU</a>"
+msgstr "<a href=\"/gnu/gnu.html\">SOBRE&nbsp;O&nbsp;GNU</a>"
 
 # type: Content of: <body><div><div><div><ul><li>
 #. type: Content of: <div><ul><li>
-# | <a [-href=\"/philosophy/philosophy.html\">Philosophy</a>-]
-# | {+href=\"/philosophy/philosophy.html\">PHILOSOPHY</a>+}
-#, fuzzy
-#| msgid "<a href=\"/philosophy/philosophy.html\">Philosophy</a>"
 msgid "<a href=\"/philosophy/philosophy.html\">PHILOSOPHY</a>"
-msgstr "<a href= \"/philosophy/philosophy.html\">Filosofia</a>"
+msgstr "<a href= \"/philosophy/philosophy.html\">FILOSOFIA</a>"
 
 # type: Content of: <body><div><div><div><ul><li>
 #. type: Content of: <div><ul><li>
-# | <a [-href=\"/licenses/licenses.html\">Licenses</a>-]
-# | {+href=\"/licenses/licenses.html\">LICENSES</a>+}
-#, fuzzy
-#| msgid "<a href=\"/licenses/licenses.html\">Licenses</a>"
 msgid "<a href=\"/licenses/licenses.html\">LICENSES</a>"
-msgstr "<a href=\"/licenses/licenses.html\">Licenças</a>"
+msgstr "<a href=\"/licenses/licenses.html\">LICENÇAS</a>"
 
 # type: Content of: <body><div><div><div><ul><li>
 #. type: Content of: <div><ul><li>
-# | <a [-href=\"/education/education.html\">Education</a>-]
-# | {+href=\"/education/education.html\">EDUCATION</a>+}
-#, fuzzy
-#| msgid "<a href=\"/education/education.html\">Education</a>"
 msgid "<a href=\"/education/education.html\">EDUCATION</a>"
-msgstr "<a href=\"/education/education.html\">Educação</a>"
+msgstr "<a href=\"/education/education.html\">EDUCAÇÃO</a>"
 
 # type: Content of: <body><div><div><div><ul><li>
 #. type: Content of: <div><ul><li>
-# | <a [-href=\"/software/software.html\">Software</a>-]
-# | {+href=\"/software/software.html\">SOFTWARE</a>+}
-#, fuzzy
-#| msgid "<a href=\"/software/software.html\">Software</a>"
 msgid "<a href=\"/software/software.html\">SOFTWARE</a>"
-msgstr "<a href=\"/software/software.html\">Software</a>"
+msgstr "<a href=\"/software/software.html\">SOFTWARE</a>"
 
 # type: Content of: <body><div><div><div><ul><li>
 #. type: Content of: <div><ul><li>
-# | <a [-href=\"/doc/doc.html\">Documentation</a>-]
-# | {+href=\"/doc/doc.html\">DOCUMENTATION</a>+}
-#, fuzzy
-#| msgid "<a href=\"/doc/doc.html\">Documentation</a>"
 msgid "<a href=\"/doc/doc.html\">DOCUMENTATION</a>"
-msgstr "<a href=\"/doc/doc.html\">Documentação</a>"
+msgstr "<a href=\"/doc/doc.html\">DOCUMENTAÇÃO</a>"
 
 # type: Content of: <body><div><div><div><ul><li>
 #. type: Content of: <div><ul><li>
-# | <a [-href=\"/help/help.html\">Help&nbsp;GNU</a>-]
-# | {+href=\"/help/help.html\">HELP&nbsp;GNU</a>+}
-#, fuzzy
-#| msgid "<a href=\"/help/help.html\">Help&nbsp;GNU</a>"
 msgid "<a href=\"/help/help.html\">HELP&nbsp;GNU</a>"
-msgstr "<a href=\"/help/help.html\">Ajude o GNU</a>"
-
-# type: Content of: <body><div><div><div><ul><li>
-#~ msgid ""
-#~ "<a href=\"https://www.fsf.org/associate/support_freedom?"
-#~ "referrer=4052\">JOIN&nbsp;THE&nbsp;FSF</a>"
-#~ msgstr ""
-#~ "<a href=\"https://www.fsf.org/associate/support_freedom?"
-#~ "referrer=4052\">JUNTE-SE&nbsp;À&nbsp;FSF!</a>"
-
-#~ msgid "<a href=\"http://www.fsf.org/fss\">Free Software Supporter</a>"
-#~ msgstr "<a href=\"http://www.fsf.org/fss\">Free Software Supporter</a>"
-
-#~ msgid ""
-#~ "<input name=\"postURL\" type=\"hidden\" value=\"\" /> <input type=\"hidden"
-#~ "\" name=\"group[25]\" value=\"1\" /> <input name=\"cancelURL\" type="
-#~ "\"hidden\" value=\"https://crm.fsf.org/civicrm/profile?reset=1&amp;"
-#~ "gid=31\" /> <input name=\"_qf_default\" type=\"hidden\" value=\"Edit:"
-#~ "cancel\" />"
-#~ msgstr ""
-#~ "<input name=\"postURL\" type=\"hidden\" value=\"\" /> <input type=\"hidden"
-#~ "\" name=\"group[25]\" value=\"1\" /> <input name=\"cancelURL\" type="
-#~ "\"hidden\" value=\"https://crm.fsf.org/civicrm/profile?reset=1&amp;"
-#~ "gid=31\" /> <input name=\"_qf_default\" type=\"hidden\" value=\"Edit:"
-#~ "cancel\" />"
-
-#~ msgid ""
-#~ "<input type=\"text\" id=\"frmEmail\" name=\"email-Primary\" size=\"18\" "
-#~ "maxlength=\"80\" value=\"email address\" onfocus=\"this.value=''\"/> "
-#~ "<input type=\"submit\" name=\"_qf_Edit_next\" value=\"Sign up\" />"
-#~ msgstr ""
-#~ "<input type=\"text\" id=\"frmEmail\" name=\"email-Primary\" size=\"18\" "
-#~ "maxlength=\"80\" value=\"Endereço de e-mail\" onfocus=\"this.value=''\"/> "
-#~ "<input type=\"submit\" name=\"_qf_Edit_next\" value=\"Inscreva-se\" />"
-
-#~ msgid "by <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
-#~ msgstr "por <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
-
-# type: Content of: <body><div><div><div><div><p>
-#~ msgid "A monthly email newsletter about GNU and Free Software"
-#~ msgstr "Um informativo mensal sobre o GNU e a FSF"
-
-#~ msgid "<label>Enter your email address (e.g. richard@example.com)</label>"
-#~ msgstr ""
-#~ "<label>Digite seu endereço de e-mail (por exemplo richard@exemplo.com."
-#~ "br)</label>"
-
-# type: Content of: <body><div><div><form><div>
-#~ msgid ""
-#~ "<label class=\"netscape4\" for=\"phrase\">Search:</label> <input name="
-#~ "\"phrase\" id=\"phrase\" type=\"text\" size=\"18\" accesskey=\"s\" value="
-#~ "\"Why GNU/Linux?\" onfocus=\"this.value=''\" /> <input type=\"submit\" "
-#~ "value=\"Search\" />"
-#~ msgstr ""
-#~ "<label class=\"netscape4\" for=\"phrase\">Pesquisa:</label> <input name="
-#~ "\"phrase\" id=\"phrase\" type=\"text\" size=\"18\" accesskey=\"s\" value="
-#~ "\"Por que GNU/Linux?\" onfocus=\"this.value=''\" /> <input type=\"submit"
-#~ "\" value=\"Search\" />"
-
-#~ msgid ""
-#~ "<a href=\"https://my.fsf.org/associate/support_freedom?\" class="
-#~ "\"nounderline\"> Giants like Microsoft and Apple are trying harder than "
-#~ "ever to control the software you use."
-#~ msgstr ""
-#~ "<a href=\"https://my.fsf.org/associate/support_freedom?\" class="
-#~ "\"nounderline\"> Gigantes como a Microsoft e a Apple estão tentando mais "
-#~ "do que nunca controlar o software que você usa."
-
-#~ msgid ""
-#~ "The FSF brings software freedom supporters together to amplify your "
-#~ "voices and make an impact."
-#~ msgstr ""
-#~ "A FSF está reunindo os defensores do software livre para amplificar suas "
-#~ "vozes e causar repercussão."
-
-#~ msgid "In 2013, we want to grow the free software movement."
-#~ msgstr "Em 2013, queremos aumentar o movimento do software livre."
-
-#~ msgid ""
-#~ "<span class=\"underline\">Start your membership today with a $10 donation "
-#~ "and help us crank up the volume.</span> </a>"
-#~ msgstr ""
-#~ "<span class=\"underline\">Torne-se hoje mesmo um membro com uma doação de "
-#~ "10 dólares e nos ajude a aumentar o volume.</span> </a>"
-
-# type: Content of: <body><div><div><div><ul><li>
-#~ msgid ""
-#~ "<a href=\"https://my.fsf.org/associate/support_freedom?\" class="
-#~ "\"nounderline\">"
-#~ msgstr ""
-#~ "<a href=\"https://my.fsf.org/associate/support_freedom?\" class="
-#~ "\"nounderline\">"
-
-#~ msgid "Fundraising knob"
-#~ msgstr "Botão de doações"
-
-#~ msgid "<span class=\"underline\">Help crank it up.</span>"
-#~ msgstr "<span class=\"underline\">Nos ajude a aumentar o volume.</span>"
-
-#~ msgid "<strong class=\"underline\">Donate now!</strong> </a>"
-#~ msgstr "<strong class=\"underline\">Doe agora!</strong> </a>"
-
-#~ msgid "Pledge to take action on May 4th 2012 -- Day Against DRM"
-#~ msgstr "Comprometa-se a agir no dia 4 de maio de 2012 -- Dia Contra o DRM"
-
-#~ msgid "<a href=\"http://libreplanet.org/wiki/LibrePlanet2012\">"
-#~ msgstr "<a href=\"http://libreplanet.org/wiki/LibrePlanet2012\">"
-
-#~ msgid "LibrePlanet 2012 -- March 24/25th 2012"
-#~ msgstr "LibrePlanet 2012 -- 24 e 25 de março de 2012"
+msgstr "<a href=\"/help/help.html\">AJUDE&nbsp;O&nbsp;GNU</a>"
