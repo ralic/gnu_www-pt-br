@@ -48,7 +48,7 @@ msgstr ""
 "Livre</a>"
 
 #. type: Content of: <div><ul><li>
-# | [-by-] <a [-href=\"http://www.stallman.org/\">Richard Stallman</a>-]
+# | [-by-]<a [-href=\"http://www.stallman.org/\">Richard Stallman</a>-]
 # | {+href=\"https://h-node.org/\">HARDWARE</a>+}
 #, fuzzy
 #| msgid "by <a href=\"http://www.stallman.org/\">Richard Stallman</a>"

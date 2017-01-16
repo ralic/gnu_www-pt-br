@@ -40,8 +40,8 @@ msgstr "Como usar as licenças GPL ou LGPL"
 # | href=\"/licenses/gpl.html\">GNU General Public [-License</a> or the-]
 # | {+License</a>,+} <a href=\"/licenses/lgpl.html\">Lesser General Public
 # | {+License</a>, or <a href=\"/licenses/agpl.html\">Affero General Public+}
-# | License</a>.  [-(The Lesser GPL, also called-]  {+For+} the [-LGPL, has
-# | superseded the Library GPL, which was also called the LGPL.)-] {+<a
+# | License</a>.  [-(The Lesser GPL, also called the LGPL, has superseded the
+# | Library GPL, which was also called-]  {+For+} the [-LGPL.)-] {+<a
 # | href=\"/licenses/fdl.html\">GNU Free Documentation License</a>, we have a
 # | <a href=\"/licenses/fdl-howto.html\">separate page</a>.+}
 #, fuzzy
@@ -438,10 +438,9 @@ msgstr ""
 # | But you [-can-] {+are welcome to+} use [-the GPL or the Lesser GPL-] {+any
 # | of our licenses+} even if your program is not a GNU [-package.  Anyone
 # | can-] {+package; indeed, we hope you will.  They're available to everyone.
-# |  If you'd like to advertise your+} use [-these licenses.-] {+of a
-# | particular license, feel free to use <a
-# | href=\"/graphics/license-logos.html\" title=\"GNU License Logos\">one of
-# | our logos</a>.+}
+# |  If you'd like to advertise your use of a particular license, feel free
+# | to+} use [-these licenses.-] {+<a href=\"/graphics/license-logos.html\"
+# | title=\"GNU License Logos\">one of our logos</a>.+}
 #, fuzzy
 #| msgid ""
 #| "But you can use the GPL or the Lesser GPL even if your program is not a "
