@@ -1,21 +1,21 @@
 # Brazilian Portuguese translation for http://www.gnu.org/doc/other-free-books.html
-# Copyright (C) 2012 Free Software Foundation, Inc.
+# Copyright (C) 2016 Free Software Foundation, Inc.
 # This file is distributed under the same license as the gnu.org article.
 # Rafael Beraldo <rberaldo@cabaladada.org>, 2012.
-#
+# Rafael Fontenelle <rafaelff@gnome.org>, 2016.
 msgid ""
 msgstr ""
 "Project-Id-Version: other-free-books.html\n"
-"POT-Creation-Date: 2015-12-23 00:25+0000\n"
-"PO-Revision-Date: 2015-02-23 19:34+0100\n"
-"Last-Translator: Rafael Beraldo <rberaldo@cabaladada.org>\n"
+"POT-Creation-Date: 2016-09-15 11:55+0000\n"
+"PO-Revision-Date: 2017-01-18 18:42-0200\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Outdated-Since: 2015-02-23 17:23+0100\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 0.7.1\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -43,14 +43,6 @@ msgstr ""
 msgid "Free Books from Other Publishers"
 msgstr "Livros Livres de Outras Editoras"
 
-#. type: Content of: <blockquote><p>
-msgid ""
-"<a href=\"http://defectivebydesign.org/ebooks.html\">Join our mailing list "
-"about the dangers of eBooks</a>."
-msgstr ""
-"<a href=\"http://defectivebydesign.org/ebooks.html\">Junte-se à nossa lista "
-"de discussão sobre os perigos dos eBooks</a>"
-
 #. type: Content of: <h3>
 msgid "Introduction"
 msgstr "Introdução"
@@ -65,12 +57,12 @@ msgid ""
 "documentation must be released under a <a href=\"/philosophy/license-list."
 "html#FreeDocumentationLicenses\">free documentation license</a>."
 msgstr ""
-"Por muito tempo suportamos a publicação de <a href=\"/philosophy/free-doc."
-"html\">documentação livre</a>. <a href=\"/philosophy/free-sw.html\">Software "
+"Por muito tempo apoiamos a publicação de <a href=\"/philosophy/free-doc.html"
+"\">documentação livre</a>. <a href=\"/philosophy/free-sw.html\">Software "
 "livre</a> precisa de documentação livre, pois você deve ser livre para "
-"copiar, mudar e redistribuir a documentação juntamente com o software. Para "
-"ser qualificada como livre, a documentação deve ser lançada sob uma <a href="
-"\"/philosophy/license-list.html#FreeDocumentationLicenses\">licença de "
+"copiar, modificar e redistribuir a documentação juntamente com o software. "
+"Para ser qualificada como livre, a documentação deve ser lançada sob uma <a "
+"href=\"/philosophy/license-list.html#FreeDocumentationLicenses\">licença de "
 "documentação livre</a>."
 
 #. type: Content of: <p>
@@ -103,6 +95,14 @@ msgstr ""
 "livros que encontramos. Se você descobriu algum livro livre que nós não "
 "listamos aqui, por favor, nos avise <a href=\"mailto:free-books@gnu.org"
 "\">enviando um e-mail para &lt;free-books@gnu.org&gt;</a>."
+
+#. type: Content of: <blockquote><p>
+msgid ""
+"<a href=\"http://defectivebydesign.org/ebooks.html\">Join our mailing list "
+"about the dangers of eBooks</a>."
+msgstr ""
+"<a href=\"http://defectivebydesign.org/ebooks.html\">Junte-se à nossa lista "
+"de discussão sobre os perigos dos eBooks</a>"
 
 #. type: Content of: <h3>
 msgid "Free books"
@@ -154,7 +154,7 @@ msgstr "978-1-906966-08-9"
 
 #. type: Content of: <table><tr><td>
 msgid "<a href=\"/licenses/fdl.html\">GNU Free Documentation License</a>"
-msgstr "<a href=\"/licenses/fdl.html\">GNU Free Documentation License</a>"
+msgstr "<a href=\"/licenses/fdl.html\">Licença de Documentação Livre GNU</a>"
 
 #. type: Content of: <table><tr><td>
 msgid ""
@@ -202,7 +202,7 @@ msgstr "9781906966027"
 
 #. type: Content of: <table><tr><td>
 msgid "<a href=\"/licenses/gpl.html\">GNU General Public License</a>"
-msgstr "<a href=\"/licenses/gpl.html\">GNU General Public License</a>"
+msgstr "<a href=\"/licenses/gpl.html\">Licença Pública Geral GNU</a>"
 
 #. type: Content of: <table><tr><td>
 msgid ""
@@ -226,7 +226,7 @@ msgstr "095461206X"
 
 #. type: Content of: <table><tr><td>
 msgid "Old GNU manual license"
-msgstr "Old GNU manual license"
+msgstr "Antiga licença de manual GNU"
 
 #. type: Content of: <table><tr><td>
 msgid "<a href=\"http://nostarch.com/wikipedia.htm\">How Wikipedia Works</a>"
@@ -276,7 +276,7 @@ msgstr "0954612027"
 
 #. type: Content of: <table><tr><td>
 msgid "PostgreSQL License"
-msgstr "PostgreSQL License"
+msgstr "Licença do PostgreSQL"
 
 #. type: Content of: <table><tr><td>
 msgid ""
@@ -336,7 +336,7 @@ msgstr "0-9541617-8-5"
 
 #. type: Content of: <table><tr><td>
 msgid "Python license"
-msgstr "Python license"
+msgstr "Licença Python"
 
 #. type: Content of: <table><tr><td>
 msgid ""
@@ -531,8 +531,8 @@ msgid ""
 "Open Publication License, Version&nbsp;1.0 (no options exercised)  <a href="
 "\"#ALP_NOTE\">(See note below)</a>"
 msgstr ""
-"Open Publication License, Version&nbsp;1.0 (sem opções exercidas)  <a href="
-"\"#ALP_NOTE\">(Veja nota abaixo)</a>"
+"Licença de Publicação Aberta, Versão&nbsp;1.0 (sem opções exercidas)  <a "
+"href=\"#ALP_NOTE\">(Veja nota abaixo)</a>"
 
 #. type: Content of: <table><tr><td>
 msgid ""
@@ -552,7 +552,7 @@ msgstr "0-7357-1137-2"
 
 #. type: Content of: <table><tr><td>
 msgid "Open Publication License, Version&nbsp;1.0 (no options exercised)"
-msgstr "Open Publication License, Version&nbsp;1.0 (sem opções exercidas)"
+msgstr "Licença de Publicação Aberta, Versão&nbsp;1.0 (sem opções exercidas)"
 
 #. type: Content of: <table><tr><td>
 msgid "Linux Device Drivers, Second Edition"
@@ -575,7 +575,7 @@ msgid ""
 "<a href=\"/licenses/fdl.html\">GNU Free Documentation License</a> <a href="
 "\"#DRIVER_NOTE\">(See note below)</a>"
 msgstr ""
-"<a href=\"/licenses/fdl.html\">GNU Free Documentation License</a> <a href="
+"<a href=\"/licenses/fdl.html\">Licença de Documentação Livre GNU</a> <a href="
 "\"#DRIVER_NOTE\">(Veja nota abaixo)</a>"
 
 #. type: Content of: <table><tr><td>
@@ -612,7 +612,7 @@ msgid ""
 "Installation and Usage</a> (Currently out-of-print)"
 msgstr ""
 "<a href=\"http://www.gutenberg.org/etext/6527\">Debian GNU/Linux: Guide to "
-"Installation and Usage</a> (Currently out-of-print)"
+"Installation and Usage</a> (Atualmente esgotado)"
 
 #. type: Content of: <table><tr><td>
 msgid "John Goerzen and Ossama Othman"
@@ -657,7 +657,7 @@ msgid ""
 "<a href=\"http://www.gnu.org/licenses/gpl.html\">GNU General Public License</"
 "a>"
 msgstr ""
-"<a href=\"http://www.gnu.org/licenses/gpl.html\">GNU General Public License</"
+"<a href=\"http://www.gnu.org/licenses/gpl.html\">Licença Pública Geral GNU</"
 "a>"
 
 #. type: Content of: <table><tr><td>
@@ -681,24 +681,16 @@ msgid ""
 "<a href=\"http://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons "
 "Attribution-ShareAlike 3.0</a>"
 msgstr ""
-"<a href=\"http://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons "
-"Attribution-ShareAlike 3.0</a>"
+"<a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.pt_BR"
+"\">Creative Commons Atribuição-CompartilhaIgual 3.0 Não Adaptada</a>"
 
-# | <a
-# | [-href=\"http://www.cafeshops.com/bartlettpublish.8640017\">Programming-]
-# | {+href=\"http://savannah.nongnu.org/projects/pgubook/\">Programming+} from
-# | the Ground Up</a>
 #. type: Content of: <table><tr><td>
-#, fuzzy
-#| msgid ""
-#| "<a href=\"http://www.cafeshops.com/bartlettpublish.8640017\">Programming "
-#| "from the Ground Up</a>"
 msgid ""
 "<a href=\"http://savannah.nongnu.org/projects/pgubook/\">Programming from "
 "the Ground Up</a>"
 msgstr ""
-"<a href=\"http://www.cafeshops.com/bartlettpublish.8640017\">Programming "
-"from the Ground Up</a>"
+"<a href=\"http://savannah.nongnu.org/projects/pgubook/\">Programming from "
+"the Ground Up</a>"
 
 #. type: Content of: <table><tr><td>
 msgid "Jonathan Bartlett"
@@ -717,8 +709,8 @@ msgid ""
 "<a href=\"http://www.fsf.org/licensing/licenses/fdl.html\">GNU Free "
 "Documentation License</a>"
 msgstr ""
-"<a href=\"http://www.fsf.org/licensing/licenses/fdl.html\">GNU Free "
-"Documentation License</a>"
+"<a href=\"http://www.fsf.org/licensing/licenses/fdl.html\">Licença de "
+"Documentação Livre GNU</a>"
 
 #. type: Content of: <table><tr><td>
 msgid ""
@@ -741,8 +733,8 @@ msgid ""
 "<a href=\"http://www.gnu.org/licenses/fdl.html\">GNU Free Documentation "
 "License</a>"
 msgstr ""
-"<a href=\"http://www.gnu.org/licenses/fdl.html\">GNU Free Documentation "
-"License</a>"
+"<a href=\"http://www.gnu.org/licenses/fdl.html\">Licença de Documentação "
+"Livre GNU</a>"
 
 #. type: Content of: <table><tr><td>
 msgid ""
@@ -780,7 +772,7 @@ msgid ""
 "Commons Attribution&nbsp;2.0 License</a>"
 msgstr ""
 "<a href=\"http://creativecommons.org/licenses/by/2.0/legalcode\">Creative "
-"Commons Attribution&nbsp;2.0 License</a>"
+"Commons Atribuição &nbsp;2.0</a>"
 
 #. type: Content of: <table><tr><td>
 msgid ""
@@ -800,7 +792,7 @@ msgstr "1-56592-654-4"
 
 #. type: Content of: <table><tr><td>
 msgid "Open Publication License, Version&nbsp;1.0 or later"
-msgstr "Open Publication License, Version&nbsp;1.0 ou posterior"
+msgstr "Licença de Publicação Aberta, Versão&nbsp;1.0 ou posterior"
 
 #. type: Content of: <dl><dt>
 msgid ""
@@ -810,26 +802,7 @@ msgstr ""
 "<a href=\"#ALP_ENTRY\" name=\"ALP_NOTE\"><strong>Nota sobre Advanced Linux "
 "Programming, First Edition:</strong></a>"
 
-# | The June 2001 printing of this book failed to list the license
-# | notification properly.  This printed edition says it is a proprietary
-# | book.  The publisher has assured us that this was purely a printing error
-# | and that the intended license is &ldquo;Open Publication License,
-# | Version&nbsp;1.0, No options exercised&rdquo;.  Their <a
-# | [-href=\"http://www.advancedlinuxprogramming.com/errata.html\">errata-]
-# | {+href=\"https://web.archive.org/web/20150330081029/http://www.advancedlinuxprogramming.com/errata.html\">errata+}
-# | page</a> confirms this.  They have assured us that the next printing will
-# | have the corrected license.
 #. type: Content of: <dl><dd>
-#, fuzzy
-#| msgid ""
-#| "The June 2001 printing of this book failed to list the license "
-#| "notification properly.  This printed edition says it is a proprietary "
-#| "book.  The publisher has assured us that this was purely a printing error "
-#| "and that the intended license is &ldquo;Open Publication License, "
-#| "Version&nbsp;1.0, No options exercised&rdquo;.  Their <a href=\"http://"
-#| "www.advancedlinuxprogramming.com/errata.html\">errata page</a> confirms "
-#| "this.  They have assured us that the next printing will have the "
-#| "corrected license."
 msgid ""
 "The June 2001 printing of this book failed to list the license notification "
 "properly.  This printed edition says it is a proprietary book.  The "
@@ -843,9 +816,10 @@ msgstr ""
 "A impressão de junho de 2001 desse livro falhou em listar a notificação de "
 "licença apropriadamente. A edição impressa diz que é um livro proprietário. "
 "A editora nos assegurou que isso foi simplesmente um erro na impressão e que "
-"a licença planejada era a “Open Publication License, Version&nbsp;1.0, Sem "
-"opções exercidas”. A <a href=\"http://www.advancedlinuxprogramming.com/"
-"errata.html\">página de errada</a> confirma isso."
+"a licença planejada era a “Licença de Publicação Aberta, Versão&nbsp;1.0, "
+"Sem opções exercidas”. A <a href=\"https://web.archive.org/"
+"web/20150330081029/http://www.advancedlinuxprogramming.com/errata.html"
+"\">página contendo a errata</a> confirma isso."
 
 #. type: Content of: <dl><dt>
 msgid ""
@@ -911,88 +885,30 @@ msgstr ""
 "\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
 "envio de traduções das páginas desse site."
 
-# | Copyright &copy; [-2014-] {+2014, 2015+} Free Software Foundation, Inc.
 #. type: Content of: <div><p>
-#, fuzzy
-#| msgid "Copyright &copy; 2014 Free Software Foundation, Inc."
-msgid "Copyright &copy; 2014, 2015 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2014 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2014, 2015, 2016 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2014, 2015, 2016 Free Software Foundation, Inc."
 
-# | This page is licensed under a <a rel=\"license\"
-# | [-href=\"http://creativecommons.org/licenses/by-nd/3.0/us/\">Creative-]
-# | {+href=\"http://creativecommons.org/licenses/by-nd/4.0/\">Creative+}
-# | Commons [-Attribution-NoDerivs 3.0 United States-]
-# | {+Attribution-NoDerivatives 4.0 International+} License</a>.
 #. type: Content of: <div><p>
-#, fuzzy
-#| msgid ""
-#| "This page is licensed under a <a rel=\"license\" href=\"http://"
-#| "creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-#| "NoDerivs 3.0 United States License</a>."
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
 "creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
 "NoDerivatives 4.0 International License</a>."
 msgstr ""
 "Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/deed.pt_BR\">Creative Commons "
-"Atribuição-SemDerivações 3.0 Estados Unidos</a>."
+"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Atribuição-SemDerivações "
+"4.0 Internacional</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"<b>Tradução</b>: Rafael Beraldo\n"
-"<a href=\"mailto:rberaldo@cabaladada.org\">&lt;rberaldo@cabaladada.org&gt;</"
-"a>, 2012"
+"<b>Tradução</b>: Rafael Beraldo <a href=\"mailto:rberaldo@cabaladada.org"
+"\">&lt;rberaldo@cabaladada.org&gt;</a>, 2012; Rafael Fontenelle <a href="
+"\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome.org&gt;</a>, 2016."
 
 # type: Content of: <div><p>
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização: "
-
-#~ msgid ""
-#~ "<a href=\"http://www.cafeshops.com/bartlettpublish.8640017\">Programming "
-#~ "from the Ground Up</a>"
-#~ msgstr ""
-#~ "<a href=\"http://www.cafeshops.com/bartlettpublish.8640017\">Programming "
-#~ "from the Ground Up</a>"
-
-#~ msgid ""
-#~ "The June 2001 printing of this book failed to list the license "
-#~ "notification properly.  This printed edition says it is a proprietary "
-#~ "book.  The publisher has assured us that this was purely a printing error "
-#~ "and that the intended license is &ldquo;Open Publication License, "
-#~ "Version&nbsp;1.0, No options exercised&rdquo;.  Their <a href=\"http://"
-#~ "www.advancedlinuxprogramming.com/errata.html\">errata page</a> confirms "
-#~ "this.  They have assured us that the next printing will have the "
-#~ "corrected license."
-#~ msgstr ""
-#~ "A impressão de junho de 2001 desse livro falhou em listar a notificação "
-#~ "de licença apropriadamente. A edição impressa diz que é um livro "
-#~ "proprietário. A editora nos assegurou que isso foi simplesmente um erro "
-#~ "na impressão e que a licença planejada era a “Open Publication License, "
-#~ "Version&nbsp;1.0, Sem opções exercidas”. A <a href=\"http://www."
-#~ "advancedlinuxprogramming.com/errata.html\">página de errada</a> confirma "
-#~ "isso."
-
-#~ msgid "Copyright &copy; 2014 Free Software Foundation, Inc."
-#~ msgstr "Copyright &copy; 2014 Free Software Foundation, Inc."
-
-#~ msgid ""
-#~ "The 2001 printing of this book failed to list the license notification "
-#~ "properly.  This printed edition says it is a proprietary book.  The "
-#~ "publisher has assured us that this was purely a printing error and that "
-#~ "the intended license is the Open Publication License, Version&nbsp;1.0, "
-#~ "with no options exercised.  Their <a href=\"http://www.newriders.com/"
-#~ "content/images/0735710015/errata/0735710015.pdf\">errata (in PDF format)</"
-#~ "a> confirms this."
-#~ msgstr ""
-#~ "A impressão de 2001 desse livro falhou em listar a notificação de licença "
-#~ "apropriadamente. A edição impressa diz que é um livro proprietário. A "
-#~ "editora nos assegurou que isso foi simplesmente um erro na impressão e "
-#~ "que a licença planejada era a Open Publication License, Version&nbsp;1.0, "
-#~ "sem opções exercidas. A  <a href=\"http://www.newriders.com/content/"
-#~ "images/0735710015/errata/0735710015.pdf\">errata do livro (em PDF)</a> "
-#~ "confirma isso."
