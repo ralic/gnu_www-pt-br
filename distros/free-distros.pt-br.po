@@ -10,7 +10,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: free-distros.html\n"
-"POT-Creation-Date: 2016-12-15 08:55+0000\n"
+"POT-Creation-Date: 2017-01-28 08:26+0000\n"
 "PO-Revision-Date: 2016-12-17 01:03-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -189,13 +189,22 @@ msgid "<a href=\"http://dragora.org\">"
 msgstr "<a href=\"http://dragora.org\">"
 
 #. type: Attribute 'alt' of: <table><tr><td><a><img>
-msgid "Dragora"
-msgstr "Dragora"
+# | [-Parabola GNU/Linux-libre-]{+Dragora GNU/Linux-Libre+}
+#, fuzzy
+#| msgid "Parabola GNU/Linux-libre"
+msgid "Dragora GNU/Linux-Libre"
+msgstr "Parabola GNU/Linux-libre"
 
 #. type: Content of: <table><tr><td>
+# | [-Dragora,-]{+Dragora GNU/Linux-Libre,+} an independent GNU/Linux
+# | distribution based on concepts of simplicity.
+#, fuzzy
+#| msgid ""
+#| "Dragora, an independent GNU/Linux distribution based on concepts of "
+#| "simplicity."
 msgid ""
-"Dragora, an independent GNU/Linux distribution based on concepts of "
-"simplicity."
+"Dragora GNU/Linux-Libre, an independent GNU/Linux distribution based on "
+"concepts of simplicity."
 msgstr ""
 "Dragora, uma distribuição de GNU/Linux independente baseada em conceitos de "
 "simplicidade."
@@ -500,7 +509,11 @@ msgstr ""
 "envio de traduções das páginas desse site."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2014, 2015, 2016 Free Software Foundation, Inc."
+# | Copyright &copy; 2014, 2015, [-2016-] {+2016, 2017+} Free Software
+# | Foundation, Inc.
+#, fuzzy
+#| msgid "Copyright &copy; 2014, 2015, 2016 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2014, 2015, 2016, 2017 Free Software Foundation, Inc."
 msgstr "Copyright &copy; 2014, 2015, 2016 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
@@ -531,3 +544,6 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização: "
+
+#~ msgid "Dragora"
+#~ msgstr "Dragora"

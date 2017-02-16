@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: shouldbefree.html\n"
-"POT-Creation-Date: 2014-03-31 06:29+0000\n"
+"POT-Creation-Date: 2017-02-16 10:26+0000\n"
 "PO-Revision-Date: 2015-01-20 21:20+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -1716,10 +1716,24 @@ msgstr ""
 "tradição legal. Nem nunca foi."
 
 #. type: Content of: <p>
+# | Thus, the Constitution says that the purpose of copyright is to
+# | &ldquo;promote the Progress of Science and the useful Arts.&rdquo; The
+# | Supreme Court has elaborated on this, stating in <em>Fox Film v.
+# | Doyal</em>[-;-] that &ldquo;The sole interest of the United States and the
+# | primary object in conferring the [copyright] monopoly lie in the general
+# | benefits derived by the public from the labors of authors.&rdquo;
+#, fuzzy
+#| msgid ""
+#| "Thus, the Constitution says that the purpose of copyright is to &ldquo;"
+#| "promote the Progress of Science and the useful Arts.&rdquo; The Supreme "
+#| "Court has elaborated on this, stating in <em>Fox Film v. Doyal</em>; that "
+#| "&ldquo;The sole interest of the United States and the primary object in "
+#| "conferring the [copyright] monopoly lie in the general benefits derived "
+#| "by the public from the labors of authors.&rdquo;"
 msgid ""
 "Thus, the Constitution says that the purpose of copyright is to &ldquo;"
 "promote the Progress of Science and the useful Arts.&rdquo; The Supreme "
-"Court has elaborated on this, stating in <em>Fox Film v. Doyal</em>; that "
+"Court has elaborated on this, stating in <em>Fox Film v. Doyal</em> that "
 "&ldquo;The sole interest of the United States and the primary object in "
 "conferring the [copyright] monopoly lie in the general benefits derived by "
 "the public from the labors of authors.&rdquo;"
@@ -1904,16 +1918,32 @@ msgstr ""
 "envio de traduções das páginas desse site."
 
 #. type: Content of: <div><p>
+# | Copyright &copy; 1991, 1992, 1998, 2000, 2001, 2006, 2007, [-2010-]
+# | {+2010, 2017+} Free Software Foundation, Inc.
+#, fuzzy
+#| msgid ""
+#| "Copyright &copy; 1991, 1992, 1998, 2000, 2001, 2006, 2007, 2010 Free "
+#| "Software Foundation, Inc."
 msgid ""
-"Copyright &copy; 1991, 1992, 1998, 2000, 2001, 2006, 2007, 2010 Free "
+"Copyright &copy; 1991, 1992, 1998, 2000, 2001, 2006, 2007, 2010, 2017 Free "
 "Software Foundation, Inc."
 msgstr "Copyright &copy; 1991, 1992 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
+# | This page is licensed under a <a rel=\"license\"
+# | [-href=\"http://creativecommons.org/licenses/by-nd/3.0/us/\">Creative-]
+# | {+href=\"http://creativecommons.org/licenses/by-nd/4.0/\">Creative+}
+# | Commons [-Attribution-NoDerivs 3.0 United States-]
+# | {+Attribution-NoDerivatives 4.0 International+} License</a>.
+#, fuzzy
+#| msgid ""
+#| "This page is licensed under a <a rel=\"license\" href=\"http://"
+#| "creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
+#| "NoDerivs 3.0 United States License</a>."
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-"NoDerivs 3.0 United States License</a>."
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
 msgstr ""
 "Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
 "creativecommons.org/licenses/by-nd/3.0/us/deed.pt_BR\">Creative Commons "
