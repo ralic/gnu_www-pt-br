@@ -1,13 +1,13 @@
 # Brazilian Portuguese translation of http://www.gnu.org/philosophy/surveillance-vs-democracy.html
-# Copyright (C) 2016 Free Software Foundation, Inc.
+# Copyright (C) 2017 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2016.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2016, 2017.
 # Paulo Francisco Slomp <slomp@ufrgs.br>, 2016.
 msgid ""
 msgstr ""
 "Project-Id-Version: surveillance-vs-democracy.html\n"
 "POT-Creation-Date: 2016-12-27 19:25+0000\n"
-"PO-Revision-Date: 2016-10-19 05:02-0200\n"
+"PO-Revision-Date: 2017-01-28 21:35-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Virtaal 0.7.1\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -237,41 +237,6 @@ msgstr ""
 "localizar o “espião” será uma desculpa para acessar o material acumulado."
 
 #. type: Content of: <div><div><p>
-# | In addition, the state's surveillance staff will misuse the data for
-# | personal reasons.  Some NSA agents <a
-# | href=\"http://www.theguardian.com/world/2013/aug/24/nsa-analysts-abused-surveillance-systems\">used
-# | U.S. surveillance systems to track their lovers</a>&mdash;past, present,
-# | or wished-for&mdash;in a practice called &ldquo;LOVEINT.&rdquo; The NSA
-# | says it has caught and punished this a few times; we don't know how many
-# | other times it wasn't caught.  But these events shouldn't surprise us,
-# | because police have long <a
-# | href=\"https://web.archive.org/web/20160401102120/http://www.sweetliberty.org/issues/privacy/lein1.htm#.V_mKlYbb69I\">used
-# | their access to driver's license records to track down someone
-# | attractive</a>, a practice known as &ldquo;running a plate for a
-# | date.&rdquo; This practice has expanded with <a
-# | href=\"https://theyarewatching.org/issues/risks-increase-once-data-shared\">new
-# | digital systems</a>.  {+In 2016, a prosecutor was accused of forging
-# | judges' signatures to get authorization to <a
-# | href=\"http://gizmodo.com/government-officials-cant-stop-spying-on-their-crushes-1789490933\">
-# | wiretap someone who was the object of a romantic obsession</a>. The AP
-# | knows of <a
-# | href=\"http://bigstory.ap.org/article/699236946e3140659fff8a2362e16f43/ap-across-us-police-officers-abuse-confidential-databases\">many
-# | other instances in the US</a>.+}
-#, fuzzy
-#| msgid ""
-#| "In addition, the state's surveillance staff will misuse the data for "
-#| "personal reasons.  Some NSA agents <a href=\"http://www.theguardian.com/"
-#| "world/2013/aug/24/nsa-analysts-abused-surveillance-systems\">used U.S. "
-#| "surveillance systems to track their lovers</a>&mdash;past, present, or "
-#| "wished-for&mdash;in a practice called &ldquo;LOVEINT.&rdquo; The NSA says "
-#| "it has caught and punished this a few times; we don't know how many other "
-#| "times it wasn't caught.  But these events shouldn't surprise us, because "
-#| "police have long <a href=\"https://web.archive.org/web/20160401102120/"
-#| "http://www.sweetliberty.org/issues/privacy/lein1.htm#.V_mKlYbb69I\">used "
-#| "their access to driver's license records to track down someone "
-#| "attractive</a>, a practice known as &ldquo;running a plate for a date."
-#| "&rdquo; This practice has expanded with <a href=\"https://theyarewatching."
-#| "org/issues/risks-increase-once-data-shared\">new digital systems</a>."
 msgid ""
 "In addition, the state's surveillance staff will misuse the data for "
 "personal reasons.  Some NSA agents <a href=\"http://www.theguardian.com/"
@@ -306,7 +271,13 @@ msgstr ""
 "seu acesso aos registros de carteiras de motoristas para perseguir alguém "
 "atraente</a>, uma prática conhecida como <i>“running a plate for a date”</"
 "i>. Essa prática foi ampliada com os <a href=\"https://theyarewatching.org/"
-"issues/risks-increase-once-data-shared\">novos sistemas digitais</a>."
+"issues/risks-increase-once-data-shared\">novos sistemas digitais</a>. Em "
+"2016, um promotor foi acusado de forjar as assinaturas de juízes para obter "
+"autorização para <a href=\"http://gizmodo.com/government-officials-cant-stop-"
+"spying-on-their-crushes-1789490933\">grampear uma pessoa que era objeto de "
+"uma obsessão romântica</a>. A AP sabe de <a href=\"http://bigstory.ap.org/"
+"article/699236946e3140659fff8a2362e16f43/ap-across-us-police-officers-abuse-"
+"confidential-databases\">muitas outras ocorrências nos EUA</a>."
 
 #. type: Content of: <div><div><p>
 msgid ""

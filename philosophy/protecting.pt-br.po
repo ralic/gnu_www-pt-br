@@ -1,20 +1,22 @@
 # Brazilian Portuguese translation of http://www.gnu.org/philosophy/protecting.html
-# Copyright (C) 2001 Free Software Foundation, Inc.
+# Copyright (C) 2017 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Fernando Lozano, 2001.
 # Jan 2015: GNUNify; trivial update (T. Godefroy).
-#
+# Rafael Fontenelle <rafaelff@gnome.org>, 2017.
 msgid ""
 msgstr ""
 "Project-Id-Version: protecting.html\n"
 "POT-Creation-Date: 2015-08-18 16:26+0000\n"
-"PO-Revision-Date: 2015-01-20 21:20+0100\n"
-"Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
+"PO-Revision-Date: 2017-01-28 23:45-0200\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -29,38 +31,17 @@ msgid "Help Protect the Rights to Write Both Nonfree and Free Software"
 msgstr ""
 "Ajude a Proteger o Direito de Escrever Tanto Software Livre Quanto Não-Livre"
 
-# TODO: this string needs reviewing.
 #. type: Content of: <blockquote><p>
-# | The League for Programming Freedom is inactive [-now.-] {+now and its
-# | website is archived.+}  Please join our <a
-# | href=\"http://endsoftpatents.org\">End Software Patents</a> campaign!
-#, fuzzy
-#| msgid ""
-#| "The League for Programming Freedom is inactive now.  Please join our <a "
-#| "href=\"http://endsoftpatents.org\">End Software Patents</a> campaign!"
 msgid ""
 "The League for Programming Freedom is inactive now and its website is "
 "archived.  Please join our <a href=\"http://endsoftpatents.org\">End "
 "Software Patents</a> campaign!"
 msgstr ""
-"A Liga pela Liberdade da Programaçãoa está agora inativa. Junte-se a nossa "
-"campanha para <a href=\"http://endsoftpatents.org\">acabar com as patentes "
-"de software</a>."
+"A Liga pela Liberdade da Programação está agora inativa e seu site está "
+"arquivado. Junte-se a nossa campanha para <a href=\"http://endsoftpatents.org"
+"\">acabar com as patentes de software</a>."
 
 #. type: Content of: <p>
-# | The right to write both nonfree and free software is threatened by <a
-# | [-href=\"http://progfree.org/Patents/patents.html\">software-]
-# | {+href=\"https://web.archive.org/web/20150329143651/http://progfree.org/Patents/patents.html\">
-# | software+} patents</a> and by <a
-# | [-href=\"http://progfree.org/Copyright/copyright.html\">&ldquo;look-and-feel&rdquo;-]
-# | {+href=\"https://web.archive.org/web/20150329142315/http://progfree.org/Copyright/copyright.html\">
-# | &ldquo;look-and-feel&rdquo;+} interface copyright lawsuits</a>.
-#, fuzzy
-#| msgid ""
-#| "The right to write both nonfree and free software is threatened by <a "
-#| "href=\"http://progfree.org/Patents/patents.html\">software patents</a> "
-#| "and by <a href=\"http://progfree.org/Copyright/copyright.html\">&ldquo;"
-#| "look-and-feel&rdquo; interface copyright lawsuits</a>."
 msgid ""
 "The right to write both nonfree and free software is threatened by <a href="
 "\"https://web.archive.org/web/20150329143651/http://progfree.org/Patents/"
@@ -69,31 +50,23 @@ msgid ""
 "&ldquo;look-and-feel&rdquo; interface copyright lawsuits</a>."
 msgstr ""
 "O direito de se escrever tanto software não-livre quando software livre está "
-"ameaçado pelas <a href=\"http://progfree.org/Patents/patents.html\">patentes "
-"de software</a> e pelos <a href=\"http://progfree.org/Copyright/copyright."
-"html\">processos relacionados com questões de “look-and-feel” da interface "
-"como usuário</a>. "
+"ameaçado pelas <a href=\"https://web.archive.org/web/20150329143651/http://"
+"progfree.org/Patents/patents.html\">patentes de software</a> e pelos <a href="
+"\"https://web.archive.org/web/20150329142315/http://progfree.org/Copyright/"
+"copyright.html\">processos relacionados com questões de “look-and-feel” da "
+"interface como usuário</a>."
 
 #. type: Content of: <p>
-# | The Free Software Foundation fights these threats in many ways.  These
-# | include support for and being a member of <a
-# | [-href=\"http://progfree.org/\">League-]
-# | {+href=\"https://web.archive.org/web/20150329224604/http://www.progfree.org/\">
-# | League+} for Programming Freedom</a>.
-#, fuzzy
-#| msgid ""
-#| "The Free Software Foundation fights these threats in many ways.  These "
-#| "include support for and being a member of <a href=\"http://progfree.org/"
-#| "\">League for Programming Freedom</a>."
 msgid ""
 "The Free Software Foundation fights these threats in many ways.  These "
 "include support for and being a member of <a href=\"https://web.archive.org/"
 "web/20150329224604/http://www.progfree.org/\"> League for Programming "
 "Freedom</a>."
 msgstr ""
-"A Fundação para o Software Livre luta contra esses desafios de vários modos. "
-"Eles includem apoiar e ser membro da <a href=\"http://progfree.org/\">League "
-"for Programming Freedom</a> (Liga pela Liberdade da Programação)."
+"A Free Software Foundation luta contra esses desafios de vários modos. Eles "
+"includem apoiar e ser membro da <a href=\"https://web.archive.org/"
+"web/20150329224604/http://www.progfree.org/\">League for Programming "
+"Freedom</a> (Liga pela Liberdade da Programação)."
 
 #. type: Content of: <p>
 msgid ""
@@ -111,23 +84,15 @@ msgstr ""
 "individuais. A Liga tem por objetivo reverter mudanças recentes criadas por "
 "juízes em resposta a interesses especiais."
 
-# TODO: this string needs reviewing.
 #. type: Content of: <p>
-# | The FSF urges you to join us in fighting these threats by <a
-# | [-href=\"http://progfree.org/Help/help.html\">helping-]
-# | {+href=\"https://web.archive.org/web/20150329142830/http://progfree.org/Help/help.html\">helping+}
-# | the League</a>.
-#, fuzzy
-#| msgid ""
-#| "The FSF urges you to join us in fighting these threats by <a href="
-#| "\"http://progfree.org/Help/help.html\">helping the League</a>."
 msgid ""
 "The FSF urges you to join us in fighting these threats by <a href=\"https://"
 "web.archive.org/web/20150329142830/http://progfree.org/Help/help.html"
 "\">helping the League</a>."
 msgstr ""
 "A FSF conclama você a se juntar a nós na luta contra esses desafios, <a href="
-"\"http://progfree.org/Help/help.html\">ajudando a Liga</a>."
+"\"https://web.archive.org/web/20150329142830/http://progfree.org/Help/help."
+"html\">ajudando a Liga</a>."
 
 #. type: Content of: <p>
 msgid ""
@@ -138,8 +103,8 @@ msgid ""
 "danger, too! It would be easy to ignore the problem until you or your "
 "employer is sued, but it is more prudent to organize before that happens."
 msgstr ""
-"<strong>A Liga não tem conexões com a Fundação para o Software Livre, e não "
-"está preocupada com a questão do software livre.</strong> A FSF apóia a Liga "
+"<strong>A Liga não tem conexões com a Free Software Foundation, e não está "
+"preocupada com a questão do software livre.</strong> A FSF apoia a Liga "
 "porque, assim como qualquer outro desenvolvedor menor do que a Microsoft, "
 "ela está sendo ameaçada pelas patentes de software, e pelo copyright sobre a "
 "interface com o usuário. Você está em perigo, também! Pode parecer mais "
@@ -193,94 +158,33 @@ msgstr ""
 "envio de traduções das páginas desse site."
 
 #. type: Content of: <div><p>
-# | Copyright &copy; 1996, 1997, 1998, 2007, 2008, [-2013-] {+2013, 2015+}
-# | Free Software Foundation, Inc.
-#, fuzzy
-#| msgid ""
-#| "Copyright &copy; 1996, 1997, 1998, 2007, 2008, 2013 Free Software "
-#| "Foundation, Inc."
 msgid ""
 "Copyright &copy; 1996, 1997, 1998, 2007, 2008, 2013, 2015 Free Software "
 "Foundation, Inc."
 msgstr ""
-"Copyright &copy; 1996, 1997, 1998, 2007, 2008, 2013 Free Software "
+"Copyright &copy; 1996, 1997, 1998, 2007, 2008, 2013, 2015 Free Software "
 "Foundation, Inc."
 
 #. type: Content of: <div><p>
-# | This page is licensed under a <a rel=\"license\"
-# | [-href=\"http://creativecommons.org/licenses/by-nd/3.0/us/\">Creative-]
-# | {+href=\"http://creativecommons.org/licenses/by-nd/4.0/\">Creative+}
-# | Commons [-Attribution-NoDerivs 3.0 United States-]
-# | {+Attribution-NoDerivatives 4.0 International+} License</a>.
-#, fuzzy
-#| msgid ""
-#| "This page is licensed under a <a rel=\"license\" href=\"http://"
-#| "creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-#| "NoDerivs 3.0 United States License</a>."
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
 "creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
 "NoDerivatives 4.0 International License</a>."
 msgstr ""
 "Esta página está licenciada sob uma licença <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/deed.pt_BR\">Creative Commons "
-"Atribuição-SemDerivações 3.0 Estados Unidos</a>."
+"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 4.0 Internacional</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"Traduzido por: Fernando Lozano <a href=\"mailto:fsl@centroin.com.br\">&lt;"
-"fsl@centroin.com.br&gt;</a>"
+"<b>Tradução:</b> Fernando Lozano <a href=\"mailto:fsl@centroin.com.br\">&lt;"
+"fsl@centroin.com.br&gt;</a>, 2001; Rafael Fontenelle <a href=\"mailto:"
+"rafaelff@gnome.org\">&lt;rafaelff@gnome.org&gt;</a>, 2017"
 
 # type: Content of: <div><p>
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização: "
-
-# TODO: this string needs reviewing.
-#~ msgid ""
-#~ "The League for Programming Freedom is inactive now.  Please join our <a "
-#~ "href=\"http://endsoftpatents.org\">End Software Patents</a> campaign!"
-#~ msgstr ""
-#~ "A Liga pela Liberdade da Programaçãoa está agora inativa. Junte-se a "
-#~ "nossa campanha para <a href=\"http://endsoftpatents.org\">acabar com as "
-#~ "patentes de software</a>."
-
-#~ msgid ""
-#~ "The right to write both nonfree and free software is threatened by <a "
-#~ "href=\"http://progfree.org/Patents/patents.html\">software patents</a> "
-#~ "and by <a href=\"http://progfree.org/Copyright/copyright.html\">&ldquo;"
-#~ "look-and-feel&rdquo; interface copyright lawsuits</a>."
-#~ msgstr ""
-#~ "O direito de se escrever tanto software não-livre quando software livre "
-#~ "está ameaçado pelas <a href=\"http://progfree.org/Patents/patents.html"
-#~ "\">patentes de software</a> e pelos <a href=\"http://progfree.org/"
-#~ "Copyright/copyright.html\">processos relacionados com questões de “look-"
-#~ "and-feel” da interface como usuário</a>. "
-
-#~ msgid ""
-#~ "The Free Software Foundation fights these threats in many ways.  These "
-#~ "include support for and being a member of <a href=\"http://progfree.org/"
-#~ "\">League for Programming Freedom</a>."
-#~ msgstr ""
-#~ "A Fundação para o Software Livre luta contra esses desafios de vários "
-#~ "modos. Eles includem apoiar e ser membro da <a href=\"http://progfree.org/"
-#~ "\">League for Programming Freedom</a> (Liga pela Liberdade da "
-#~ "Programação)."
-
-# TODO: this string needs reviewing.
-#~ msgid ""
-#~ "The FSF urges you to join us in fighting these threats by <a href="
-#~ "\"http://progfree.org/Help/help.html\">helping the League</a>."
-#~ msgstr ""
-#~ "A FSF conclama você a se juntar a nós na luta contra esses desafios, <a "
-#~ "href=\"http://progfree.org/Help/help.html\">ajudando a Liga</a>."
-
-#~ msgid ""
-#~ "Copyright &copy; 1996, 1997, 1998, 2007, 2008, 2013 Free Software "
-#~ "Foundation, Inc."
-#~ msgstr ""
-#~ "Copyright &copy; 1996, 1997, 1998, 2007, 2008, 2013 Free Software "
-#~ "Foundation, Inc."

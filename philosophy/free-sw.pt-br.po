@@ -1,16 +1,16 @@
 # Brazilian Portuguese translation of http://www.gnu.org/philosophy/free-sw.html
-# Copyright (C) 2000, 2012, 2016 Free Software Foundation, Inc.
+# Copyright (C) 2000, 2012, 2016, 2017 Free Software Foundation, Inc.
 # This file is distributed under the same license as the gnu.org article.
 # Fernando Lozano <fernando@lozano.eti.br>, 2000.
 # Rafael Beraldo <rberaldo@cabaladada.org>, 2012.
 # Rodrigo Macedo <rodrigomacedo@rmsolucoeseminformatica.com>, 2012.
 # Dec 2014: remove wrong msgstr's; trivially update a few strings (T. Godefroy).
-# Rafael Fontenelle <rafaelff@gnome.org>, 2012, 2016.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2012, 2016, 2017.
 msgid ""
 msgstr ""
 "Project-Id-Version: free-sw.html\n"
 "POT-Creation-Date: 2016-12-27 18:25+0000\n"
-"PO-Revision-Date: 2016-11-29 22:39-0200\n"
+"PO-Revision-Date: 2017-01-28 17:19-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -55,6 +55,10 @@ msgid ""
 "if necessary contact the FSF Compliance Lab at <a href=\"mailto:"
 "licensing@fsf.org\">licensing@fsf.org</a>."
 msgstr ""
+"Tem alguma dúvida sobre licenciamento de software livre não respondida aqui? "
+"Veja nossos outros <a href=\"http://www.fsf.org/licensing\">recursos de "
+"licenciamento</a> e, se necessário, contate o laboratório de conformidade da "
+"FSF em <a href=\"mailto:licensing@fsf.org\">licensing@fsf.org</a>."
 
 #. type: Content of: <h3>
 msgid "The Free Software Definition"
@@ -1167,7 +1171,8 @@ msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "<b>Tradução</b>: Rafael Beraldo\n"
 "<a href=\"mailto:rberaldo@cabaladada.org\">&lt;rberaldo@cabaladada.org&gt;</"
-"a>, 2012"
+"a>, 2012; Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;"
+"rafaelff@gnome.org&gt;</a>, 2017"
 
 # type: Content of: <div><p>
 #.  timestamp start 
