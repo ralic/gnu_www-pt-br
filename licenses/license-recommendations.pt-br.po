@@ -1,0 +1,554 @@
+# LANGUAGE translation of http://www.gnu.org/licenses/license-recommendations.html
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2016.
+msgid ""
+msgstr ""
+"Project-Id-Version: license-recommendations.html\n"
+"POT-Creation-Date: 2015-12-20 10:27+0000\n"
+"PO-Revision-Date: 2016-11-15 18:51-0200\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 0.7.1\n"
+
+#. type: Content of: <title>
+msgid ""
+"How to choose a license for your own work - GNU Project - Free Software "
+"Foundation"
+msgstr ""
+"Como escolher uma licença para sua própria obra - Projeto GNU - Free "
+"Software Foundation"
+
+#. type: Content of: <h2>
+msgid "How to choose a license for your own work"
+msgstr "Como escolher uma licença para sua própria obra"
+
+#. type: Content of: <blockquote><p>
+msgid ""
+"To see whether a given license is free or not, see <a href=\"/licenses/"
+"license-list.html\">our license list page</a> and the <a href=\"/philosophy/"
+"free-sw.html\">definition of free software</a>."
+msgstr ""
+"Para ver se uma dada licença é livre ou não, veja <a href=\"/licenses/"
+"license-list.html\">nossa página de lista de licenças</a> e a <a href=\"/"
+"philosophy/free-sw.html\">definição de software livre</a>."
+
+#. type: Content of: <h3>
+msgid "Introduction"
+msgstr "Introdução"
+
+#. type: Content of: <p>
+msgid ""
+"People often ask us what license we recommend they use for their project.  "
+"We've written about this publicly before, but the information has been "
+"scattered around between different essays, FAQ entries, and license "
+"commentaries.  This article collects all that information into a single "
+"source, to make it easier for people to follow and refer back to."
+msgstr ""
+"As pessoas geralmente nos perguntam qual licença nós recomendamos que usem "
+"em seus projetos. Nós já escrevemos sobre isso publicamente, mas a "
+"informação foi espalhada por diferentes ensaios, entradas de FAQ e "
+"comentários sobre licenças. Esse artigo colhe todas aquelas informações em "
+"uma única fonte, para facilitar para as pessoas seguirem e terem uma "
+"referência."
+
+#. type: Content of: <p>
+msgid ""
+"These recommendations are for works designed to do practical jobs.  Those "
+"include software, documentation, and some other things.  Works of art, and "
+"works that state a point of view, are different issues; the GNU Project has "
+"no general stand about how they should be released, except that they should "
+"all be usable without nonfree software (in particular, <a href=\"http://"
+"defectivebydesign.org/\">without DRM</a>).  However, you might want to "
+"follow these recommendations for art works that go with a particular program."
+msgstr ""
+"Essas recomendações são para obras projetadas para fazer trabalhos práticos. "
+"Aqueles softwares, documentações e algumas outras coisas incluídas. Obras de "
+"arte, e obras que demonstram um ponto de vista, são questões diferentes; o "
+"Projeto GNU possui nenhuma posição geral sobre como eles devem ser lançados, "
+"exceto que eles devem todos ser usáveis sem software não livre (em "
+"particular, <a href=\"http://defectivebydesign.org/\">sem DRM</a>). Porém, "
+"você pode querer seguir essas recomendações para obras de arte que vão com "
+"um programa em particular."
+
+#. type: Content of: <p>
+msgid ""
+"The recommendations apply to licensing a work that you create&mdash;whether "
+"that's a modification of an existing work, or a new original work.  They do "
+"not address the issue of combining existing material under different "
+"licenses.  If you're looking for help with that, please check <a href=\"/"
+"licenses/gpl-faq.html\">our GPL FAQ</a>."
+msgstr ""
+"As recomendações se aplicam ao licenciamento de uma obra que você cria&mdash;"
+"seja essa uma modificação de uma obra existente ou uma nova obra original. "
+"Elas não resolvem a questão da combinação de material existente sob licenças "
+"diferenças. Se você está procurando por ajuda com isto, por favor verifique "
+"<a href=\"/licenses/gpl-faq.html\">nosso FAQ da GPL</a>."
+
+#. type: Content of: <p>
+msgid ""
+"After you see what we recommend here, if you'd like advice, you can write to "
+"<a href=\"mailto:licensing@gnu.org\">&lt;licensing@gnu.org&gt;</a>.  Note "
+"that it will probably take a few weeks for the licensing team to get back to "
+"you; if you get no response in a month, please write again."
+msgstr ""
+"Depois de ver o que nós recomendamos aqui, se você quiser conselhos, basta "
+"escrever para <a href=\"mailto:licensing@gnu.org\">&lt;licensing@gnu.org&gt;"
+"</a>. Note que provavelmente levará algumas semanas para a equipe de "
+"licenciamento lhe responder; se você não obter resposta em um mês, por favor "
+"tente novamente."
+
+#. type: Content of: <h3>
+msgid "Contributing to an existing project"
+msgstr "Contribuindo para um projeto existente"
+
+#. type: Content of: <p>
+msgid ""
+"When you contribute to an existing project, you should usually release your "
+"modified versions under the same license as the original work.  It's good to "
+"cooperate with the project's maintainers, and using a different license for "
+"your modifications often makes that cooperation very difficult.  You should "
+"only do that when there is a strong reason to justify it."
+msgstr ""
+"Quando você contribui para um projeto existente, você geralmente deve lançar "
+"suas versões modificadas sob a mesma licença que a obra original. É bom "
+"cooperar com os mantenedores do projeto e usar uma licença diferente para "
+"suas modificações frequentemente dificultam tal cooperação. Você deve fazer "
+"isso apenas quando há um forte motivo que o justifique."
+
+#. type: Content of: <p>
+msgid ""
+"One case where using a different license can be justified is when you make "
+"major changes to a work under a non-copyleft license.  If the version you've "
+"created is considerably more useful than the original, then it's worth "
+"copylefting your work, for all the same <a href=\"/copyleft/copyleft.html"
+"\">reasons we normally recommend copyleft</a>.  If you are in this "
+"situation, please follow the recommendations below for licensing a new "
+"project."
+msgstr ""
+"Um caso no qual usar uma licença diferente pode ser justificado é quando "
+"você faz muitas alterações em uma obra sobre uma licença não-copyleft. Se a "
+"versão que você criou é consideravelmente mais útil que a original, então "
+"vale a pena adicionar copyleft à sua obra, pelos mesmos <a href=\"/copyleft/"
+"copyleft.html\">motivos que nós normalmente recomendamos copyleft</a>. Se "
+"você está nesta situação, por favor siga as recomendações abaixo para "
+"licenciamento de um novo projeto."
+
+#. type: Content of: <p>
+msgid ""
+"If you choose to release your contributions under a different license for "
+"whatever reason, you must make sure that the original license allows use of "
+"the material under your chosen license.  For honesty's sake, show explicitly "
+"which parts of the work are under which license."
+msgstr ""
+"Se você escolher lançar suas contribuições sob uma licença diferente por "
+"qualquer motivo, você deve se certificar de que a licença original permite "
+"usar o material sob sua licença escolhida. Por uma questão de honestidade, "
+"mostre explicitamente quais partes da obra estão sob qual licença."
+
+#. type: Content of: <h3>
+msgid "Software"
+msgstr "Software"
+
+#. type: Content of: <p>
+msgid ""
+"We recommend different licenses for different projects, depending mostly on "
+"the software's purpose.  In general, we recommend using the strongest "
+"copyleft license that doesn't interfere with that purpose.  Our essay <a "
+"href=\"/copyleft/copyleft.html\">&ldquo;What is Copyleft?&rdquo;</a> "
+"explains the concept of copyleft in more detail, and why it is generally the "
+"best licensing strategy."
+msgstr ""
+"Nós recomendamos licenças diferentes para projetos diferentes, dependendo "
+"basicamente no propósito do software. Em geral, nós recomendamos o uso da "
+"licença copyleft mais forte que não interfira naquele propósito. Nosso "
+"ensaio <a href=\"/copyleft/copyleft.html\">\"O que é Copyleft?\"</a> explica "
+"o conceito de copyleft em mais detalhes, e porque ele é geralmente a melhor "
+"estratégia de licenciamento."
+
+#. type: Content of: <p>
+msgid ""
+"For most programs, we recommend that you use the most recent version of the "
+"<a href=\"/licenses/gpl.html\">GNU General Public License (GPL)</a> for your "
+"project.  Its strong copyleft is appropriate for all kinds of software, and "
+"includes numerous protections for users' freedom."
+msgstr ""
+"Para a maioria dos programas, nós recomendamos que você use a versão mais "
+"recente da <a href=\"/licenses/gpl.html\">Licença Pública Geral GNU (GPL)</"
+"a> para seu projeto. Seu copyleft forte é apropriado para todos tipos de "
+"software e inclui diversas proteções para a liberdade dos usuários."
+
+#. type: Content of: <p>
+msgid "Now for the exceptions."
+msgstr "Agora, para as exceções."
+
+#. type: Content of: <h4>
+msgid "Small programs"
+msgstr "Programas pequenos"
+
+#. type: Content of: <p>
+msgid ""
+"It is not worth the trouble to use copyleft for most small programs.  We use "
+"300 lines as our benchmark: when a software package's source code is shorter "
+"than that, the benefits provided by copyleft are usually too small to "
+"justify the inconvenience of making sure a copy of the license always "
+"accompanies the software."
+msgstr ""
+"Não compensa o esforço para usar copyleft para a maioria dos programas "
+"pequenos. Nós usamos 300 linhas como nossa marca de referência: quando o "
+"código-fonte do pacote de um software é menor do que isso, os benefícios "
+"fornecidos pelo copyleft é geralmente pequeno demais para justificar a "
+"inconveniência de se certificar que uma cópia de licença sempre acompanhe o "
+"software."
+
+#. type: Content of: <p>
+msgid ""
+"For those programs, we recommend the <a href=\"http://www.apache.org/"
+"licenses/LICENSE-2.0\">Apache License 2.0</a>.  This is a pushover (non-"
+"copyleft) software license that has terms to prevent contributors and "
+"distributors from suing for patent infringement.  This doesn't make the "
+"software immune to threats from patents (a software license can't do that), "
+"but it does prevent patent holders from setting up a &ldquo;bait and "
+"switch&rdquo; where they release the software under free terms then require "
+"recipients to agree to nonfree terms in a patent license."
+msgstr ""
+"Para aqueles programas, nós recomendamos a <a href=\"http://www.apache.org/"
+"licenses/LICENSE-2.0\">Licença Apache 2.0</a>. Esta é um licença de software "
+"permissiva (não-copyleft) que possui termos que evitam contribuidores e "
+"distribuidores de processar por violação de patente. Isso não torna o "
+"software imune a ameaças de patentes (uma licença de software não pode fazer "
+"isso), mas evita detentores de patentes prepararem uma \"armadilha\" na qual "
+"eles lançam um software sob termos livres e, então, exigem que o "
+"destinatário concorde com termos não livres em uma licença de patente."
+
+#. type: Content of: <p>
+msgid ""
+"Among the lax pushover licenses, Apache 2.0 is best; so if you are going to "
+"use a lax pushover license, whatever the reason, we recommend using that one."
+msgstr ""
+"Junto com licenças lenientes, Apache 2.0 é melhor; de forma que se você "
+"pretende usar uma licença leniente, independente do motivo, recomendamos usá-"
+"la."
+
+#. type: Content of: <h4>
+msgid "Libraries"
+msgstr "Bibliotecas"
+
+#. type: Content of: <p>
+msgid "For libraries, we distinguish three kind of cases."
+msgstr "Para bibliotecas, nós distinguimos três tipos de casos."
+
+#. type: Content of: <p>
+msgid ""
+"Some libraries implement free standards that are competing against "
+"restricted standards, such as Ogg Vorbis (which competes against MP3 audio) "
+"and WebM (which competes against MPEG-4 video).  For these projects, "
+"widespread use of the code is vital for advancing the cause of free "
+"software, and does more good than a copyleft on the project's code would do."
+msgstr ""
+"Algumas bibliotecas implementam padrões livres que estão competindo contra "
+"padrões restritos, tais como Ogg Vorbis (que compete contra áudio MP3) e "
+"WebM (que compete contra vídeo MPEG-4). Para esses projetos, uso amplo do "
+"código é vital para avançar a causa do software livre e vai mais bem que um "
+"copyleft no código do projeto faria."
+
+#. type: Content of: <p>
+msgid ""
+"In these special situations, we recommend the <a href=\"http://www.apache."
+"org/licenses/LICENSE-2.0\">Apache License 2.0</a>."
+msgstr ""
+"Nessas situações especiais, nós recomendamos a <a href=\"http://www.apache."
+"org/licenses/LICENSE-2.0\">Licença Apache 2.0</a>."
+
+#. type: Content of: <p>
+msgid ""
+"For all other libraries, we recommend some kind of copyleft.  If developers "
+"are already using an established alternative library released under a "
+"nonfree license or a lax pushover license, then we recommend using the <a "
+"href=\"/licenses/lgpl.html\">GNU Lesser General Public License (LGPL)</a>."
+msgstr ""
+"Para todas as outras bibliotecas, nós recomendamos algum tipo de copyleft. "
+"Se desenvolvedores já estão usando uma biblioteca alterativa estabelecida "
+"sob uma licença não livre ou uma licença leniente, então recomendamos usar o "
+"<a href=\"/licenses/lgpl.html\">Licença Pública Geral Menor GNU (LGPL)</a>."
+
+#. type: Content of: <p>
+msgid ""
+"Unlike the first case, where the library implements an ethically superior "
+"standard, here adoption for its own sake will not accomplish any special "
+"objective goal, so there's no reason to avoid copyleft entirely.  However, "
+"if you require developers who use your library to release their whole "
+"programs under copyleft, they'll simply use one of the alternatives "
+"available, and that won't advance our cause either.  The Lesser GPL was "
+"designed to fill the middle ground between these cases, allowing proprietary "
+"software developers to use the covered library, but providing a weak "
+"copyleft that gives users freedom regarding the library code itself."
+msgstr ""
+"Diferentemente do primeiro caso, no qual a biblioteca implementa um padrão "
+"ético superior, aqui a adoção para seu próprio bem não vai acompanhar "
+"qualquer objetivo especial, então não há motivo para evitar totalmente o "
+"copyleft. Porém, se você exigir que desenvolvedores que usam sua biblioteca "
+"lancem todo o programa sob copyleft, eles vão simplesmente usar uma das "
+"alternativas disponíveis, e isso não vai avançar em nossa causa também. A "
+"GPL Menor foi projetada para preencher o meio de campo entre esses casos, "
+"permitindo desenvolvedores de software proprietário usar a biblioteca "
+"coberta, mas fornecendo uma copyleft fraca que fornece aos usuários "
+"liberdade sobre o código da biblioteca em si."
+
+#. type: Content of: <p>
+msgid ""
+"For libraries that provide specialized facilities, and which do not face "
+"entrenched noncopylefted or nonfree competition, we recommend using the "
+"plain GNU GPL.  For the reasons why, read <a href=\"/licenses/why-not-lgpl."
+"html\">&ldquo;Why you shouldn't use the Lesser GPL for your next "
+"library&rdquo;</a>."
+msgstr ""
+"Para as bibliotecas que fornecem facilidades especializadas e que não "
+"enfrentam competição apertada de não-copyleft ou não-livre, recomendamos "
+"usar a GNU GPL. Para saber o porquê, leia <a href=\"/licenses/why-not-lgpl."
+"html\">\"Por que você não deve usar a GPL Menor para sua próxima biblioteca"
+"\"</a>."
+
+#. type: Content of: <h4>
+msgid "Server Software"
+msgstr "Software de servidor"
+
+#. type: Content of: <p>
+msgid ""
+"If it is likely that others will make improved versions of your program to "
+"run on servers and not distribute their versions to anyone else, and you're "
+"concerned that this will put your released version at a disadvantage, we "
+"recommend the <a href=\"/licenses/agpl.html\">GNU Affero General Public "
+"License (AGPL)</a>.  The AGPL's terms are almost identical to the GPL's; the "
+"sole substantive difference is that it has an extra condition to ensure that "
+"people who use the software over a network will be able to get the source "
+"code for it."
+msgstr ""
+"Se for provável que outros farão versões melhoradas de seu programa para "
+"executá-lo em servidores e não distribuir as respectivas versões para "
+"ninguém mais, e você está preocupado que isto colocará sua versão lançada em "
+"uma desvantagem, recomendamos a <a href=\"/licenses/agpl.html\">Licença "
+"Pública Geral Affero GNU (AGPL)</a>. Os termos da AGPL são quase idênticos "
+"aos da GPL; a única diferença substancial é que ela possui uma condição "
+"extra para garantir que as pessoas que usam o software pela rede serão capaz "
+"de obter o código fonte dele."
+
+#. type: Content of: <p>
+msgid ""
+"The AGPL's requirement doesn't address the problems that can arise <em>for "
+"users</em> when they entrust their computing or their data to someone else's "
+"server.  For instance, it won't stop <a href=\"/philosophy/who-does-that-"
+"server-really-serve.html\">Service as a Software Substitute (SaaSS)</a> from "
+"denying users' freedom&mdash;but most servers don't do SaaSS.  For more "
+"about these issues, read <a href=\"/licenses/why-affero-gpl.html\">&ldquo;"
+"Why the Affero GPL&rdquo;</a>."
+msgstr ""
+"Os requisitos da AGPL não resolvem os problemas que podem surgir <em>para "
+"usuários</em> quando eles confiam sua computação ou seus dados ao servidor "
+"de outra pessoa. Por exemplo, isso não vai impedir <a href=\"/philosophy/who-"
+"does-that-server-really-serve.html\">Software como um Substituto de Software "
+"(SaaSS)</a>&mdash;mas a maioria dos servidores não fazem SaaSS. Para mais "
+"sobre essas questões, leia <a href=\"/licenses/why-affero-gpl.html\">\"Por "
+"que GPL Affero\"</a>."
+
+#. type: Content of: <h3>
+msgid "Documentation"
+msgstr "Documentação"
+
+#. type: Content of: <p>
+msgid ""
+"We recommend the <a href=\"/licenses/fdl.html\">GNU Free Documentation "
+"License (GFDL)</a> for tutorials, reference manuals and other large works of "
+"documentation.  It's a strong copyleft license for educational works, "
+"initially written for software manuals, and includes terms which "
+"specifically address common issues that arise when those works are "
+"distributed or modified."
+msgstr ""
+"Nós recomendamos a <a href=\"/licenses/fdl.html\">Licença de Documentação "
+"Livre GNU (GFDL)</a> para tutoriais, manuais de referência e outras obras "
+"grandes de documentação. Ela é uma licença forte de copyleft para obras "
+"educacionais, inicialmente escrita para manuais de software e inclui termos "
+"que resolvem especificamente questões comuns que surgem quando essas obras "
+"são distribuídas ou modificadas."
+
+#. type: Content of: <p>
+msgid ""
+"For short, secondary documentation works, such as a reference card, it is "
+"better to use the <a href=\"/licenses/license-list.html#GNUAllPermissive\"> "
+"GNU all-permissive license</a>, since a copy of the GFDL could hardly fit in "
+"a reference card.  Don't use CC-BY, since it is incompatible with the GFDL."
+msgstr ""
+"Para obras de documentação secundárias, curtas, tal como um cartão de "
+"referência, é melhor usar a <a href=\"/licenses/license-list."
+"html#GNUAllPermissive\">licença toda permissiva GNU</a>, já que uma cópia da "
+"GFDL dificilmente poderia se adequar a um cartão de referência. Não use CC-"
+"BY, já que ela é incompatível com GFDL."
+
+#. type: Content of: <p>
+msgid ""
+"For man pages, we recommend the GFDL if the page is long, and the <a href=\"/"
+"licenses/license-list.html#GNUAllPermissive\"> GNU all-permissive license</"
+"a> if it is short."
+msgstr ""
+"Para páginas man, recomendamos a GFDL se a página for longa, e a <a href=\"/"
+"licenses/license-list.html#GNUAllPermissive\">licença toda permissiva GNU</"
+"a> se for curta."
+
+#. type: Content of: <p>
+msgid ""
+"Some documentation includes software source code.  For instance, a manual "
+"for a programming language might include examples for readers to follow.  "
+"You should both include these in the manual under the FDL's terms, and "
+"release them under another license that's appropriate for software.  Doing "
+"so helps make it easy to use the code in other projects.  We recommend that "
+"you dedicate small pieces of code to the public domain using <a href="
+"\"http://creativecommons.org/about/cc0\">CC0</a>, and distribute larger "
+"pieces under the same license that the associated software project uses."
+msgstr ""
+"Algumas documentações incluem código-fonte de software. Por exemplo, um "
+"manual de uma linguagem de programação pode incluir exemplos para leitores "
+"seguirem. Você deve incluí-los no manual sob os termos da FDL e lançá-los "
+"sob uma outra licença que seja apropriada para software. Fazer isto ajuda a "
+"facilitar o uso do código em outros projetos. Nós recomendamos que você "
+"dedique pequenos pedaços de código para o domínio público usando <a href="
+"\"http://creativecommons.org/about/cc0\">CC0</a>, e distribui pedaços "
+"grandes sob a mesma licença que o projeto do software associado usa."
+
+#. type: Content of: <h3>
+msgid "Other data for programs"
+msgstr "Outros dados para programas"
+
+#. type: Content of: <p>
+msgid ""
+"This section discusses all other works for practical use that you might "
+"include with software.  To give you some examples, this includes icons and "
+"other functional or useful graphics, fonts, and geographic data.  You can "
+"also follow them for art, though we wouldn't criticize if you don't."
+msgstr ""
+"Essa seção discute todas as outras obras por uso prático que você pode "
+"incluir com software. Para lhe dar alguns exemplos, este inclui ícones e "
+"outras imagens funcionais ou úteis, fontes e dados geográficos. Você também "
+"pode segui-los por arte, apesar de que nós não criticamos se você não o "
+"fizer."
+
+#. type: Content of: <p>
+msgid ""
+"If you are creating these works specifically for use with a software "
+"project, we generally recommend that you release your work under the same "
+"license as the software.  There is no problem in doing so with the licenses "
+"we have recommended: GPLv3, LGPLv3, AGPLv3, and GPLv2 can all be applied to "
+"any kind of work&mdash;not just software&mdash;that is copyrightable and has "
+"a clear preferred form for modification.  Using the same license as the "
+"software will help make compliance easier for distributors, and avoids any "
+"doubt about potential compatibility issues.  Using a different free license "
+"may be appropriate if it provides some specific practical benefit, like "
+"better cooperation with other free projects."
+msgstr ""
+"Se você está criando essas obras especialmente para o uso com um projeto de "
+"software, geralmente recomendamos que você lance sua obra sob a mesma "
+"licença que o software. Não há problema em fazer isso com as licenças que "
+"nós recomendamos: GPLv3, LGPLv3, AGPLv3 e GPLv2 pode todas ser aplicadas a "
+"qualquer tipo de obra&mdash;não apenas software&mdash;que seja "
+"\"copyrightável\" e tenha uma forma preferida clara de modificação. Usar a "
+"mesma licença que o software vai facilitar a conformidade para os "
+"distribuidores e evita qualquer dúvida sobre potenciais problemas de "
+"compatibilidade. Usar uma licença livre diferente pode ser apropriado se ela "
+"fornece algum benefício prático específico, como uma melhor cooperação com "
+"outros projetos livres."
+
+#. type: Content of: <p>
+msgid ""
+"If your work is not being created for use with a particular software "
+"project, or if it wouldn't be appropriate to use the same license as the "
+"project, then we only recommend that you choose a copyleft license that's "
+"appropriate for your work.  We have some of these <a href=\"/licenses/"
+"license-list.html#OtherLicenses\">listed on our license list</a>.  If no "
+"license seems especially appropriate, the <a href=\"/licenses/license-list."
+"html#ccbysa\">Creative Commons Attribution-ShareAlike</a> license is a "
+"copyleft that can be used for many different kinds of works."
+msgstr ""
+"Se sua obra não está sendo criada para ser usada com um projeto de software "
+"específico, ou se não seria apropriado usar a mesma licença para sua obra. "
+"Nós temos algumas dessas <a href=\"/licenses/license-list.html#OtherLicenses"
+"\">listadas em nossa lista de licença</a>. Se nenhuma licença parece "
+"especificamente apropriada, a licença <a href=\"/licenses/license-list."
+"html#ccbysa\">Creative Commons Atribuição-CompartilhaIgual</a> é um copyleft "
+"que pode ser usado para diferentes tipos de obras."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+# type: Content of: <div><p>
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Envie perguntas em geral sobre a FSF e o GNU para <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>. Também existem <a href=\"/contact/\">outros "
+"meios de contatar</a> a FSF.  Links quebrados e outras correções ou "
+"sugestões podem ser enviadas para <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+
+#
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"A equipe de traduções para o português brasileiro se esforça para oferecer "
+"traduções acuradas e de boa qualidade, mas não estamos isentos de erros. Por "
+"favor, envie seus comentários e sugestões em geral sobre as traduções para "
+"<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
+"a>. </p><p>Consulte o <a href=\"/server/standards/README.translations.html"
+"\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
+"envio de traduções das páginas desse site."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2011, 2013, 2014, 2015 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2011, 2013, 2014, 2015 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Esta página está licenciada sob a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/deed.pt_BR\">Creative Commons "
+"Atribuição-SemDerivações 4.0 Internacional</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"<b>Tradução:</b> Rafael Fontenelle \n"
+"<a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome.org&gt;</a>, 2016"
+
+# type: Content of: <div><p>
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Última atualização: "
