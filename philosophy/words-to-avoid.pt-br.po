@@ -9,7 +9,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: words-to-avoid.html\n"
-"POT-Creation-Date: 2016-12-27 18:26+0000\n"
+"POT-Creation-Date: 2017-03-20 14:26+0000\n"
 "PO-Revision-Date: 2016-10-18 23:57-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -1470,14 +1470,33 @@ msgid "&ldquo;Google&rdquo;"
 msgstr "“Google”"
 
 #. type: Content of: <p>
+# | Please avoid using the term &ldquo;google&rdquo; as a verb, meaning to
+# | search for something on the internet. &ldquo;Google&rdquo; is just the
+# | name of one particular search engine among others. We suggest to use the
+# | term &ldquo;search the web&rdquo; or (in some contexts) just
+# | &ldquo;search&rdquo;. Try to use a search engine that respects your
+# | privacy; {+for instance,+} <a
+# | href=\"https://duckduckgo.com/\">DuckDuckGo</a> claims not to track its
+# | [-users, although we cannot confirm.-] {+users.  (There is no way for
+# | outsiders to verify claims of that kind.)+}
+#, fuzzy
+#| msgid ""
+#| "Please avoid using the term &ldquo;google&rdquo; as a verb, meaning to "
+#| "search for something on the internet. &ldquo;Google&rdquo; is just the "
+#| "name of one particular search engine among others. We suggest to use the "
+#| "term &ldquo;search the web&rdquo; or (in some contexts) just &ldquo;"
+#| "search&rdquo;. Try to use a search engine that respects your privacy; <a "
+#| "href=\"https://duckduckgo.com/\">DuckDuckGo</a> claims not to track its "
+#| "users, although we cannot confirm."
 msgid ""
 "Please avoid using the term &ldquo;google&rdquo; as a verb, meaning to "
 "search for something on the internet. &ldquo;Google&rdquo; is just the name "
 "of one particular search engine among others. We suggest to use the term "
 "&ldquo;search the web&rdquo; or (in some contexts) just &ldquo;"
-"search&rdquo;. Try to use a search engine that respects your privacy; <a "
-"href=\"https://duckduckgo.com/\">DuckDuckGo</a> claims not to track its "
-"users, although we cannot confirm."
+"search&rdquo;. Try to use a search engine that respects your privacy; for "
+"instance, <a href=\"https://duckduckgo.com/\">DuckDuckGo</a> claims not to "
+"track its users.  (There is no way for outsiders to verify claims of that "
+"kind.)"
 msgstr ""
 "Por favor, evite usar o termo “google” como um verbo, com o significado de "
 "procurar algo na internet.  “Google” é apenas o nome de um determinado "
@@ -2374,9 +2393,16 @@ msgstr ""
 "envio de traduções das páginas desse site."
 
 #. type: Content of: <div><p>
+# | Copyright &copy; 1996, 1997, 1998, 1999, 2001, 2002, 2003, 2004, 2007,
+# | 2008, 2009, 2010, 2011, 2012, 2015, [-2016-] {+2016, 2017+} Free Software
+# | Foundation, Inc.
+#, fuzzy
+#| msgid ""
+#| "Copyright &copy; 1996, 1997, 1998, 1999, 2001, 2002, 2003, 2004, 2007, "
+#| "2008, 2009, 2010, 2011, 2012, 2015, 2016 Free Software Foundation, Inc."
 msgid ""
 "Copyright &copy; 1996, 1997, 1998, 1999, 2001, 2002, 2003, 2004, 2007, 2008, "
-"2009, 2010, 2011, 2012, 2015, 2016 Free Software Foundation, Inc."
+"2009, 2010, 2011, 2012, 2015, 2016, 2017 Free Software Foundation, Inc."
 msgstr ""
 "Copyright &copy; 1996, 1997, 1998, 1999, 2001, 2002, 2003, 2004, 2007, 2008, "
 "2009, 2010, 2011, 2012, 2015, 2016 Free Software Foundation, Inc."

@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: selling.html\n"
-"POT-Creation-Date: 2016-11-18 07:00+0000\n"
+"POT-Creation-Date: 2017-03-20 14:26+0000\n"
 "PO-Revision-Date: 2016-11-29 09:19-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -61,13 +61,27 @@ msgstr ""
 "favor, continue a leitura."
 
 #. type: Content of: <p>
+# | The word &ldquo;free&rdquo; has two legitimate general meanings; it can
+# | refer either to freedom or to price.  When we speak of &ldquo;free
+# | software&rdquo;, we're talking about freedom, not price.  (Think of
+# | &ldquo;free speech&rdquo;, not &ldquo;free beer&rdquo;.)  Specifically, it
+# | means that a user is free to run the program, {+study and+} change the
+# | program, and redistribute the program with or without changes.
+#, fuzzy
+#| msgid ""
+#| "The word &ldquo;free&rdquo; has two legitimate general meanings; it can "
+#| "refer either to freedom or to price.  When we speak of &ldquo;free "
+#| "software&rdquo;, we're talking about freedom, not price.  (Think of "
+#| "&ldquo;free speech&rdquo;, not &ldquo;free beer&rdquo;.)  Specifically, "
+#| "it means that a user is free to run the program, change the program, and "
+#| "redistribute the program with or without changes."
 msgid ""
 "The word &ldquo;free&rdquo; has two legitimate general meanings; it can "
 "refer either to freedom or to price.  When we speak of &ldquo;free "
 "software&rdquo;, we're talking about freedom, not price.  (Think of &ldquo;"
 "free speech&rdquo;, not &ldquo;free beer&rdquo;.)  Specifically, it means "
-"that a user is free to run the program, change the program, and redistribute "
-"the program with or without changes."
+"that a user is free to run the program, study and change the program, and "
+"redistribute the program with or without changes."
 msgstr ""
 "A palavra “free” tem dois significados válidos em inglês: ela pode se "
 "referir tanto à liberdade quanto ao preço. Quando falamos de software livre "
@@ -401,9 +415,15 @@ msgstr ""
 "envio de traduções das páginas desse site."
 
 #. type: Content of: <div><p>
+# | Copyright &copy; 1996, 1997, 1998, 2001, 2007, 2015, [-2016-] {+2016,
+# | 2017+} Free Software Foundation, Inc.
+#, fuzzy
+#| msgid ""
+#| "Copyright &copy; 1996, 1997, 1998, 2001, 2007, 2015, 2016 Free Software "
+#| "Foundation, Inc."
 msgid ""
-"Copyright &copy; 1996, 1997, 1998, 2001, 2007, 2015, 2016 Free Software "
-"Foundation, Inc."
+"Copyright &copy; 1996, 1997, 1998, 2001, 2007, 2015, 2016, 2017 Free "
+"Software Foundation, Inc."
 msgstr ""
 "Copyright &copy; 1996, 1997, 1998, 2001, 2007, 2015, 2016 Free Software "
 "Foundation, Inc."
