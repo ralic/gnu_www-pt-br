@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: other-free-books.html\n"
-"POT-Creation-Date: 2017-03-05 20:55+0000\n"
+"POT-Creation-Date: 2017-03-29 12:56+0000\n"
 "PO-Revision-Date: 2017-01-18 18:42-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -229,7 +229,12 @@ msgid "Old GNU manual license"
 msgstr "Antiga licença de manual GNU"
 
 #. type: Content of: <table><tr><td>
-msgid "<a href=\"http://nostarch.com/wikipedia.htm\">How Wikipedia Works</a>"
+# | <a [-href=\"http://nostarch.com/wikipedia.htm\">How-]
+# | {+href=\"http://www.howwikipediaworks.net/\">How+} Wikipedia Works</a>
+#, fuzzy
+#| msgid ""
+#| "<a href=\"http://nostarch.com/wikipedia.htm\">How Wikipedia Works</a>"
+msgid "<a href=\"http://www.howwikipediaworks.net/\">How Wikipedia Works</a>"
 msgstr "<a href=\"http://nostarch.com/wikipedia.htm\">How Wikipedia Works</a>"
 
 #. type: Content of: <table><tr><td>

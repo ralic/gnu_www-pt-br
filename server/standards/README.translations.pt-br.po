@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: README.translations.html\n"
-"POT-Creation-Date: 2017-01-18 13:26+0000\n"
+"POT-Creation-Date: 2017-03-28 05:56+0000\n"
 "PO-Revision-Date: 2016-09-28 23:04-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -855,10 +855,19 @@ msgstr ""
 "nome do Coordenador de Equipe."
 
 #. type: Content of: <ul><li>
+# | <code>ar</code> - <a
+# | href=\"https://savannah.nongnu.org/projects/www-ar\">Arabic</a> (<a
+# | href=\"https://savannah.gnu.org/users/ka2in\">Fayçal [-Alami</a>)-]
+# | {+Alami</a> - New coordinator needed)+}
+#, fuzzy
+#| msgid ""
+#| "<code>ar</code> - <a href=\"https://savannah.nongnu.org/projects/www-ar"
+#| "\">Arabic</a> (<a href=\"https://savannah.gnu.org/users/ka2in\">Fayçal "
+#| "Alami</a>)"
 msgid ""
 "<code>ar</code> - <a href=\"https://savannah.nongnu.org/projects/www-ar"
 "\">Arabic</a> (<a href=\"https://savannah.gnu.org/users/ka2in\">Fayçal "
-"Alami</a>)"
+"Alami</a> - New coordinator needed)"
 msgstr ""
 "<code>ar</code> - <a href=\"https://savannah.nongnu.org/projects/www-ar"
 "\">Árabe</a> (<a href=\"https://savannah.gnu.org/users/ka2in\">Fayçal Alami</"

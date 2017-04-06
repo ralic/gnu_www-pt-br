@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: keepingup.html\n"
-"POT-Creation-Date: 2015-11-24 17:25+0000\n"
+"POT-Creation-Date: 2017-03-30 07:56+0000\n"
 "PO-Revision-Date: 2016-11-15 21:58-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -85,10 +85,6 @@ msgstr "Saiba sobre <a href=\"/events.html\">eventos vindouros FSF e GNU</a>."
 msgid "Press Releases"
 msgstr "Informes à Imprensa"
 
-# | Read the <a [-href=\"/press/press.html#releases\">Press Releases</a>-]
-# | {+href=\"//fsf.org/news\">press releases</a>+} from the GNU Project and
-# | the FSF.  {+<a href=\"/press/press.html#releases\">Old press releases</a>
-# | are also available.+}
 #. type: Content of: <p>
 msgid ""
 "Read the <a href=\"//fsf.org/news\">press releases</a> from the GNU Project "
@@ -105,10 +101,6 @@ msgid "Free Software Directory"
 msgstr "Diretório de Software Livre"
 
 # type: Content of: <p>
-# | Additions and updates are constantly made to the <a
-# | href=\"http://directory.fsf.org\">Free Software Directory</a>.  Check the
-# | list of recent updates often to see what's [-new.-] {+new (and consider
-# | contributing).+}
 #. type: Content of: <p>
 msgid ""
 "Additions and updates are constantly made to the <a href=\"http://directory."
@@ -207,14 +199,14 @@ msgstr "gnu.announce"
 msgid "News in Spanish"
 msgstr "Notícias em espanhol"
 
-# type: Content of: <p>
 #. type: Content of: <p>
 msgid ""
-"You can get news about GNU in Spanish at <a href=\"http://gnuticias.es.gnu."
-"org\">GNUticias</a>."
+"You can get archived news in Spanish about GNU and the FSF at <a href="
+"\"http://web.archive.org/web/20160913034809/http://gnuticias.es.gnu.org/\"> "
+"GNUticias</a>. Recent news are available in the Spanish translation of the "
+"<a href=\"//www.fsf.org/free-software-supporter/\">Free Software Supporter</"
+"a>"
 msgstr ""
-"Pode-se obter notícias em espanhol sobre o GNU em <a href=\"http://gnuticias."
-"es.gnu.org\">GNUticias</a>."
 
 # type: Content of: <div>
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
@@ -263,17 +255,20 @@ msgstr ""
 "\">Guia para as traduções</a> para mais informações sobre a coordenação e o "
 "envio de traduções das páginas desse site."
 
-# | Copyright &copy; [-2011, 2012-] {+2003, 2004, 2005, 2006, 2007, 2014,
-# | 2015+} Free Software Foundation, Inc.
 #. type: Content of: <div><p>
+# | Copyright &copy; 2003, 2004, 2005, 2006, 2007, 2014, [-2015-] {+2015,
+# | 2017+} Free Software Foundation, Inc.
+#, fuzzy
+#| msgid ""
+#| "Copyright &copy; 2003, 2004, 2005, 2006, 2007, 2014, 2015 Free Software "
+#| "Foundation, Inc."
 msgid ""
-"Copyright &copy; 2003, 2004, 2005, 2006, 2007, 2014, 2015 Free Software "
-"Foundation, Inc."
+"Copyright &copy; 2003, 2004, 2005, 2006, 2007, 2014, 2015, 2017 Free "
+"Software Foundation, Inc."
 msgstr ""
 "Copyright &copy; 2003, 2004, 2005, 2006, 2007, 2014, 2015 Free Software "
 "Foundation, Inc."
 
-# || No change detected.  The change might only be in amounts of spaces.
 #. type: Content of: <div><p>
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
@@ -295,3 +290,11 @@ msgstr "<b>Tradução:</b> Leandro Guimarães Faria Corcete DUTRA"
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização: "
+
+# type: Content of: <p>
+#~ msgid ""
+#~ "You can get news about GNU in Spanish at <a href=\"http://gnuticias.es."
+#~ "gnu.org\">GNUticias</a>."
+#~ msgstr ""
+#~ "Pode-se obter notícias em espanhol sobre o GNU em <a href=\"http://"
+#~ "gnuticias.es.gnu.org\">GNUticias</a>."

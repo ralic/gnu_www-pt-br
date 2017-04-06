@@ -88,3 +88,40 @@ msgstr ""
 "<strong>doação</strong> <a href=\"http://donate.fsf.org/\">diretamente à "
 "FSF</a> ou <a href=\"http://flattr.com/thing/313733/gnuproject-on-Flattr"
 "\">via Flattr</a>."
+
+# type: Content of: <div><p>
+#~ msgid "<a href=\"/\">GNU&nbsp;home&nbsp;page</a>"
+#~ msgstr "<a href=\"/\">Página&nbsp;inicial&nbsp;do&nbsp;GNU</a>"
+
+#~ msgid "<a href=\"http://www.fsf.org/\">FSF&nbsp;home&nbsp;page</a>"
+#~ msgstr ""
+#~ "<a href=\"http://www.fsf.org/\">Página&nbsp;inicial&nbsp;da&nbsp;FSF</a>"
+
+#~ msgid "<a href=\"/graphics/graphics.html\">GNU&nbsp;Art</a>"
+#~ msgstr "<a href=\"/graphics/graphics.html\">Arte&nbsp;GNU</a>"
+
+#~ msgid "<a href=\"/people/people.html\">GNU's&nbsp;Who?</a>"
+#~ msgstr "<a href=\"/people/people.html\">Contribuidores&nbsp;do&nbsp;GNU</a>"
+
+#~ msgid ""
+#~ "<a href=\"http://directory.fsf.org\">Free&nbsp;Software&nbsp;Directory</a>"
+#~ msgstr ""
+#~ "<a href=\"http://directory.fsf.org\">Diretório&nbsp;de&nbsp;Software&nbsp;"
+#~ "Livre</a>"
+
+# | [-by-]<a [-href=\"http://www.stallman.org/\">Richard Stallman</a>-]
+# | {+href=\"https://h-node.org/\">Hardware</a>+}
+#~| msgid "by <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
+#~ msgid "<a href=\"https://h-node.org/\">Hardware</a>"
+#~ msgstr "<a href=\"https://h-node.org/\">Hardware</a>"
+
+# type: Content of: <div><p>
+#~ msgid "<a href=\"/server/sitemap.html\">Site&nbsp;map</a>"
+#~ msgstr "<a href=\"/server/sitemap.html\">Mapa&nbsp;do&nbsp;site</a>"
+
+# type: Content of: <div><p>
+#~ msgid "<a href=\"#header\">back to top</a>"
+#~ msgstr "<a href=\"#header\">Voltar ao topo</a>"
+
+#~ msgid "<a href=\"/fun/fun.html\">GNU&nbsp;Fun</a>"
+#~ msgstr "<a href=\"/fun/fun.html\">Diversão&nbsp;GNU</a>"
