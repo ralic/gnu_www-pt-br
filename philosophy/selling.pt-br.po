@@ -3,12 +3,12 @@
 # This file is distributed under the same license as the original article.
 # João Paulo Domingos Silva <joaopaulo.ds@gmail.com>, 2005.
 # Jan 2015: GNUNify; trivial update (T. Godefroy).
-# Rafael Fontenelle <rafaelff@gnome.org>, 2016.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2016, 2017.
 msgid ""
 msgstr ""
 "Project-Id-Version: selling.html\n"
 "POT-Creation-Date: 2017-03-20 14:26+0000\n"
-"PO-Revision-Date: 2016-11-29 09:19-0200\n"
+"PO-Revision-Date: 2017-03-25 11:37-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -61,20 +61,6 @@ msgstr ""
 "favor, continue a leitura."
 
 #. type: Content of: <p>
-# | The word &ldquo;free&rdquo; has two legitimate general meanings; it can
-# | refer either to freedom or to price.  When we speak of &ldquo;free
-# | software&rdquo;, we're talking about freedom, not price.  (Think of
-# | &ldquo;free speech&rdquo;, not &ldquo;free beer&rdquo;.)  Specifically, it
-# | means that a user is free to run the program, {+study and+} change the
-# | program, and redistribute the program with or without changes.
-#, fuzzy
-#| msgid ""
-#| "The word &ldquo;free&rdquo; has two legitimate general meanings; it can "
-#| "refer either to freedom or to price.  When we speak of &ldquo;free "
-#| "software&rdquo;, we're talking about freedom, not price.  (Think of "
-#| "&ldquo;free speech&rdquo;, not &ldquo;free beer&rdquo;.)  Specifically, "
-#| "it means that a user is free to run the program, change the program, and "
-#| "redistribute the program with or without changes."
 msgid ""
 "The word &ldquo;free&rdquo; has two legitimate general meanings; it can "
 "refer either to freedom or to price.  When we speak of &ldquo;free "
@@ -88,7 +74,8 @@ msgstr ""
 "(“free software”, em inglês), estamos nos referindo à liberdade, e não ao "
 "preço. (Pense em “liberdade de expressão” (“free speech”), não em “cerveja "
 "grátis” (“free beer”).) Precisamente, isso significa que um usuário é livre "
-"para executar, alterar e redistribuir o programa, com ou sem alterações."
+"para executar, estudar e alterar, e redistribuir o programa com ou sem "
+"alterações."
 
 #. type: Content of: <p>
 msgid ""
@@ -415,18 +402,12 @@ msgstr ""
 "envio de traduções das páginas desse site."
 
 #. type: Content of: <div><p>
-# | Copyright &copy; 1996, 1997, 1998, 2001, 2007, 2015, [-2016-] {+2016,
-# | 2017+} Free Software Foundation, Inc.
-#, fuzzy
-#| msgid ""
-#| "Copyright &copy; 1996, 1997, 1998, 2001, 2007, 2015, 2016 Free Software "
-#| "Foundation, Inc."
 msgid ""
 "Copyright &copy; 1996, 1997, 1998, 2001, 2007, 2015, 2016, 2017 Free "
 "Software Foundation, Inc."
 msgstr ""
-"Copyright &copy; 1996, 1997, 1998, 2001, 2007, 2015, 2016 Free Software "
-"Foundation, Inc."
+"Copyright &copy; 1996, 1997, 1998, 2001, 2007, 2015, 2016, 2017 Free "
+"Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -446,7 +427,8 @@ msgstr ""
 "<a href=\"mailto:joaopaulo.ds@gmail.com\">&lt;joaopaulo.ds@gmail.com&gt;</"
 "a>, 2005; \n"
 "Rafael Fontenelle\n"
-"<a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome.org&gt;</a>, 2016"
+"<a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome.org&gt;</a>, 2016, "
+"2017"
 
 # type: Content of: <div><p>
 #.  timestamp start 

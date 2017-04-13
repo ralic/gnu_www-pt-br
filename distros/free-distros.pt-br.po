@@ -6,12 +6,13 @@
 # Leandro Toledo <leandrotoledo@member.fsf.org>, 2012.
 # Dec 2014: update links (T. Godefroy).
 # Yuri da Silva <yuri.silva.31.charles AT gmail.com>, 2014 (RT #967994).
-# Rafael Fontenelle <rafaelff@gnome.org>, 2016.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2016, 2017.
 msgid ""
 msgstr ""
 "Project-Id-Version: free-distros.html\n"
+"Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-28 08:26+0000\n"
-"PO-Revision-Date: 2016-12-17 01:03-0200\n"
+"PO-Revision-Date: 2017-03-25 11:35-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -189,25 +190,16 @@ msgid "<a href=\"http://dragora.org\">"
 msgstr "<a href=\"http://dragora.org\">"
 
 #. type: Attribute 'alt' of: <table><tr><td><a><img>
-# | [-Parabola GNU/Linux-libre-]{+Dragora GNU/Linux-Libre+}
-#, fuzzy
-#| msgid "Parabola GNU/Linux-libre"
 msgid "Dragora GNU/Linux-Libre"
-msgstr "Parabola GNU/Linux-libre"
+msgstr "Dragora GNU/Linux-Libre"
 
 #. type: Content of: <table><tr><td>
-# | [-Dragora,-]{+Dragora GNU/Linux-Libre,+} an independent GNU/Linux
-# | distribution based on concepts of simplicity.
-#, fuzzy
-#| msgid ""
-#| "Dragora, an independent GNU/Linux distribution based on concepts of "
-#| "simplicity."
 msgid ""
 "Dragora GNU/Linux-Libre, an independent GNU/Linux distribution based on "
 "concepts of simplicity."
 msgstr ""
-"Dragora, uma distribuição de GNU/Linux independente baseada em conceitos de "
-"simplicidade."
+"Dragora GNU/Linux-Libre, uma distribuição de GNU/Linux independente baseada "
+"em conceitos de simplicidade."
 
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"http://www.dynebolic.org\">"
@@ -509,12 +501,8 @@ msgstr ""
 "envio de traduções das páginas desse site."
 
 #. type: Content of: <div><p>
-# | Copyright &copy; 2014, 2015, [-2016-] {+2016, 2017+} Free Software
-# | Foundation, Inc.
-#, fuzzy
-#| msgid "Copyright &copy; 2014, 2015, 2016 Free Software Foundation, Inc."
 msgid "Copyright &copy; 2014, 2015, 2016, 2017 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2014, 2015, 2016 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2014, 2015, 2016, 2017 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -537,7 +525,8 @@ msgstr ""
 "a>, 2012;\n"
 "<br/>&nbsp;&nbsp;Hudson Flávio Meneses Lacerda, 2014;\n"
 "<br/>&nbsp;&nbsp;Rafael Fontenelle \n"
-"<a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome.org&gt;</a>, 2016."
+"<a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome.org&gt;</a>, 2016, "
+"2017."
 
 # type: Content of: <div><p>
 #.  timestamp start 
@@ -547,3 +536,13 @@ msgstr "Última atualização: "
 
 #~ msgid "Dragora"
 #~ msgstr "Dragora"
+
+#~ msgid ""
+#~ "Dragora, an independent GNU/Linux distribution based on concepts of "
+#~ "simplicity."
+#~ msgstr ""
+#~ "Dragora, uma distribuição de GNU/Linux independente baseada em conceitos "
+#~ "de simplicidade."
+
+#~ msgid "Copyright &copy; 2014, 2015, 2016 Free Software Foundation, Inc."
+#~ msgstr "Copyright &copy; 2014, 2015, 2016 Free Software Foundation, Inc."

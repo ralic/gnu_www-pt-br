@@ -3,13 +3,13 @@
 # This file is distributed under the same license as the original article.
 # Fernando Lozano <fernando@lozano.eti.br>, 2000.
 # Jan 2014: GNUNify; licensa > licença (T. Godefroy).
-# Rafael Fontenelle <rafaelff@gnome.org>, 2016.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2016, 2017.
 msgid ""
 msgstr ""
 "Project-Id-Version: linux-and-gnu.html\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-02-17 10:25+0000\n"
-"PO-Revision-Date: 2016-09-23 17:03-0300\n"
+"PO-Revision-Date: 2017-03-25 11:26-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Virtaal 0.7.1\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
 
 #. type: Content of: <title>
 msgid "Linux and GNU - GNU Project - Free Software Foundation"
@@ -133,26 +133,6 @@ msgstr ""
 "necessário para criar um sistema similar ao Unix já estava disponível."
 
 #. type: Content of: <p>
-# | What they found was no accident&mdash;it was the not-quite-complete GNU
-# | system.  The available <a href=\"/philosophy/free-sw.html\">free
-# | software</a> added up to a complete system because the GNU Project had
-# | been working since 1984 to make one.  In the <a
-# | href=\"/gnu/manifesto.html\"> [-The-] GNU Manifesto</a> we set forth the
-# | goal of developing a free Unix-like system, called GNU.  The <a
-# | href=\"/gnu/initial-announcement.html\"> Initial Announcement</a> of the
-# | GNU Project also outlines some of the original plans for the GNU system.
-# | By the time Linux was started, GNU was almost finished.
-#, fuzzy
-#| msgid ""
-#| "What they found was no accident&mdash;it was the not-quite-complete GNU "
-#| "system.  The available <a href=\"/philosophy/free-sw.html\">free "
-#| "software</a> added up to a complete system because the GNU Project had "
-#| "been working since 1984 to make one.  In the <a href=\"/gnu/manifesto.html"
-#| "\"> The GNU Manifesto</a> we set forth the goal of developing a free Unix-"
-#| "like system, called GNU.  The <a href=\"/gnu/initial-announcement.html\"> "
-#| "Initial Announcement</a> of the GNU Project also outlines some of the "
-#| "original plans for the GNU system. By the time Linux was started, GNU was "
-#| "almost finished."
 msgid ""
 "What they found was no accident&mdash;it was the not-quite-complete GNU "
 "system.  The available <a href=\"/philosophy/free-sw.html\">free software</"
@@ -166,11 +146,12 @@ msgstr ""
 "O que eles acharam não foi nenhum acidente — foi o não-exatamente-completo "
 "sistema GNU. O <a href=\"/philosophy/free-sw.html\">software livre</a> "
 "disponível compôs um sistema completo porque o Projeto GNU já estava "
-"trabalhando desde 1984 para criar um. Em <a href=\"/gnu/manifesto.html\">O "
-"Manifesto GNU</a> nós definimos o objetivo de criar um sistema livre similar "
-"ao Unix, chamado GNU. O <a href=\"/gnu/initial-announcement.html\">Anúncio "
-"Oficial</a> do Projeto GNU também ressalta alguns dos planos originais para "
-"o sistema GNU. Quando o Linux iniciou, GNU já estava quase concluído."
+"trabalhando desde 1984 para criar um. No <a href=\"/gnu/manifesto.html"
+"\">Manifesto GNU</a> nós definimos o objetivo de criar um sistema livre "
+"similar ao Unix, chamado GNU. O <a href=\"/gnu/initial-announcement.html"
+"\">Anúncio Oficial</a> do Projeto GNU também ressalta alguns dos planos "
+"originais para o sistema GNU. Quando o Linux iniciou, GNU já estava quase "
+"concluído."
 
 #. type: Content of: <p>
 msgid ""
@@ -253,9 +234,9 @@ msgstr ""
 "excitantes<a href=\"#unexciting\">(1)</a>, porque você não pode ter um "
 "sistema sem eles. Alguns de nossos componentes, as ferramentas de sistema, "
 "se tornaram populares por conta própria entre os programadores, mas nós "
-"escrevemos muitos componentes que não são ferramentas<a href=\"#nottools"
-"\">(2)</a>. Nós desenvolvemos um jogo de xadrez, o GNU Chess, porque um "
-"sistema completo precisa de jogos também."
+"escrevemos muitos componentes que não são ferramentas<a href=\"#nottools\">"
+"(2)</a>. Nós desenvolvemos um jogo de xadrez, o GNU Chess, porque um sistema "
+"completo precisa de jogos também."
 
 #. type: Content of: <p>
 msgid ""
@@ -431,8 +412,8 @@ msgstr ""
 "o sistema GNU e suas variantes usam alguns programas BSD; porém, como um "
 "todo, eles são dois sistemas diferentes que evoluíram separadamente. Os "
 "desenvolvedores do BSD não escreveram um núcleo e o adicionaram ao sistema "
-"GNU, e um nome como GNU/BSD não se adequaria à situação.<a href=\"#gnubsd"
-"\">(5)</a>"
+"GNU, e um nome como GNU/BSD não se adequaria à situação.<a href=\"#gnubsd\">"
+"(5)</a>"
 
 #. type: Content of: <h3>
 msgid "Notes:"
@@ -552,18 +533,12 @@ msgstr ""
 "envio de traduções das páginas desse site."
 
 #. type: Content of: <div><p>
-# | Copyright &copy; 1997, 1998, 1999, 2000, 2001, 2002, 2007, 2014, 2015,
-# | [-2016-] {+2016, 2017+} Richard M. Stallman
-#, fuzzy
-#| msgid ""
-#| "Copyright &copy; 1997, 1998, 1999, 2000, 2001, 2002, 2007, 2014, 2015, "
-#| "2016 Richard M. Stallman"
 msgid ""
 "Copyright &copy; 1997, 1998, 1999, 2000, 2001, 2002, 2007, 2014, 2015, 2016, "
 "2017 Richard M. Stallman"
 msgstr ""
-"Copyright &copy; 1997, 1998, 1999, 2000, 2001, 2002, 2007, 2014, 2015, 2016 "
-"Richard M. Stallman"
+"Copyright &copy; 1997, 1998, 1999, 2000, 2001, 2002, 2007, 2014, 2015, 2016, "
+"2017 Richard M. Stallman"
 
 #. type: Content of: <div><p>
 msgid ""
@@ -582,7 +557,7 @@ msgstr ""
 "<b>Tradução</b>: Fernando Lozano <a href=\"mailto:fernando@lozano.eti.br"
 "\">&lt;fernando@lozano.eti.br&gt;</a>, 2000 <br/>\n"
 "Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome."
-"org&gt;</a>, 2016"
+"org&gt;</a>, 2016, 2017"
 
 # type: Content of: <div><p>
 #.  timestamp start 

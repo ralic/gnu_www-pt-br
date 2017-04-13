@@ -4,12 +4,12 @@
 # FSFLA, taken from http://estudiolivre.org/tiki-index.php?page=MiragemSedutora, 2008.
 # Rodrigo Macedo <rodrigomacedo@rmsolucoeseminformatica.com>, 2012.
 # Rafael Beraldo <rberaldo@cabaladada.org>, 2012.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2016.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2016, 2017.
 msgid ""
 msgstr ""
 "Project-Id-Version: not-ipr.html\n"
 "POT-Creation-Date: 2017-03-20 14:26+0000\n"
-"PO-Revision-Date: 2016-11-29 08:10-0200\n"
+"PO-Revision-Date: 2017-04-13 11:05-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -58,28 +58,6 @@ msgstr ""
 
 # type: Content of: <p>
 #. type: Content of: <p>
-# | According to Professor Mark Lemley, now of the Stanford Law School, the
-# | widespread use of the term &ldquo;intellectual property&rdquo; is a
-# | fashion that followed the 1967 founding of the World &ldquo;Intellectual
-# | Property&rdquo; Organization (WIPO), and only became really common in
-# | recent years. (WIPO is formally a UN organization, but in fact represents
-# | the interests of the holders of copyrights, patents, and trademarks.) Wide
-# | use dates from <a
-# | [-href=\"http://ngrams.googlelabs.com/graph?content=intellectual+property&amp;year_start=1800&amp;year_end=2008&amp;corpus=0&amp;smoothing=1\">around-]
-# | {+href=\"https://books.google.com/ngrams/graph?content=intellectual+property&amp;year_start=1800&amp;year_end=2008&amp;corpus=15&amp;smoothing=1&amp;share=&amp;direct_url=t1%3B%2Cintellectual%20property%3B%2Cc0\">around+}
-# | 1990</a>. (<a href=\"/graphics/seductivemirage.png\">Local image copy</a>)
-#, fuzzy
-#| msgid ""
-#| "According to Professor Mark Lemley, now of the Stanford Law School, the "
-#| "widespread use of the term &ldquo;intellectual property&rdquo; is a "
-#| "fashion that followed the 1967 founding of the World &ldquo;Intellectual "
-#| "Property&rdquo; Organization (WIPO), and only became really common in "
-#| "recent years. (WIPO is formally a UN organization, but in fact represents "
-#| "the interests of the holders of copyrights, patents, and trademarks.) "
-#| "Wide use dates from <a href=\"http://ngrams.googlelabs.com/graph?"
-#| "content=intellectual+property&amp;year_start=1800&amp;year_end=2008&amp;"
-#| "corpus=0&amp;smoothing=1\">around 1990</a>. (<a href=\"/graphics/"
-#| "seductivemirage.png\">Local image copy</a>)"
 msgid ""
 "According to Professor Mark Lemley, now of the Stanford Law School, the "
 "widespread use of the term &ldquo;intellectual property&rdquo; is a fashion "
@@ -99,10 +77,11 @@ msgstr ""
 "1967, mas apenas recentemente começou a ser comumente utilizado. (A OMPI é "
 "formalmente uma organização das Nações Unidas, mas na verdade representa o "
 "interesse de detentores de copyrights, patentes e marcas.) Uso generalizado "
-"data de <a href=\"http://ngrams.googlelabs.com/graph?content=intellectual"
-"+property&amp;year_start=1800&amp;year_end=2008&amp;corpus=0&amp;"
-"smoothing=1\">por volta de 1990</a>. (<a href=\"/graphics/seductivemirage.png"
-"\">Cópia local da imagem.</a>)"
+"data <a href=\"https://books.google.com/ngrams/graph?content=intellectual"
+"+property&amp;year_start=1800&amp;year_end=2008&amp;corpus=15&amp;"
+"smoothing=1&amp;share=&amp;direct_url=t1%3B%2Cintellectual%20property%3B"
+"%2Cc0\">os anos 1990</a>) (<a href=\"/graphics/seductivemirage.png\">Cópia "
+"local da imagem</a>)"
 
 # type: Content of: <p>
 #. type: Content of: <p>
@@ -444,6 +423,13 @@ msgid ""
 "preference for secrecy, which conficts with its customers' rights, as a "
 "supposed principle that customers and the state must yield to."
 msgstr ""
+"A rejeição de “propriedade intelectual” não é uma mera recreação filosofal. "
+"O termo causa danos reais. A Apple o usou para <a href=\"https://www."
+"theguardian.com/us-news/2017/mar/11/nebraska-farmers-right-to-repair-bill-"
+"stalls-apple\">distorcer o debate sobre o projeto de lei “direito de "
+"consertar”</a>. O conceito falso deu à Apple uma forma de vestir sua "
+"preferência pelo sigilo, que conflita com os direitos de seus consumidores, "
+"como um suposto princípio ao qual os consumidores e o Estado devem se render."
 
 # type: Content of: <p>
 #. type: Content of: <p>
@@ -563,15 +549,10 @@ msgstr ""
 "envio de traduções das páginas desse site."
 
 #. type: Content of: <div><p>
-# | Copyright &copy; 2004, 2006, 2010, 2013, 2015, [-2016-] {+2016, 2017+}
-# | Richard M. Stallman
-#, fuzzy
-#| msgid ""
-#| "Copyright &copy; 2004, 2006, 2010, 2013, 2015, 2016 Richard M. Stallman"
 msgid ""
 "Copyright &copy; 2004, 2006, 2010, 2013, 2015, 2016, 2017 Richard M. Stallman"
 msgstr ""
-"Copyright &copy; 2004, 2006, 2010, 2013, 2015, 2016 Richard M. Stallman"
+"Copyright &copy; 2004, 2006, 2010, 2013, 2015, 2016, 2017 Richard M. Stallman"
 
 #. type: Content of: <div><p>
 msgid ""
@@ -595,7 +576,8 @@ msgstr ""
 "<a href=\"mailto:rberaldo@cabaladada.org\">&lt;rberaldo@cabaladada.org&gt;</"
 "a>, 2012.<br />\n"
 "Rafael Fontenelle\n"
-"<a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome.org&gt;</a>, 2016."
+"<a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome.org&gt;</a>, 2016, "
+"2017."
 
 # type: Content of: <div><p>
 #.  timestamp start 

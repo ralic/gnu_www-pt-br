@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: free-software-even-more-important.html\n"
-"POT-Creation-Date: 2017-01-07 22:25+0000\n"
+"POT-Creation-Date: 2017-04-10 06:56+0000\n"
 "PO-Revision-Date: 2017-01-28 20:42-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -84,13 +84,29 @@ msgstr ""
 "sobre os usuários, poder que ninguém deveria ter."
 
 #. type: Content of: <p>
+# | Those two nonfree programs have something else in common: they are both
+# | <em>malware</em>.  That is, both have functionalities designed to mistreat
+# | the user.  Proprietary software nowadays is often malware because <a
+# | href=\"/proprietary/proprietary.html\">the developers' power corrupts
+# | them</a>.  That directory lists around [-260-] {+300+} different malicious
+# | functionalities (as of [-Jan-] {+Apr+} 2017), but it is surely just the
+# | tip of the iceberg.
+#, fuzzy
+#| msgid ""
+#| "Those two nonfree programs have something else in common: they are both "
+#| "<em>malware</em>.  That is, both have functionalities designed to "
+#| "mistreat the user.  Proprietary software nowadays is often malware "
+#| "because <a href=\"/proprietary/proprietary.html\">the developers' power "
+#| "corrupts them</a>.  That directory lists around 260 different malicious "
+#| "functionalities (as of Jan 2017), but it is surely just the tip of the "
+#| "iceberg."
 msgid ""
 "Those two nonfree programs have something else in common: they are both "
 "<em>malware</em>.  That is, both have functionalities designed to mistreat "
 "the user.  Proprietary software nowadays is often malware because <a href=\"/"
 "proprietary/proprietary.html\">the developers' power corrupts them</a>.  "
-"That directory lists around 260 different malicious functionalities (as of "
-"Jan 2017), but it is surely just the tip of the iceberg."
+"That directory lists around 300 different malicious functionalities (as of "
+"Apr 2017), but it is surely just the tip of the iceberg."
 msgstr ""
 "Esses dois programas não-livres têm algo mais em comum: ambos são "
 "<em>malwares</em>.  Ou seja, ambos têm funcionalidades concebidas para "
