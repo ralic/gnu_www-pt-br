@@ -1,0 +1,536 @@
+1
+00:00:01,200 --> 00:00:03,100
+Meu nome é Richard Stallman
+
+2
+00:00:03,200 --> 00:00:04,900
+há 25 anos [em 1983]
+
+3
+00:00:05,000 --> 00:00:09,000
+eu fundei o movimento 
+do Software Livre
+
+4
+00:00:08,100 --> 00:00:10,700
+Software livre é
+
+5
+00:00:10,800 --> 00:00:14,400
+o software que respeita a 
+liberdade do usuário
+
+6
+00:00:14,500 --> 00:00:18,200
+e a solidariedade social de 
+sua comunidade.
+
+7
+00:00:18,300 --> 00:00:21,000
+Os programas que não são livres 
+
+8
+00:00:21,100 --> 00:00:24,500
+são software proprietário;
+
+9
+00:00:24,600 --> 00:00:25,300
+ou seja,
+
+10
+00:00:25,400 --> 00:00:28,000
+privam o usuário 
+de sua liberdade
+
+11
+00:00:28,100 --> 00:00:30,700
+e os mantêm em um estado
+
+
+12
+00:00:30,800 --> 00:00:33,000
+de desunião e impotência.
+
+
+13
+00:00:33,100 --> 00:00:35,900
+Desunião porque cada um 
+é proibido
+
+14
+00:00:36,000 --> 00:00:38,000
+de compartilhá-lo com 
+os outros,
+
+15
+00:00:38,100 --> 00:00:42,300
+e impotência porque os usuários
+
+16
+00:00:42,400 --> 00:00:45,300
+não possuem o código-fonte do 
+programa.
+
+17
+00:00:45,400 --> 00:00:46,000
+Ou seja,
+
+18
+00:00:46,100 --> 00:00:48,000
+não podem trocar nada,
+
+19
+00:00:48,100 --> 00:00:50,500
+nem sequer podem averiguar
+
+20
+00:00:50,600 --> 00:00:55,000
+o que realmente o programa 
+está fazendo
+
+21
+00:00:55,100 --> 00:00:58,500
+e o programa pode fazer coisas 
+muito más.
+
+22
+00:00:59,000 --> 00:01:02,000
+Dizer que um programa é 
+Software Livre
+
+23
+00:01:02,100 --> 00:01:04,100
+significa dizer que o usuário 
+tem 
+
+24
+00:01:04,200 --> 00:01:07,200
+quatro liberdades essenciais:
+
+25
+00:01:07,300 --> 00:01:09,300
+A liberdade 0 é a liberdade
+
+26
+00:01:09,400 --> 00:01:12,400
+de executar o programa 
+como queira.
+
+27
+00:01:12,500 --> 00:01:15,300
+A liberdade 1 é a liberdade de
+
+28
+00:01:15,400 --> 00:01:18,100
+estudar o código-fonte 
+do programa
+
+29
+00:01:18,200 --> 00:01:19,300
+e alterá-lo
+
+30
+00:01:19,400 --> 00:01:22,000
+para que o programa faça 
+o que se deseja.
+
+31
+00:01:22,100 --> 00:01:24,100
+A liberdade 2 é a liberdade de
+
+32
+00:01:24,200 --> 00:01:25,800
+ajudar ao seu próximo,
+
+33
+00:01:25,900 --> 00:01:26,800
+ou seja,
+
+34
+00:01:26,900 --> 00:01:29,000
+a liberdade de fazer 
+e distribuir
+
+35
+00:01:29,100 --> 00:01:32,400
+cópias exatas do  programa 
+quando você quiser.
+
+36
+00:01:32,500 --> 00:01:35,100
+E a liberdade 3 
+é a liberdade de 
+
+37
+00:01:35,200 --> 00:01:36,500
+contribuir com 
+a sua comunidade,
+
+38
+00:01:36,600 --> 00:01:37,600
+ou seja,
+
+39
+00:01:37,700 --> 00:01:41,700
+a liberdade de criar e 
+distribuir cópias
+
+40
+00:01:41,800 --> 00:01:45,500
+de suas versões modificadas 
+do programa.
+
+41
+00:01:45,600 --> 00:01:47,800
+Com essas quatro liberdades
+
+42
+00:01:47,900 --> 00:01:52,800
+o programa é Software Livre,
+porque o sistema social
+
+43
+00:01:53,100 --> 00:01:56,700
+de seu uso e distribuição
+é um sistema ético
+
+44
+00:01:56,800 --> 00:02:01,000
+que respeita a liberdade 
+de cada um
+
+45
+00:02:01,200 --> 00:02:05,900
+e respeita a comunidade de 
+usuários.
+
+46
+00:02:06,000 --> 00:02:08,200
+Todo software deve ser livre
+
+47
+00:02:08,300 --> 00:02:11,800
+porque cada um merece 
+a liberdade,
+
+48
+00:02:11,900 --> 00:02:12,800
+merece
+
+49
+00:02:12,900 --> 00:02:16,800
+poder participar da 
+comunidade livre.
+
+50
+00:02:16,900 --> 00:02:18,000
+Portanto,
+
+51
+00:02:18,100 --> 00:02:22,900
+as escolas devem ensinar 
+unicamente o Software Livre.
+
+52
+00:02:23,050 --> 00:02:28,600
+Há quatro razões para esta 
+conclusão.
+
+53
+00:02:27,700 --> 00:02:31,900
+A mais superficial é 
+para economizar.
+
+54
+00:02:32,000 --> 00:02:34,700
+As escolas não têm 
+muito dinheiro,
+
+55
+00:02:34,500 --> 00:02:38,000
+e não devem desperdiçar 
+seu dinheiro
+
+56
+00:02:38,100 --> 00:02:43,000
+pagando por permissão para usar 
+software proprietário.
+
+57
+00:02:42,100 --> 00:02:46,000
+Esta razão é óbvia.
+
+58
+00:02:46,100 --> 00:02:49,800
+Porém, algumas empresas de 
+software proprietário
+
+59
+00:02:49,900 --> 00:02:53,200
+em geral eliminam essa razão 
+superficial
+
+60
+00:02:53,300 --> 00:02:57,300
+distribuindo cópias gratuitas, 
+ou quase gratuitas,
+
+61
+00:02:57,400 --> 00:03:00,600
+de seu software não-livre
+às escolas.
+
+62
+00:03:00,700 --> 00:03:05,000
+E a razão disso é viciar 
+os alunos.
+
+63
+00:03:05,100 --> 00:03:07,700
+Isso é um plano malévolo.
+
+64
+00:03:07,800 --> 00:03:11,100
+É um plano para usar as escolas
+
+65
+00:03:11,200 --> 00:03:13,500
+como instrumentos para impor
+
+66
+00:03:13,600 --> 00:03:19,000
+uma dependência permanente 
+aos alunos.
+
+67
+00:03:19,100 --> 00:03:23,100
+Se a escola ensina o uso deste 
+programa proprietário,
+
+68
+00:03:23,200 --> 00:03:26,900
+o aluno se forma com 
+a dependência
+
+69
+00:03:27,000 --> 00:03:29,100
+e depois de se formar,
+
+70
+00:03:29,200 --> 00:03:32,600
+ele não recebe mais cópias 
+gratuitas deste programa.
+
+71
+00:03:32,700 --> 00:03:37,100
+Ele provavelmente trabalhará 
+para uma empresa
+
+72
+00:03:37,200 --> 00:03:39,300
+e a empresa para a qual ele 
+trabalhará 
+
+73
+00:03:39,400 --> 00:03:41,800
+não recebe cópias gratuitas.
+
+74
+00:03:41,900 --> 00:03:46,400
+Então a empresa usa a escola 
+
+75
+00:03:46,500 --> 00:03:49,700
+para ensinar uma dependência 
+permanente
+
+76
+00:03:49,800 --> 00:03:51,500
+à toda sociedade.
+
+77
+00:03:51,600 --> 00:03:54,800
+A escola deve rejeitar 
+
+78
+00:03:54,900 --> 00:03:58,000
+sua participação
+nesse plano malévolo
+
+79
+00:03:58,100 --> 00:04:00,700
+porque a escola tem uma 
+missão social
+
+80
+00:04:00,800 --> 00:04:03,700
+de educar a próxima geração
+
+81
+00:04:03,800 --> 00:04:05,300
+para serem bons cidadãos
+
+82
+00:04:05,300 --> 00:04:11,600
+de uma sociedade capaz, forte, 
+independente, solidária 
+
+83
+00:04:11,700 --> 00:04:12,900
+e livre.
+
+84
+00:04:13,000 --> 00:04:17,200
+Isso só pode ser feito pelo 
+ensino do Software Livre.
+
+85
+00:04:17,300 --> 00:04:21,300
+As escolas devem eliminar,
+deletar 
+
+86
+00:04:21,400 --> 00:04:24,200
+os programas proprietários
+para instalar Software Livre.
+
+87
+00:04:24,300 --> 00:04:28,200
+Porém, há outra razão 
+mais forte:
+
+88
+00:04:28,300 --> 00:04:32,600
+formar bons programadores,
+
+89
+00:04:32,700 --> 00:04:36,400
+porque para aprender a 
+programar bem eles necessitam
+
+90
+00:04:36,500 --> 00:04:39,800
+ler muito código 
+e escrever muito código.
+
+91
+00:04:39,900 --> 00:04:44,300
+Para aprender a escrever código
+para programas grandes
+
+92
+00:04:44,400 --> 00:04:47,900
+eles precisam escrever 
+pequenas alterações
+
+93
+00:04:48,000 --> 00:04:50,300
+no código 
+dos programas grandes.
+
+94
+00:04:50,400 --> 00:04:52,500
+Tudo isso só é possível
+
+95
+00:04:52,200 --> 00:04:55,200
+apenas com o Software Livre.
+
+96
+00:04:55,300 --> 00:04:57,500
+Somente o Software Livre
+
+97
+00:04:57,600 --> 00:05:02,000
+permite a educação na 
+informática.
+
+98
+00:05:02,100 --> 00:05:06,900
+Porém, ainda há uma razão 
+mais profunda:
+
+99
+00:05:07,000 --> 00:05:10,600
+para a educação na cidadania,
+
+100
+00:05:10,700 --> 00:05:13,900
+porque a escola tem a missão 
+de ensinar
+
+101
+00:05:14,000 --> 00:05:19,200
+não somente sobre fatos, não só 
+técnicas, mas sobretudo
+
+102
+00:05:19,300 --> 00:05:21,900
+o espírito da boa vontade
+
+103
+00:05:22,000 --> 00:05:25,400
+e o hábito de ajudar 
+ao próximo.
+
+104
+00:05:25,500 --> 00:05:26,600
+Portanto,
+
+105
+00:05:26,700 --> 00:05:29,400
+cada turma deve ter essa regra:
+
+106
+00:05:29,500 --> 00:05:32,800
+"Estudante, se você traz um 
+programa para a aula
+
+107
+00:05:32,900 --> 00:05:36,000
+não pode mantê-lo apenas 
+consigo,
+
+108
+00:05:36,100 --> 00:05:39,800
+deve compartilhá-lo 
+com o resto da turma."
+
+109
+00:05:39,900 --> 00:05:43,900
+E a escola deve seguir sua 
+própria regra,
+
+110
+00:05:44,000 --> 00:05:48,800
+deve ter unicamente 
+Software Livre nas aulas.
+
+111
+00:05:48,900 --> 00:05:52,500
+Todas as escolas devem migrar 
+para o Software Livre
+
+112
+00:05:52,600 --> 00:05:55,900
+e ensinar unicamente 
+Software Livre
+
+113
+00:05:56,000 --> 00:05:58,600
+porque cada escola 
+deve contribuir
+
+114
+00:05:58,700 --> 00:06:04,000
+na direção de uma sociedade
+
+115
+00:06:04,100 --> 00:06:08,000
+rumo à liberdade e à 
+solidariedade social.
+
+116
+00:06:08,300 --> 00:06:10,000
+Muito obrigado.
+
