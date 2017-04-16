@@ -1,0 +1,175 @@
+1
+00:00:14,991 --> 00:00:23,447
+Estes são os carimbos disponíveis no Tux Paint.
+Podemos usá-los em nossas pinturas.
+
+2
+00:00:23,549 --> 00:00:29,161
+Podemos aumentar ou diminuir seu tamanho
+clicando aqui.
+
+3
+00:00:29,763 --> 00:00:37,578
+Veja, agora eu o encolhi,
+e agora eu o aumentei.
+
+4
+00:00:37,880 --> 00:00:41,573
+Tux Paint possui apenas alguns carimbos 
+que mostra a flora nativa de Kerala,
+
+5
+00:00:41,948 --> 00:00:48,094
+Em um projeto do grupo de usuários de software livre
+de estudantes da escola VHSS de Irimpanam,
+
+6
+00:00:48,194 --> 00:00:54,150
+nós decidimos adicionar mais carimbos
+de flores, vegetais e frutas de Kerala.
+
+7
+00:00:54,917 --> 00:00:57,628
+Como parte do projeto,
+
+8
+00:00:57,678 --> 00:01:08,336
+estudantes trouxeram fotografias digitais de
+flores, frutas e vegetais disponíveis
+
+9
+00:01:08,586 --> 00:01:15,375
+de sua localidade, registradas com 
+câmeras digitais e de telefone celular.
+
+10
+00:01:15,625 --> 00:01:23,856
+Então, usando o programa livre para edição
+de imagens "GIMP"
+
+11
+00:01:23,906 --> 00:01:27,373
+essas imagens foram cortadas,
+fundos de tela removidos,
+
+12
+00:01:27,388 --> 00:01:36,385
+resolução foi reduzida para 150x150,
+e salva como arquivos .png.
+
+13
+00:01:36,449 --> 00:01:41,614
+Tiramos fotos de nossa volta
+e as trouxemos para a escola.
+
+14
+00:01:41,795 --> 00:01:53,233
+Então, cortamo-nas em pequenos carimbos usando
+GIMP e a salvamos em nossos computadores.
+
+15
+00:01:54,565 --> 00:02:03,066
+Estudantes processaram suas fotos digitais com
+GIMP, o programa de manipulação de imagens GNU.
+
+16
+00:02:04,190 --> 00:02:08,210
+As imagens resultantes foram adicionadas ao
+Tux Paint.
+
+17
+00:02:10,094 --> 00:02:15,532
+Liberdade 0, a liberdade
+de executar o programa para qualquer propósito,
+
+18
+00:02:15,632 --> 00:02:20,070
+permitiu que a escola instalasse o programa
+em tanto computadores quanto necessário.
+
+19
+00:02:22,728 --> 00:02:31,511
+A liberdade 1 concede a liberdade de estudar como o
+programa funciona, e modificá-lo como precisar.
+
+20
+00:02:31,761 --> 00:02:39,592
+Os estudantes usaram a liberdade 1 para adaptar
+Tux Paint para as necessidades da comunidade.
+
+21
+00:02:40,092 --> 00:02:43,529
+Todos os computadores da escola, incluindo
+os escritórios da administração,
+
+22
+00:02:43,779 --> 00:02:49,092
+funcionam exclusivamente com
+o sistema operacional livre GNU/Linux.
+
+23
+00:02:50,515 --> 00:02:53,709
+Aproximadamente 1.000 estudantes
+entre 10 e 15 anos de idade
+
+24
+00:02:53,807 --> 00:03:03,430
+usam o sistema GNU/Linux regularmente
+no laboratório e na sala de aula.
+
+25
+00:03:05,791 --> 00:03:11,146
+Então, gravamos o nome dessas flores 
+em Malaiala usando um microfone.
+
+26
+00:03:12,391 --> 00:03:16,012
+Appooppan Thaady.
+
+27
+00:03:17,515 --> 00:03:22,660
+Então, digitamos os nomes das flores em
+Malaiala e as salvamos como arquivo texto.
+
+28
+00:03:24,180 --> 00:03:31,202
+A liberdade 2 permitiu que a escola
+fornecesse cópias do GIMP e Tux Paint,
+
+29
+00:03:31,702 --> 00:03:40,022
+então estudantes puderam instalar
+os programas em casa para particar mais.
+
+30
+00:03:59,438 --> 00:04:02,704
+Essas modificações foram enviadas
+para nosso site
+
+31
+00:04:02,866 --> 00:04:07,579
+e disponibilizadas para outros com 
+instruções de instalação.
+
+32
+00:04:07,976 --> 00:04:10,271
+Qualquer um que esteja interessado
+pode baixar e instalá-las.
+
+33
+00:04:10,371 --> 00:04:13,079
+Variedades diferentes das flores locais
+são usadas nele.
+
+34
+00:04:13,147 --> 00:04:18,448
+Nosso site é: http://vhssirimpanam.org
+
+35
+00:04:18,703 --> 00:04:25,201
+Liberdade 3: Os estudantes distribuíram suas 
+versões modificadas por meio do site da escola.
+
+36
+00:04:30,431 --> 00:04:31,951
+Os resultados...
