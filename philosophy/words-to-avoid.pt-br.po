@@ -1,16 +1,16 @@
 # Brazilian Portuguese translation of http://www.gnu.org/philosophy/words-to-avoid.html
-# Copyright (C) 2016 Free Software Foundation, Inc.
+# Copyright (C) 2017 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Ricardo Grützmacher, <grutz@terra.com.br>, 2002.
 # Jan 2015: GNUNify and trivially update a few strings (T. Godefroy).
 # Rafael Beraldo, <rberaldo@cabaladada.org>, 2015.
 # Bruno Félix Rezende Ribeiro <oitofelix@gnu.org>, 2015.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2016.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2016, 2017.
 msgid ""
 msgstr ""
 "Project-Id-Version: words-to-avoid.html\n"
 "POT-Creation-Date: 2017-03-20 14:26+0000\n"
-"PO-Revision-Date: 2016-10-18 23:57-0200\n"
+"PO-Revision-Date: 2017-04-06 11:13-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Virtaal 0.7.1\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -696,8 +696,8 @@ msgid ""
 "philosophy/misinterpreting-copyright.html\">false</a>, and the second is "
 "outrageous."
 msgstr ""
-"Falar da “compensação do autor” em conexão com o copyright presume que "
-"(1)&nbsp;o copyright existe pelo bem dos autores e (2)&nbsp;sempre que lemos "
+"Falar da “compensação do autor” em conexão com o copyright presume que (1)"
+"&nbsp;o copyright existe pelo bem dos autores e (2)&nbsp;sempre que lemos "
 "algo, estamos em débito com o autor e devemos reembolsá-lo. A primeira "
 "suposição é simplesmente <a href=\"/philosophy/misinterpreting-copyright.html"
 "\">falsa</a> e a segunda é ultrajante."
@@ -719,25 +719,6 @@ msgid "&ldquo;Consume&rdquo;"
 msgstr "“Consumo”"
 
 #. type: Content of: <p>
-# | &ldquo;Consume&rdquo; refers to what we do with food: we ingest it, after
-# | which the food as such no longer exists.  By analogy, we employ the same
-# | word for other products whose use <em>uses them up</em>.  Applying it to
-# | durable goods, such as clothing or appliances, is a stretch.  Applying it
-# | to published works (programs, recordings on a disk or in a file, books on
-# | paper or in a file), whose nature is to last indefinitely and which can be
-# | run, played or read any number of times, is [-simply an error.-]
-# | {+stretching the word so far that it snaps.+}  Playing a recording, or
-# | running a program, does not consume it.
-#, fuzzy
-#| msgid ""
-#| "&ldquo;Consume&rdquo; refers to what we do with food: we ingest it, after "
-#| "which the food as such no longer exists.  By analogy, we employ the same "
-#| "word for other products whose use <em>uses them up</em>.  Applying it to "
-#| "durable goods, such as clothing or appliances, is a stretch.  Applying it "
-#| "to published works (programs, recordings on a disk or in a file, books on "
-#| "paper or in a file), whose nature is to last indefinitely and which can "
-#| "be run, played or read any number of times, is simply an error.  Playing "
-#| "a recording, or running a program, does not consume it."
 msgid ""
 "&ldquo;Consume&rdquo; refers to what we do with food: we ingest it, after "
 "which the food as such no longer exists.  By analogy, we employ the same "
@@ -752,11 +733,11 @@ msgstr ""
 "depois disso a comida, como tal, não existe mais. Por analogia, podemos "
 "empregar a mesma palavra para outros produtos cuja utilização os "
 "<em>extingue</em>.  Empregá-la a bens duráveis, como roupas ou aparelhos, é "
-"um exagero.  Empregá-la a obras publicadas (programas, gravações em vinil ou "
-"digitais, livros de papel ou digitais), cuja natureza é durar "
+"um exagero. Empregá-la a obras publicadas (programas, gravações em discos ou "
+"em um arquivos digitais, livros de papel ou digitais), cuja natureza é durar "
 "indefinidamente e que podem ser executadas, reproduzidas ou lidas tanto "
-"quanto se queira, é simplesmente um erro. Reprodução de uma gravação, ou a "
-"execução de um programa, não os consome."
+"quanto se queira, é estender a palavra até aquela se encaixe. Reprodução de "
+"uma gravação, ou a execução de um programa, não os consome."
 
 #. type: Content of: <p>
 msgid ""
@@ -769,32 +750,17 @@ msgid ""
 "is nothing special about a drop of gasoline that your car burns today versus "
 "another drop that it burned last week."
 msgstr ""
+"Aqueles que usam “consumo” neste contexto vão dizer que eles não querem "
+"dizer isso literalmente. Então, o que isso significa? Significa considerar "
+"cópias de softwares e outras obras de um ponto de vista estritamente "
+"econômico. “Consumo” está associado com as economias de materiais de "
+"consumo, tal como o combustível e eletricidade que um carro usa. A gasolina "
+"é uma mercadoria, assim como a eletricidade. Os materiais de consumo são "
+"<em>fungíveis</em>: não há nada especial em uma gota de gasolina que seu "
+"carro queima hoje em comparação com outra gota que foi queimada na semana "
+"passada."
 
 #. type: Content of: <p>
-# | [-The term &ldquo;consume&rdquo; is associated-]{+Do we want people to
-# | think of writings (software, news, any other kind) as a commodity,+} with
-# | the [-economics-] {+assumption that there is nothing special about any one
-# | story, article, program, or song? Should we treat them as fungible? That
-# | is the twisted viewpoint+} of [-uncopyable material products, and leads
-# | people to transfer its conclusions unconsciously to copiable digital works
-# | &mdash;-] an [-error-] {+economist, or the accountant of a publishing
-# | company.  It is no surprise+} that proprietary software [-developers (and
-# | other publishers) dearly wish-] {+would like you+} to [-encourage.-]
-# | {+think of the use of software as a commodity.+}  Their twisted viewpoint
-# | comes through clearly in <a
-# | href=\"http://www.businessinsider.com/former-google-exec-launches-sourcepoint-with-10-million-series-a-funding-2015-6\">this
-# | article</a>, which also refers to publications as &ldquo;<a
-# | href=\"#Content\">content</a>.&rdquo;
-#, fuzzy
-#| msgid ""
-#| "The term &ldquo;consume&rdquo; is associated with the economics of "
-#| "uncopyable material products, and leads people to transfer its "
-#| "conclusions unconsciously to copiable digital works &mdash; an error that "
-#| "proprietary software developers (and other publishers) dearly wish to "
-#| "encourage.  Their twisted viewpoint comes through clearly in <a href="
-#| "\"http://www.businessinsider.com/former-google-exec-launches-sourcepoint-"
-#| "with-10-million-series-a-funding-2015-6\">this article</a>, which also "
-#| "refers to publications as &ldquo;<a href=\"#Content\">content</a>.&rdquo;"
 msgid ""
 "Do we want people to think of writings (software, news, any other kind) as a "
 "commodity, with the assumption that there is nothing special about any one "
@@ -807,14 +773,16 @@ msgid ""
 "article</a>, which also refers to publications as &ldquo;<a href=\"#Content"
 "\">content</a>.&rdquo;"
 msgstr ""
-"O termo “consumo” está associado com a economia de produtos materiais não-"
-"copiáveis, e leva as pessoas a transferir inconscientemente as suas "
-"conclusões para as obras digitais copiáveis — um erro que desenvolvedores de "
-"software privativo (e outros editores) encarecidamente desejam encorajar.  "
-"Este ponto de vista distorcido aparece claramente <a href=\"http://www."
-"businessinsider.com/former-google-exec-launches-sourcepoint-with-10-million-"
-"series-a-funding-2015-6\">neste artigo</a>, que também se refere a "
-"publicações como “<a href=\"#Content\">conteúdo</a>”."
+"Convém perguntar: nós queremos que as pessoas pensem em escritos (softwares, "
+"notícias e qualquer outro tipo) como materias de consumo, com a suposição de "
+"que há nada especial sobre qualquer história, artigo, programa ou música? "
+"Devemos tratá-los como fungíveis? Isso é um ponto de vista distorcido de um "
+"economista ou contador de uma empresa de publicidade. Não é surpresa que o "
+"software proprietário queira que você pense no uso de software como um "
+"material de consumo. Seu ponto de vista distorcido aparece claramente <a "
+"href=\"http://www.businessinsider.com/former-google-exec-launches-"
+"sourcepoint-with-10-million-series-a-funding-2015-6\">neste artigo</a>, que "
+"também se refere a publicações como “<a href=\"#Content\">conteúdo</a>”."
 
 #. type: Content of: <p>
 msgid ""
@@ -826,47 +794,24 @@ msgid ""
 "restrictions as natural."
 msgstr ""
 "O pensamento limitado associado com a ideia que nós “consumimos conteúdo” "
-"abre caminho para leis como o DMCA que proíbe que usuários se livrem dos "
-"mecanismos de <a href=\"http://DefectiveByDesign.org/\">Gestão Digital de "
-"Restrições</a> (DRM<sup><a href=\"#TransNote1\">1</a></sup>) nos "
+"abre caminho para leis como o DMCA que proíbe aos usuários de se livrarem "
+"dos mecanismos de <a href=\"http://DefectiveByDesign.org/\">Gestão Digital "
+"de Restrições</a> (DRM<sup><a href=\"#TransNote1\">1</a></sup>) nos "
 "dispositivos digitais.  Se os usuários pensarem que o que eles fazem com "
-"esses dispositivos é “consumo”, eles podem considerar tais restrições "
-"naturais."
+"esses dispositivos é “consumo”, eles podem considerar tais restrições como "
+"sendo naturais."
 
 #. type: Content of: <p>
-# | It also encourages the acceptation of &ldquo;streaming&rdquo; services,
-# | which use DRM to {+perversely+} limit [-use of digital recordings-]
-# | {+listening+} to [-a form-] {+music so+} that {+it+} fits {+the
-# | assumptions of+} the word &ldquo;consume.&rdquo;
-#, fuzzy
-#| msgid ""
-#| "It also encourages the acceptation of &ldquo;streaming&rdquo; services, "
-#| "which use DRM to limit use of digital recordings to a form that fits the "
-#| "word &ldquo;consume.&rdquo;"
 msgid ""
 "It also encourages the acceptation of &ldquo;streaming&rdquo; services, "
 "which use DRM to perversely limit listening to music so that it fits the "
 "assumptions of the word &ldquo;consume.&rdquo;"
 msgstr ""
 "Isso também incentiva a aceitação dos serviços de “streaming”, que utilizam "
-"DRM para limitar o uso de gravações digitais de forma que este se enquadre "
-"como “consumo”."
+"DRM para perversamente limitar acesso a músicas de forma que esta se "
+"enquadre na suposição da palavra “consumo”."
 
 #. type: Content of: <p>
-# | Why is this perverse usage spreading? Some may feel that the term sounds
-# | [-sophisticated; if that attracts you,-] {+sophisticated, but+} rejecting
-# | it with cogent reasons can appear even more sophisticated.  Others may be
-# | acting from business interests (their own, or their employers').  Their
-# | use of the term in prestigious forums gives the impression that it's the
-# | &ldquo;correct&rdquo; term.
-#, fuzzy
-#| msgid ""
-#| "Why is this perverse usage spreading? Some may feel that the term sounds "
-#| "sophisticated; if that attracts you, rejecting it with cogent reasons can "
-#| "appear even more sophisticated.  Others may be acting from business "
-#| "interests (their own, or their employers').  Their use of the term in "
-#| "prestigious forums gives the impression that it's the &ldquo;"
-#| "correct&rdquo; term."
 msgid ""
 "Why is this perverse usage spreading? Some may feel that the term sounds "
 "sophisticated, but rejecting it with cogent reasons can appear even more "
@@ -875,31 +820,13 @@ msgid ""
 "impression that it's the &ldquo;correct&rdquo; term."
 msgstr ""
 "Porque é que este uso perverso do termo vem se espalhando?  Alguns podem "
-"achar que o termo soa sofisticado; se isso atrai você, rejeitá-lo com razões "
-"convincentes pode parecer ainda mais sofisticado. Outros podem estar agindo "
-"sob interesses comerciais (os seus próprios, ou dos seus empregadores). O "
-"uso por parte destes em fóruns de prestígio dá a impressão de que o termo é "
+"achar que o termo soa sofisticado, mas rejeitá-lo com razões convincentes "
+"pode parecer ainda mais sofisticado. Outros podem estar agindo sob "
+"interesses comerciais (os seus próprios, ou dos seus empregadores). O uso "
+"por parte destes em fóruns de prestígio dá a impressão de que o termo é "
 "“correto”."
 
 #. type: Content of: <p>
-# | To speak of &ldquo;consuming&rdquo; music, fiction, or any other artistic
-# | works is to treat them as products rather than as art.  If you don't want
-# | to spread that attitude, you would do well to [-reject-] {+avoid+} using
-# | the term &ldquo;consume&rdquo; for them.  {+What to use instead?+} We
-# | [-recommend saying that someone &ldquo;experiences&rdquo; an artistic
-# | work-] {+prefer specific verbs such as &ldquo;listen to&rdquo;,
-# | &ldquo;watch&rdquo;, &ldquo;read&rdquo;+} or [-a work stating a point of
-# | view, and that someone &ldquo;uses&rdquo; a practical work.-]
-# | {+&ldquo;look at&rdquo;, since they help to restrain the tendency to
-# | overgeneralize.+}
-#, fuzzy
-#| msgid ""
-#| "To speak of &ldquo;consuming&rdquo; music, fiction, or any other artistic "
-#| "works is to treat them as products rather than as art.  If you don't want "
-#| "to spread that attitude, you would do well to reject using the term "
-#| "&ldquo;consume&rdquo; for them.  We recommend saying that someone &ldquo;"
-#| "experiences&rdquo; an artistic work or a work stating a point of view, "
-#| "and that someone &ldquo;uses&rdquo; a practical work."
 msgid ""
 "To speak of &ldquo;consuming&rdquo; music, fiction, or any other artistic "
 "works is to treat them as products rather than as art.  If you don't want to "
@@ -911,9 +838,9 @@ msgid ""
 msgstr ""
 "Falar de “consumir” música, ficção ou quaisquer outras obras artísticas é "
 "tratá-las como produtos, e não como arte. Se você não quer espalhar essa "
-"atitude, você faria bem em rejeitar o uso do termo “consumo” para eles. "
-"Recomendamos dizer que alguém “experiencia” uma obra artística ou uma obra "
-"de opinião, e que alguém “usa” uma obra prática."
+"atitude, você faria bem em evitar o uso do termo “consumo” para eles. O que "
+"usar então? Nós preferimos verbos específicos como “ouvir a”, “assistir”, "
+"“ler” e “olhar em”, já que isso ajuda a restringir a tendência a generalizar."
 
 #. type: Content of: <p>
 msgid ""
@@ -922,6 +849,10 @@ msgid ""
 "to&rdquo; for an artistic work or a work to present a point of view, and "
 "&ldquo;use&rdquo; for a practically useful work."
 msgstr ""
+"Quando é absolutamente necessário generalizar todos os tipos de obras e "
+"todas as mídias, nós recomendamos “experimentar” ou “dar atenção a” para uma "
+"obra artística ou uma obra apresentar um ponto de vistas, e “usar” para uma "
+"obra útil na prática."
 
 #. type: Content of: <p>
 msgid "See also the following entry."
@@ -1000,9 +931,10 @@ msgstr ""
 "com certeza dizer que você está “contente”<sup><a href=\"#TransNote2\">2</"
 "a></sup>, mas usar a palavra “conteúdo” como um substantivo para descrever "
 "publicações e obras autorais adota uma atitude que você talvez prefira "
-"evitar: ela as trata como uma commodity cujo propósito é encher uma caixa e "
-"ganhar dinheiro. Na verdade, ela denigre as próprias obras. Se você não "
-"concorda com essa atitude, você pode chamá-las de “obras” ou “publicações”."
+"evitar: ela as trata como um material de consumo cujo propósito é encher uma "
+"caixa e ganhar dinheiro. Na verdade, ela denigre as próprias obras. Se você "
+"não concorda com essa atitude, você pode chamá-las de “obras” ou "
+"“publicações”."
 
 #. type: Content of: <p>
 msgid ""
@@ -1470,24 +1402,6 @@ msgid "&ldquo;Google&rdquo;"
 msgstr "“Google”"
 
 #. type: Content of: <p>
-# | Please avoid using the term &ldquo;google&rdquo; as a verb, meaning to
-# | search for something on the internet. &ldquo;Google&rdquo; is just the
-# | name of one particular search engine among others. We suggest to use the
-# | term &ldquo;search the web&rdquo; or (in some contexts) just
-# | &ldquo;search&rdquo;. Try to use a search engine that respects your
-# | privacy; {+for instance,+} <a
-# | href=\"https://duckduckgo.com/\">DuckDuckGo</a> claims not to track its
-# | [-users, although we cannot confirm.-] {+users.  (There is no way for
-# | outsiders to verify claims of that kind.)+}
-#, fuzzy
-#| msgid ""
-#| "Please avoid using the term &ldquo;google&rdquo; as a verb, meaning to "
-#| "search for something on the internet. &ldquo;Google&rdquo; is just the "
-#| "name of one particular search engine among others. We suggest to use the "
-#| "term &ldquo;search the web&rdquo; or (in some contexts) just &ldquo;"
-#| "search&rdquo;. Try to use a search engine that respects your privacy; <a "
-#| "href=\"https://duckduckgo.com/\">DuckDuckGo</a> claims not to track its "
-#| "users, although we cannot confirm."
 msgid ""
 "Please avoid using the term &ldquo;google&rdquo; as a verb, meaning to "
 "search for something on the internet. &ldquo;Google&rdquo; is just the name "
@@ -1503,7 +1417,8 @@ msgstr ""
 "mecanismo de pesquisa dentre outros.  Em vez disso, sugerimos usar o termo "
 "“pesquisar na web”.  Tente usar um motor de busca que respeite sua "
 "privacidade; <a href=\"https://duckduckgo.com/\">DuckDuckGo</a> alega não "
-"rastrear seus usuários, embora não possamos confirmar."
+"rastrear seus usuários. (Não há um meio para que pessoas de fora verifiquem "
+"as alegações daquele tipo.)"
 
 #. type: Content of: <h3>
 msgid "&ldquo;Hacker&rdquo;"
@@ -2348,7 +2263,8 @@ msgstr ""
 "<li id=\"TransNote5\">Em inglês, “WC” é uma abreviação cujo significado "
 "varia conforme contexto. Neste contexto, poderia ser “Windows Computer” ou, "
 "quem sabe, “water closet”, que significa privada, lavatório, sanitário.</"
-"li><li id=\"TransNote6\">Do inglês “economy sharing”.</li>\n"
+"li>\n"
+"<li id=\"TransNote6\">Do inglês “economy sharing”.</li>\n"
 "</ol>"
 
 # type: Content of: <div><p>
@@ -2393,19 +2309,12 @@ msgstr ""
 "envio de traduções das páginas desse site."
 
 #. type: Content of: <div><p>
-# | Copyright &copy; 1996, 1997, 1998, 1999, 2001, 2002, 2003, 2004, 2007,
-# | 2008, 2009, 2010, 2011, 2012, 2015, [-2016-] {+2016, 2017+} Free Software
-# | Foundation, Inc.
-#, fuzzy
-#| msgid ""
-#| "Copyright &copy; 1996, 1997, 1998, 1999, 2001, 2002, 2003, 2004, 2007, "
-#| "2008, 2009, 2010, 2011, 2012, 2015, 2016 Free Software Foundation, Inc."
 msgid ""
 "Copyright &copy; 1996, 1997, 1998, 1999, 2001, 2002, 2003, 2004, 2007, 2008, "
 "2009, 2010, 2011, 2012, 2015, 2016, 2017 Free Software Foundation, Inc."
 msgstr ""
 "Copyright &copy; 1996, 1997, 1998, 1999, 2001, 2002, 2003, 2004, 2007, 2008, "
-"2009, 2010, 2011, 2012, 2015, 2016 Free Software Foundation, Inc."
+"2009, 2010, 2011, 2012, 2015, 2016, 2017 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -2421,11 +2330,15 @@ msgstr ""
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"<b>Tradução</b>: Ricardo Grützmacher <a href=\"mailto:grutz@terra.com.br"
-"\">&lt;grutz@terra.com.br&gt;</a> (2002), Rafael Beraldo <a href=\"mailto:"
-"rberaldo@cabaladada.org\">&lt;rberaldo@cabaladada.org&gt;</a> (2015) e <a "
-"href=\"http://oitofelix.freeshell.org/\">Bruno Félix Rezende Ribeiro</a> <a "
-"href=\"mailto:oitofelix@gnu.org\">&lt;oitofelix@gnu.org&gt;</a> (2015)"
+"<b>Traduzido por</b>:\n"
+"Ricardo Grützmacher <a href=\"mailto:grutz@terra.com.br\">&lt;grutz@terra."
+"com.br&gt;</a>, 2002;\n"
+"Rafael Beraldo <a href=\"mailto:rberaldo@cabaladada.org\">&lt;"
+"rberaldo@cabaladada.org&gt;</a>, 2015;\n"
+"<a href=\"http://oitofelix.freeshell.org/\">Bruno Félix Rezende Ribeiro</a> "
+"<a href=\"mailto:oitofelix@gnu.org\">&lt;oitofelix@gnu.org&gt;</a>, 2015;\n"
+"Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome."
+"org&gt;</a>, 2016-2017"
 
 # type: Content of: <div><p>
 #.  timestamp start 

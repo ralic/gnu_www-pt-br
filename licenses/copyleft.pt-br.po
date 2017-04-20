@@ -1,15 +1,15 @@
 # Brazilian Portuguese translation of http://www.gnu.org/copyleft/copyleft.html
-# Copyright (C) 2016 Free Software Foundation, Inc.
+# Copyright (C) 2017 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # ?, 2000.
 # Dec 2014: GNUNify; try to make a few strings less obsolete (T. Godefroy).
-# Rafael Fontenelle <rafaelff@gnome.org>, 2016.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2016, 2017.
 msgid ""
 msgstr ""
 "Project-Id-Version: copyleft.html\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-04-05 12:26+0000\n"
-"PO-Revision-Date: 2016-12-12 10:33-0200\n"
+"PO-Revision-Date: 2017-04-06 14:33-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -150,18 +150,6 @@ msgstr ""
 "É por isso que invertemos o nome, mudando-o de “copyright” para “copyleft”."
 
 #. type: Content of: <p>
-# | Copyleft is a way of using [-of-] the copyright on the program.  It
-# | doesn't mean abandoning the copyright; in fact, doing so would make
-# | copyleft impossible.  The &ldquo;left&rdquo; in &ldquo;copyleft&rdquo; is
-# | not a reference to the verb &ldquo;to leave&rdquo;&mdash;only to the
-# | direction which is the mirror image of &ldquo;right&rdquo;.
-#, fuzzy
-#| msgid ""
-#| "Copyleft is a way of using of the copyright on the program.  It doesn't "
-#| "mean abandoning the copyright; in fact, doing so would make copyleft "
-#| "impossible.  The &ldquo;left&rdquo; in &ldquo;copyleft&rdquo; is not a "
-#| "reference to the verb &ldquo;to leave&rdquo;&mdash;only to the direction "
-#| "which is the mirror image of &ldquo;right&rdquo;."
 msgid ""
 "Copyleft is a way of using the copyright on the program.  It doesn't mean "
 "abandoning the copyright; in fact, doing so would make copyleft impossible.  "
@@ -176,33 +164,6 @@ msgstr ""
 "espelhada de “right”."
 
 #. type: Content of: <p>
-# | Copyleft is a general concept, and you can't use a general concept
-# | directly; you can only use a specific implementation of the concept.  In
-# | the GNU Project, the specific distribution terms that we use for most
-# | software are contained in the <a [-href=\"/copyleft/gpl.html\">GNU-]
-# | {+href=\"/licenses/gpl.html\"> GNU+} General Public [-License (available
-# | in HTML</a>, <a href=\"/copyleft/gpl.txt\">text</a>, and <a
-# | href=\"/copyleft/gpl.texi\">Texinfo</a> format).-] {+License</a>.+}  The
-# | GNU General Public License is often called the GNU GPL for short. There is
-# | also a <a [-href=\"/copyleft/gpl-faq.html\">Frequently-]
-# | {+href=\"/licenses/gpl-faq.html\">Frequently+} Asked Questions</a> page
-# | about the GNU GPL.  You can also read about <a
-# | [-href=\"/copyleft/why-assign.html\">why-]
-# | {+href=\"/licenses/why-assign.html\">why+} the FSF gets copyright
-# | assignments from contributors</a>.
-#, fuzzy
-#| msgid ""
-#| "Copyleft is a general concept, and you can't use a general concept "
-#| "directly; you can only use a specific implementation of the concept.  In "
-#| "the GNU Project, the specific distribution terms that we use for most "
-#| "software are contained in the <a href=\"/copyleft/gpl.html\">GNU General "
-#| "Public License (available in HTML</a>, <a href=\"/copyleft/gpl.txt"
-#| "\">text</a>, and <a href=\"/copyleft/gpl.texi\">Texinfo</a> format).  The "
-#| "GNU General Public License is often called the GNU GPL for short. There "
-#| "is also a <a href=\"/copyleft/gpl-faq.html\">Frequently Asked Questions</"
-#| "a> page about the GNU GPL.  You can also read about <a href=\"/copyleft/"
-#| "why-assign.html\">why the FSF gets copyright assignments from "
-#| "contributors</a>."
 msgid ""
 "Copyleft is a general concept, and you can't use a general concept directly; "
 "you can only use a specific implementation of the concept.  In the GNU "
@@ -217,31 +178,14 @@ msgstr ""
 "Copyleft é um conceito genérico, e você não pode usar um conceito genérico "
 "diretamente; você pode apenas usar uma implementação específica do conceito. "
 "No Projeto GNU, os termos específicos de distribuição que utilizamos estão "
-"contidos na Licença Pública Geral GNU (disponível nos formatos <a href=\"/"
-"copyleft/gpl.html\">HTML</a>, <a href=\"/copyleft/gpl.txt\">texto puro</a> e "
-"<a href=\"/copyleft/gpl.texi\">Texinfo</a>). A Licença Pública Geral GNU é "
-"frequentemente abreviada como GNU GPL. Há também uma página de <a href=\"/"
-"copyleft/gpl-faq.html\">Perguntas Frequentes</a> sobre a GNU GPL. Você "
-"também pode ler sobre <a href=\"/copyleft/why-assign.html\">por que a FSF "
-"fica com as atribuições de copyright dos contribuidores</a>."
+"contidos na <a href=\"/licenses/gpl.html\">Licença Pública Geral GNU</a>. A "
+"Licença Pública Geral GNU é frequentemente abreviada como GNU GPL. Há também "
+"uma página de <a href=\"/licenses/gpl-faq.html\">Perguntas Frequentes</a> "
+"sobre a GNU GPL. Você também pode ler sobre <a href=\"/licenses/why-assign."
+"html\">por que a FSF fica com as atribuições de copyright dos "
+"contribuidores</a>."
 
 #. type: Content of: <p>
-# | An alternate form of copyleft, the <a href=\"/licenses/agpl.html\">GNU
-# | Affero General Public License [-(AGPL) (available in HTML</a>, <a
-# | href=\"/licenses/agpl.txt\">text</a>, and <a
-# | href=\"/licenses/agpl.texi\">Texinfo</a> format),-] {+(AGPL)</a>+} is
-# | designed for programs that are likely to be used on servers.  It ensures
-# | that modified versions used to implement services available to the public
-# | are released as source code to the public.
-#, fuzzy
-#| msgid ""
-#| "An alternate form of copyleft, the <a href=\"/licenses/agpl.html\">GNU "
-#| "Affero General Public License (AGPL) (available in HTML</a>, <a href=\"/"
-#| "licenses/agpl.txt\">text</a>, and <a href=\"/licenses/agpl.texi"
-#| "\">Texinfo</a> format), is designed for programs that are likely to be "
-#| "used on servers.  It ensures that modified versions used to implement "
-#| "services available to the public are released as source code to the "
-#| "public."
 msgid ""
 "An alternate form of copyleft, the <a href=\"/licenses/agpl.html\">GNU "
 "Affero General Public License (AGPL)</a> is designed for programs that are "
@@ -249,32 +193,13 @@ msgid ""
 "implement services available to the public are released as source code to "
 "the public."
 msgstr ""
-"Uma forma alternativa de copyleft, a Licença Pública Geral Affero GNU (AGPL) "
-"(disponível nos formatos <a href=\"/licenses/agpl.html\">HTML</a>, <a href="
-"\"/licenses/agpl.txt\">texto</a> e <a href=\"/licenses/agpl.texi\">Texinfo</"
-"a>), foi projetada para programas que são suscetíveis de ser usados em "
-"servidores. Ela garante que versões modificadas usadas para implementar "
-"serviços disponíveis para o público sejam lançados como código-fonte para o "
-"público."
+"Uma forma alternativa de copyleft, a <a href=\"/licenses/agpl.html\">Licença "
+"Pública Geral Affero GNU (AGPL)</a>, foi projetada para programas que são "
+"suscetíveis de ser usados em servidores. Ela garante que versões modificadas "
+"usadas para implementar serviços disponíveis para o público sejam lançados "
+"como código-fonte para o público."
 
 #. type: Content of: <p>
-# | A compromise form of copyleft, the <a href=\"/licenses/lgpl.html\">GNU
-# | Lesser General Public License [-(LGPL) (available in HTML</a>, <a
-# | href=\"/licenses/lgpl.txt\">text</a>, and <a
-# | href=\"/licenses/lgpl.texi\">Texinfo</a> format),-] {+(LGPL)</a>+} applies
-# | to a few (but not all) GNU libraries. To learn more about properly using
-# | the LGPL, please read the article <a
-# | href=\"/philosophy/why-not-lgpl.html\"><cite>Why you shouldn't use the
-# | Lesser GPL for your next library</cite></a>.
-#, fuzzy
-#| msgid ""
-#| "A compromise form of copyleft, the <a href=\"/licenses/lgpl.html\">GNU "
-#| "Lesser General Public License (LGPL) (available in HTML</a>, <a href=\"/"
-#| "licenses/lgpl.txt\">text</a>, and <a href=\"/licenses/lgpl.texi"
-#| "\">Texinfo</a> format), applies to a few (but not all) GNU libraries. To "
-#| "learn more about properly using the LGPL, please read the article <a href="
-#| "\"/philosophy/why-not-lgpl.html\"><cite>Why you shouldn't use the Lesser "
-#| "GPL for your next library</cite></a>."
 msgid ""
 "A compromise form of copyleft, the <a href=\"/licenses/lgpl.html\">GNU "
 "Lesser General Public License (LGPL)</a> applies to a few (but not all) GNU "
@@ -282,42 +207,23 @@ msgid ""
 "article <a href=\"/philosophy/why-not-lgpl.html\"><cite>Why you shouldn't "
 "use the Lesser GPL for your next library</cite></a>."
 msgstr ""
-"Uma forma alternativa de copyleft, a Licença Pública Geral Menor GNU (LGPL, "
-"disponível nos formatos <a href=\"/licenses/lgpl.html\">HTML</a>, <a href=\"/"
-"licenses/lgpl.txt\"> texto puro</a>, e <a href=\"/licenses/lgpl.texi"
-"\">Texinfo</a>), se aplica a algumas (mas não todas) as bibliotecas do GNU.  "
-"Para aprender mais sobre o uso adequado da LGPL, por favor leia o artigo, <a "
-"href=\"/philosophy/why-not-lgpl.html\"><cite>Por que você não deveria "
-"utilizar a GPL Menor para sua próxima biblioteca</cite></a>."
+"Uma forma alternativa de copyleft, a <a href=\"/licenses/lgpl.html\">Licença "
+"Pública Geral Menor GNU (LGPL)</a>, se aplica a algumas (mas não todas) as "
+"bibliotecas do GNU. Para aprender mais sobre o uso adequado da LGPL, por "
+"favor leia o artigo, <a href=\"/philosophy/why-not-lgpl.html\"><cite>Por que "
+"você não deveria utilizar a GPL Menor para sua próxima biblioteca</cite></a>."
 
 #. type: Content of: <p>
-# | The <a [-href=\"/copyleft/fdl.html\">GNU-]
-# | {+href=\"/licenses/fdl.html\">GNU+} Free Documentation License [-(FDL) 
-# | (available in HTML</a>, <a href=\"/copyleft/fdl.txt\">text</a> and <a
-# | href=\"/copyleft/fdl.texi\">Texinfo)</a>-] {+(FDL)</a>+} is a form of
-# | copyleft intended for use on a manual, textbook or other document to
-# | assure everyone the effective freedom to copy and redistribute it, with or
-# | without modifications, either commercially or noncommercially.
-#, fuzzy
-#| msgid ""
-#| "The <a href=\"/copyleft/fdl.html\">GNU Free Documentation License (FDL)  "
-#| "(available in HTML</a>, <a href=\"/copyleft/fdl.txt\">text</a> and <a "
-#| "href=\"/copyleft/fdl.texi\">Texinfo)</a> is a form of copyleft intended "
-#| "for use on a manual, textbook or other document to assure everyone the "
-#| "effective freedom to copy and redistribute it, with or without "
-#| "modifications, either commercially or noncommercially."
 msgid ""
 "The <a href=\"/licenses/fdl.html\">GNU Free Documentation License (FDL)</a> "
 "is a form of copyleft intended for use on a manual, textbook or other "
 "document to assure everyone the effective freedom to copy and redistribute "
 "it, with or without modifications, either commercially or noncommercially."
 msgstr ""
-"A Licença de Documentação Livre GNU (FDL, disponível nos formatos <a href=\"/"
-"copyleft/fdl.html\">HTML</a>, <a href=\"/copyleft/fdl.txt\">texto puro</a> e "
-"<a href=\"/copyleft/fdl.texi\">Texinfo</a>) é uma forma de copyleft criada "
-"pra uso em um manual, livro-texto ou outro documento para garantir a todos a "
-"liberdade efetiva de copiar e redistribuí-lo, com ou sem modificações, seja "
-"comercialmente ou não-comercialmente."
+"A <a href=\"/licenses/fdl.html\">Licença de Documentação Livre GNU (FDL)</a> "
+"é uma forma de copyleft criada pra uso em um manual, livro-texto ou outro "
+"documento para garantir a todos a liberdade efetiva de copiar e redistribuí-"
+"lo, com ou sem modificações, seja comercialmente ou não-comercialmente."
 
 #. type: Content of: <p>
 msgid ""
@@ -360,18 +266,6 @@ msgstr ""
 "exceção à GPL versão 3, tornando-a automaticamente compatível."
 
 #. type: Content of: <p>
-# | If you would like to copyleft your program with the GNU GPL or the GNU
-# | LGPL, please see the <a [-href=\"/copyleft/gpl-howto.html\">license-]
-# | {+href=\"/licenses/gpl-howto.html\">license+} instructions page</a> for
-# | advice.  Please note that you must use the entire text of the license you
-# | choose.  Each is an integral whole, and partial copies are not permitted.
-#, fuzzy
-#| msgid ""
-#| "If you would like to copyleft your program with the GNU GPL or the GNU "
-#| "LGPL, please see the <a href=\"/copyleft/gpl-howto.html\">license "
-#| "instructions page</a> for advice.  Please note that you must use the "
-#| "entire text of the license you choose.  Each is an integral whole, and "
-#| "partial copies are not permitted."
 msgid ""
 "If you would like to copyleft your program with the GNU GPL or the GNU LGPL, "
 "please see the <a href=\"/licenses/gpl-howto.html\">license instructions "
@@ -380,24 +274,12 @@ msgid ""
 "permitted."
 msgstr ""
 "Se você gostaria de tornar seu programa copyleft com a GNU GPL ou a GNU "
-"LGPL, por favor veja a <a href=\"/copyleft/gpl-howto.html\">página de "
+"LGPL, por favor veja a <a href=\"/licenses/gpl-howto.html\">página de "
 "instruções de licenças</a>. Por favor note que você deve usar todo o texto "
 "da licença que você escolher. Cada uma representa um todo, e cópias parciais "
 "não são permitidas."
 
 #. type: Content of: <p>
-# | If you would like to copyleft your manual with the GNU FDL, please see the
-# | instructions at the <a [-href=\"/copyleft/fdl.html#addendum\">end</a>-]
-# | {+href=\"/licenses/fdl.html#addendum\">end</a>+} of the FDL text, and the
-# | <a [-href=\"/copyleft/fdl-howto.html\">GFDL-]
-# | {+href=\"/licenses/fdl-howto.html\">GFDL+} instructions page</a>.  Again,
-# | partial copies are not permitted.
-#, fuzzy
-#| msgid ""
-#| "If you would like to copyleft your manual with the GNU FDL, please see "
-#| "the instructions at the <a href=\"/copyleft/fdl.html#addendum\">end</a> "
-#| "of the FDL text, and the <a href=\"/copyleft/fdl-howto.html\">GFDL "
-#| "instructions page</a>.  Again, partial copies are not permitted."
 msgid ""
 "If you would like to copyleft your manual with the GNU FDL, please see the "
 "instructions at the <a href=\"/licenses/fdl.html#addendum\">end</a> of the "
@@ -405,8 +287,8 @@ msgid ""
 "page</a>.  Again, partial copies are not permitted."
 msgstr ""
 "Se você gostaria de tornar seu manual copyleft com a GNU FDL, por favor veja "
-"as instruções ao <a href=\"/copyleft/fdl.html#addendum\">final</a> do texto "
-"da FDL, e a <a href=\"/copyleft/fdl-howto.html\">página de instruções da "
+"as instruções ao <a href=\"/licenses/fdl.html#addendum\">final</a> do texto "
+"da FDL, e a <a href=\"/licenses/fdl-howto.html\">página de instruções da "
 "GFDL</a>. Novamente, cópias parciais não são permitidas."
 
 #. type: Content of: <p>
@@ -480,20 +362,12 @@ msgstr ""
 "envio de traduções das páginas desse site."
 
 #. type: Content of: <div><p>
-# | Copyright &copy; 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004,
-# | 2005, 2006, 2007, 2008, 2009, 2014, 2015, [-2016-] {+2016, 2017+} Free
-# | Software Foundation, Inc.
-#, fuzzy
-#| msgid ""
-#| "Copyright &copy; 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, "
-#| "2005, 2006, 2007, 2008, 2009, 2014, 2015, 2016 Free Software Foundation, "
-#| "Inc."
 msgid ""
 "Copyright &copy; 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, "
 "2006, 2007, 2008, 2009, 2014, 2015, 2016, 2017 Free Software Foundation, Inc."
 msgstr ""
 "Copyright &copy; 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, "
-"2006, 2007, 2008, 2009, 2014, 2015, 2016 Free Software Foundation, Inc."
+"2006, 2007, 2008, 2009, 2014, 2015, 2016, 2017 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -510,7 +384,8 @@ msgstr ""
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "<b>Tradução:</b> Rafael Fontenelle \n"
-"<a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome.org&gt;</a>, 2016"
+"<a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome.org&gt;</a>, 2016, "
+"2017"
 
 # type: Content of: <div><p>
 #.  timestamp start 

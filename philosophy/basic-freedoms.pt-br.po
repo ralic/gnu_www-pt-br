@@ -4,19 +4,20 @@
 # Fernando Lozano <fsl@centroin.com.br>, 2001.
 # Jan 2015: GNUNify and trivially update a few strings; say that the CIEC entry
 # was written in 1997 (T. Godefroy).
-#
+# Rafael Fontenelle <rafaelff@gnome.org>, 2017.
 msgid ""
 msgstr ""
 "Project-Id-Version: basic-freedoms.html\n"
-"POT-Creation-Date: 2016-05-02 11:58+0000\n"
-"PO-Revision-Date: 2015-01-20 21:20+0100\n"
-"Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
+"POT-Creation-Date: 2016-11-18 06:58+0000\n"
+"PO-Revision-Date: 2017-04-04 08:02-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Outdated-Since: 2004-06-07 13:30+0000\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -39,24 +40,6 @@ msgstr ""
 "imprensa, e associação na Internet. Por favor verifique:"
 
 #. type: Content of: <ul><li>
-# | [-[This was written in 1997.]<br />Any day now, the United States Supreme
-# | Court will hand down its decision in-]{+The <a
-# | href=\"https://web.archive.org/web/19990424100121/http://www.ciec.org/\">Citizens
-# | Internet Empowerment Coalition</a> at+} the [-legal challenge-] {+Wayback
-# | Machine (archived April 24, 1999) came together to oppose Congress' first
-# | attempt+} to {+regulate material published on the Internet,+} the
-# | Communications Decency [-Act (CDA). Visit <a href =
-# | \"http://www.ciec.org/\">the Citizens Internet Empowerment Coalition</a>
-# | for-] {+Act, which+} the [-latest news about-] {+U.S. Supreme Court found
-# | unconstitutional on June 26, 1997. Their site is being preserved as a
-# | resource on+} the {+landmark CDA+} case.
-#, fuzzy
-#| msgid ""
-#| "[This was written in 1997.]<br />Any day now, the United States Supreme "
-#| "Court will hand down its decision in the legal challenge to the "
-#| "Communications Decency Act (CDA). Visit <a href = \"http://www.ciec.org/"
-#| "\">the Citizens Internet Empowerment Coalition</a> for the latest news "
-#| "about the case."
 msgid ""
 "The <a href=\"https://web.archive.org/web/19990424100121/http://www.ciec.org/"
 "\">Citizens Internet Empowerment Coalition</a> at the Wayback Machine "
@@ -65,31 +48,26 @@ msgid ""
 "which the U.S. Supreme Court found unconstitutional on June 26, 1997. Their "
 "site is being preserved as a resource on the landmark CDA case."
 msgstr ""
-"[Isto foi escrito em 1997.]<br />A qualquer momento, a Suprema Corte dos "
-"Estados Unidos irá anunciar a sua decisão no desafio legal ao Ato de "
-"Decência nas Comunicações (Communications Decency Act, CDA). Visite <a href "
-"= \"http://www.ciec.org/\">the Citizens Internet Empowerment Coalition</a> "
-"(Coalisão pelo Aumento dos Poderes dos Cidadãos na Internet) para ver as "
-"últimas notícias sobre o caso."
+"A <a href=\"https://web.archive.org/web/19990424100121/http://www.ciec.org/"
+"\">Citizens Internet Empowerment Coalition</a> (Coalisão pelo Aumento dos "
+"Poderes de Internet dos Cidadãos) na Wayback Machine (arquivado em 24 de "
+"abril de 1999) veio junto para opor à primeira tentativa do Congresso de "
+"regulamentar o material publicado na Internet, o Communications Decency Act "
+"(Ato de Decência nas Comunicações) ou CDA, o qual a Suprema Corte dos EUA "
+"declarou pela inconstitucionalidade em 26 de junho de 1997. Seu site está "
+"preservado como um recurso sobre caso do marco do CDA."
 
 #.  activating this link… site is archived as of July 09, 1998 
 #. type: Content of: <ul><li>
-# | The <a [-href=\"http://www.vtw.org/\">Voters-]
-# | {+href=\"https://web.archive.org/web/19980709161803/http://vtw.org/\">Voters+}
-# | Telecommunications Watch</a> {+at the Wayback Machine (archived July 09,
-# | 1998)+} and their excellent announcement electronic mailing list.
-#, fuzzy
-#| msgid ""
-#| "The <a href=\"http://www.vtw.org/\">Voters Telecommunications Watch</a> "
-#| "and their excellent announcement electronic mailing list."
 msgid ""
 "The <a href=\"https://web.archive.org/web/19980709161803/http://vtw.org/"
 "\">Voters Telecommunications Watch</a> at the Wayback Machine (archived July "
 "09, 1998) and their excellent announcement electronic mailing list."
 msgstr ""
-"Os <a href=\"http://www.vtw.org/\">Voters Telecommunications Watch</a> "
-"(Observador dos Votantes nas Telecomunicações) e sua ótima lista de e-mail "
-"de anúncios."
+"Os <a href=\"https://web.archive.org/web/19980709161803/http://vtw.org/"
+"\">Voters Telecommunications Watch</a> (Observador dos Votantes nas "
+"Telecomunicações) na Wayback Machine (arquivado em 09 de julho de 1998) e "
+"sua ótima lista de e-mail de anúncios."
 
 #. type: Content of: <ul><li>
 msgid ""
@@ -126,21 +104,6 @@ msgstr ""
 
 #.  activating this link… site is archived as of December 01, 2001 
 #. type: Content of: <ul><li>
-# | You can read <a
-# | [-href=\"http://www.vtw.org/speech/index.html#decision\">the-]
-# | {+href=\"https://web.archive.org/web/20011201050533/http://www.vtw.org/speech/\">the+}
-# | June 1996 appeals court decision</a> {+at the Wayback Machine (archived
-# | December 01, 2001)+} rejecting censorship of the Internet. But remember,
-# | this decision is <em>not</em> final! First, the Supreme Court will agree
-# | or disagree; then Congress gets a chance to look for another method of
-# | censorship.
-#, fuzzy
-#| msgid ""
-#| "You can read <a href=\"http://www.vtw.org/speech/index.html#decision"
-#| "\">the June 1996 appeals court decision</a> rejecting censorship of the "
-#| "Internet.  But remember, this decision is <em>not</em> final! First, the "
-#| "Supreme Court will agree or disagree; then Congress gets a chance to look "
-#| "for another method of censorship."
 msgid ""
 "You can read <a href=\"https://web.archive.org/web/20011201050533/http://www."
 "vtw.org/speech/\">the June 1996 appeals court decision</a> at the Wayback "
@@ -149,11 +112,12 @@ msgid ""
 "will agree or disagree; then Congress gets a chance to look for another "
 "method of censorship."
 msgstr ""
-"Você pode ler <a href=\"http://www.vtw.org/speech/index.html#decision\">the "
-"June 1996 appeals court decision</a> (Os apelos à decisão de 1996 da corte) "
-"rejeitando a censura na Internet. Mas lembre-se, esta decisão <em>não é "
-"final</em>! Primeiro, a Corte Suprema irá concordar ou discordar; então, o "
-"Congresso terá a sua chance de procurar por algum outro método de censura."
+"Você pode ler <a href=\"https://web.archive.org/web/20011201050533/http://"
+"www.vtw.org/speech/\">a decisão da corte sobre a petição de Junho de 1996</"
+"a> na Wayback Machine (arquivado em 01 de dezembro de 2001) rejeitando a "
+"censura na Internet. Mas lembre-se, esta decisão <em>não</em> é final! "
+"Primeiro, a Suprema Corte irá concordar ou discordar; então, o Congresso "
+"terá a sua chance de procurar por algum outro método de censura."
 
 #. type: Content of: <ul><li>
 msgid ""
@@ -219,21 +183,14 @@ msgstr ""
 "envio de traduções das páginas desse site."
 
 #. type: Content of: <div><p>
-#, fuzzy
 msgid ""
 "Copyright &copy; 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2007, "
 "2014, 2016 Free Software Foundation, Inc."
 msgstr ""
-"Copyright &copy; 1996, 1997, 1998, 1999, 2000, 2001 Free Software "
-"Foundation, Inc."
+"Copyright &copy; 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2007, "
+"2014, 2016 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
-# || No change detected.  The change might only be in amounts of spaces.
-#, fuzzy
-#| msgid ""
-#| "This page is licensed under a <a rel=\"license\" href=\"http://"
-#| "creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
-#| "NoDerivatives 4.0 International License</a>."
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
 "creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
@@ -247,90 +204,13 @@ msgstr ""
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"Traduzido Por: Fernando Lozano <a href=\"mailto:fsl@centroin.com.br\">&lt;"
-"fsl@centroin.com.br&gt;</a>"
+"<b>Traduzido Por</b>: Fernando Lozano <a href=\"mailto:fsl@centroin.com.br"
+"\">&lt;fsl@centroin.com.br&gt;</a>, 2001;\n"
+"Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome."
+"org&gt;</a>, 2017"
 
 # type: Content of: <div><p>
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Última atualização: "
-
-#, fuzzy
-#~| msgid ""
-#~| "[This was written in 1997.]<br />Any day now, the United States Supreme "
-#~| "Court will hand down its decision in the legal challenge to the "
-#~| "Communications Decency Act (CDA). Visit <a href = \"http://www.ciec.org/"
-#~| "\">the Citizens Internet Empowerment Coalition</a> for the latest news "
-#~| "about the case."
-#~ msgid ""
-#~ "The <a href=\"http://www.ciec.org/\"> Citizens Internet Empowerment "
-#~ "Coalition</a> came together to oppose Congress' first attempt to regulate "
-#~ "material published on the Internet, the Communications Decency Act, which "
-#~ "the U.S. Supreme Court found unconstitutional on June 26, 1997.  Their "
-#~ "site is being preserved as a resource on the landmark CDA case."
-#~ msgstr ""
-#~ "[Isto foi escrito em 1997.]<br />A qualquer momento, a Suprema Corte dos "
-#~ "Estados Unidos irá anunciar a sua decisão no desafio legal ao Ato de "
-#~ "Decência nas Comunicações (Communications Decency Act, CDA). Visite <a "
-#~ "href = \"http://www.ciec.org/\">the Citizens Internet Empowerment "
-#~ "Coalition</a> (Coalisão pelo Aumento dos Poderes dos Cidadãos na "
-#~ "Internet) para ver as últimas notícias sobre o caso."
-
-#, fuzzy
-#~ msgid ""
-#~ "Copyright &copy; 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, "
-#~ "2007, 2014 Free Software Foundation, Inc."
-#~ msgstr ""
-#~ "Copyright &copy; 1996, 1997, 1998, 1999, 2000, 2001 Free Software "
-#~ "Foundation, Inc."
-
-#~ msgid ""
-#~ "Any day now, the United States Supreme Court will hand down its decision "
-#~ "in the legal challenge to the Communications Decency Act (CDA). Visit <a "
-#~ "href = \"http://www.ciec.org/\">the Citizens Internet Empowerment "
-#~ "Coalition</a> for the latest news about the case."
-#~ msgstr ""
-#~ "A qualquer momento, a Suprema Corte dos Estados Unidos irá anunciar a sua "
-#~ "decisão no desafio legal ao Ato de Decência nas Comunicações "
-#~ "(Communications Decency Act, CDA). Visite <a href = \"http://www.ciec.org/"
-#~ "\">the Citizens Internet Empowerment Coalition</a> (Coalisão pelo Aumento "
-#~ "dos Poderes dos Cidadãos na Internet) para ver as últimas notícias sobre "
-#~ "o caso."
-
-#~ msgid ""
-#~ "The <a href=\"http://www.vtw.org/\">Voters Telecommunications Watch</a> "
-#~ "and their excellent announcement electronic mailing list."
-#~ msgstr ""
-#~ "Os <a href=\"http://www.vtw.org/\">Voters Telecommunications Watch</a> "
-#~ "(Observador dos Votantes nas Telecomunicações) e sua ótima lista de e-"
-#~ "mail de anúncios."
-
-#~ msgid ""
-#~ "You can read <a href=\"http://www.vtw.org/speech/index.html#decision"
-#~ "\">the June 1996 appeals court decision</a> rejecting censorship of the "
-#~ "Internet.  But remember, this decision is <em>not</em> final! First, the "
-#~ "Supreme Court will agree or disagree; then Congress gets a chance to look "
-#~ "for another method of censorship."
-#~ msgstr ""
-#~ "Você pode ler <a href=\"http://www.vtw.org/speech/index.html#decision"
-#~ "\">the June 1996 appeals court decision</a> (Os apelos à decisão de 1996 "
-#~ "da corte) rejeitando a censura na Internet. Mas lembre-se, esta decisão "
-#~ "<em>não é final</em>! Primeiro, a Corte Suprema irá concordar ou "
-#~ "discordar; então, o Congresso terá a sua chance de procurar por algum "
-#~ "outro método de censura."
-
-#~ msgid ""
-#~ "<a href=\"http://www.savetheweb.org\">Save the Web</a> is a movement "
-#~ "dedicated to ensuring that the highest priority of Internet law in Europe "
-#~ "is to protect individual Internet users' rights. Please also read <a href="
-#~ "\"/philosophy/savingeurope.html\">Saving Europe from Software Patents</a> "
-#~ "by <a href=\"http://www.stallman.org/\">Richard Stallman</a>."
-#~ msgstr ""
-#~ "<a href=\"http://www.savetheweb.org\">Save the Web</a> (Salve a Web) é im "
-#~ "movimento dedicado a garantir que a maior prioridade das leis sobre a "
-#~ "Internet na Europa seja a proteção dos direitos individuais dos usuários "
-#~ "da Internet. Por favor, leia também <a href=\"/philosophy/savingeurope."
-#~ "html\">Saving Europe from Software Patents</a> (Salvando a Europa das "
-#~ "Patentes de Software) por <a href=\"http://www.stallman.org/\">Richard "
-#~ "Stallman</a>."

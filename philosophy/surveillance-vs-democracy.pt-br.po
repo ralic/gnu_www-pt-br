@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: surveillance-vs-democracy.html\n"
 "POT-Creation-Date: 2017-04-04 12:56+0000\n"
-"PO-Revision-Date: 2017-01-28 21:35-0200\n"
+"PO-Revision-Date: 2017-04-06 06:34-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -723,6 +723,10 @@ msgid ""
 "stallman.org/articles/anonymous-payments-thru-phones.html\">prepaid phone "
 "cards</a>.  It is less convenient, but very easy to implement."
 msgstr ""
+"Um outro método possível para pagamentos anônimos seria usar <a href="
+"\"https://stallman.org/articles/anonymous-payments-thru-phones.html"
+"\">cartões pré-pagos de telefone</a>. É menos conveniente, mas muito fácil "
+"de implementar."
 
 #. type: Content of: <div><div><p>
 msgid ""
@@ -1159,11 +1163,8 @@ msgstr ""
 "envio de traduções das páginas desse site."
 
 #. type: Content of: <div><p>
-# | Copyright &copy; 2015, [-2016-] {+2016, 2017+} Richard Stallman
-#, fuzzy
-#| msgid "Copyright &copy; 2015, 2016 Richard Stallman"
 msgid "Copyright &copy; 2015, 2016, 2017 Richard Stallman"
-msgstr "Copyright &copy; 2015, 2016 Richard Stallman"
+msgstr "Copyright &copy; 2015, 2016, 2017 Richard Stallman"
 
 #. type: Content of: <div><p>
 msgid ""
