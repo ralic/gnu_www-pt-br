@@ -1,12 +1,12 @@
 # LANGUAGE translation of http://www.gnu.org/server/standards/README.translations.html
 # Copyright (C) 2016 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2016.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2016, 2017.
 msgid ""
 msgstr ""
 "Project-Id-Version: README.translations.html\n"
 "POT-Creation-Date: 2017-03-28 05:56+0000\n"
-"PO-Revision-Date: 2016-09-28 23:04-0300\n"
+"PO-Revision-Date: 2017-04-20 16:51-0300\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Virtaal 0.7.1\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -190,7 +190,7 @@ msgstr ""
 "colaborar regularmente, siga o <a href=\"#general-guide\">Guia Geral para "
 "Traduções</a> abaixo e, então, envie sua tradução para o <a href=\"#teams"
 "\">Coordenador de Equipe</a> apropriado, se houver um, ou para o Gerente de "
-"Traduções<a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu."
+"Traduções <a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu."
 "org&gt;</a>, se não houver equipe ou coordenador para seu idioma."
 
 #. type: Content of: <dl><dt>
@@ -855,15 +855,6 @@ msgstr ""
 "nome do Coordenador de Equipe."
 
 #. type: Content of: <ul><li>
-# | <code>ar</code> - <a
-# | href=\"https://savannah.nongnu.org/projects/www-ar\">Arabic</a> (<a
-# | href=\"https://savannah.gnu.org/users/ka2in\">Fayçal [-Alami</a>)-]
-# | {+Alami</a> - New coordinator needed)+}
-#, fuzzy
-#| msgid ""
-#| "<code>ar</code> - <a href=\"https://savannah.nongnu.org/projects/www-ar"
-#| "\">Arabic</a> (<a href=\"https://savannah.gnu.org/users/ka2in\">Fayçal "
-#| "Alami</a>)"
 msgid ""
 "<code>ar</code> - <a href=\"https://savannah.nongnu.org/projects/www-ar"
 "\">Arabic</a> (<a href=\"https://savannah.gnu.org/users/ka2in\">Fayçal "
@@ -871,7 +862,7 @@ msgid ""
 msgstr ""
 "<code>ar</code> - <a href=\"https://savannah.nongnu.org/projects/www-ar"
 "\">Árabe</a> (<a href=\"https://savannah.gnu.org/users/ka2in\">Fayçal Alami</"
-"a>)"
+"a> - Novo coordenador necessário)"
 
 #. type: Content of: <ul><li>
 msgid ""
@@ -1347,7 +1338,8 @@ msgstr ""
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "Traduzido por: Rafael Fontenelle\n"
-"<a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome.org&gt;</a>, 2016"
+"<a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome.org&gt;</a>, 2016, "
+"2017"
 
 # type: Content of: <div><p>
 #.  timestamp start 

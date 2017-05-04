@@ -8,7 +8,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: common-distros.html\n"
-"POT-Creation-Date: 2017-01-02 17:56+0000\n"
+"POT-Creation-Date: 2017-04-21 02:26+0000\n"
 "PO-Revision-Date: 2017-01-28 21:45-0200\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
@@ -228,6 +228,10 @@ msgstr ""
 "separados no repositório não livre. No entanto, o problema permanece "
 "parcialmente: o instalador recomenda em alguns casos arquivos de firmware "
 "não livres para os periféricos da máquina."
+
+#. type: Content of: <p>
+msgid "Debian's wiki includes pages about installng nonfree firmware."
+msgstr ""
 
 #. type: Content of: <h3>
 msgid "Fedora"

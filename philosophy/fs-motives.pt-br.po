@@ -1,26 +1,24 @@
 # Brazilian Portuguese translation of http://www.gnu.org/philosophy/fs-motives.html
-# Copyright (C) 2012 Free Software Foundation, Inc.
+# Copyright (C) 2017 Free Software Foundation, Inc.
 # This file is distributed under the same license as the gnu.org article.
 # Rafael Beraldo <rberaldo@cabaladada.org>, 2012.
 # André Jan Smit <ajansmit@gmail.com>, 2012.
 # Hudson Flávio Meneses Lacerda <hfmlacerda@yahoo.com.br>, 2013.
 # Dec 2014: trivial update of a few strings (T. Godefroy).
-#
+# Rafael Fontenelle <rafaelff@gnome.org>, 2017.
 msgid ""
 msgstr ""
 "Project-Id-Version: fs-motives.html\n"
 "POT-Creation-Date: 2014-06-24 12:55+0000\n"
-"PO-Revision-Date: 2013-05-28 12:47-0300\n"
-"Last-Translator: André Jan Smit <ajansmit@gmail.com>\n"
+"PO-Revision-Date: 2017-04-13 18:34-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Outdated-Since: 2013-12-02 06:28+0000\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Poedit-Language: Portuguese\n"
-"X-Poedit-Country: BRAZIL\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -33,16 +31,14 @@ msgid "Motives For Writing Free Software"
 msgstr "Motivos para Escrever Software Livre"
 
 #. type: Content of: <p>
-# | [-These-]{+Don't make the mistake of supposing that all software
-# | development has one simple motive.  Here+} are some of the motives [-for
-# | writing-] {+we know influence many people to write+} free software.
-#, fuzzy
-#| msgid "These are some of the motives for writing free software."
 msgid ""
 "Don't make the mistake of supposing that all software development has one "
 "simple motive.  Here are some of the motives we know influence many people "
 "to write free software."
-msgstr "Esses são alguns motivos para escrever software livre."
+msgstr ""
+"Não cometa o erro de supor que todo o desenvolvimento de software possui um "
+"único motivo. Aqui estão alguns motivos que nós sabemos que influenciam "
+"muitas pessoas a escrever software livre."
 
 #. type: Content of: <dl><dt>
 msgid "Fun"
@@ -101,13 +97,15 @@ msgstr ""
 
 #. type: Content of: <dl><dt>
 msgid "Community"
-msgstr ""
+msgstr "Comunidade"
 
 #. type: Content of: <dl><dd>
 msgid ""
 "Being part of a community by collaborating with other people in public free "
 "software projects is a motive for many programmers."
 msgstr ""
+"Ser parte de uma comunidade colaborando com outras pessoas em projetos "
+"públicos de software livre é um motivo por muitos programadores."
 
 #. type: Content of: <dl><dt>
 msgid "Education"
@@ -148,25 +146,6 @@ msgid "Hatred for Microsoft"
 msgstr "Ódio pela Microsoft"
 
 #. type: Content of: <dl><dd>
-# | It is a mistake [-to-] {+<a href=\"/philosophy/microsoft.html\">to+} focus
-# | our criticism [-<a href=\"/philosophy/microsoft.html\">narrowly-]
-# | {+narrowly+} on Microsoft</a>.  Indeed, Microsoft is evil, since it makes
-# | non[---]free software.  Even worse, it [-implements-] {+is often+} <a
-# | [-href=\"http://DefectiveByDesign.org\">Digital Restrictions
-# | Management</a>-]
-# | {+href=\"/philosophy/proprietary/malware-microsoft.html\"> malware</a>+}
-# | in [-that software.  But-] {+various ways including <a
-# | href=\"http://DefectiveByDesign.org\">DRM</a>.  However,+} many other
-# | companies do [-one or both-] {+these things, and the nastiest enemy+} of
-# | [-these.-] {+our freedom nowadays is <a
-# | href=\"/philosophy/proprietary/malware-apple.html\">Apple</a>.+}
-#, fuzzy
-#| msgid ""
-#| "It is a mistake to focus our criticism <a href=\"/philosophy/microsoft."
-#| "html\">narrowly on Microsoft</a>.  Indeed, Microsoft is evil, since it "
-#| "makes non-free software.  Even worse, it implements <a href=\"http://"
-#| "DefectiveByDesign.org\">Digital Restrictions Management</a> in that "
-#| "software.  But many other companies do one or both of these."
 msgid ""
 "It is a mistake <a href=\"/philosophy/microsoft.html\">to focus our "
 "criticism narrowly on Microsoft</a>.  Indeed, Microsoft is evil, since it "
@@ -177,10 +156,13 @@ msgid ""
 "<a href=\"/philosophy/proprietary/malware-apple.html\">Apple</a>."
 msgstr ""
 "É um erro <a href=\"/philosophy/microsoft.html\">focar nossas críticas "
-"estreitamente à Microsoft</a>.  Certamente a Microsoft é maligna, uma vez "
-"que ela cria software não-livre.  Ainda pior, ela implementa a <a href="
-"\"http://DefectiveByDesign.org\">Gestão Digital de Restrições</a> em seu "
-"software. Mas muitas outras companhias fazem uma ou ambas as coisas."
+"estreitamente na Microsoft</a>. Certamente a Microsoft é maligna, uma vez "
+"que ela cria software não-livre. Ainda pior, geralmente <a href=\"/"
+"philosophy/proprietary/malware-microsoft.html\"> malware</a> em várias "
+"formas incluindo <a href=\"http://DefectiveByDesign.org\">DRM</a>. Mas "
+"muitas outras companhias fazem essas coisas, e o inimigo mais malvado de "
+"nossa liberdade nos dias de hoje é a <a href=\"/philosophy/proprietary/"
+"malware-apple.html\">Apple</a>."
 
 #. type: Content of: <dl><dd>
 msgid ""
@@ -305,7 +287,9 @@ msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "<b>Tradução</b>: Rafael Beraldo\n"
 "<a href=\"mailto:rberaldo@cabaladada.org\">&lt;rberaldo@cabaladada.org&gt;</"
-"a>, 2012"
+"a>, 2012;\n"
+"Rafael Fontenelle <a href=\"mailto:rafaelff@gnome.org\">&lt;rafaelff@gnome."
+"org&gt;</a>, 2017"
 
 # type: Content of: <div><p>
 #.  timestamp start 

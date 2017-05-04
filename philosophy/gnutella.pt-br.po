@@ -1,55 +1,34 @@
-# Brazilian Portuguese translation of http://www.gnu.org/philosophy/gnutella.html
-# Copyright (C) 2001 Free Software Foundation, Inc.
+# Brazilian Portuguese translation of https://www.gnu.org/philosophy/gnutella.html
+# Copyright (C) 2017 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# Cláudio Machado, 2001.
+# Cláudio Machado <claudio.machado@bol.com.br>, 2001.
 # Jan 2015: GNUNify.
-#
+# Rafael Fontenelle <rafaelff@gnome.org>, 2017.
 msgid ""
 msgstr ""
 "Project-Id-Version: gnutella.html\n"
 "POT-Creation-Date: 2017-02-14 13:25+0000\n"
-"PO-Revision-Date: 2015-01-20 21:20+0100\n"
-"Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
+"PO-Revision-Date: 2017-04-13 22:19-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <www-pt-br-general@gnu.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Outdated-Since: 2004-02-28 18:06\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 1.0.0-beta1\n"
 
 #. type: Content of: <title>
 msgid "Regarding Gnutella - GNU Project - Free Software Foundation"
 msgstr ""
-"Considerações sobre o Gnutella - Projecto GNU - Free Software Foundation"
+"Considerações sobre o Gnutella - Projeto GNU - Free Software Foundation"
 
 #. type: Content of: <h2>
 msgid "Regarding Gnutella"
 msgstr "Considerações sobre o Gnutella"
 
+# Usando URL do Gnutella da Wikipédia em português
 #. type: Content of: <p>
-# | &ldquo;Gnutella&rdquo; [-is not actually <a
-# | href=\"/philosophy/categories.html#GNUsoftware\">GNU software</a>, and we
-# | cannot be sure it is actually <a href=\"/philosophy/free-sw.html\">free
-# | software</a>.  In fact, it is extremely difficult to find information
-# | about the program-] {+is,+} at [-all. Perhaps the original developers
-# | picked-] {+present,+} the name [-because they wanted it-] {+for a protocol
-# | for distributed file sharing, mostly used for music files.  The name also
-# | sometimes refers+} to [-be GNU software someday, but their employers
-# | stamped out-] the [-project, and it does not seem to have been released-]
-# | {+network itself, as well+} as [-free-] {+the original Gnutella+}
-# | software.  {+The situation is quite confusing.  For more on Gnutella's
-# | origin and history, please refer to the <a
-# | href=\"http://en.wikipedia.org/wiki/Gnutella\">Wikipedia article</a> on
-# | the subject.+}
-#, fuzzy
-#| msgid ""
-#| "&ldquo;Gnutella&rdquo; is not actually <a href=\"/philosophy/categories."
-#| "html#GNUsoftware\">GNU software</a>, and we cannot be sure it is actually "
-#| "<a href=\"/philosophy/free-sw.html\">free software</a>.  In fact, it is "
-#| "extremely difficult to find information about the program at all. Perhaps "
-#| "the original developers picked the name because they wanted it to be GNU "
-#| "software someday, but their employers stamped out the project, and it "
-#| "does not seem to have been released as free software."
 msgid ""
 "&ldquo;Gnutella&rdquo; is, at present, the name for a protocol for "
 "distributed file sharing, mostly used for music files.  The name also "
@@ -58,12 +37,12 @@ msgid ""
 "and history, please refer to the <a href=\"http://en.wikipedia.org/wiki/"
 "Gnutella\">Wikipedia article</a> on the subject."
 msgstr ""
-"O “Gnutella” não é verdadeiramente um programa GNU e nós não podemos ter "
-"certeza dele ser realmente um software livre. Na verdade, é extremamente "
-"difícil encontrar informações sobre este programa. Talvez os desenvolvedores "
-"originais tenham escolhido este nome porque planejavam torná-lo algum dia um "
-"software livre, mas seus patrões decidiram descontinuar o projeto e não "
-"parece que ele tenha sido licenciado como um software livre."
+"O “Gnutella” é, atualmente, o nome para um protocolo para compartilhamento "
+"de arquivo distribuído, geralmente usado para arquivos de música. O nome "
+"algumas vezes se refere à rede em si, da mesma forma que o software Gnutella "
+"original. A situação é bem confusa. Para mais sobre a origem e história do "
+"Gnutella, por favor veja o <a href=\"https://pt.wikipedia.org/wiki/Gnutella"
+"\">artigo do Wikipédia</a> sobre o assunto."
 
 #. type: Content of: <p>
 msgid ""
@@ -76,29 +55,16 @@ msgid ""
 "We have asked that the Gnutella developers change the name to avoid "
 "confusion; perhaps that will happen in the future."
 msgstr ""
+"Em qualquer caso, o nome foi originalmente um jogo de palavra com “GNU” (os "
+"desenvolvedores originais planejaram lançar seu código sob a GNU GPL, e "
+"podem ter tido em mente contribuí-lo para o projeto GNU) e “Nutella” (uma "
+"barra de doce que os desenvolvedores originais gostavam). Porém, nem o "
+"software original nem qualquer um dos projetos atuais relativos são <a href="
+"\"/philosophy/categories.html#GNUsoftware\">pacotes oficiais do GNU</a>. "
+"Pedimos para que os desenvolvedores do Gnutella mudem o nome para evitar "
+"confusão; talvez isso aconteça no futuro."
 
 #. type: Content of: <p>
-# | There are a number of free software programs [-under development-] that
-# | [-are designed to use-] {+implement+} the [-same protocol as Gnutella,-]
-# | {+Gnutella protocol,+} such as <a
-# | [-href=\"http://gtk-gnutella.sourceforge.net/\">gtk-gnutella</a>,-]
-# | {+href=\"http://gtk-gnutella.sourceforge.net/en/\">Gtk-Gnutella</a>,+} <a
-# | href=\"http://mutella.sourceforge.net/\">[-m-]{+M+}utella</a>, and <a
-# | href=\"http://sourceforge.net/projects/gnucleus/\">[-g-]{+G+}nucleus</a>. 
-# | Please note, however, that none of these programs are officially <a
-# | href=\"/philosophy/categories.html#GNUsoftware\">GNU software</a> either. 
-# | {+GNU has its own peer-to-peer networking program, <a
-# | href=\"/software/gnunet/\">GNUnet</a>, whose documentation includes a <a
-# | href=\"https://gnunet.org/compare\">comparison of the protocols</a>.+}
-#, fuzzy
-#| msgid ""
-#| "There are a number of free software programs under development that are "
-#| "designed to use the same protocol as Gnutella, such as <a href=\"http://"
-#| "gtk-gnutella.sourceforge.net/\">gtk-gnutella</a>, <a href=\"http://"
-#| "mutella.sourceforge.net/\">mutella</a>, and <a href=\"http://sourceforge."
-#| "net/projects/gnucleus/\">gnucleus</a>.  Please note, however, that none "
-#| "of these programs are officially <a href=\"/philosophy/categories."
-#| "html#GNUsoftware\">GNU software</a> either."
 msgid ""
 "There are a number of free software programs that implement the Gnutella "
 "protocol, such as <a href=\"http://gtk-gnutella.sourceforge.net/en/\">Gtk-"
@@ -110,34 +76,17 @@ msgid ""
 "\">GNUnet</a>, whose documentation includes a <a href=\"https://gnunet.org/"
 "compare\">comparison of the protocols</a>."
 msgstr ""
-"Existem vários programas licenciados como software livre em desenvolvimento "
-"que foram projetados para utilizar o mesmo protocolo do Gnutella, tais como "
-"<a href=\"http://gtk-gnutella.sourceforge.net/\">gtk-gnutella</a>, <a href="
-"\"http://mutella.sourceforge.net/\">mutella</a>, e <a href=\"http://"
-"sourceforge.net/projects/gnucleus/\">gnucleus</a>. Por favor, note, "
-"entretanto, que ainda nenhum desses programas são oficialmente <a href=\"/"
-"philosophy/categories.html#GNUsoftware\">programas GNU</a>."
+"Existem vários programas licenciados como software livre que implementam o "
+"protocolo Gnutella, tais como <a href=\"http://gtk-gnutella.sourceforge.net/"
+"en/\">Gtk-Gnutella</a>, <a href=\"http://mutella.sourceforge.net/\">Mutella</"
+"a> e <a href=\"http://sourceforge.net/projects/gnucleus/\">Gnucleus</a>. Por "
+"favor, note que, entretanto, ainda nenhum desses programas são oficialmente "
+"<a href=\"/philosophy/categories.html#GNUsoftware\">softwares GNU</a>. GNU "
+"possui seu próprio programa de conectividade ponto a ponto, <a href=\"/"
+"software/gnunet/\">GNUnet</a>, cuja documentação inclui uma <a href="
+"\"https://gnunet.org/compare\">comparação de protocolos</a>."
 
 #. type: Content of: <p>
-# | The Free Software Foundation is concerned with the freedom to copy and
-# | change software; music is outside our scope.  But there is a partial
-# | similarity in the ethical issues of copying software and copying
-# | recordings of music.  Some articles in the <a
-# | [-href=\"/philosophy/philosophy.html#Laws\">philosophy</a>-]
-# | {+href=\"/philosophy/essays-and-articles.html#Laws\">philosophy</a>+}
-# | directory relate to the issue of copying for things other than software. 
-# | Some of the <a href=\"/philosophy/third-party-ideas.html\">other people's
-# | articles</a> we have links to are also relevant.
-#, fuzzy
-#| msgid ""
-#| "The Free Software Foundation is concerned with the freedom to copy and "
-#| "change software; music is outside our scope.  But there is a partial "
-#| "similarity in the ethical issues of copying software and copying "
-#| "recordings of music.  Some articles in the <a href=\"/philosophy/"
-#| "philosophy.html#Laws\">philosophy</a> directory relate to the issue of "
-#| "copying for things other than software.  Some of the <a href=\"/"
-#| "philosophy/third-party-ideas.html\">other people's articles</a> we have "
-#| "links to are also relevant."
 msgid ""
 "The Free Software Foundation is concerned with the freedom to copy and "
 "change software; music is outside our scope.  But there is a partial "
@@ -147,14 +96,15 @@ msgid ""
 "things other than software.  Some of the <a href=\"/philosophy/third-party-"
 "ideas.html\">other people's articles</a> we have links to are also relevant."
 msgstr ""
-"A Fundação do Software Livre está engajada com a liberdade de copiar e "
-"modificar programas de computador. A música está fora de nosso escopo. Mas "
+"A Free Software Foundation está engajada com a liberdade de copiar e "
+"modificar software de computador; música está fora de nosso escopo. Mas "
 "existem algumas similaridades em relação à ética de copiar programas e a "
-"ética de copiar músicas gravadas. Alguns artigos na sessão <a href=\"/"
-"philosophy/philosophy.html#Laws\">filosofia</a> estão relacionados com a "
-"liberdade de copiar outras coisas que não programas de computador. Também "
-"selecionamos artigos relacionados com o assunto de <a href=\"/philosophy/"
-"third-party-ideas.html\">pessoas não ligadas diretamente à FSF</a>. "
+"ética de copiar músicas gravadas. Alguns artigos do diretório de <a href=\"/"
+"philosophy/essays-and-articles.html#Laws\">filosofia</a> estão relacionados "
+"com a liberdade de copiar outras coisas que não software de computador. "
+"Também selecionamos artigos relacionados com o assunto de <a href=\"/"
+"philosophy/third-party-ideas.html\">pessoas não ligadas diretamente à FSF</"
+"a>."
 
 #. type: Content of: <p>
 msgid ""
@@ -165,11 +115,11 @@ msgid ""
 "\">rejects</a> that anti-social idea."
 msgstr ""
 "Para nós, não importa que tipo de informação está sendo compartilhada e sim "
-"alertar as pessoas para que elas rejeitem o presuposto que algumas pessoas "
+"alertar as pessoas para que elas rejeitem o pressuposto que algumas pessoas "
 "ou empresas tem um suposto direito natural para proibir o compartilhamento "
-"de idéias e desta forma ditar exatamente como o público deve utilizá-las. "
+"de ideias e desta forma ditar exatamente como o público deve utilizá-las. "
 "Até mesmo o sistema legal americano <a href=\"/philosophy/reevaluating-"
-"copyright.html\">rejeita</a> essa idéia anti-social."
+"copyright.html\">rejeita</a> essa ideia antissocial."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -218,21 +168,12 @@ msgstr ""
 "envio de traduções das páginas desse site."
 
 #. type: Content of: <div><p>
-# | Copyright &copy; 2004, 2005, [-2007-] {+2007, 2016, 2017+} Free Software
-# | Foundation, Inc.
-#, fuzzy
-#| msgid "Copyright &copy; 2004, 2005, 2007 Free Software Foundation, Inc."
 msgid ""
 "Copyright &copy; 2004, 2005, 2007, 2016, 2017 Free Software Foundation, Inc."
-msgstr "Copyright &copy; Copyright 1997, 1998 Richard Stallman"
+msgstr ""
+"Copyright &copy; 2004, 2005, 2007, 2016, 2017 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
-# || No change detected.  The change might only be in amounts of spaces.
-#, fuzzy
-#| msgid ""
-#| "This page is licensed under a <a rel=\"license\" href=\"http://"
-#| "creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
-#| "NoDerivatives 4.0 International License</a>."
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
 "creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
@@ -247,7 +188,9 @@ msgstr ""
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "Traduzido por: Cláudio Machado <a href=\"claudio.machado@bol.com.br\">&lt;"
-"claudio.machado@bol.com.br&gt;</a>"
+"claudio.machado@bol.com.br&gt;</a>, 2001;\n"
+"Rafael Fontenelle <a href=\"rafaelff@gnome.org\">&lt;rafaelff@gnome.org&gt;</"
+"a>, 2017"
 
 # type: Content of: <div><p>
 #.  timestamp start 
